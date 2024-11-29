@@ -1,0 +1,2467 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="data2" id="data2">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Place ID" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Status" type="string"></SimpleField>
+	<SimpleField name="Category" type="string"></SimpleField>
+</Schema>
+<Folder><name>data2</name>
+  <Placemark>
+	<name>Surhan Medical Center</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJCdDy-CE_sz4RD94drC6L7Dg</SimpleData>
+		<SimpleData name="Latitude">24.9063723</SimpleData>
+		<SimpleData name="Longitude">67.0706173</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0706173,24.9063723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Omair Sana Welfare Foundationعمیر ثناء فاؤنڈیشن</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ2aiatjY_sz4RyaY9VSWj5hc</SimpleData>
+		<SimpleData name="Latitude">24.9166525</SimpleData>
+		<SimpleData name="Longitude">67.0780134</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0780134,24.9166525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AS CABLE NETWORK</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ0aM7a7s_sz4RIQhXl3f4sX4</SimpleData>
+		<SimpleData name="Latitude">24.9118293</SimpleData>
+		<SimpleData name="Longitude">67.0657524</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0657524,24.9118293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Family Health Clinic (Dr. Rubina Faisal)</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJxeLk8DI_sz4RYUxR4MYn298</SimpleData>
+		<SimpleData name="Latitude">24.9140813</SimpleData>
+		<SimpleData name="Longitude">67.0630399</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0630399,24.9140813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Qureshi Health System</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJB-bNIwA_sz4RPvz8cpY_Yzc</SimpleData>
+		<SimpleData name="Latitude">24.9153881</SimpleData>
+		<SimpleData name="Longitude">67.0663978</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0663978,24.9153881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Memon Diabatic and Digonastic Center Gulshan-E-Iqbal</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJdZ7G0-Y_sz4RoMPIs7jvUjg</SimpleData>
+		<SimpleData name="Latitude">24.9100434</SimpleData>
+		<SimpleData name="Longitude">67.0720874</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0720874,24.9100434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rida Medical Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJyxLuXiI_sz4Rv0bVtTKGA4s</SimpleData>
+		<SimpleData name="Latitude">24.9095962</SimpleData>
+		<SimpleData name="Longitude">67.0721596</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0721596,24.9095962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shakaib Dental &amp; Orthodontic Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJn6w3EIA_sz4Ro_SbRqWjhrA</SimpleData>
+		<SimpleData name="Latitude">24.9101482</SimpleData>
+		<SimpleData name="Longitude">67.0726111</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0726111,24.9101482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Karachi Emergency &amp; Medical Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJgS_jDQA_sz4Rcl-6-UJC3Ic</SimpleData>
+		<SimpleData name="Latitude">24.9059135</SimpleData>
+		<SimpleData name="Longitude">67.0696919</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0696919,24.9059135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Neuro Mind Hospital</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJR_Cx7TI_sz4RvHB2JJAsAfc</SimpleData>
+		<SimpleData name="Latitude">24.9186107</SimpleData>
+		<SimpleData name="Longitude">67.0910546</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0910546,24.9186107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ashfaq Memorial Hospital</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJfTyKIik_sz4RjSLdKAAPo_4</SimpleData>
+		<SimpleData name="Latitude">24.9092117</SimpleData>
+		<SimpleData name="Longitude">67.0845978</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0845978,24.9092117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NASIR CLINIC</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJg0wYAow_sz4RnmDg0JNVQ5o</SimpleData>
+		<SimpleData name="Latitude">24.9109881</SimpleData>
+		<SimpleData name="Longitude">67.075502</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.075502,24.9109881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gulshan Medical Complex گُلشن میڈیکل کَمپلیکس</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJe3WuqzE_sz4RDhSdeL77vb0</SimpleData>
+		<SimpleData name="Latitude">24.9121096</SimpleData>
+		<SimpleData name="Longitude">67.0788956</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0788956,24.9121096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alkhidmat Medical Center Madina Colony</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJQXKzEgA_sz4RXdoXfsnrwMY</SimpleData>
+		<SimpleData name="Latitude">24.913044</SimpleData>
+		<SimpleData name="Longitude">67.0786377</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0786377,24.913044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dawam Healthcare</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ____PzA_sz4REeqnW_bl3wA</SimpleData>
+		<SimpleData name="Latitude">24.9126195</SimpleData>
+		<SimpleData name="Longitude">67.0801542</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0801542,24.9126195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WAPDA KPI DISPENSARY KARACHI</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ45O2Feo_sz4RLA4lxNYppjg</SimpleData>
+		<SimpleData name="Latitude">24.9071643</SimpleData>
+		<SimpleData name="Longitude">67.0774857</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0774857,24.9071643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Osama Medical Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ7f4kLSU_sz4RHX6NAW7H-2w</SimpleData>
+		<SimpleData name="Latitude">24.9137526</SimpleData>
+		<SimpleData name="Longitude">67.079819</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.079819,24.9137526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EPI Center, Vaccination Center, Usama Medical Centre and dental clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJuX8p0zo_sz4R4q-uQC9PBWM</SimpleData>
+		<SimpleData name="Latitude">24.9138182</SimpleData>
+		<SimpleData name="Longitude">67.0798292</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0798292,24.9138182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gp Zone</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJLy1EMsQ_sz4RGp4gyGE9glA</SimpleData>
+		<SimpleData name="Latitude">24.9066309</SimpleData>
+		<SimpleData name="Longitude">67.0782434</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0782434,24.9066309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Samdani Hospital</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJvQ3oHDQ_sz4RVdHbbErNZMY</SimpleData>
+		<SimpleData name="Latitude">24.9216954</SimpleData>
+		<SimpleData name="Longitude">67.0884593</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0884593,24.9216954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Roshan Homeo Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJv0DbBtU_sz4R62jPTAgEE6E</SimpleData>
+		<SimpleData name="Latitude">24.9222907</SimpleData>
+		<SimpleData name="Longitude">67.0758652</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0758652,24.9222907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-1 Shamim Compund</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJFXxffiE_sz4RGcdSaOl5buE</SimpleData>
+		<SimpleData name="Latitude">24.9176106</SimpleData>
+		<SimpleData name="Longitude">67.0771583</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0771583,24.9176106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>One Health Laboratory-Gulshan e Shamim</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJebdq0Mw_sz4RsM0tEVReAdg</SimpleData>
+		<SimpleData name="Latitude">24.9173357</SimpleData>
+		<SimpleData name="Longitude">67.0758234</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0758234,24.9173357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shan Hospital</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJSd7828w4sz4RHdBp0Y_jGfU</SimpleData>
+		<SimpleData name="Latitude">24.9191127</SimpleData>
+		<SimpleData name="Longitude">67.0955078</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0955078,24.9191127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Herbalist AliAzam Treatment Center Gulshan e Iqbal Karachi</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ1a4xinc_sz4RJF3QJhAoEcQ</SimpleData>
+		<SimpleData name="Latitude">24.9112235</SimpleData>
+		<SimpleData name="Longitude">67.086967</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.086967,24.9112235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al Shahab Homoeopathic store and Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJvZGQosM_sz4RS3Dl1LeKm0s</SimpleData>
+		<SimpleData name="Latitude">24.9117108</SimpleData>
+		<SimpleData name="Longitude">67.0882796</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0882796,24.9117108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abdul Karim &amp; H Usman Sons Trust</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJed3umNw_sz4R745K06sNA80</SimpleData>
+		<SimpleData name="Latitude">24.910106</SimpleData>
+		<SimpleData name="Longitude">67.0843889</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0843889,24.910106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EPI Center, Ashfaq Memorial Hospital, Gulshan Iqbal, District East Karachi</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJtyoDJwA_sz4RihL7xca6jvc</SimpleData>
+		<SimpleData name="Latitude">24.9093446</SimpleData>
+		<SimpleData name="Longitude">67.0845749</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0845749,24.9093446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EPI Center, Al-Mustafa Hospital, Gulshan Iqbal, District East Karachi</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJU-hhEAA_sz4RfnS749-sTGg</SimpleData>
+		<SimpleData name="Latitude">24.908443</SimpleData>
+		<SimpleData name="Longitude">67.0831741</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0831741,24.908443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al-Mustafa Hospital</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJv37Dsyg_sz4Rm4o-EWL7DYI</SimpleData>
+		<SimpleData name="Latitude">24.9083955</SimpleData>
+		<SimpleData name="Longitude">67.0831753</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0831753,24.9083955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>asian lab and diagnostic centre</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJgz9_uLI_sz4RpSYgCNuVJ3Q</SimpleData>
+		<SimpleData name="Latitude">24.9080745</SimpleData>
+		<SimpleData name="Longitude">67.0829649</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0829649,24.9080745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>University Rd Medical Services</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJSQd8ryg_sz4RNLH7iE82wmA</SimpleData>
+		<SimpleData name="Latitude">24.9079786</SimpleData>
+		<SimpleData name="Longitude">67.082738</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.082738,24.9079786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jawed Eye Hospital</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJufiRryg_sz4RR4HNXc4oyfY</SimpleData>
+		<SimpleData name="Latitude">24.9077047</SimpleData>
+		<SimpleData name="Longitude">67.0824026</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0824026,24.9077047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ayesha Clinic by Dr Ashfaq Amiwala</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJfXo2Z58_sz4Rstz8pt1K644</SimpleData>
+		<SimpleData name="Latitude">24.9079695</SimpleData>
+		<SimpleData name="Longitude">67.0821002</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0821002,24.9079695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mother And Child Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJoZn0ILc4sz4RwdVbijpYOrc</SimpleData>
+		<SimpleData name="Latitude">24.9331818</SimpleData>
+		<SimpleData name="Longitude">67.1031262</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1031262,24.9331818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Modern Hospital</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJNYS4NsY4sz4RC_Iwe7spUYo</SimpleData>
+		<SimpleData name="Latitude">24.9260777</SimpleData>
+		<SimpleData name="Longitude">67.1072362</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1072362,24.9260777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>dawai time pey</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJn4zR21I5sz4RnFQW9tUGY3c</SimpleData>
+		<SimpleData name="Latitude">24.9180625</SimpleData>
+		<SimpleData name="Longitude">67.0970625</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, hospital, point_of_interest, health, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0970625,24.9180625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gulshan Medical centre</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJPSVuEwA_sz4RBIGUmaIxVOU</SimpleData>
+		<SimpleData name="Latitude">24.9238464</SimpleData>
+		<SimpleData name="Longitude">67.0985856</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0985856,24.9238464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dental Zone</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ21BCmDQ_sz4RGysXk4P-f8Q</SimpleData>
+		<SimpleData name="Latitude">24.9220192</SimpleData>
+		<SimpleData name="Longitude">67.0925279</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0925279,24.9220192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Messiah dental care and aesthetics</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJuVpZjqU_sz4Rg3MZaONkieY</SimpleData>
+		<SimpleData name="Latitude">24.9222737</SimpleData>
+		<SimpleData name="Longitude">67.0925862</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0925862,24.9222737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Dental Specialist's Hub</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJQfONvzQ_sz4RHLxLARAPlFI</SimpleData>
+		<SimpleData name="Latitude">24.9228303</SimpleData>
+		<SimpleData name="Longitude">67.0927412</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0927412,24.9228303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Health Icon Medical &amp; Diagnostic Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJT8uN8Rg5sz4RWdDQ6R4TOj0</SimpleData>
+		<SimpleData name="Latitude">24.9210502</SimpleData>
+		<SimpleData name="Longitude">67.100397</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.100397,24.9210502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Murreum Memorial Hospital</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJwxde2zQ_sz4RPqwFrAGanww</SimpleData>
+		<SimpleData name="Latitude">24.9237097</SimpleData>
+		<SimpleData name="Longitude">67.0930385</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0930385,24.9237097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>mariyam memorial hospital</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ5wDwcqk_sz4RnfEtBob0INw</SimpleData>
+		<SimpleData name="Latitude">24.9237566</SimpleData>
+		<SimpleData name="Longitude">67.0930255</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0930255,24.9237566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AL WASAY INSTITUTE &amp; MEDICAL CENTER</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJVa8Gb18_sz4R5aX2oaP99hQ</SimpleData>
+		<SimpleData name="Latitude">24.9236736</SimpleData>
+		<SimpleData name="Longitude">67.0927246</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0927246,24.9236736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al-Raaziah Clinic &amp; Maternity Home</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJU3g5Nrc4sz4RFP_ubzks-Zc</SimpleData>
+		<SimpleData name="Latitude">24.9339633</SimpleData>
+		<SimpleData name="Longitude">67.104396</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.104396,24.9339633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Times General Hospital ٹائِمز جَنرل ھسپتال</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJVwJitT8_sz4RKeEZIyM4BJA</SimpleData>
+		<SimpleData name="Latitude">24.9323342</SimpleData>
+		<SimpleData name="Longitude">67.1023369</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1023369,24.9323342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EPI Center, The Modern Hospital, Gulshan Iqbal Block-7, District East Karachi</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJo8RMcgA5sz4RrXFGUesHBoU</SimpleData>
+		<SimpleData name="Latitude">24.9261461</SimpleData>
+		<SimpleData name="Longitude">67.1071863</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1071863,24.9261461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Psychologist Dr. Daniyal</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJETrfTVw5sz4RU7Tif6jPF0E</SimpleData>
+		<SimpleData name="Latitude">24.9259667</SimpleData>
+		<SimpleData name="Longitude">67.1072613</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1072613,24.9259667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr Muhammad Sajid</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJYRTDLlA_sz4RvPz5mLOW3ws</SimpleData>
+		<SimpleData name="Latitude">24.9146049</SimpleData>
+		<SimpleData name="Longitude">67.065168</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.065168,24.9146049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr Nasir NASAKA</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJqYbgWBY_sz4RQmQexvFGoiw</SimpleData>
+		<SimpleData name="Latitude">24.9155704</SimpleData>
+		<SimpleData name="Longitude">67.0675067</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0675067,24.9155704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sarwat Homoeo Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJcal6uRY_sz4R4mhNu2Z4yio</SimpleData>
+		<SimpleData name="Latitude">24.9159468</SimpleData>
+		<SimpleData name="Longitude">67.0653072</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0653072,24.9159468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>𝐃𝐨𝐜𝐭𝐨𝐫 𝐇𝐨𝐦𝐞 𝐕𝐢𝐬𝐢𝐭𝐬 (𝐘𝐚𝐬𝐡𝐟𝐞𝐞𝐧 𝐌𝐞𝐝𝐢𝐜𝐚𝐥 𝐂𝐞𝐧𝐭𝐫𝐞)</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJTbEoEks_sz4RWWCKoB7AWuM</SimpleData>
+		<SimpleData name="Latitude">24.9056896</SimpleData>
+		<SimpleData name="Longitude">67.0699207</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0699207,24.9056896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mukhzan Homoeo Clinic Dr. Afshan</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJIUMXRtg_sz4R19W0BABcC9c</SimpleData>
+		<SimpleData name="Latitude">24.9167733</SimpleData>
+		<SimpleData name="Longitude">67.07064</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.07064,24.9167733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Health homoeopathic clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJWYzsKfM_sz4R55h9e_XBtN4</SimpleData>
+		<SimpleData name="Latitude">24.9107029</SimpleData>
+		<SimpleData name="Longitude">67.0751575</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0751575,24.9107029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr Paras Shaikh</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJn5MiZdc_sz4R8q9DYS-oUR4</SimpleData>
+		<SimpleData name="Latitude">24.9043325</SimpleData>
+		<SimpleData name="Longitude">67.0716928</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0716928,24.9043325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hu wash Shafi Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ4Ufww485sz4RWUWhb18Dhh0</SimpleData>
+		<SimpleData name="Latitude">24.9054731</SimpleData>
+		<SimpleData name="Longitude">67.0749435</SimpleData>
+		<SimpleData name="Status">CLOSED_TEMPORARILY</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0749435,24.9054731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Medi Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJo9JdXjw_sz4RdyN2RJW4PmE</SimpleData>
+		<SimpleData name="Latitude">24.917055</SimpleData>
+		<SimpleData name="Longitude">67.0760502</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0760502,24.917055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The public health and medical care clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJwaAHrU8_sz4RDVeY94TWcAo</SimpleData>
+		<SimpleData name="Latitude">24.9168587</SimpleData>
+		<SimpleData name="Longitude">67.0763491</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hospital, doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0763491,24.9168587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saleem medical center</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJS7kAVYg_sz4R53OAuWEGTJc</SimpleData>
+		<SimpleData name="Latitude">24.912506</SimpleData>
+		<SimpleData name="Longitude">67.0783174</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0783174,24.912506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr Rahat Naz</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ82eMDc4_sz4RmUKjH5HFtFA</SimpleData>
+		<SimpleData name="Latitude">24.9107266</SimpleData>
+		<SimpleData name="Longitude">67.0795832</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0795832,24.9107266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ayesha clinic۔ عائشہ کلینک</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ904Wq7o_sz4RRx8Htyfd79A</SimpleData>
+		<SimpleData name="Latitude">24.9107504</SimpleData>
+		<SimpleData name="Longitude">67.0796176</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0796176,24.9107504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Syed Clinic۔ سید کلینک</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJn0ZlRkA_sz4RastDo9PxvSs</SimpleData>
+		<SimpleData name="Latitude">24.9103208</SimpleData>
+		<SimpleData name="Longitude">67.0797053</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0797053,24.9103208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Care and cure medical clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ9UVzBQI_sz4Ra473KgKIuzo</SimpleData>
+		<SimpleData name="Latitude">24.9138718</SimpleData>
+		<SimpleData name="Longitude">67.0789143</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0789143,24.9138718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dua homeopathic clinic &amp; store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJjVOfAgA_sz4R0EaU4ksrVZI</SimpleData>
+		<SimpleData name="Latitude">24.9129367</SimpleData>
+		<SimpleData name="Longitude">67.0803127</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0803127,24.9129367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Farooq Bhayat Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJvUARovs_sz4RGLT2USex9AM</SimpleData>
+		<SimpleData name="Latitude">24.91054</SimpleData>
+		<SimpleData name="Longitude">67.08111</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.08111,24.91054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hakeem Danish Razi</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJPyASK4Q_sz4RKdwhnocBBms</SimpleData>
+		<SimpleData name="Latitude">24.9109471</SimpleData>
+		<SimpleData name="Longitude">67.0812964</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0812964,24.9109471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>M MEHMOOD UNANI DAWAKHANA</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ2b7F-jI_sz4RX6Jjk0AtyWA</SimpleData>
+		<SimpleData name="Latitude">24.9145098</SimpleData>
+		<SimpleData name="Longitude">67.0799702</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0799702,24.9145098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barkat Clinic and Dental Surgery</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ5039yTo_sz4RJbDPHYFGFyM</SimpleData>
+		<SimpleData name="Latitude">24.9143413</SimpleData>
+		<SimpleData name="Longitude">67.0807252</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0807252,24.9143413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DR RAFI UDDIN DENTAL CLINIC</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ8xg2UjA_sz4RjDrZelIdA54</SimpleData>
+		<SimpleData name="Latitude">24.9165812</SimpleData>
+		<SimpleData name="Longitude">67.0779936</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0779936,24.9165812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naaz Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ2ZnZ9yY_sz4Rs12VAEy9KZ0</SimpleData>
+		<SimpleData name="Latitude">24.9060176</SimpleData>
+		<SimpleData name="Longitude">67.0792701</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0792701,24.9060176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kamal Homeo Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ_Ytk5To5sz4RtjWpXoj5YK4</SimpleData>
+		<SimpleData name="Latitude">24.9080312</SimpleData>
+		<SimpleData name="Longitude">67.081731</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, drugstore, doctor, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.081731,24.9080312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Family care homeoclinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJE-txoDQ_sz4Rx6imJmZdVyU</SimpleData>
+		<SimpleData name="Latitude">24.9122132</SimpleData>
+		<SimpleData name="Longitude">67.0826888</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0826888,24.9122132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friends Optical &amp; Audiology Centre (Rashid Minhas Rd)</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJT8WAw8c9sz4R7KR7f4P8zUo</SimpleData>
+		<SimpleData name="Latitude">24.9214051</SimpleData>
+		<SimpleData name="Longitude">67.0936786</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0936786,24.9214051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Surgi care clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJH5x4FOo_sz4R43P1UyTH9NQ</SimpleData>
+		<SimpleData name="Latitude">24.9195975</SimpleData>
+		<SimpleData name="Longitude">67.075684</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.075684,24.9195975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NK consultant clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJxzNjv9g_sz4RGmce-hIFjlw</SimpleData>
+		<SimpleData name="Latitude">24.918859</SimpleData>
+		<SimpleData name="Longitude">67.0759198</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, physiotherapist, doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0759198,24.918859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr mustafa care and cure medical center</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJEbuFba4_sz4REOInYhBSJuo</SimpleData>
+		<SimpleData name="Latitude">24.9171251</SimpleData>
+		<SimpleData name="Longitude">67.0797264</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0797264,24.9171251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Junaid Chiropractic Care</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJZ4t3ysc_sz4R1pUvszVbo04</SimpleData>
+		<SimpleData name="Latitude">24.9196875</SimpleData>
+		<SimpleData name="Longitude">67.0830625</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">physiotherapist, doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0830625,24.9196875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Burhan eye and poly clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJQcZqTQA_sz4R8eUoaaUDBgc</SimpleData>
+		<SimpleData name="Latitude">24.9110316</SimpleData>
+		<SimpleData name="Longitude">67.0865153</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">point_of_interest, doctor, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0865153,24.9110316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Mehrun Nissa Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJnQQwyBE_sz4RK1S5IayZqoA</SimpleData>
+		<SimpleData name="Latitude">24.9108679</SimpleData>
+		<SimpleData name="Longitude">67.0862711</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">point_of_interest, doctor, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0862711,24.9108679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Quick Pranic Healing Centre</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJJTsaF5I_sz4R7QQnn_sv6Do</SimpleData>
+		<SimpleData name="Latitude">24.9113075</SimpleData>
+		<SimpleData name="Longitude">67.0865462</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0865462,24.9113075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tayyaba homeo clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJjcEC724_sz4RhBIFtY3GgX8</SimpleData>
+		<SimpleData name="Latitude">24.9099153</SimpleData>
+		<SimpleData name="Longitude">67.0855267</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0855267,24.9099153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr Waseem Poly Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ7e6gJ30_sz4R_-SrpjHFt3U</SimpleData>
+		<SimpleData name="Latitude">24.9119053</SimpleData>
+		<SimpleData name="Longitude">67.0877733</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0877733,24.9119053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Doctor Waseem Allergy Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJwdTXfA4_sz4R4bYapB60T20</SimpleData>
+		<SimpleData name="Latitude">24.9119354</SimpleData>
+		<SimpleData name="Longitude">67.087809</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">point_of_interest, doctor, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.087809,24.9119354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Imran Yousuf</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJS6DQLKM9sz4RG1Zj21H5kzE</SimpleData>
+		<SimpleData name="Latitude">24.9096813</SimpleData>
+		<SimpleData name="Longitude">67.0852945</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0852945,24.9096813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gulf Dental &amp; Aesthetics - Gulshan-E-Iqbal Branch Karachi - Teeth Whitening - Scaling &amp; Polishing - Dental Clinic in Karachi</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJZxoyC-U_sz4RUCgsisOiIRQ</SimpleData>
+		<SimpleData name="Latitude">24.9094438</SimpleData>
+		<SimpleData name="Longitude">67.0842279</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, point_of_interest, doctor, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0842279,24.9094438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bhatti Dental Clinic | Best Dental Clinic in Karachi | Female Dentist in Karachi | Best Dentist in karachi</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJP9ynNCw_sz4RiMW04yGWnfc</SimpleData>
+		<SimpleData name="Latitude">24.9124464</SimpleData>
+		<SimpleData name="Longitude">67.0892641</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, point_of_interest, doctor, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0892641,24.9124464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Afseen Khan clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ5Q8Oyyo_sz4Rr24wNUyNOeA</SimpleData>
+		<SimpleData name="Latitude">24.9092566</SimpleData>
+		<SimpleData name="Longitude">67.0835</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">point_of_interest, doctor, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0835,24.9092566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nayab Homeo Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJuyj5t_s_sz4R22ipaSJ9dCQ</SimpleData>
+		<SimpleData name="Latitude">24.909077</SimpleData>
+		<SimpleData name="Longitude">67.0836504</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0836504,24.909077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Azra &amp; Consultant clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJbXTLldc_sz4RwBO73Is6xgY</SimpleData>
+		<SimpleData name="Latitude">24.9092632</SimpleData>
+		<SimpleData name="Longitude">67.0825459</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0825459,24.9092632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aqeel Foot Comfort Services</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJmeAb_R85sz4RDHx9NYqWNdI</SimpleData>
+		<SimpleData name="Latitude">24.9207337</SimpleData>
+		<SimpleData name="Longitude">67.0950387</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0950387,24.9207337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Child Care Clinic - Dr Afzal Memon</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJcXCrn8g5sz4Rk828c3dIo8s</SimpleData>
+		<SimpleData name="Latitude">24.9196875</SimpleData>
+		<SimpleData name="Longitude">67.0959375</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0959375,24.9196875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al FATAH DENTAL CLINIC</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJA8epIDc5sz4Rme6SU_CWQps</SimpleData>
+		<SimpleData name="Latitude">24.9197993</SimpleData>
+		<SimpleData name="Longitude">67.0950506</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0950506,24.9197993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Doctors' Inn</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ_2yMy8w4sz4ResF_wRCX5QM</SimpleData>
+		<SimpleData name="Latitude">24.9199601</SimpleData>
+		<SimpleData name="Longitude">67.0943747</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0943747,24.9199601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Abeer Dental Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJudIoJ804sz4RJd2J3pYGM_s</SimpleData>
+		<SimpleData name="Latitude">24.9189159</SimpleData>
+		<SimpleData name="Longitude">67.0951993</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0951993,24.9189159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Saeeds</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ5xn2UP8_sz4RbopmygdWvOc</SimpleData>
+		<SimpleData name="Latitude">24.9196393</SimpleData>
+		<SimpleData name="Longitude">67.093616</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.093616,24.9196393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alsyeed Dawakhana and herbal medicine clinic and infertility center</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJo2ixHmE_sz4RZNH_DohKKkM</SimpleData>
+		<SimpleData name="Latitude">24.9232282</SimpleData>
+		<SimpleData name="Longitude">67.0934277</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0934277,24.9232282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RA dental clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJLaUPDjI_sz4Rw5pM-pNNZow</SimpleData>
+		<SimpleData name="Latitude">24.9233497</SimpleData>
+		<SimpleData name="Longitude">67.0933868</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0933868,24.9233497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>HAROON OPTICAL</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJs7EJmDQ_sz4RyVENQ9nW5nE</SimpleData>
+		<SimpleData name="Latitude">24.9220964</SimpleData>
+		<SimpleData name="Longitude">67.0926221</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0926221,24.9220964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Matab Hakeem Syed Mutti</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJQ0QEnc44sz4RFR-gLjboc7s</SimpleData>
+		<SimpleData name="Latitude">24.9207276</SimpleData>
+		<SimpleData name="Longitude">67.1002328</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1002328,24.9207276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Kishore Khatri</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJS16cASM5sz4RcNe7P4KwndU</SimpleData>
+		<SimpleData name="Latitude">24.9232465</SimpleData>
+		<SimpleData name="Longitude">67.093026</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.093026,24.9232465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Noor optics &amp; eye care</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJJb4G2es_sz4RtPZpfnAqRmQ</SimpleData>
+		<SimpleData name="Latitude">24.9220817</SimpleData>
+		<SimpleData name="Longitude">67.0923855</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0923855,24.9220817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shafi Homeopathic Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJh40uyBw_sz4RLV17cXhEyVY</SimpleData>
+		<SimpleData name="Latitude">24.9226067</SimpleData>
+		<SimpleData name="Longitude">67.0925753</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0925753,24.9226067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fizza Eye Care Center</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJHy7UZTM_sz4R5F_XvPgKB6o</SimpleData>
+		<SimpleData name="Latitude">24.920848</SimpleData>
+		<SimpleData name="Longitude">67.0922446</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0922446,24.920848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yashfeen dawa khana</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJCwZ5gRk_sz4Rvjuwk_I8Xhw</SimpleData>
+		<SimpleData name="Latitude">24.9219508</SimpleData>
+		<SimpleData name="Longitude">67.0922048</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0922048,24.9219508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr AQ Khan</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJveuhE7c4sz4R79RDvwc7CK0</SimpleData>
+		<SimpleData name="Latitude">24.9327034</SimpleData>
+		<SimpleData name="Longitude">67.1043412</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1043412,24.9327034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DIABETIC CLINIC</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJC1v-1No5sz4RHv8E6rg8K1c</SimpleData>
+		<SimpleData name="Latitude">24.928132</SimpleData>
+		<SimpleData name="Longitude">67.1048967</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1048967,24.928132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DR.ASIFA SHAKIR HOMOEO CLINIC</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJESBt8_U5sz4RRd8XDWMvcTQ</SimpleData>
+		<SimpleData name="Latitude">24.9283384</SimpleData>
+		<SimpleData name="Longitude">67.108686</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.108686,24.9283384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Reviv - Times General Hospital</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJTboyW-4_sz4RaDbadfCzXWs</SimpleData>
+		<SimpleData name="Latitude">24.9320982</SimpleData>
+		<SimpleData name="Longitude">67.1022395</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1022395,24.9320982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr.Syeda Anis Fatima Zaidi</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJJ6_gfoo5sz4RCETUiDDLIuk</SimpleData>
+		<SimpleData name="Latitude">24.927846</SimpleData>
+		<SimpleData name="Longitude">67.099445</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.099445,24.927846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zaheer Medical Center</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJcZyJ10E5sz4RX6dRLnVnbio</SimpleData>
+		<SimpleData name="Latitude">24.9244009</SimpleData>
+		<SimpleData name="Longitude">67.1021318</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1021318,24.9244009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shaheen Medical Centre and Ultrasound Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJE88FHYM5sz4RiGUpf-uXN4U</SimpleData>
+		<SimpleData name="Latitude">24.923735</SimpleData>
+		<SimpleData name="Longitude">67.1026573</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">doctor, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1026573,24.923735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al Haq Pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJwXb6rBc_sz4R8cPGS8NI20o</SimpleData>
+		<SimpleData name="Latitude">24.9145009</SimpleData>
+		<SimpleData name="Longitude">67.0678234</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0678234,24.9145009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saqlain Dawakhana</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJp0yA7qs_sz4RpwadSwnehOg</SimpleData>
+		<SimpleData name="Latitude">24.9147851</SimpleData>
+		<SimpleData name="Longitude">67.0650085</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0650085,24.9147851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Unique Homoeopathic Store And Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJAQCQMxE_sz4RCGZf5BBBrFg</SimpleData>
+		<SimpleData name="Latitude">24.9150586</SimpleData>
+		<SimpleData name="Longitude">67.0641977</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0641977,24.9150586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>WAHEED MEDICAL &amp; SUPERSTORE</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJTZ1TawA_sz4REKdhRVAf5Gs</SimpleData>
+		<SimpleData name="Latitude">24.9156184</SimpleData>
+		<SimpleData name="Longitude">67.064887</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.064887,24.9156184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FAISAL MEDICO</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJofA9-QQ_sz4Rjt3Ww9Q46jg</SimpleData>
+		<SimpleData name="Latitude">24.9098923</SimpleData>
+		<SimpleData name="Longitude">67.0717662</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0717662,24.9098923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ayyan General Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJx2xH6iI_sz4RecyfwrYbQW4</SimpleData>
+		<SimpleData name="Latitude">24.9110138</SimpleData>
+		<SimpleData name="Longitude">67.0720492</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0720492,24.9110138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bin zaheer pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ2_5ii7Y_sz4RJlFzEmRWV4k</SimpleData>
+		<SimpleData name="Latitude">24.9098979</SimpleData>
+		<SimpleData name="Longitude">67.0726086</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0726086,24.9098979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rajput Medical &amp; General Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJtey10jk_sz4RmX4ug7Ozdbw</SimpleData>
+		<SimpleData name="Latitude">24.917258</SimpleData>
+		<SimpleData name="Longitude">67.0670173</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0670173,24.917258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al-Khidmat Water Filtration Plant</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJo6wre80_sz4Rv4LpXAl-7uw</SimpleData>
+		<SimpleData name="Latitude">24.9165055</SimpleData>
+		<SimpleData name="Longitude">67.070319</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.070319,24.9165055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DO CLINIC PHARMACY</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJxXPT5Ww_sz4RgfoY4ezBF4g</SimpleData>
+		<SimpleData name="Latitude">24.9104014</SimpleData>
+		<SimpleData name="Longitude">67.0739086</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0739086,24.9104014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tayab Noor Medical</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJYagFnEA_sz4R1r43op2FOvU</SimpleData>
+		<SimpleData name="Latitude">24.9090177</SimpleData>
+		<SimpleData name="Longitude">67.0588591</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0588591,24.9090177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shifa medical store and homeopathic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJdxFm0nc_sz4Rq55cekEk9zo</SimpleData>
+		<SimpleData name="Latitude">24.9105649</SimpleData>
+		<SimpleData name="Longitude">67.0744057</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0744057,24.9105649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>N.S Medical and General Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJV3RNKAA_sz4R2x0YeT0-CFY</SimpleData>
+		<SimpleData name="Latitude">24.909846</SimpleData>
+		<SimpleData name="Longitude">67.0580933</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0580933,24.909846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hussain Medical Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJQRvpFkE_sz4RYVpFRbfIMUM</SimpleData>
+		<SimpleData name="Latitude">24.9099151</SimpleData>
+		<SimpleData name="Longitude">67.0580159</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0580159,24.9099151</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahmed medicos and mart</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ1ezqcxw_sz4Rc__iFGH-Jp4</SimpleData>
+		<SimpleData name="Latitude">24.9108072</SimpleData>
+		<SimpleData name="Longitude">67.0756184</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0756184,24.9108072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DVAGO Pharmacy &amp; Wellness Experts</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJC5OMK-5Bsz4R1XYWDLKQNyI</SimpleData>
+		<SimpleData name="Latitude">24.9130559</SimpleData>
+		<SimpleData name="Longitude">67.0800331</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0800331,24.9130559</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Saver's Pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ56lJnA4_sz4RzyKe_riFQ-I</SimpleData>
+		<SimpleData name="Latitude">24.9125195</SimpleData>
+		<SimpleData name="Longitude">67.0803375</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0803375,24.9125195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nasa Pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJpz1LsXw_sz4RdWzjICCl_94</SimpleData>
+		<SimpleData name="Latitude">24.9131105</SimpleData>
+		<SimpleData name="Longitude">67.0810341</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0810341,24.9131105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kashif Medicos</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJU4_Pydw_sz4RMUKBA5QjJAc</SimpleData>
+		<SimpleData name="Latitude">24.9134831</SimpleData>
+		<SimpleData name="Longitude">67.0811365</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0811365,24.9134831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Health Mart</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJb9_Khfc_sz4RXWz4dyw6i9Y</SimpleData>
+		<SimpleData name="Latitude">24.913606</SimpleData>
+		<SimpleData name="Longitude">67.0813142</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0813142,24.913606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mushtaq Memorial Homeo Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJjVSXIpU_sz4RmvJGCqfFdRQ</SimpleData>
+		<SimpleData name="Latitude">24.9142324</SimpleData>
+		<SimpleData name="Longitude">67.080958</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">drugstore, pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.080958,24.9142324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Subhanallah Medical</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJXQR9HL4_sz4RFsQ4y3FqiQI</SimpleData>
+		<SimpleData name="Latitude">24.9062345</SimpleData>
+		<SimpleData name="Longitude">67.0792916</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0792916,24.9062345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Super Medicos</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJbTgf-iY_sz4RCLdOlPIIB7I</SimpleData>
+		<SimpleData name="Latitude">24.9058446</SimpleData>
+		<SimpleData name="Longitude">67.0788332</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0788332,24.9058446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blue Star Medical Center</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJHbxZrCg_sz4ReKyLIBM8FGs</SimpleData>
+		<SimpleData name="Latitude">24.9078774</SimpleData>
+		<SimpleData name="Longitude">67.0819554</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0819554,24.9078774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marhaba Medical &amp; General Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ4SKk4yY_sz4R5D2fk6BV5aI</SimpleData>
+		<SimpleData name="Latitude">24.905252</SimpleData>
+		<SimpleData name="Longitude">67.0783431</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, food, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0783431,24.905252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bilal Medicos</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJhaLaeZw_sz4RyWGyopIJ4tg</SimpleData>
+		<SimpleData name="Latitude">24.9142032</SimpleData>
+		<SimpleData name="Longitude">67.0822793</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0822793,24.9142032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Homeopathy Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJubP-MT8_sz4RN_g-qBPS4jE</SimpleData>
+		<SimpleData name="Latitude">24.9219488</SimpleData>
+		<SimpleData name="Longitude">67.0771879</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, drugstore, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0771879,24.9219488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marhaba medical store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJVSte6y4_sz4R-jxv0gzmuDs</SimpleData>
+		<SimpleData name="Latitude">24.9191309</SimpleData>
+		<SimpleData name="Longitude">67.0760242</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0760242,24.9191309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>De Medico</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ222nMQA_sz4R-8s-_Kg1pNw</SimpleData>
+		<SimpleData name="Latitude">24.9189389</SimpleData>
+		<SimpleData name="Longitude">67.0757849</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0757849,24.9189389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Medieval pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJjRZ2GQg_sz4RuM6sYmyTI2c</SimpleData>
+		<SimpleData name="Latitude">24.9182901</SimpleData>
+		<SimpleData name="Longitude">67.0737432</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0737432,24.9182901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al Shahab Homoeopathic Store &amp; Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJLUprwok_sz4RmVBvL5OUo4A</SimpleData>
+		<SimpleData name="Latitude">24.9174142</SimpleData>
+		<SimpleData name="Longitude">67.0755545</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, drugstore, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0755545,24.9174142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ghousia Medical Store ,Zia Ul Haq Colony,Gulshan E Iqbal Block 1</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ1Ygl7Yc_sz4RHegl7XicsV8</SimpleData>
+		<SimpleData name="Latitude">24.9208562</SimpleData>
+		<SimpleData name="Longitude">67.0809195</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0809195,24.9208562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bissmillah Medical &amp; General Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJM8LIP_Y_sz4RpqT8UIyE6ew</SimpleData>
+		<SimpleData name="Latitude">24.9176484</SimpleData>
+		<SimpleData name="Longitude">67.0805513</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, store, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0805513,24.9176484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Zeenat medico</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJoRHDa7I_sz4RXMrEDEz27MI</SimpleData>
+		<SimpleData name="Latitude">24.911373</SimpleData>
+		<SimpleData name="Longitude">67.0870167</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0870167,24.911373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Karim Housing Private Ltd</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJKfESlS4_sz4RP-y9povohO4</SimpleData>
+		<SimpleData name="Latitude">24.9111573</SimpleData>
+		<SimpleData name="Longitude">67.0873208</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0873208,24.9111573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al-Habib Medical Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJMYlqKCw_sz4RyQFV5sjXu9c</SimpleData>
+		<SimpleData name="Latitude">24.9117335</SimpleData>
+		<SimpleData name="Longitude">67.0882654</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0882654,24.9117335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mohammadi Homeopathic Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJkwkcH2g_sz4RgSd1F6Bncho</SimpleData>
+		<SimpleData name="Latitude">24.9120987</SimpleData>
+		<SimpleData name="Longitude">67.0887438</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">drugstore, pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0887438,24.9120987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Usmania Homeopathic Store &amp; Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ78QlLiw_sz4Rh7k8PHTWgto</SimpleData>
+		<SimpleData name="Latitude">24.9122102</SimpleData>
+		<SimpleData name="Longitude">67.0889029</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">drugstore, pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0889029,24.9122102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rohilla Clinic / V Care pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ774f1aE_sz4RMtllmOIvwUU</SimpleData>
+		<SimpleData name="Latitude">24.9092463</SimpleData>
+		<SimpleData name="Longitude">67.083908</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.083908,24.9092463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Memon Medicine Point</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJnz2AelE_sz4R7zyt1UXLtK0</SimpleData>
+		<SimpleData name="Latitude">24.909166</SimpleData>
+		<SimpleData name="Longitude">67.0834669</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0834669,24.909166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Al-Mustafa medical Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJsdnBsSg_sz4RPABZdp2SILA</SimpleData>
+		<SimpleData name="Latitude">24.9082842</SimpleData>
+		<SimpleData name="Longitude">67.08324</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.08324,24.9082842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hadi Medical Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ-0jisSg_sz4RX_1KdmjGU8c</SimpleData>
+		<SimpleData name="Latitude">24.9082833</SimpleData>
+		<SimpleData name="Longitude">67.0829584</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0829584,24.9082833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rite Medico</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJTfP4qyg_sz4RzsQxuvmNp3w</SimpleData>
+		<SimpleData name="Latitude">24.9082013</SimpleData>
+		<SimpleData name="Longitude">67.0824393</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">supermarket, pharmacy, grocery_or_supermarket, food, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0824393,24.9082013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Storzo Pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJwXezd-0_sz4RmMTU9MQ5QbA</SimpleData>
+		<SimpleData name="Latitude">24.9080913</SimpleData>
+		<SimpleData name="Longitude">67.0823089</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0823089,24.9080913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>African herbal Oil in Karachi</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJmaVvSX8_sz4RrLHPkZPDSZw</SimpleData>
+		<SimpleData name="Latitude">24.9165369</SimpleData>
+		<SimpleData name="Longitude">67.0864136</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, health, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0864136,24.9165369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mona's Pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJN28QbeQ5sz4RWUheyyXmZAA</SimpleData>
+		<SimpleData name="Latitude">24.9208978</SimpleData>
+		<SimpleData name="Longitude">67.0951438</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0951438,24.9208978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MEDICAL POINT CONSULTANT CLINIC &amp; PHARMACY</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJa6pQSp0_sz4RPXzZuJ0nsos</SimpleData>
+		<SimpleData name="Latitude">24.9210692</SimpleData>
+		<SimpleData name="Longitude">67.0939483</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0939483,24.9210692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bio Plus</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJJftpDs04sz4RVONMk_bhYvE</SimpleData>
+		<SimpleData name="Latitude">24.9183104</SimpleData>
+		<SimpleData name="Longitude">67.096473</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.096473,24.9183104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ali Medico &amp; General Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJRSWiFMA5sz4R10k8L2qMUcM</SimpleData>
+		<SimpleData name="Latitude">24.9180271</SimpleData>
+		<SimpleData name="Longitude">67.0970916</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, grocery_or_supermarket, food, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0970916,24.9180271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dawai Khape</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJFxWiy8o_sz4RTrz5Ds3vxGc</SimpleData>
+		<SimpleData name="Latitude">24.9234838</SimpleData>
+		<SimpleData name="Longitude">67.0931476</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0931476,24.9234838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Medicos</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJq8XiFgE5sz4RKKUC3f0tY3o</SimpleData>
+		<SimpleData name="Latitude">24.9238776</SimpleData>
+		<SimpleData name="Longitude">67.0934449</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0934449,24.9238776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mustafa dental hospital</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJL8C7NQA_sz4Roop69QNW110</SimpleData>
+		<SimpleData name="Latitude">24.9228553</SimpleData>
+		<SimpleData name="Longitude">67.0924361</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0924361,24.9228553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunshine medical and surgical store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJQzTlWsw_sz4RsSgiEwWsoDw</SimpleData>
+		<SimpleData name="Latitude">24.9230931</SimpleData>
+		<SimpleData name="Longitude">67.0922114</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0922114,24.9230931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Medicine Point &amp; General Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ-U83D8Q5sz4R1PkkOn2GBso</SimpleData>
+		<SimpleData name="Latitude">24.9168879</SimpleData>
+		<SimpleData name="Longitude">67.0970818</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0970818,24.9168879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MedicoSol</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJtZ00T8I_sz4RMThI6dmb-SM</SimpleData>
+		<SimpleData name="Latitude">24.9192051</SimpleData>
+		<SimpleData name="Longitude">67.0915807</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0915807,24.9192051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Homeopathic doctor for child and womens</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJg97kU7g_sz4RMS7UQRZsMqY</SimpleData>
+		<SimpleData name="Latitude">24.9192051</SimpleData>
+		<SimpleData name="Longitude">67.0915807</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">drugstore, pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0915807,24.9192051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>kaisan pharma (PVT.) LTD</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ6VBZDzM_sz4RXhYSwSb3ifA</SimpleData>
+		<SimpleData name="Latitude">24.9192051</SimpleData>
+		<SimpleData name="Longitude">67.0915807</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0915807,24.9192051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Taqwa Medical General &amp; Cosmetic Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJmxSWks44sz4R1mxf7sE6QSU</SimpleData>
+		<SimpleData name="Latitude">24.9207927</SimpleData>
+		<SimpleData name="Longitude">67.1015133</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1015133,24.9207927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A One Pharmacy &amp; General Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJX6YqwyU5sz4RcKNNwyAJUS0</SimpleData>
+		<SimpleData name="Latitude">24.9209142</SimpleData>
+		<SimpleData name="Longitude">67.1016785</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1016785,24.9209142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>T.O. store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJp391GTU_sz4R7LdtIxq1Zw4</SimpleData>
+		<SimpleData name="Latitude">24.92468</SimpleData>
+		<SimpleData name="Longitude">67.0924209</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0924209,24.92468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ibn-e-Seena Pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJg6oaxc44sz4RlCTZvSXGJQU</SimpleData>
+		<SimpleData name="Latitude">24.9221667</SimpleData>
+		<SimpleData name="Longitude">67.1020557</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1020557,24.9221667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Breeze animal hospital</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJJaSoWmI_sz4RMYdYTDSNGsk</SimpleData>
+		<SimpleData name="Latitude">24.9170782</SimpleData>
+		<SimpleData name="Longitude">67.0917744</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, veterinary_care, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0917744,24.9170782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MedsOne Pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJu3KhAJQ5sz4Rb0URlGdEL7I</SimpleData>
+		<SimpleData name="Latitude">24.9343341</SimpleData>
+		<SimpleData name="Longitude">67.1051179</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1051179,24.9343341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DVAGO Pharmacy &amp; Wellness Experts</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJO3Ql0Rs5sz4RkrdSh8fECSQ</SimpleData>
+		<SimpleData name="Latitude">24.9343585</SimpleData>
+		<SimpleData name="Longitude">67.1048226</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1048226,24.9343585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wahab Medico</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJabBQYxo5sz4RYOZp053NEmQ</SimpleData>
+		<SimpleData name="Latitude">24.9243902</SimpleData>
+		<SimpleData name="Longitude">67.1021413</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1021413,24.9243902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>maseeha Pharmacy</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJL7cWScs5sz4RkSVojfohx24</SimpleData>
+		<SimpleData name="Latitude">24.9241159</SimpleData>
+		<SimpleData name="Longitude">67.1020462</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1020462,24.9241159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mateen Medical Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJtUaqOs84sz4RvUNmWhTKG7A</SimpleData>
+		<SimpleData name="Latitude">24.9225536</SimpleData>
+		<SimpleData name="Longitude">67.1038175</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1038175,24.9225536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bismillah Medical Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJX-nNJc84sz4RVz9TMA8-L9Y</SimpleData>
+		<SimpleData name="Latitude">24.9223488</SimpleData>
+		<SimpleData name="Longitude">67.10348</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.10348,24.9223488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shah Medical</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJC-vUhd45sz4RjiRExMTJVdw</SimpleData>
+		<SimpleData name="Latitude">24.9220617</SimpleData>
+		<SimpleData name="Longitude">67.1032498</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">pharmacy, point_of_interest, store, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1032498,24.9220617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Mudassir Dental Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ98oSNSc_sz4RXawxMyKPm6Y</SimpleData>
+		<SimpleData name="Latitude">24.9035378</SimpleData>
+		<SimpleData name="Longitude">67.0761763</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0761763,24.9035378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ortho Dental</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJn-926Qs_sz4RD7ffqzYUzEM</SimpleData>
+		<SimpleData name="Latitude">24.910519</SimpleData>
+		<SimpleData name="Longitude">67.07438</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.07438,24.910519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mr. Dentist | Best dental clinic in Karachi</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJGVQR8dg_sz4Rr0A09OCey8A</SimpleData>
+		<SimpleData name="Latitude">24.9105113</SimpleData>
+		<SimpleData name="Longitude">67.0744275</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0744275,24.9105113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The perfect smile, Raza dental clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJY3L5Ejw_sz4RbExePmJkdts</SimpleData>
+		<SimpleData name="Latitude">24.9174104</SimpleData>
+		<SimpleData name="Longitude">67.0753813</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0753813,24.9174104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>London Laser</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ5aq_CqI_sz4RGeeabZHKvsQ</SimpleData>
+		<SimpleData name="Latitude">24.9035182</SimpleData>
+		<SimpleData name="Longitude">67.0756377</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">hair_care, dentist, point_of_interest, doctor, health, beauty_salon, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0756377,24.9035182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Smile Dental Care</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJQcRVTkU_sz4RkjV3KBmyaWw</SimpleData>
+		<SimpleData name="Latitude">24.9076602</SimpleData>
+		<SimpleData name="Longitude">67.0815982</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, point_of_interest, doctor, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0815982,24.9076602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Citizen Dental Clinic</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJWxU6AyY_sz4RROAT8MsOo9U</SimpleData>
+		<SimpleData name="Latitude">24.9078336</SimpleData>
+		<SimpleData name="Longitude">67.0819087</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0819087,24.9078336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Talal &amp; Associates | COSMOS DENTAL SOLUTIONS</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJfRvJves-sz4RkF2AulBUmBM</SimpleData>
+		<SimpleData name="Latitude">24.911211</SimpleData>
+		<SimpleData name="Longitude">67.0867645</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0867645,24.911211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dr. Shafiq’s Dental Surgery</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJRd3ses04sz4Rs5QprQx7Gu8</SimpleData>
+		<SimpleData name="Latitude">24.9168718</SimpleData>
+		<SimpleData name="Longitude">67.0964936</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0964936,24.9168718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hafeez Clinic &amp; Dental Surgery</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ9-lXusw4sz4RlhgJup8ECKk</SimpleData>
+		<SimpleData name="Latitude">24.9197543</SimpleData>
+		<SimpleData name="Longitude">67.0958518</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0958518,24.9197543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MEDIVERSE Dental and Aesthetic Clinics</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJdTr8hd45sz4RtdcBQK_nAzY</SimpleData>
+		<SimpleData name="Latitude">24.9207288</SimpleData>
+		<SimpleData name="Longitude">67.1005536</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, beauty_salon, spa, point_of_interest, doctor, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1005536,24.9207288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Dental Suite</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJs2f-6Ww5sz4Rl7oPyWUAvxQ</SimpleData>
+		<SimpleData name="Latitude">24.9265137</SimpleData>
+		<SimpleData name="Longitude">67.1001302</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1001302,24.9265137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dental Rehab centre</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJWZ7HdAk5sz4RvPhx3zwTonA</SimpleData>
+		<SimpleData name="Latitude">24.9333325</SimpleData>
+		<SimpleData name="Longitude">67.1037118</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">dentist, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1037118,24.9333325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Soneri Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJVZWKtSg_sz4RgFcdsksc8yk</SimpleData>
+		<SimpleData name="Latitude">24.9085933</SimpleData>
+		<SimpleData name="Longitude">67.0837364</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">atm, bank, finance, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0837364,24.9085933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elegance Furnitures</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJodrb5Bo_sz4RAwsAXClA7e8</SimpleData>
+		<SimpleData name="Latitude">24.9083718</SimpleData>
+		<SimpleData name="Longitude">67.0605469</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">furniture_store, home_goods_store, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0605469,24.9083718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mehran Bangash Store</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJhf6H1iQ_sz4RhYDySip03Kw</SimpleData>
+		<SimpleData name="Latitude">24.9133842</SimpleData>
+		<SimpleData name="Longitude">67.0790933</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">food, point_of_interest, store, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0790933,24.9133842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Najma Square</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJJx5OhiY_sz4R0Vz1mSUGl3o</SimpleData>
+		<SimpleData name="Latitude">24.9072889</SimpleData>
+		<SimpleData name="Longitude">67.0787368</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0787368,24.9072889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Habib Bank Limited (HBL)</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJnY7hmRY_sz4RdVcLqoyD8Pg</SimpleData>
+		<SimpleData name="Latitude">24.9165953</SimpleData>
+		<SimpleData name="Longitude">67.0661007</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">finance, atm, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0661007,24.9165953</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gulshan-e-Iqbal</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJsda_CLg4sz4RIghXwgIae5k</SimpleData>
+		<SimpleData name="Latitude">24.917218</SimpleData>
+		<SimpleData name="Longitude">67.0923866</SimpleData>
+		<SimpleData name="Status">UNKNOWN</SimpleData>
+		<SimpleData name="Category">sublocality_level_1, sublocality, political</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0923866,24.917218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Health Club</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJaXFyuzI_sz4R7PLApti3Ask</SimpleData>
+		<SimpleData name="Latitude">24.91676</SimpleData>
+		<SimpleData name="Longitude">67.09308</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">gym, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.09308,24.91676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sir Syed University of Engineering and Technology</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ88PyoDI_sz4R8BdhOP2mwE8</SimpleData>
+		<SimpleData name="Latitude">24.9156682</SimpleData>
+		<SimpleData name="Longitude">67.0921029</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">university, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0921029,24.9156682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jofa Tower</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJP5olwC4_sz4RQIC9rr2d72o</SimpleData>
+		<SimpleData name="Latitude">24.910693</SimpleData>
+		<SimpleData name="Longitude">67.0865654</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0865654,24.910693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EFU Life - Gulshan Branch</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJc0sTwWs_sz4RmjYhTyYBv-8</SimpleData>
+		<SimpleData name="Latitude">24.9076776</SimpleData>
+		<SimpleData name="Longitude">67.0817589</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">insurance_agency, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0817589,24.9076776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shaheen Public School &amp; College</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJvxUTfzA_sz4RW_N6kiBaBJY</SimpleData>
+		<SimpleData name="Latitude">24.9167501</SimpleData>
+		<SimpleData name="Longitude">67.0823036</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">school, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0823036,24.9167501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ireen Khan Signature</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJD4i5Xfs8sz4RCNf4tSJQOaI</SimpleData>
+		<SimpleData name="Latitude">24.9195186</SimpleData>
+		<SimpleData name="Longitude">67.0848528</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">beauty_salon, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0848528,24.9195186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terrabiz</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJC1_Guow-sz4R5t9rHUQw0iY</SimpleData>
+		<SimpleData name="Latitude">24.9207692</SimpleData>
+		<SimpleData name="Longitude">67.0881184</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0881184,24.9207692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Masjid Siddiq e Akbar</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ71ueyTA_sz4RWTW4oK9GAps</SimpleData>
+		<SimpleData name="Latitude">24.9197222</SimpleData>
+		<SimpleData name="Longitude">67.0838889</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">mosque, place_of_worship, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0838889,24.9197222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ICMA International</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ00--VMw4sz4RVkf9a9xjBUU</SimpleData>
+		<SimpleData name="Latitude">24.919508</SimpleData>
+		<SimpleData name="Longitude">67.097378</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">university, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.097378,24.919508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sindh Board of Technical Education</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJN8F2pM44sz4RgP-JqIK5-K4</SimpleData>
+		<SimpleData name="Latitude">24.9213236</SimpleData>
+		<SimpleData name="Longitude">67.1008194</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">university, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1008194,24.9213236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Umair Travels</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJe8tbSek-sz4RFjneXluHHDg</SimpleData>
+		<SimpleData name="Latitude">24.9198238</SimpleData>
+		<SimpleData name="Longitude">67.0948939</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">travel_agency, insurance_agency, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0948939,24.9198238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mahyas Marriage Bureau in Karachi, Pakistan</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJVVVVxTE_sz4Rgz6VAnap6CU</SimpleData>
+		<SimpleData name="Latitude">24.9281989</SimpleData>
+		<SimpleData name="Longitude">67.1041349</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">local_government_office, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1041349,24.9281989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Government Degree College Gulshan-e-Iqbal Block 7</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJvcWzxMc4sz4RPLpdWZDAT-Q</SimpleData>
+		<SimpleData name="Latitude">24.9275467</SimpleData>
+		<SimpleData name="Longitude">67.1067602</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">university, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1067602,24.9275467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Latif Plaza</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJU8U9fLU4sz4RUe-tcXFqHHU</SimpleData>
+		<SimpleData name="Latitude">24.9281456</SimpleData>
+		<SimpleData name="Longitude">67.0973426</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0973426,24.9281456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ER Solutions</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJmfkE8DQ_sz4RIRbON8u4vag</SimpleData>
+		<SimpleData name="Latitude">24.9233869</SimpleData>
+		<SimpleData name="Longitude">67.0928595</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">general_contractor, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0928595,24.9233869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Husaini Blood Bank</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJzcF0IM04sz4RN-hmwECpsm8</SimpleData>
+		<SimpleData name="Latitude">24.9201216</SimpleData>
+		<SimpleData name="Longitude">67.0947414</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0947414,24.9201216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Karachi Aero Club/ Event Venue</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJtxWab8w4sz4RexG9pcm_OL8</SimpleData>
+		<SimpleData name="Latitude">24.9209901</SimpleData>
+		<SimpleData name="Longitude">67.0969159</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0969159,24.9209901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chiniot Islamia Public School</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJdTFqscc4sz4R8F5s6_9Q0QA</SimpleData>
+		<SimpleData name="Latitude">24.9270582</SimpleData>
+		<SimpleData name="Longitude">67.1081031</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">university, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.1081031,24.9270582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Physio Zone Home Physiotherapy &amp; Rehabilitation Services</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJP70yvZ8_sz4Ryxy12PWLs60</SimpleData>
+		<SimpleData name="Latitude">24.9059644</SimpleData>
+		<SimpleData name="Longitude">67.0719917</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">physiotherapist, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0719917,24.9059644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Restore Wellness</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJ94HJ-K4Q4wMRFH2sqDhzIOI</SimpleData>
+		<SimpleData name="Latitude">24.9195077</SimpleData>
+		<SimpleData name="Longitude">67.0698404</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">physiotherapist, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0698404,24.9195077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dynamic Physiotherapy and Speech Center</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJQezhPpQ_sz4RBu5umj_8I1A</SimpleData>
+		<SimpleData name="Latitude">24.9187834</SimpleData>
+		<SimpleData name="Longitude">67.0836863</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">physiotherapist, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0836863,24.9187834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Healing Hands home physiotherapy services</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJt2ALfgA_sz4RFjHr472VnRc</SimpleData>
+		<SimpleData name="Latitude">24.9240634</SimpleData>
+		<SimpleData name="Longitude">67.0926652</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">physiotherapist, health, point_of_interest, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0926652,24.9240634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>A-R MANUAL THERAPY CENTER Physio,Chiro,Massage</name>
+	<ExtendedData><SchemaData schemaUrl="#data2">
+		<SimpleData name="Place ID">ChIJLyvyHwA5sz4RKWux9itGLx4</SimpleData>
+		<SimpleData name="Latitude">24.9254458</SimpleData>
+		<SimpleData name="Longitude">67.0985183</SimpleData>
+		<SimpleData name="Status">OPERATIONAL</SimpleData>
+		<SimpleData name="Category">physiotherapist, point_of_interest, health, establishment</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>67.0985183,24.9254458</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
