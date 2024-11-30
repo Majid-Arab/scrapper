@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="testbricks" id="testbricks">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="cmp_territ" type="string"></SimpleField>
+	<SimpleField name="geogrepahy" type="float"></SimpleField>
+	<SimpleField name="manager_id" type="float"></SimpleField>
+	<SimpleField name="region_id" type="float"></SimpleField>
+	<SimpleField name="zone_id" type="float"></SimpleField>
+	<SimpleField name="area_id" type="float"></SimpleField>
+	<SimpleField name="color_id" type="float"></SimpleField>
+	<SimpleField name="created_at" type="string"></SimpleField>
+	<SimpleField name="updated_at" type="string"></SimpleField>
+	<SimpleField name="deleted_at" type="string"></SimpleField>
+</Schema>
+<Folder><name>testbricks</name>
+  <Placemark>
+	<name>GULSH-IQBAL BLOCK 13 D</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testbricks">
+		<SimpleData name="id">4555</SimpleData>
+		<SimpleData name="cmp_territ">18831</SimpleData>
+		<SimpleData name="geogrepahy">4</SimpleData>
+		<SimpleData name="region_id">1</SimpleData>
+		<SimpleData name="zone_id">1</SimpleData>
+		<SimpleData name="area_id">2</SimpleData>
+		<SimpleData name="created_at">2023/01/20 15:47:40.663</SimpleData>
+		<SimpleData name="updated_at">2023/01/20 15:47:40.663</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>67.0865281852954,24.9203368993326 67.0923065310164,24.9143387411707 67.086762287295,24.9106292831412 67.0816966833192,24.9069198251118 67.0783860917445,24.9048457195469 67.0730545334017,24.9011495644145 67.0713275650163,24.9021790161109 67.0643327612971,24.9063154318371 67.066367200457,24.9094563203648 67.0687585587679,24.9109196888835 67.0755043307194,24.9125972088926 67.0775744617945,24.9133110471943 67.0789307545679,24.9154882540146 67.0811672365526,24.9165005256141 67.0865281852954,24.9203368993326</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>NEEPA CHOWRAGI</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testbricks">
+		<SimpleData name="id">18779</SimpleData>
+		<SimpleData name="cmp_territ">18837</SimpleData>
+		<SimpleData name="geogrepahy">4</SimpleData>
+		<SimpleData name="region_id">1</SimpleData>
+		<SimpleData name="zone_id">1</SimpleData>
+		<SimpleData name="area_id">2</SimpleData>
+		<SimpleData name="created_at">2023/01/20 15:47:40.663</SimpleData>
+		<SimpleData name="updated_at">2023/01/20 15:47:40.663</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>67.109835865587,24.9265785614262 67.1065836311277,24.9249688696231 67.104411678008,24.9233455145089 67.1046760870338,24.9192075416127 67.1025523873082,24.9175517757249 67.0963252677737,24.9130164169888 67.0923065310164,24.9143387411707 67.0865281852954,24.9203368993326 67.0913653882536,24.9243018721954 67.1052038952965,24.9352840375041 67.1092445502308,24.9283525074949 67.109835865587,24.9265785614262</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>YASEENABAD</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#testbricks">
+		<SimpleData name="id">18870</SimpleData>
+		<SimpleData name="cmp_territ">18678</SimpleData>
+		<SimpleData name="geogrepahy">4</SimpleData>
+		<SimpleData name="region_id">1</SimpleData>
+		<SimpleData name="zone_id">1</SimpleData>
+		<SimpleData name="area_id">2</SimpleData>
+		<SimpleData name="created_at">2023/01/20 15:47:40.663</SimpleData>
+		<SimpleData name="updated_at">2023/01/20 15:47:40.663</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>67.0814239767875,24.9264181005818 67.0821717515355,24.9254430306244 67.0865281852954,24.9203368993326 67.0811672365526,24.9165005256141 67.0789307545679,24.9154882540146 67.0775744617945,24.9133110471943 67.0755043307194,24.9125972088926 67.0687585587679,24.9109196888835 67.066367200457,24.9094563203648 67.0643327612971,24.9063154318371 67.0624199633257,24.907990480035 67.0562830740544,24.9087703057435 67.0570289942973,24.9129406780108 67.0579105364026,24.9121947577678 67.0599109588722,24.9117878921808 67.0627333020287,24.9139584092983 67.0655496776448,24.9161569989892 67.0707638744642,24.9203232342794 67.0718572268349,24.9194260099278 67.0814239767875,24.9264181005818</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
