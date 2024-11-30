@@ -121,7 +121,7 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
     grid_points = generate_grid_points(polygon, step=0.01)  # Adjust step for density
     print(f"Generated {len(grid_points)} grid points.")
     
-    medical_types = ['hospital', 'doctor', 'pharmacy', 'dentist', 'medical_clinic', 'physiotherapist']
+    medical_types = ['hospital', 'doctor', 'pharmacy', 'dentist', 'medical_store', 'chemist', 'clinic', 'lab', 'medical_clinic', 'physiotherapist']
     all_places = []  # Initialize empty list for all places
     processed_ids = set()
 
@@ -163,7 +163,7 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
 
 # Replace these with your actual API key and shapefile path
 api_key = os.getenv("GOOGLE_PLACES_API_KEY")  # Replace with your actual API key if needed
-shapefile_path = "shp/testBricks.shp"  # Replace with your shapefile path
+shapefile_path = "shp/defenceBricks.shp"  # Replace with your shapefile path
 output_file = "data2.csv"
 
 # Run the scraping process
