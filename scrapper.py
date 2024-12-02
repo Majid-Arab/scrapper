@@ -108,16 +108,34 @@ def deduplicate_places(all_places):
     return deduplicated_df.to_dict(orient='records')
 
 
+# Function to load the GeoDataFrame with Brick Names
+def load_bricks_from_shapefile(shapefile_path):
+    gdf = gpd.read_file(shapefile_path)
+    if gdf.crs != "EPSG:4326":
+        gdf = gdf.to_crs("EPSG:4326")  # Ensure CRS is WGS84 (lat/lng)
+    return gdf  # Return the GeoDataFrame instead of merging into one geometry
+
+# Function to get the Brick Name for a given point
+def get_brick_name(lat, lng, gdf):
+    point = Point(lng, lat)  # Create a Point from lat/lng
+    for _, row in gdf.iterrows():  # Iterate over each polygon in the GeoDataFrame
+        if row.geometry and row.geometry.is_valid:  # Check if geometry exists and is valid
+            if row.geometry.contains(point):  # Check if the point is inside the polygon
+                return row['name']  # Replace 'BrickName' with the actual column name in your shapefile
+    return None  # Return None if no matching polygon is found
+
+
 # Main function to scrape businesses within a polygon
 def scrape_medical_businesses(api_key, shapefile_path, output_file):
     if not api_key:
         raise ValueError("API Key not found. Check your .env file.")
     
-    # Load polygon
-    polygon = load_polygon_from_shapefile(shapefile_path)
-    print("Polygon loaded. Generating grid points...")
+    # Load the GeoDataFrame with Brick Names
+    gdf = load_bricks_from_shapefile(shapefile_path)
+    print("Shapefile loaded. Generating grid points...")
 
     # Generate grid points dynamically
+    polygon = gdf.geometry.unary_union  # Combine all polygons into one for grid generation
     grid_points = generate_grid_points(polygon, step=0.01)  # Adjust step for density
     print(f"Generated {len(grid_points)} grid points.")
     
@@ -128,7 +146,7 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
     for type_filter in medical_types:
         for point in grid_points:
             try:
-                print(f"Fetching {type_filter} data for grid center: {point}")# Modify calls to use the cached function
+                print(f"Fetching {type_filter} data for grid center: {point}")
                 places = fetch_places(api_key, point, radius=2000, type_filter=type_filter)
             except requests.exceptions.RequestException as e:
                 print(f"Network error: {e}")
@@ -144,8 +162,11 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
 
                     if lat is not None and lng is not None:
                         if is_within_polygon(lat, lng, polygon):
+                            # Determine the Brick Name
+                            brick_name = get_brick_name(lat, lng, gdf)
                             all_places.append({
                                 'Place ID': place_id,
+                                'Brick Name': brick_name if brick_name else "Unknown",  # Add Brick Name
                                 'Business Name': place.get('name'),
                                 'Latitude': lat,
                                 'Longitude': lng,
@@ -153,9 +174,8 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
                                 'Category': ', '.join(place.get('types', [])),
                             })
 
-    # Deduplicate and cluster results
+    # Deduplicate results
     all_places = deduplicate_places(all_places)
-    # all_places = cluster_close_coordinates(all_places, eps=0.001)
 
     # Save results
     save_to_csv(all_places, output_file)
@@ -163,8 +183,8 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
 
 # Replace these with your actual API key and shapefile path
 api_key = os.getenv("GOOGLE_PLACES_API_KEY")  # Replace with your actual API key if needed
-shapefile_path = "shp/defenceBricks.shp"  # Replace with your shapefile path
-output_file = "data2.csv"
+shapefile_path = "shp/SaddarBricks.shp"  # Replace with your shapefile path
+output_file = "saddarData.csv"
 
 # Run the scraping process
 scrape_medical_businesses(api_key, shapefile_path, output_file)
