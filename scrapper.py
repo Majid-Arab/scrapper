@@ -188,8 +188,8 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
 
 # Replace these with your actual API key and shapefile path
 api_key = os.getenv("GOOGLE_PLACES_API_KEY")  # Replace with your actual API key if needed
-shapefile_path = "shp/UtalBricks.shp"  # Replace with your shapefile path
-output_file = "UthalData.csv"
+shapefile_path = "shp/SujhaniBricks.shp"  # Replace with your shapefile path
+output_file = "SurjhaniData.csv"
 
 # Run the scraping process
 scrape_medical_businesses(api_key, shapefile_path, output_file)
