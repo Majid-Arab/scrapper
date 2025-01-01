@@ -1,195 +1,240 @@
 import geopandas as gpd
-from shapely.geometry import Point
+from shapely.geometry import Point, Polygon, MultiPolygon
 import pandas as pd
+import numpy as np
 import requests
 from dotenv import load_dotenv
 import os
-from sklearn.cluster import DBSCAN
-import numpy as np
+from math import radians, sin, cos, sqrt, atan2
+import matplotlib.pyplot as plt
+from shapely.ops import unary_union
+from itertools import product
 
-# def cluster_close_coordinates(all_places, eps=0.001):
-#     """
-#     Clusters places based on their coordinates and selects one representative from each cluster.
-#     Args:
-#         all_places (list): List of place dictionaries with 'Latitude' and 'Longitude'.
-#         eps (float): Maximum distance between coordinates to consider them part of the same cluster.
-#     Returns:
-#         list: Deduplicated list of places.
-#     """
-#     # Extract coordinates
-#     coords = np.array([[place['Latitude'], place['Longitude']] for place in all_places])
-    
-#     # Apply DBSCAN clustering
-#     db = DBSCAN(eps=eps, min_samples=1).fit(coords)
-#     labels = db.labels_
-    
-#     # Group places by cluster label and pick the first one as representative
-#     clustered_places = []
-#     for label in set(labels):
-#         cluster = [all_places[i] for i in range(len(labels)) if labels[i] == label]
-#         clustered_places.append(cluster[0])  # Pick the first place in each cluster
-
-#     return clustered_places
-
-
-# Load environment variables from .env file
+# Load environment variables
 load_dotenv()
 
-# Function to load the polygon from a shapefile
-def load_polygon_from_shapefile(shapefile_path):
-    gdf = gpd.read_file(shapefile_path)
-    if gdf.crs != "EPSG:4326":
-        gdf = gdf.to_crs("EPSG:4326")  # Ensure CRS is WGS84 (lat/lng)
-    return gdf.geometry.unary_union  # Combine all geometries into one
+def haversine_distance(lat1, lon1, lat2, lon2):
+    """Calculate the distance between two points on earth in meters."""
+    R = 6371000  # Earth's radius in meters
+    lat1, lon1, lat2, lon2 = map(radians, [lat1, lon1, lat2, lon2])
+    dlat = lat2 - lat1
+    dlon = lon2 - lon1
+    a = sin(dlat/2)**2 + cos(lat1) * cos(lat2) * sin(dlon/2)**2
+    c = 2 * atan2(sqrt(a), sqrt(1-a))
+    return R * c
 
-# Function to check if a point is inside the polygon
-def is_within_polygon(lat, lng, polygon):
-    point = Point(lng, lat)  # Create point from lat/lng
-    return polygon.contains(point)  # Check if point is within the polygon
+def create_coverage_circle(lat, lon, radius_meters):
+    """Create a circular polygon representing the coverage area of a search point."""
+    # Convert radius from meters to degrees (approximate)
+    radius_degrees = radius_meters / 111320
+    
+    # Create points for the circle
+    angles = np.linspace(0, 360, 32)
+    circle_points = []
+    for angle in angles:
+        dx = radius_degrees * cos(radians(angle))
+        dy = radius_degrees * sin(radians(angle))
+        circle_points.append((lon + dx, lat + dy))
+    
+    return Polygon(circle_points)
 
-# Function to fetch places from Google Places API
-def fetch_places(api_key, location, radius=3000, type_filter='hospital', raw_response=False):
+def validate_coverage(points, search_radius, polygon):
+    """Validate coverage and identify gaps in the search area."""
+    # Create coverage circles for all points
+    coverage_circles = [create_coverage_circle(lat, lon, search_radius) 
+                       for lat, lon in points]
+    
+    # Combine all coverage circles
+    total_coverage = unary_union(coverage_circles)
+    
+    # Find uncovered areas
+    uncovered = polygon.difference(total_coverage)
+    
+    return uncovered, total_coverage
+
+def generate_optimized_grid(polygon, search_radius, overlap_factor=1.4):
+    """Generate optimized grid points with validation and gap filling."""
+    # Initial grid generation
+    bounds = polygon.bounds
+    radius_degrees = search_radius / 111320  # Convert meters to degrees
+    step = radius_degrees * overlap_factor
+    
+    # Generate initial points
+    x_coords = np.arange(bounds[0], bounds[2], step)
+    y_coords = np.arange(bounds[1], bounds[3], step)
+    
+    points = []
+    for x, y in product(x_coords, y_coords):
+        point = Point(x, y)
+        if polygon.contains(point):
+            points.append((y, x))  # Convert to (lat, lon)
+    
+    # Validate coverage and add additional points if needed
+    uncovered, coverage = validate_coverage(points, search_radius, polygon)
+    
+    # If there are gaps, add additional points
+    if not uncovered.is_empty:
+        if isinstance(uncovered, MultiPolygon):
+            gap_centroids = [gap.centroid for gap in uncovered.geoms]
+        else:
+            gap_centroids = [uncovered.centroid]
+            
+        for centroid in gap_centroids:
+            points.append((centroid.y, centroid.x))
+    
+    return points
+
+def visualize_coverage(polygon, points, search_radius, output_file='coverage_map.png'):
+    """Visualize the search coverage and any potential gaps."""
+    fig, ax = plt.subplots(figsize=(15, 15))
+    
+    # Plot the main polygon
+    if isinstance(polygon, MultiPolygon):
+        for geom in polygon.geoms:
+            x, y = geom.exterior.xy
+            ax.plot(x, y, 'k-', linewidth=2)
+    else:
+        x, y = polygon.exterior.xy
+        ax.plot(x, y, 'k-', linewidth=2)
+    
+    # Plot coverage circles
+    for lat, lon in points:
+        circle = create_coverage_circle(lat, lon, search_radius)
+        x, y = circle.exterior.xy
+        ax.plot(x, y, 'b-', alpha=0.3)
+        ax.plot(lon, lat, 'r.', markersize=5)
+    
+    ax.set_aspect('equal')
+    plt.title('Search Coverage Map')
+    plt.savefig(output_file)
+    plt.close()
+
+def fetch_places(api_key, location, radius=2000, place_type='hospital'):
+    """Fetch places from Google Places API with optimized parameters."""
     base_url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
+    
+    # Optimize search parameters based on place type
+    keyword_map = {
+        'hospital': 'hospital OR medical center OR clinic',
+        'doctor': 'doctor OR physician OR medical clinic',
+        'pharmacy': 'pharmacy OR chemist OR drugstore',
+        'dentist': 'dentist OR dental clinic'
+    }
+    
     params = {
         'key': api_key,
         'location': f"{location[0]},{location[1]}",
         'radius': radius,
-        'type': type_filter,
+        'type': place_type,
+        'keyword': keyword_map.get(place_type, ''),
+        'language': 'en'  # Ensure consistent results
     }
+    
     try:
         response = requests.get(base_url, params=params)
-        if raw_response:
-            return response.text
-
         if response.status_code == 200:
             data = response.json()
-            if data.get("status") != "OK":
-                print(f"API Error for location {location}, type {type_filter}: {data.get('error_message', 'Unknown error')} (Status: {data.get('status')})")
+            if data.get("status") != "OK" and data.get("status") != "ZERO_RESULTS":
+                print(f"API Error: {data.get('error_message', 'Unknown error')} (Status: {data.get('status')})")
             return data.get("results", [])
-        else:
-            print(f"API Request Failed for location {location}, type {type_filter}: {response.status_code} - {response.text}")
-            return []
-    except requests.exceptions.RequestException as e:
-        print(f"Network error while fetching data for location {location}, type {type_filter}: {e}")
+    except Exception as e:
+        print(f"Error in API call: {e}")
         return []
-
-# Function to save places to a CSV file
-def save_to_csv(data, output_file):
-    df = pd.DataFrame(data)
-    df.to_csv(output_file, index=False, encoding='utf-8')
-    print(f"Data saved to {output_file}")
-
-# Generate grid points dynamically within the polygon's bounding box
-def generate_grid_points(polygon, step=0.01):
-    minx, miny, maxx, maxy = polygon.bounds  # Get bounding box
-    points = []
-    x = minx
-    while x <= maxx:
-        y = miny
-        while y <= maxy:
-            point = Point(x, y)
-            if polygon.contains(point):
-                points.append((y, x))  # Append as (lat, lng)
-            y += step
-        x += step
-    return points
-
-def deduplicate_places(all_places):
-    """
-    Deduplicates places based on Place ID and Business Name.
-    Args:
-        all_places (list): List of place dictionaries.
-    Returns:
-        list: Deduplicated list of places.
-    """
-    df = pd.DataFrame(all_places)
     
-    # Remove duplicates based on 'Place ID' and 'Business Name'
-    deduplicated_df = df.drop_duplicates(subset=['Place ID', 'Business Name'], keep='first')
-    
-    # Convert back to list of dictionaries
-    return deduplicated_df.to_dict(orient='records')
+    return []
 
-
-# Function to load the GeoDataFrame with Brick Names
-def load_bricks_from_shapefile(shapefile_path):
+def scrape_medical_businesses(api_key, shapefile_path, output_file):
+    """Main function to scrape medical businesses with optimized coverage."""
+    # Load and process shapefile
     gdf = gpd.read_file(shapefile_path)
     if gdf.crs != "EPSG:4326":
-        gdf = gdf.to_crs("EPSG:4326")  # Ensure CRS is WGS84 (lat/lng)
-    return gdf  # Return the GeoDataFrame instead of merging into one geometry
-
-# Function to get the Brick Name for a given point
-def get_brick_name(lat, lng, gdf):
-    point = Point(lng, lat)  # Create a Point from lat/lng
-    for _, row in gdf.iterrows():  # Iterate over each polygon in the GeoDataFrame
-        if row.geometry and row.geometry.is_valid:  # Check if geometry exists and is valid
-            if row.geometry.contains(point):  # Check if the point is inside the polygon
-                return row['name']  # Replace 'BrickName' with the actual column name in your shapefile
-    return None  # Return None if no matching polygon is found
-
-
-# Main function to scrape businesses within a polygon
-def scrape_medical_businesses(api_key, shapefile_path, output_file):
-    if not api_key:
-        raise ValueError("API Key not found. Check your .env file.")
-
-    # Load the GeoDataFrame with Brick Names
-    gdf = load_bricks_from_shapefile(shapefile_path)
-    print("Shapefile loaded. Generating grid points...")
-
-    # Generate grid points dynamically
-    polygon = gdf.geometry.unary_union  # Combine all polygons into one for grid generation
-    grid_points = generate_grid_points(polygon, step=0.01)  # Adjust step for density
-    print(f"Generated {len(grid_points)} grid points.")
-
-    medical_types = ['hospital', 'doctor', 'pharmacy', 'dentist', 'medical_store', 'chemist', 'clinic', 'lab', 'medical_clinic', 'physiotherapist']
-    all_places = []  # Initialize empty list for all places
+        gdf = gdf.to_crs("EPSG:4326")
+    
+    polygon = gdf.geometry.unary_union
+    print("Shapefile loaded. Generating optimized search points...")
+    
+    # Define search parameters
+    search_types = [
+        ('hospital', 2000),
+        ('doctor', 1500),
+        ('pharmacy', 1000),
+        ('dentist', 1000)
+    ]
+    
+    # Generate optimized search points
+    all_points = []
+    for _, radius in search_types:
+        points = generate_optimized_grid(polygon, radius)
+        all_points.extend(points)
+    
+    # Remove duplicates while preserving order
+    all_points = list(dict.fromkeys(map(tuple, all_points)))
+    print(f"Generated {len(all_points)} optimized search points.")
+    
+    # Visualize coverage
+    visualize_coverage(polygon, all_points, min(radius for _, radius in search_types))
+    print("Coverage map generated as 'coverage_map.png'")
+    
+    # Perform searches
+    all_places = []
     processed_ids = set()
-
-    for type_filter in medical_types:
-        for point in grid_points:
+    api_calls = 0
+    
+    for point in all_points:
+        for place_type, radius in search_types:
             try:
-                # Fetch the brick name for the current point
-                brick_name = get_brick_name(point[0], point[1], gdf) or "Unknown"
-                print(f"Fetching {type_filter} data for grid center: {point} in brick: {brick_name}")
-
-                # Fetch places from API
-                places = fetch_places(api_key, point, radius=2000, type_filter=type_filter)
-
+                api_calls += 1
+                print(f"API Call #{api_calls}: {place_type} at {point}")
+                
+                places = fetch_places(api_key, point, radius, place_type)
+                
                 for place in places:
                     place_id = place.get("place_id")
                     if place_id and place_id not in processed_ids:
                         processed_ids.add(place_id)
-
-                        lat = place.get("geometry", {}).get("location", {}).get("lat")
-                        lng = place.get("geometry", {}).get("location", {}).get("lng")
-
-                        if lat is not None and lng is not None:
-                            if is_within_polygon(lat, lng, polygon):
-                                all_places.append({
-                                    'Place ID': place_id,
-                                    'Brick Name': brick_name,
-                                    'Business Name': place.get('name'),
-                                    'Latitude': lat,
-                                    'Longitude': lng,
-                                    'Status': place.get('business_status', 'UNKNOWN'),
-                                    'Category': ', '.join(place.get('types', [])),
-                                })
+                        
+                        location = place.get("geometry", {}).get("location", {})
+                        lat = location.get("lat")
+                        lng = location.get("lng")
+                        
+                        if lat and lng and polygon.contains(Point(lng, lat)):
+                            # Get brick name
+                            brick_name = "Unknown"
+                            point = Point(lng, lat)
+                            for _, row in gdf.iterrows():
+                                if row.geometry.contains(point):
+                                    brick_name = row.get('name', 'Unknown')
+                                    break
+                            
+                            all_places.append({
+                                'Place ID': place_id,
+                                'Brick Name': brick_name,
+                                'Business Name': place.get('name'),
+                                'Latitude': lat,
+                                'Longitude': lng,
+                                'Type': place_type,
+                                'Status': place.get('business_status', 'UNKNOWN'),
+                                'Address': place.get('vicinity', ''),
+                                'Rating': place.get('rating', 'N/A'),
+                                'User Ratings': place.get('user_ratings_total', 0)
+                            })
+                
             except Exception as e:
-                print(f"Error while processing point {point} in brick {brick_name}: {e}")
+                print(f"Error processing point {point}: {e}")
                 continue
-
-    # Deduplicate results
-    all_places = deduplicate_places(all_places)
-
+    
+    print(f"\nTotal API calls made: {api_calls}")
+    print(f"Total unique places found: {len(all_places)}")
+    
     # Save results
-    save_to_csv(all_places, output_file)
+    df = pd.DataFrame(all_places)
+    df.to_csv(output_file, index=False, encoding='utf-8')
+    print(f"Data saved to {output_file}")
 
-
-# Replace these with your actual API key and shapefile path
-api_key = os.getenv("GOOGLE_PLACES_API_KEY")  # Replace with your actual API key if needed
-shapefile_path = "shp/SujhaniBricks.shp"  # Replace with your shapefile path
-output_file = "SurjhaniData.csv"
-
-# Run the scraping process
-scrape_medical_businesses(api_key, shapefile_path, output_file)
+# Usage
+if __name__ == "__main__":
+    api_key = os.getenv("GOOGLE_PLACES_API_KEY")
+    shapefile_path = "shp/SujhaniBricks.shp"
+    output_file = "SurjhaniData.csv"
+    
+    scrape_medical_businesses(api_key, shapefile_path, output_file)
