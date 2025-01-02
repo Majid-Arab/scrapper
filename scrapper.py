@@ -115,10 +115,11 @@ def fetch_places(api_key, location, radius=2000, place_type='hospital'):
     
     # Optimize search parameters based on place type
     keyword_map = {
-        'hospital': 'hospital OR medical center OR clinic',
+        'hospital': 'hospital OR medical center OR clinic OR maternity home',
         'doctor': 'doctor OR physician OR medical clinic',
-        'pharmacy': 'pharmacy OR chemist OR drugstore',
-        'dentist': 'dentist OR dental clinic'
+        'pharmacy': 'pharmacy OR chemist OR drugstore OR medical store',
+        'dentist': 'dentist OR dental clinic',
+        'laboratory': 'laboratory OR lab',
     }
     
     params = {
