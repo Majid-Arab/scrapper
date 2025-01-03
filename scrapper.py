@@ -115,20 +115,22 @@ def fetch_places(api_key, location, radius=2000, place_type='hospital'):
     
     # Optimize search parameters based on place type
     keyword_map = {
-        'hospital': 'hospital OR medical center OR clinic OR maternity home',
+        'hospital': 'hospital OR medical center OR clinic',
         'doctor': 'doctor OR physician OR medical clinic',
-        'pharmacy': 'pharmacy OR chemist OR drugstore OR medical store',
-        'dentist': 'dentist OR dental clinic',
-        'laboratory': 'laboratory OR lab',
+        'pharmacy': 'pharmacy OR chemist OR drugstore',
+        'dentist': 'dentist OR dental clinic'
     }
+    
+    # Ensure location coordinates are properly formatted
+    lat, lon = location  # Unpack the location tuple
     
     params = {
         'key': api_key,
-        'location': f"{location[0]},{location[1]}",
+        'location': f"{lat},{lon}",  # Use unpacked coordinates
         'radius': radius,
         'type': place_type,
         'keyword': keyword_map.get(place_type, ''),
-        'language': 'en'  # Ensure consistent results
+        'language': 'en'
     }
     
     try:
@@ -138,11 +140,12 @@ def fetch_places(api_key, location, radius=2000, place_type='hospital'):
             if data.get("status") != "OK" and data.get("status") != "ZERO_RESULTS":
                 print(f"API Error: {data.get('error_message', 'Unknown error')} (Status: {data.get('status')})")
             return data.get("results", [])
+        else:
+            print(f"API Request Failed: {response.status_code} - {response.text}")
+            return []
     except Exception as e:
         print(f"Error in API call: {e}")
         return []
-    
-    return []
 
 def scrape_medical_businesses(api_key, shapefile_path, output_file):
     """Main function to scrape medical businesses with optimized coverage."""
@@ -185,7 +188,9 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
         for place_type, radius in search_types:
             try:
                 api_calls += 1
-                print(f"API Call #{api_calls}: {place_type} at {point}")
+                # Convert point coordinates to string for logging
+                point_str = f"({point[0]:.6f}, {point[1]:.6f})"
+                print(f"API Call #{api_calls}: {place_type} at {point_str}")
                 
                 places = fetch_places(api_key, point, radius, place_type)
                 
@@ -201,9 +206,9 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
                         if lat and lng and polygon.contains(Point(lng, lat)):
                             # Get brick name
                             brick_name = "Unknown"
-                            point = Point(lng, lat)
+                            location_point = Point(lng, lat)
                             for _, row in gdf.iterrows():
-                                if row.geometry.contains(point):
+                                if row.geometry.contains(location_point):
                                     brick_name = row.get('name', 'Unknown')
                                     break
                             
@@ -221,7 +226,9 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
                             })
                 
             except Exception as e:
-                print(f"Error processing point {point}: {e}")
+                # Properly format the error message with point coordinates
+                point_str = f"({point[0]:.6f}, {point[1]:.6f})"
+                print(f"Error processing point at {point_str}: {e}")
                 continue
     
     print(f"\nTotal API calls made: {api_calls}")
@@ -235,7 +242,7 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
 # Usage
 if __name__ == "__main__":
     api_key = os.getenv("GOOGLE_PLACES_API_KEY")
-    shapefile_path = "shp/SujhaniBricks.shp"
-    output_file = "SurjhaniData.csv"
+    shapefile_path = "lahoreShp/Shekhupura.shp"
+    output_file = "Shekhupura.csv"
     
     scrape_medical_businesses(api_key, shapefile_path, output_file)
