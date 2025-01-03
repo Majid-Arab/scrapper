@@ -242,7 +242,7 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
 # Usage
 if __name__ == "__main__":
     api_key = os.getenv("GOOGLE_PLACES_API_KEY")
-    shapefile_path = "lahoreShp/Shekhupura.shp"
-    output_file = "Shekhupura.csv"
+    shapefile_path = "lahoreShp/Shakhupura.shp"
+    output_file = "Shakhupura.csv"
     
     scrape_medical_businesses(api_key, shapefile_path, output_file)
