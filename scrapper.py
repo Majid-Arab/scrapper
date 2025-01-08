@@ -9,6 +9,20 @@ from math import radians, sin, cos, sqrt, atan2
 import matplotlib.pyplot as plt
 from shapely.ops import unary_union
 from itertools import product
+import logging
+
+# Set up logging for API calls
+logging.basicConfig(filename='api_calls.log', level=logging.INFO, format='%(asctime)s - %(message)s')
+
+# Global dictionaries for logging
+search_parameter_counts = {
+    'hospital': 0,
+    'doctor': 0,
+    'pharmacy': 0,
+    'dentist': 0
+}
+
+grid_search_counts = {}
 
 # Load environment variables
 load_dotenv()
@@ -109,15 +123,15 @@ def visualize_coverage(polygon, points, search_radius, output_file='coverage_map
     plt.savefig(output_file)
     plt.close()
 
-def fetch_places(api_key, location, radius=2000, place_type='hospital'):
-    """Fetch places from Google Places API with optimized parameters."""
+def fetch_places(api_key, location, radius=2000, place_type='hospital', grid_index=None, search_index=None, log_file='api_calls.log'):
+    """Fetch places from Google Places API and log the number of customers, hits per search, and hits per grid."""
     base_url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
     
     # Optimize search parameters based on place type
     keyword_map = {
-        'hospital': 'hospital OR medical center OR clinic',
+        'hospital': 'hospital OR medical center OR clinic OR welfare',
         'doctor': 'doctor OR physician OR medical clinic',
-        'pharmacy': 'pharmacy OR chemist OR drugstore',
+        'pharmacy': 'pharmacy OR chemist OR drugstore OR medical store',
         'dentist': 'dentist OR dental clinic'
     }
     
@@ -139,7 +153,14 @@ def fetch_places(api_key, location, radius=2000, place_type='hospital'):
             data = response.json()
             if data.get("status") != "OK" and data.get("status") != "ZERO_RESULTS":
                 print(f"API Error: {data.get('error_message', 'Unknown error')} (Status: {data.get('status')})")
-            return data.get("results", [])
+            places = data.get("results", [])
+            
+            # Log the API hit for this search location, type, and the number of customers found
+            with open(log_file, 'a') as log:
+                # Log for API hits per grid (index-wise)
+                log.write(f"Grid #{grid_index} | Search #{search_index} | API Hit: {place_type} at ({lat:.6f}, {lon:.6f}) - Found: {len(places)} customers\n")
+            
+            return places
         else:
             print(f"API Request Failed: {response.status_code} - {response.text}")
             return []
@@ -147,8 +168,8 @@ def fetch_places(api_key, location, radius=2000, place_type='hospital'):
         print(f"Error in API call: {e}")
         return []
 
-def scrape_medical_businesses(api_key, shapefile_path, output_file):
-    """Main function to scrape medical businesses with optimized coverage."""
+def scrape_medical_businesses(api_key, shapefile_path, output_file, log_file='api_calls.log'):
+    """Main function to scrape medical businesses and log API hits per search, grid, and customer count."""
     # Load and process shapefile
     gdf = gpd.read_file(shapefile_path)
     if gdf.crs != "EPSG:4326":
@@ -183,16 +204,23 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
     all_places = []
     processed_ids = set()
     api_calls = 0
+    grid_hits = 0  # Total API hits per grid
     
-    for point in all_points:
-        for place_type, radius in search_types:
+    # Loop over grid points and perform searches for each type
+    for grid_index, point in enumerate(all_points):
+        # Initialize API call counters per search
+        search_hits = {place_type: 0 for place_type, _ in search_types}
+        
+        for search_index, (place_type, radius) in enumerate(search_types):
             try:
                 api_calls += 1
                 # Convert point coordinates to string for logging
                 point_str = f"({point[0]:.6f}, {point[1]:.6f})"
                 print(f"API Call #{api_calls}: {place_type} at {point_str}")
                 
-                places = fetch_places(api_key, point, radius, place_type)
+                grid_hits += 1
+                # Call fetch_places with grid and search indices
+                places = fetch_places(api_key, point, radius, place_type, grid_index, search_index, log_file)
                 
                 for place in places:
                     place_id = place.get("place_id")
@@ -224,13 +252,21 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
                                 'Rating': place.get('rating', 'N/A'),
                                 'User Ratings': place.get('user_ratings_total', 0)
                             })
-                
+                            
+                # Log the total number of API hits for each search type (per search)
+                search_hits[place_type] += 1
             except Exception as e:
-                # Properly format the error message with point coordinates
-                point_str = f"({point[0]:.6f}, {point[1]:.6f})"
-                print(f"Error processing point at {point_str}: {e}")
+                print(f"Error processing point at {point}: {e}")
                 continue
+        
+        # Log the number of API hits per grid
+        with open(log_file, 'a') as log:
+            log.write(f"\nGrid #{grid_index} - Total API Hits: {grid_hits}\n")
+            for place_type, _ in search_types:
+                log.write(f"  {place_type.capitalize()} Search Hits: {search_hits[place_type]}\n")
     
+    # Final log after all searches
+    print(f"\nTotal API calls made: {grid_hits}")
     print(f"\nTotal API calls made: {api_calls}")
     print(f"Total unique places found: {len(all_places)}")
     
@@ -242,7 +278,7 @@ def scrape_medical_businesses(api_key, shapefile_path, output_file):
 # Usage
 if __name__ == "__main__":
     api_key = os.getenv("GOOGLE_PLACES_API_KEY")
-    shapefile_path = "lahoreShp/Kasur/kasur.shp"
-    output_file = "Kasur.csv"
+    shapefile_path = "lahoreShp/Kahna/Kahna.shp"
+    output_file = "Kahna.csv"
     
     scrape_medical_businesses(api_key, shapefile_path, output_file)
