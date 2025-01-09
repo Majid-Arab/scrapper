@@ -1,0 +1,825 @@
+Place ID,Brick Name,Business Name,Latitude,Longitude,Type,Status,Address,Rating,User Ratings
+ChIJ9eWLIgBVGDkRt9So73kqDHs,BAHRIA TOWN,Faisal Health Clinic,31.3442567,74.1780383,hospital,OPERATIONAL,"85VH+P63, Ghaznavi bkock (extn Bahria Town, Lahore",5.0,1
+ChIJkwIrXd5VGDkRcZoIlIW4HHY,BAHRIA TOWN,Al assar Pharmacy Poly clinic,31.3573665,74.18219289999999,pharmacy,OPERATIONAL,"Plaza 37، Quaid Commercial، F Violet Block Bahria Town, Lahore",5.0,4
+ChIJf4a7ARH_GDkRwMh-GdbLDjc,BAHRIA TOWN,Qamar Medical center,31.384485,74.15064579999999,hospital,OPERATIONAL,"95M2+Q7R, Maraka - Bahria Town Rd, Maraka Village, Lahore",5.0,1
+ChIJzzMoERf_GDkR4LGtTalV4w4,BAHRIA TOWN,(AL NOOR) MMFMH Mian Muhammad Fazil Memorial Hospital,31.3922282,74.1514857,hospital,OPERATIONAL,"95R2+VHX, Maraka Village, Lahore",4.8,12
+ChIJV3NoEjdVGDkRmM3T6M4Jj8I,BAHRIA TOWN,eShifa Health Center,31.3619133,74.1868405,hospital,OPERATIONAL,"35- A Main Blvd, near Clock Tower, Rafi Block Bahria Town, Lahore",4.5,4
+ChIJW1zpp-D_GDkR-J9JKh6pshQ,BAHRIA TOWN,CURE-ALL MEDICAL COMPLEX(CMC),31.3683919,74.1866841,hospital,OPERATIONAL,"250-B, opposite Grand Mosque, Tulip Block Sector C Bahria Town, Lahore",5.0,40
+ChIJ74LpZwD_GDkRBAPQYpMWqLY,BAHRIA TOWN,Care and Cure Hospital,31.3895505,74.1768112,hospital,OPERATIONAL,"apposite sukh chain naer, 56 G-Block canal Garden, Block G Bahria Town, Lahore",4.4,11
+ChIJy7QZI2X_GDkRcbCkU31-DDk,BAHRIA TOWN,Health Plus Speciality Clinics,31.388168,74.18223429999999,hospital,OPERATIONAL,"Plot 208, Ghori Block Sector B Bahria Town, Lahore",5.0,24
+ChIJuxDFRX7_GDkR68t3uCA0z0g,BAHRIA TOWN,Punjab Poly Clinic,31.3767459,74.1855887,hospital,OPERATIONAL,"95GP+M6W, Sector C Commercial Area Sector C Bahria Town, Lahore",5.0,1
+ChIJy86V973_GDkR5B_6h-tZP2w,BAHRIA TOWN,Bahria Town International Hospital Lahore -Best Hospital in Lahore,31.3878914,74.1876979,hospital,OPERATIONAL,"Takbeer Block Sector B Bahria Town, Lahore",3.4,443
+ChIJM5nRe7T_GDkRDzZsNeMkIJE,BAHRIA TOWN,mushtaq surgical center maraka lahore,31.3840255,74.1541046,hospital,OPERATIONAL,"95M3+JJ9, Maraka Village, Maraka",0.0,0
+ChIJ3YevCgBVGDkRYxL7SlIbj3s,BAHRIA TOWN,Healerz Medical and Dental Specialists,31.3612973,74.1867323,hospital,OPERATIONAL,"956P+GM9 Healerz Medical and Dental Specialists basement, Rafi Block Bahria Town, Lahore",5.0,14
+ChIJad75TI7_GDkRj75hg_ic67o,BAHRIA TOWN,Green Polyclinic-Green Plus Pharmacie,31.3743125,74.1856875,hospital,OPERATIONAL,"Sector C Commercial Area Sector C Bahria Town, Lahore",3.6,44
+ChIJAao0RKBVGDkR8jeRIIzqPlw,BAHRIA TOWN,Tariq Latif Medical Center,31.3573751,74.1815691,hospital,OPERATIONAL,"Plaza 44, Ground Floor Quaid Block Commercial, Sector E, Main Boulevard South, Bahria Town, Lahore",5.0,4
+ChIJ4TQrgOf_GDkRZRVAJiQdKtg,BAHRIA TOWN,Doctors' Office Family Health Centre,31.3728646,74.1856222,doctor,OPERATIONAL,"Plaza 3, C-Commercial, Main Boulevard, Commercial Area Sector C Bahria Town, Lahore",4.5,4
+ChIJ8Yfz3nf_GDkR_KGPyW8mthE,BAHRIA TOWN,Care 4 Diabetes Clinic,31.3759108,74.1707459,doctor,OPERATIONAL,"25 -AA (Commercial zone) Sector D., Aa Block Sector D Bahria Town, Lahore",2.8,6
+ChIJK_OE3jn_GDkRMEy5iYzOK3A,BAHRIA TOWN,DR NAEEM (401 EE),31.3694884,74.1768412,doctor,OPERATIONAL,"Sector C Janiper Block Sector C Bahria Town, Lahore",5.0,1
+ChIJb4XrFZP_GDkRk3FCvmPUULk,BAHRIA TOWN,Family dental clinic,31.3782072,74.1747203,doctor,OPERATIONAL,"95HF+7VQ, Unnamed Road, Overseas Enclave Sector B Bahria Town, Lahore",4.3,3
+ChIJ5c3BviP_GDkRZ-3gf0ehju8,BAHRIA TOWN,Al Rehman Pharmacy,31.3758529,74.1715646,pharmacy,OPERATIONAL,"D, Plaza 13, Ground Floor, AA Commercial, Bahria Town, Lahore",4.9,36
+ChIJr03pQ0z_GDkRJPd7682FP0o,BAHRIA TOWN,Mahmood Pharmacy,31.3750308,74.17403639999999,pharmacy,OPERATIONAL,"Ground Floor 61-AA Commercial, Near Surahi Chowk, Bb Block Sector D Bahria Town, Lahore",4.5,50
+ChIJAUCvfuj_GDkRnemNPfPLti0,BAHRIA TOWN,Medserv Pharmacy,31.37649649999999,74.1739502,pharmacy,OPERATIONAL,"Plaza 30, AA Commercial, Aa Block Sector D Bahria Town, Lahore",3.3,12
+ChIJxxe9Kzr_GDkRNMIX-Xe_2HE,BAHRIA TOWN,Hyatt Pharmacy,31.374512,74.1811711,pharmacy,OPERATIONAL,"194 cc, Cc Block Block DD DHA Phase 4, Lahore",0.0,0
+ChIJnzpRfX__GDkRmJVE7e1koy0,BAHRIA TOWN,Raheem Pharmacy,31.3739482,74.16886439999999,pharmacy,OPERATIONAL,"95F9+HGH, Street 1, DD Block, Dd Block Sector D Bahria Town, Lahore",4.0,1
+ChIJldBYOq7_GDkR2NLWynx7jYA,BAHRIA TOWN,Rural Health Center,31.4015666,74.1817488,hospital,OPERATIONAL,"C52J+JMH, Jubilee Town Housing Scheme, Lahore",3.0,2
+ChIJP0r9NwP_GDkRVjwtQfMpfaw,BAHRIA TOWN,Geo Pak International Hospital,31.4015072,74.1603451,hospital,OPERATIONAL,"Defence Rd, Mohlanwal, Lahore",3.8,76
+ChIJG1jh9Ab_GDkRkD5I_7rG_Y0,BAHRIA TOWN,Medicare Clinic,31.4065564,74.18333890000001,hospital,OPERATIONAL,"Plot 757-B, Mian Chowk, Block B Jubilee Town Housing Scheme, Lahore",5.0,2
+ChIJVZYiEzkHGTkRgRtWpTmqeRA,BAHRIA TOWN,Dr.Imran Clinic (Home Checkup/Online Consultation),31.4066357,74.1836764,doctor,OPERATIONAL,"B, Mian Chok Jubilee Town, Road, Izmir, Lahore",4.7,13
+ChIJzeIOoZn_GDkRtHBtO1B_bsM,BAHRIA TOWN,Drugs.comPharmacy,31.4057358,74.1698729,pharmacy,OPERATIONAL,"04-D, 04-D Canal Rd, Mohlanwal Scheme Block D Mohlan Wala Scheme, Lahore",5.0,5
+ChIJN-EkyAT_GDkRpmguryq29mI,BAHRIA TOWN,Metro pharmacy,31.4008624,74.16991019999999,pharmacy,OPERATIONAL,"C529+9XF, Shahkam Chowk Bus Stop, Bahria Town،, Block B Mohlan Wala Scheme, Lahore",3.0,3
+ChIJBYoCowP_GDkRvGFDYbtr0Ag,BAHRIA TOWN,Moon pharma plus,31.4008965,74.1662829,pharmacy,OPERATIONAL,"Adjacent to PGSHF gate defence road, Canal Rd, Pgshs 1, Lahore",4.7,9
+ChIJKT6CrQD_GDkRKaS3uktOYKU,BAHRIA TOWN,Almadina medical & General Store,31.4023837,74.1586093,pharmacy,OPERATIONAL,"Defence Rd, Pgshs 1, Lahore",5.0,3
+ChIJM0mgJ1P_GDkR3A8Apvgz93w,BAHRIA TOWN,Rite Pill Pharmacy,31.4074438,74.18260339999999,pharmacy,OPERATIONAL,"543-A, Jubilee Town, Lahore",4.3,7
+ChIJF2gsMAP_GDkRKnryojA1mWQ,BAHRIA TOWN,MA Health Care & Pharmacy,31.40281779999999,74.1598241,pharmacy,OPERATIONAL,"C535+4WF، Defence Road, PGSHF, Block D Pgshs 1, Lahore",5.0,1
+ChIJzT1qqbv_GDkR7iWE50Zdcos,BAHRIA TOWN,Medik Pharmacy,31.3939744,74.1573654,pharmacy,OPERATIONAL,"Palm Ave, Block B Block A Sukh Chayn Gardens, Lahore",5.0,1
+ChIJOf-LxBz_GDkRQalyVHS9HHM,BAHRIA TOWN,Al-Madina Surgical Center,31.4024848,74.15819499999999,pharmacy,OPERATIONAL,"C525+X7W, Defence Rd, Pgshs 1, Lahore",3.7,10
+ChIJq0X802D_GDkRlX-Qw1UGEhU,BAHRIA TOWN,Hunain Pharmacy,31.3965244,74.1771004,pharmacy,OPERATIONAL,"11, AA commercial Area Canal Gardens, Lahore",0.0,0
+ChIJhcY2aIf_GDkREafRSrMi8lU,BAHRIA TOWN,Al-Qazi Pharmacy,31.4016674,74.16028519999999,pharmacy,OPERATIONAL,"Plot 167, Block C Pgshs 1, Lahore",4.0,2
+ChIJoxWUcwD_GDkRd6QKB15kay0,BAHRIA TOWN,Fazal Din’s Pharma Plus Canal Garden Branch,31.393923,74.1748643,pharmacy,OPERATIONAL,"A 128 C, Block B Canal Gardens, Lahore",5.0,2
+ChIJsQwhxqL_GDkRUJCjuEZl6RA,BAHRIA TOWN,Azhar Dental Studio,31.3882335,74.1819652,dentist,OPERATIONAL,"Ghori Block Sector B Bahria Town, Lahore",4.9,194
+ChIJkzxSGa7_GDkR6EC9tJzCpoo,BAHRIA TOWN,"Indus Hospital - Jubilee Town, Lahore",31.4025963,74.18284849999999,hospital,OPERATIONAL,"Izmir Town Rd, Defence Rd, Jubilee Town Housing Scheme, Lahore",4.0,395
+ChIJGzvsJF7-GDkRlOW6HW7lWBo,MAIN BAZAR CHUNG,Clinic Doctor Moosa,31.4299049,74.1748971,hospital,OPERATIONAL,"C5HF+XX6, Chung, Lahore",5.0,1
+ChIJdxKwEAD_GDkR0RubPHhtMuI,MAIN BAZAR CHUNG,Robina Medical Center,31.4268522,74.17740859999999,hospital,OPERATIONAL,"C5GG+VRF, Road, Chung, Lahore",3.5,2
+ChIJv3LcKV7-GDkRWvz4l_loIfM,MAIN BAZAR CHUNG,Al Mustafa Hospital,31.4303872,74.1744217,hospital,OPERATIONAL,"C5JF+5Q3, Chung, Lahore",4.6,13
+ChIJFRpiBGv-GDkRRPMC_VpkuTw,MUGHAL PURA,Saleem Memorial Hospital,31.4362956,74.1925846,hospital,OPERATIONAL,"Canal Rd, opposite Green Forts 2, Satluj Block Green Forts 2, Lahore",4.2,258
+ChIJV3wlhV7-GDkRytccADAAWFs,MAIN BAZAR CHUNG,Fatma Hospital,31.427227,74.17627399999999,hospital,OPERATIONAL,"C5GG+VGR, Multan Rd, Chung, Lahore",5.0,1
+ChIJLaRgKND_GDkRzaHIhpQmyUc,MAIN BAZAR CHUNG,Al-Shhafi Clinic,31.4276381,74.178001,doctor,OPERATIONAL,"C5HH+362, Unnamed Road, Chung",5.0,4
+ChIJr_vU6Yf_GDkRzXciRfduE_c,MAIN BAZAR CHUNG,Javed Clinic,31.4267102,74.17066489999999,doctor,OPERATIONAL,"C5GC+M7M, Adalat Shah Rd, Chung, Lahore",0.0,0
+ChIJjewYgsv_GDkR7caj7xO012Q,MUGHAL PURA,Medical store,31.4321728,74.1807087,pharmacy,OPERATIONAL,"Komboh colony Chung, Chung, Lahore",0.0,0
+ChIJneJf04H_GDkR6R9YNGQVU6I,MAIN BAZAR CHUNG,Medicare pharmacy & surgical Store,31.4271158,74.1760911,pharmacy,OPERATIONAL,"C5GG+RCX, Chung, Lahore",5.0,9
+ChIJs9fKcl7-GDkRQz_cSfFJuOE,MAIN BAZAR CHUNG,"Karmanwala Medical Store,Chung Branch",31.42922249999999,74.1761937,pharmacy,OPERATIONAL,"C5HG+MFX, Chung, Lahore",5.0,5
+ChIJ51sIkXf_GDkRzPQ4VqMsilI,MAIN BAZAR CHUNG,Live Well Pharmacy,31.4297342,74.17581539999999,pharmacy,OPERATIONAL,"C5HG+V8X, Main bazaar, Multan Rd, Chung",0.0,0
+ChIJS1u1L5QDGTkR6Bs-V5BPQVg,MAIN BAZAR CHUNG,Masood pharmacy,31.4266992,74.1758421,pharmacy,OPERATIONAL,"Gourmet bakers, Chung",4.0,1
+ChIJe5lZW87_GDkRjqedW6hsVLk,MAIN BAZAR CHUNG,Fakhar ul Mashaikh medicose & general store,31.4320595,74.17829160000001,pharmacy,OPERATIONAL,"C5JH+R8F, Manowal, Kamboh Colony",5.0,1
+ChIJTQI9sjH_GDkROICIiHPbPX0,MAIN BAZAR CHUNG,Kings pharmacy,31.4302629,74.1790981,pharmacy,OPERATIONAL,"Karmani Rd, near gourmet bakkrey, Chung, Lahore",0.0,0
+ChIJp9cRESv_GDkRfHjHKb5PEPw,MAIN BAZAR CHUNG,Abdul Khaliq & Sons (AKS) Pharmacy,31.4249758,74.1761423,pharmacy,OPERATIONAL,"Karmani Road, Chung, Lahore",0.0,0
+ChIJX8rxLbf_GDkRqJwfirtwMPc,MAIN BAZAR CHUNG,Sidra pharmacy,31.4294456,74.1759758,pharmacy,OPERATIONAL,"C5HG+QC4, Main Bazar, Chung, Lahore",0.0,0
+ChIJfwKZKAD_GDkRgSi4MXKirTM,MAIN BAZAR CHUNG,Irfan Medical Store,31.4297959,74.1757609,pharmacy,OPERATIONAL,"C5HG+W8P, Multan Rd, Chung, Lahore",0.0,0
+ChIJt1vzVTxVGDkR5nPCWrIWOLA,BAHRIA TOWN,Emergency and Trauma Centre,31.3359189,74.1976669,hospital,OPERATIONAL,"85PX+937, Jati Umrah Lahore",4.3,8
+ChIJf9wU9DxVGDkRwlE14k0Yxy0,BAHRIA TOWN,Sharif Medical City Hospital,31.3355752,74.1984894,hospital,OPERATIONAL,"Sharif Medical City Rd، off Raiwand Road, Jati Umrah Lahore",4.0,202
+ChIJoXENHQBVGDkRyO3GIB1qNKY,BAHRIA TOWN,Al shifa medical centre and laboratory,31.3556047,74.2150279,hospital,OPERATIONAL,"138 road, jati umrah Block B Awt Housing Scheme Phase 2 AWT Phase 2, Lahore",5.0,3
+ChIJ_2HnL0RVGDkR8UpU8MFBbxc,BAHRIA TOWN,EPI Center Sharif City Hospital,31.3357981,74.19811949999999,hospital,OPERATIONAL,"85PX+869, SMCH Rd, Jati Umrah Lahore",0.0,0
+ChIJsS2qMD9VGDkRmtRijI5w9lg,BAHRIA TOWN,Al Shifa medical & general store,31.3502872,74.18747640000001,pharmacy,OPERATIONAL,"952P+4X9, Main Bazar, Sheikh Kot, Lahore",0.0,0
+ChIJJRjMjCNVGDkR8aGjvEFRelc,BAHRIA TOWN,Bismillah Medical Store,31.3499621,74.18833479999999,pharmacy,OPERATIONAL,"85XQ+X8P, Sheikh Kot, Lahore",0.0,0
+ChIJQ6jNQYFVGDkRzDrEpuJ0hy0,BAHRIA TOWN,AL-RX Pharma+,31.3399558,74.18564719999999,pharmacy,OPERATIONAL,"2,A plaza, phase 1 Sui Gas Phase-2, Lahore",0.0,0
+ChIJEe3200hVGDkRIrF-M6QhwLQ,BAHRIA TOWN,Decent Pharmacy,31.33579599999999,74.1981539,pharmacy,OPERATIONAL,"85PX+87C, Jati Umrah Lahore",4.7,6
+ChIJS6_TTQD_GDkR-vrKUUhbsbE,BAHRIA TOWN,Health Clinic By Dr Jahanzaib Arshad,31.3695167,74.1871333,doctor,OPERATIONAL,"Shop No.4, 1st Floor, Metro Gulf Center, Sector C Commercial Area Sector C Bahria Town, Lahore",5.0,4
+ChIJ03LmEEj_GDkROvga-VpCHR8,BAHRIA TOWN,Hussain Homoeo Clinic & Store,31.3725116,74.1869875,doctor,OPERATIONAL,"30 C, Sector C Commercial Area Sector C Bahria Town, Lahore",5.0,5
+ChIJ1_xwXKb_GDkR7u03JqecZJ4,BAHRIA TOWN,Physio Fit & Health Center,31.3873046,74.1897393,doctor,OPERATIONAL,"Eastern Aven West Sector B Shaheen Block Commercial Bahria Town Lahore Punjab B, Lahore",4.9,34
+ChIJ1VhzLcT_GDkRcGf2wrZgvvE,BAHRIA TOWN,Punjab Medical Store,31.3768318,74.1855867,pharmacy,OPERATIONAL,"Plot 156, Sector C Commercial Area, Punjab 53720, Sector C Commercial Area Sector C Bahria Town, Lahore",3.6,33
+ChIJobTiSQH_GDkRinZ0QtFrqh8,BAHRIA TOWN,Drug Shop - Bahria Town,31.37021429999999,74.1857624,pharmacy,OPERATIONAL,"63 A Main Boulevard Commercial, Commercial Area Sector C Bahria Town, Lahore",3.4,14
+ChIJu3SuvoT_GDkRw-0JnCEbD0o,BAHRIA TOWN,Publix Pharmacy (Bahria Town Lahore),31.370092,74.18581379999999,pharmacy,OPERATIONAL,"64,A، commercial near grand mosque, Sector C Commercial Area Sector C Bahria Town, Lahore",3.7,15
+ChIJu_kdPbX_GDkRWTFopRLRI0Y,BAHRIA TOWN,Medicine Pharma,31.3777892,74.1854004,pharmacy,OPERATIONAL,"95HP+456, Unnamed Road, Overseas Enclave Sector B Bahria Town, Lahore",5.0,1
+ChIJ1YjJWAD_GDkRf7ALUgQvhJE,BAHRIA TOWN,Pansaar store desi jarri booti(Irfan),31.3723187,74.187662,pharmacy,OPERATIONAL,"95CQ+W3F, Sector C Commercial Area Sector C Bahria Town, Lahore",0.0,0
+ChIJL5KaBgdVGDkRPGjZUtt3xW8,BAHRIA TOWN,ASKARI PHARMACY,31.36204,74.1858877,pharmacy,OPERATIONAL,"956P+R99, St 10, Shaheen Block Lavandus Block Bahria Town, Lahore",4.4,5
+ChIJdzwNptH_GDkR6kTgFax9UJ0,BAHRIA TOWN,Fazal Din's Pharma Plus,31.3763626,74.1856303,pharmacy,OPERATIONAL,"6-A main commercial, Sector C Commercial Area Sector C Bahria Town, Lahore",4.5,20
+ChIJxzrEul7_GDkRAjL02GgBpfg,BAHRIA TOWN,Mahmood pharmacy,31.37149209999999,74.18692419999999,pharmacy,OPERATIONAL,"52 B commercial, Sector C Bahria Town, Lahore",4.8,48
+ChIJCTsziGhVGDkRpAXFwDDKy-4,BAHRIA TOWN,Pills Mart,31.361262,74.18603449999999,pharmacy,OPERATIONAL,"51 E, Ground Floor",3.9,30
+ChIJc2P2KVr_GDkRJUdVynpfnOc,BAHRIA TOWN,Aga Khan University Hospital Pharmacy Medical Centre Baharia Town Lahore (Off-Campus),31.3748362,74.1857467,pharmacy,OPERATIONAL,"18/A, Sector C, Commercial Area, Main Boulevard, Commercial Area Sector C Bahria Town, Lahore",4.0,2
+ChIJdyClXgD_GDkRB6TGMFoC2sI,BAHRIA TOWN,Dermadent dental clinic and aesthetic center bahria town lahore,31.3701684,74.1857989,dentist,OPERATIONAL,"64A,F/F Commercial, Sector C Bahria Town, Lahore",5.0,18
+ChIJ-bKunon_GDkRKK64tHCYrok,BAHRIA TOWN,Dental Lounge,31.3681421,74.1873671,dentist,OPERATIONAL,"226-B Commercial, opposite Grand Mosque, Tulip Block Sector C Bahria Town, Lahore",4.8,65
+ChIJawBF3x7_GDkRra3kbmtV6aw,BAHRIA TOWN,Dream Smile Dental Clinic,31.369259,74.1869182,dentist,OPERATIONAL,"77 B, behind Meezan Bank, opposite Metro Center, Tulip Commercial C Sector Bahria Town, Lahore",4.9,134
+ChIJ-SkmbNv_GDkRBi3f4R0J_6g,BAHRIA TOWN,Best Family Dentist in Bahria Town Dr Arfeen Aamir,31.3692552,74.1869193,dentist,OPERATIONAL,"Sector C Commercial Area Sector C Bahria Town, Lahore",5.0,1
+ChIJB7ppNw__GDkRtwqVv3KaNUY,BAHRIA TOWN,Aamir Dental Surgery Bahria Town,31.3754019,74.185311,dentist,OPERATIONAL,"143- A commercial, opposite Ravi restaurant, Sector C Bahria Town, Lahore",4.9,400
+ChIJ1aPRElD_GDkRB-pB_YphtA8,BAHRIA TOWN,Dentaris Family Dental Clinic,31.3764938,74.18573769999999,dentist,OPERATIONAL,"Plaza 5-A, Sector C Talwar chowk, Commercial Area Sector C Bahria Town, Lahore",4.9,60
+ChIJlRxo4JX_GDkRj3KsaJLVkIQ,BAHRIA TOWN,Best Dentist Dental Clinic,31.372873,74.1854152,dentist,OPERATIONAL,"Bahria Town Main Blvd, near Jamin Java Cafe, Sector C Commercial Area Sector C Bahria Town, Lahore",0.0,0
+ChIJB6Yux4__GDkRu2660BZAn4A,BAHRIA TOWN,International Dental and Aesthetic hub,31.3747799,74.1843079,dentist,OPERATIONAL,"Gulmahar Block Sector C Bahria Town, Lahore",5.0,55
+ChIJhYwnvWz_GDkR9-z1iZI1ebo,BAHRIA TOWN,Ayaan & Azhaan Dental Clinic,31.3753221,74.1867492,dentist,OPERATIONAL,"plaza no. 139 B, basement, Jasmine Block Sector C Bahria Town, Lahore",5.0,3
+ChIJ49Ku3ZD_GDkRVPr1uWyhvpo,BILAL GUNJ,AAS Rehabilitation Center,31.4086431,74.19585239999999,hospital,OPERATIONAL,"Plot no, 847, Block F Jubliee Town, Lahore",4.8,42
+ChIJ0bLgo5D_GDkR7UTh-ncGbmg,BILAL GUNJ,Family MediCare Clinic,31.4107615,74.1907456,doctor,OPERATIONAL,"658, Block C Jubilee Town, Lahore",0.0,0
+ChIJ7wUq0dL_GDkRnvfgoGjtSsk,BILAL GUNJ,Dr. Muhammad Shahid Umair Randhawa.,31.4119756,74.20878859999999,doctor,CLOSED_TEMPORARILY,"299 Raiwind Rd, Block J Lda Avenue Phase 1 Lda Avenue, Lahore",4.8,4
+ChIJdYqfbDH_GDkRIWQJagYgUOU,BAHRIA TOWN,Malik pharmacy,31.404294,74.1847161,pharmacy,OPERATIONAL,"Shop 82 block d, Jubilee town, Lahore",0.0,0
+ChIJNR_cpxj_GDkRxyYJMtB8dsk,BAHRIA TOWN,Rite Dose Pharmacy,31.4044164,74.1905501,pharmacy,OPERATIONAL,"Shop No#1 217F Jubilee Town, Jubilee Town, Lahore",0.0,0
+ChIJRasLNAD_GDkRJhc3E_b3MQg,BAHRIA TOWN,Health Medicose Pharmacy,31.4057573,74.1905639,pharmacy,OPERATIONAL,"C54R+864, Block D Block F Jubilee Town Housing Scheme, Lahore",5.0,1
+ChIJhV-bua__GDkRT00bClbtO8Q,BAHRIA TOWN,Zee Care Pharmacy,31.4041696,74.1835242,pharmacy,OPERATIONAL,"775 B, near Indus hospital, Block B jubilee town, Lahore",5.0,2
+ChIJceyYvnf_GDkRZK4xO4-Vgo0,BAHRIA TOWN,Ren Pharmacy Plus,31.3869418,74.1905939,pharmacy,OPERATIONAL,"95PR+Q6H, Shaheen Block Sector B Bahria Town, Lahore",4.0,37
+ChIJDUYkOqb_GDkRTt601Nb7Zb0,BAHRIA TOWN,Green goods medical & cosmetics store,31.4066116,74.1833387,pharmacy,OPERATIONAL,"Plot 757-B, Mian Chowk، near Indus Hospital, Block B Jubilee Town, Lahore",5.0,2
+ChIJHahWurz_GDkROP60B0dBlpw,BAHRIA TOWN,Etihad Pharmacy,31.4080231,74.18359869999999,pharmacy,OPERATIONAL,"624-A, Block A Jubilee Town, Lahore",4.4,24
+ChIJTwNi8Dn_GDkRkX_SjPnXo-Q,BAHRIA TOWN,Waseela Pharmacy,31.3872425,74.1947095,pharmacy,OPERATIONAL,"95PV+VVW, Eastern Ave W, Safari Block Sector B Bahria Town, Lahore",4.7,6
+ChIJ9yLD_xz_GDkRR_vR_vNpQgA,BAHRIA TOWN,Servaid Pharmacy,31.3871875,74.1905625,pharmacy,OPERATIONAL,"near Eagle Mall, Shaheen Block Sector B Bahria Town, Lahore",3.9,13
+ChIJR8v6hzD_GDkR36K3Um2P4gQ,BAHRIA TOWN,Abdullah Family dental clinic,31.4040597,74.19054609999999,dentist,OPERATIONAL,"Umer Rd, near Dawood residency, Block D Jubilee Town Housing Scheme, Lahore",4.3,6
+ChIJ_z3yta7_GDkRwOeotmTPeAo,BAHRIA TOWN,Dentistree by Dr Zishan Mehdi,31.3861631,74.1959382,dentist,OPERATIONAL,"B, 55, Commercial Umer Block Sector B Bahria Town, Lahore",5.0,21
+ChIJTVYNNhj_GDkRVSuOgYd84l8,MUGHAL PURA,S.A Medical and Diagnostic Center,31.4351908,74.19784369999999,hospital,OPERATIONAL,"C5PX+34G, Jhelum Block Green Forts 2, Lahore",2.0,1
+ChIJ-_LOJgD_GDkRW13T3R73x94,MUGHAL PURA,Dr shehryar (private clinic),31.4298988,74.2089823,doctor,OPERATIONAL,"245 b block, dha phase 12 DHA EME Sector, Lahore",5.0,4
+ChIJ14rUn3QDGTkRYwD3O0HhKNY,BILAL GUNJ,Dr Ayesha Jawed Gynaecologist,31.4079201,74.2089269,doctor,OPERATIONAL,"1098, Block J Lda Avenue, Lahore",4.4,7
+ChIJ-cnREOsDGTkR2sT_btrThGg,MUGHAL PURA,Medicare Pharmacy & surgical store,31.4295559,74.18669600000001,pharmacy,OPERATIONAL,"7 A1 Canal Rd, Block A1 Block A 1 P & D Society, Lahore",3.6,9
+ChIJ0xv5tJT_GDkRfns3QwptKnQ,MUGHAL PURA,Pharmacy,31.4304089,74.1974264,pharmacy,OPERATIONAL,"House No 27-B, Judicial Housing Society - Phase 3, Lahore",5.0,1
+ChIJvzhVQQD_GDkRuTyZ7rCCo_A,MUGHAL PURA,Bentley Pharmacy,31.4295565,74.1865026,pharmacy,OPERATIONAL,"Block b, 08/B Canal Rd, Block A1 Block A 1 P & D Society, Lahore",0.0,0
+ChIJIUAkuXv_GDkRX29VDP5uU3c,BILAL GUNJ,Community Pharmacy Iqbal Avenue,31.4219805,74.1951768,pharmacy,OPERATIONAL,"Block B, 02/B Canal Rd, Block B Iqbal Avenue Phase 3 Iqbal Avenue - Phase 3, Lahore",5.0,3
+ChIJT_V7IbL_GDkRM40jlDI-kmU,BILAL GUNJ,SMC PHARMACY,31.4212521,74.1842592,pharmacy,OPERATIONAL,"town, 34 A block, Block A Izmir, Lahore",5.0,1
+ChIJCzGphS7_GDkRY79nOlSJDHI,BILAL GUNJ,MedLink Pharmacy Izmir Town Lahore,31.4205489,74.1839856,pharmacy,OPERATIONAL,"Armish Rd, Block A Izmir, Lahore",4.8,6
+ChIJi2dL9GL_GDkRIshjxW9kg8E,BILAL GUNJ,Usman Dental Clinic ( Dr. Sohail Raza),31.41636,74.1841796,dentist,OPERATIONAL,"Plot C 34, Block G Izmir, Lahore",3.0,2
+ChIJZ9zP1l-rGTkRpdrCKu41vQQ,BAHRIA TOWN,Medicos Health Care Center,31.347585,74.2337175,hospital,OPERATIONAL,"Usman, 1st Floor Plaza # 05 Usman Block Main Boulevard Alkabir Town Phase 2 Opp Lake City Raiwind Road, Block, Lahore",4.9,41
+ChIJ2d_WQcyrGTkRy5bizvApOs8,BAHRIA TOWN,Dewan Medical Center,31.3520845,74.2364209,hospital,OPERATIONAL,Lahore,5.0,2
+ChIJBbjaVDkDGTkRs-mhH66OHx0,SALAMAT PURA,Rahbar Hospital Trust,31.3384589,74.2372986,hospital,OPERATIONAL,"Raiwind Road Kot Araian, Chowk, Jia Bagga, Lahore",3.4,5
+ChIJsckMjjxVGDkR0KLP1WqNc2k,BAHRIA TOWN,Eye Department SMDC,31.3354832,74.1992516,hospital,OPERATIONAL,"85PX+5PR، Near Sharif Med Center Sharif Medical City, Jati Umrah, Lahore",4.0,1
+ChIJSRxbegBVGDkRiu3s3PG3A3E,BAHRIA TOWN,CHISHTI FREE CLINIC & DISPENSARY,31.33398,74.1989007,hospital,OPERATIONAL,"Chishti Free clinic & dispensary jamia chishti Gulshan e Abbas near waves factory gate # 2 hanjarwal multan, road, Lahore",0.0,0
+ChIJBSngSNFVGDkRl4Y445cuTpE,BAHRIA TOWN,CLINIC FOR ALL,31.3623011,74.2238921,doctor,OPERATIONAL,"Beconhouse, 162 B block, society, Adda Plot Lahore",5.0,2
+ChIJH3dxF0mrGTkRmpprboFgLrA,BAHRIA TOWN,Azhar Health Care Complex,31.3616508,74.2324855,doctor,OPERATIONAL,"ADDA PLOT, Sharif Medical City Rd, near by mian real estate, Chanar Courts, Lahore",5.0,41
+ChIJyyBpGgBVGDkRfrGV1GEPnmo,BAHRIA TOWN,Stag Pharmacy (Opticians),31.3546415,74.2162764,pharmacy,OPERATIONAL,"20 B Commercial, Phase 2 Jati Umra Rd, AWT Housing Society, Lahore",5.0,5
+ChIJH3gkdoUFGTkRIM_2NsDzdiE,BAHRIA TOWN,Servaid Pharmacy,31.3545634,74.2155934,pharmacy,OPERATIONAL,"6 -B, B Block, AWT Phase 2, Lahore",4.3,7
+ChIJ2StXSMJVGDkRAkrhmfWCrLo,BAHRIA TOWN,Dua Dental Care Clinic,31.3510052,74.22183969999999,dentist,OPERATIONAL,"Sharif Medical City Rd, Block D Awt Housing Scheme Phase 2 AWT Phase 2, Lahore",5.0,3
+ChIJUcodpRQAGTkR6XX7fYWLEfw,WAPDA TOWN,The University Of Lahore Teaching Hospital,31.3893125,74.2404375,hospital,OPERATIONAL,Lahore,3.6,256
+ChIJJYAUEuABGTkRY2FoWVyWF9o,BAHRIA TOWN,Live Painless Clinic,31.3769967,74.22554389999999,hospital,OPERATIONAL,"96GG+Q6V, No name, Eden Park, Lahore",0.0,0
+ChIJNUKoqhoAGTkRzaj3_dlIOo0,BAHRIA TOWN,Bhatti Medical Store,31.3817648,74.2296633,pharmacy,OPERATIONAL,"96JH+MVV, Raiwind Rd, Kot Bagh, Lahore",5.0,4
+ChIJYxPDtAEBGTkRN1KggjdWwhQ,BAHRIA TOWN,Karamat medical and veterinary Store,31.381569,74.2298319,pharmacy,OPERATIONAL,"96JH+MVV, Adda lahore park Raiwind Rd, Kot Bagh, Lahore",3.7,3
+ChIJs5-jWAUAGTkR0NFF7lAb_yQ,BAHRIA TOWN,Naqashbandi Pansar Store,31.3806875,74.2296875,pharmacy,OPERATIONAL,"Kot Bagh, Lahore",4.0,2
+ChIJKdzcRQABGTkR4ojfuWX4jg0,BAHRIA TOWN,Anwar Sidra Medical Store,31.3746058,74.2310225,pharmacy,OPERATIONAL,"96FJ+RCR, Raiwind Rd, Chamru Pur Chamrupur, Lahore",0.0,0
+ChIJV28FCCYBGTkRqhZTcf92GZ4,BAHRIA TOWN,Luminary Dental Care,31.3827106,74.2298536,dentist,OPERATIONAL,"Raiwind Rd, Kot Bagh Lahore",4.4,8
+ChIJaf-wXhMBGTkRQyPeDHkyWxk,BILAL GUNJ,Faizan Hospital Surgical & Medical Center,31.4137498,74.22104829999999,hospital,OPERATIONAL,"Plot 21, Block B Talib Ganj, Lahore",4.7,6
+ChIJm4CYF2YBGTkRj8D9tHBIX_o,BILAL GUNJ,Family HealthCare Clinic,31.4125753,74.2224499,hospital,OPERATIONAL,"Block B, Plot 69, Block A Sher Shah Colony, Lahore",0.0,0
+ChIJSxTX1Nn_GDkRYi09XMlSPIw,BILAL GUNJ,Hospital,31.4020068,74.2148911,hospital,OPERATIONAL,"Directorate - Punjab Social Security, Labor Colony Rd, Labor Colony Government Of Punjab, Lahore",5.0,1
+ChIJxwdceyUBGTkRjNCXLkZcOZI,WAPDA TOWN,University Medical Center - UMC,31.4166056,74.2303237,hospital,OPERATIONAL,"UMT School of Health Sciences, 72-A Raiwind Rd, Dubai Town, Lahore",5.0,14
+ChIJNx6pptj_GDkRhCfakddwV9Q,BILAL GUNJ,Hayat Memorial Hospital,31.3979882,74.2175817,hospital,OPERATIONAL,"96X9+52W, Lahore",4.1,59
+ChIJ-_HxAUMBGTkRCS4eP4dB5R0,BILAL GUNJ,Uzma Maternity Home & Al-Nasar Lab Collection Center,31.4123762,74.2194378,hospital,OPERATIONAL,"449/B Raiwind Rd, Block B Sher Shah Colony, Lahore",4.0,11
+ChIJ5ypjgPEBGTkRwSurtr5WLGI,BAHRIA TOWN,Dr.Munawar Medical Centre,31.3827612,74.2298343,hospital,OPERATIONAL,"Main Raiwind Rd, near Savours Food, Kot Bagh Lahore",5.0,1
+ChIJl_RyqZoBGTkRfXewZG18VdY,BILAL GUNJ,Tahir hajama center,31.4112442,74.22298529999999,hospital,OPERATIONAL,"Plot 807, Block A Sher Shah Colony, Lahore",5.0,1
+ChIJUcodpRQAGTkRFd1megDeR-8,WAPDA TOWN,Nephrology Department And Dialysis Center ULTH,31.3891493,74.2405713,hospital,OPERATIONAL,"96QR+M64 university of teaching hospital, Lahore",0.0,0
+ChIJY3hxmD0BGTkR0yTDZW-mdMg,BILAL GUNJ,Ali Fatima Hospital,31.3988373,74.22976899999999,hospital,OPERATIONAL,"Bhobtian Avenue, 9 Km Raiwind Rd, Lahore",3.6,86
+ChIJdS4lCwABGTkRPYKJbND8ET0,WAPDA TOWN,Dubai physio clinic,31.4146397,74.2330743,hospital,OPERATIONAL,"C67M+V64, Dubai Town Lahore",5.0,1
+ChIJ4xKZmPYBGTkRmDVr0PZEx-g,BILAL GUNJ,Fazal Kabeer Maternity & Clinic,31.4124725,74.2221821,hospital,OPERATIONAL,"Plot 21, Block B Sher Shah Colony, Lahore",0.0,0
+ChIJRbtBylm6DIoRe1ZgOYoIxr0,WAPDA TOWN,Doctors' Clinic | Dr. Umair Khurshid | Diabetologist | Medical Specialist | General Physician,31.4114835,74.2380257,doctor,OPERATIONAL,"62-A, T and T, near Raiwind Road, Aabpara Housing Society, Lahore",5.0,114
+ChIJ8XKUYbEBGTkRjmhfLXW1O5k,BILAL GUNJ,AFZAL FAMILY CLINIC,31.4106009,74.2228629,doctor,OPERATIONAL,"34-A ,Block A,Main Road, near Model Bazar, Sher Shah Colony, Lahore",4.5,2
+ChIJgyc9GpMBGTkRb6fnmvsCJ7s,BILAL GUNJ,Doctors Villa,31.4108102,74.2255864,doctor,OPERATIONAL,"Plot 846, Block A Sher Shah Colony, Lahore",5.0,2
+ChIJoXwpbnIBGTkRtW8Ol-2dpZw,BILAL GUNJ,Shaer Ali Medical Store,31.393199,74.2295333,pharmacy,OPERATIONAL,"96VH+7RF, Raiwind Rd, Lahore",1.0,2
+ChIJDQ36UywBGTkRGaXpVKvFuiM,BILAL GUNJ,Alkhidmat pharmacy and general store,31.4055312,74.2276289,pharmacy,OPERATIONAL,"C64H+636, Bhobtian Lahore",3.0,1
+ChIJW_gB8z0BGTkR09KSQvpSAJ0,BILAL GUNJ,Ahmad Medical & General Store,31.4081934,74.22273059999999,pharmacy,OPERATIONAL,"27-D Sher Shah Colony Raiwind Road Lahore Raiwind, Road, Lahore",0.0,0
+ChIJC3mJDAABGTkRBwhc7rnX1Ps,BILAL GUNJ,Ismail Care pharmacy,31.4040099,74.22888449999999,pharmacy,OPERATIONAL,"25, Bhobtian Sardar town, Lahore",0.0,0
+ChIJ2_xeYDb_GDkR3nYJBtJCxTw,BAHRIA TOWN,Medlink Pharmacy Dream Garden,31.3972555,74.20925849999999,pharmacy,OPERATIONAL,"Eagle Heights, Plaza G1, Dream Gardens Dream Gardens Housing Society, Lahore",5.0,1
+ChIJ61UTQ4oBGTkRobUJFFwsGSY,BILAL GUNJ,Green Life Pharmacy,31.40106219999999,74.2296984,pharmacy,OPERATIONAL,"8 Raiwind Rd, Bhobtian Lahore",5.0,2
+ChIJ_6GkAiUBGTkRdC0ndzaL0Wc,WAPDA TOWN,Generic,31.396283,74.2319553,pharmacy,OPERATIONAL,"Shop No1&2 Madina Market,Bhatta Chowk, Defence Rd, Lahore",0.0,0
+ChIJGxyd24MHGTkR8qc4Yuna7So,WAPDA TOWN,Zafar Son's Pharmacy,31.396283,74.2319553,pharmacy,OPERATIONAL,"96WJ+GQ8, Defence Rd, Lahore",2.5,2
+ChIJLwM8WwD_GDkRQDapV6WrZjQ,BAHRIA TOWN,Punjab Pharmacy,31.39759939999999,74.2093531,pharmacy,OPERATIONAL,"96X5+3PQ, Dream Gardens Lahore",3.3,3
+ChIJGabZXQD_GDkRUdwm26E_iy8,BAHRIA TOWN,Dental Mania ( Dr Ammar & Co.),31.39573699999999,74.20847979999999,dentist,OPERATIONAL,"Basement, Shop#1, Red Sun Heights, Defence Rd, Dream Gardens Lahore",5.0,9
+ChIJ1Vg1wir-GDkRS9IX9MA0IG4,BILAL GUNJ,Dr. Irfan,31.4145853,74.21601,doctor,OPERATIONAL,"PT 32 Eden Lane Villaz LDA Ave ONE Rd, Eden Lane Villas Eden Lane Villas 1, Lahore",3.5,2
+ChIJVZbOcDr_GDkRSc1Kt9QTWZM,MUGHAL PURA,Aims Pharmacy,31.4311901,74.21493889999999,pharmacy,OPERATIONAL,"C، Block Market, Multan Rd, Block C DHA EME Sector, Lahore",5.0,1
+ChIJX9lKjgYBGTkRCveilRFVxOE,MUGHAL PURA,Sahil Medical Store and General Store,31.433011,74.23161759999999,pharmacy,OPERATIONAL,"C6MJ+6MC, Ali Raza Abad Ali Razabad, Lahore",5.0,3
+ChIJ7RcgZtQBGTkRwONPkih0w2g,BILAL GUNJ,Al Karim Medical Store,31.4137693,74.2220007,pharmacy,OPERATIONAL,"Plot 4, Block A Talib Ganj, Lahore",5.0,3
+ChIJlVq8bCsAGTkR2Ijlyzf8JJw,BILAL GUNJ,Sohaib Medical & General Store,31.4123988,74.2222591,pharmacy,OPERATIONAL,"C66C+XW2, Raiwind Rd, Block B Sher Shah Colony, Lahore",4.7,3
+ChIJeZmICCYBGTkRfO_h1XBRvCk,BILAL GUNJ,Health Stone Pharmacy,31.4132016,74.2222049,pharmacy,OPERATIONAL,"Main Bazar Bhatti St, A Block B Sher Shah Colony, Lahore",4.7,15
+ChIJ_YFrSysAGTkRmvs9rwCLaBk,BILAL GUNJ,Al Shifa Pharmacy,31.414153,74.2225225,pharmacy,OPERATIONAL,"C67F+M26, Sher Shah Link Rd, Talib Ganj Lahore",4.0,2
+ChIJyVtpIk4BGTkRs5WIFckc7G0,BILAL GUNJ,Latif Medicol Store,31.414485,74.2294364,pharmacy,OPERATIONAL,"Plot 306, Block B Lda Avenue Phase 1 Lda Avenue, Lahore",0.0,0
+ChIJpYlIX5gBGTkRyEuHUDw5L40,BILAL GUNJ,Allah Hoo Pharmacy Shershah Dubai Town Raiwind Road Lahore,31.4139302,74.22541609999999,pharmacy,OPERATIONAL,"C67G+H5G, Block A Block B Lda Avenue Phase 1 Sher Shah Colony, Lahore",5.0,5
+ChIJqz3BoTIAGTkRzjhRmYPRB18,WAPDA TOWN,Younas Medical & General Store,31.4138079,74.22995209999999,pharmacy,OPERATIONAL,"C67H+GXG, Raiwind Rd, OPF Housing Scheme, Dubai Town, Lahore",0.0,0
+ChIJZ8zBwNYDGTkRAK3X5m7SNmc,BILAL GUNJ,Banu Hashim Pharmacy,31.4137503,74.2206114,pharmacy,OPERATIONAL,"26 b chowk, Block B Talib Ganj, Lahore",5.0,4
+ChIJPw_UDtoBGTkRvCzYbAWWFqw,WAPDA TOWN,Pasha Medical Store,31.4136052,74.23222009999999,pharmacy,OPERATIONAL,"C67J+CVX, Raiwind Rd, Dubai Town Lahore",5.0,1
+ChIJKZkf3l4BGTkROOMIe6zKoyg,MUGHAL PURA,Med care pharmacy,31.4326636,74.2315283,pharmacy,OPERATIONAL,"C6MJ+3J7, Ali Raza Abad Ali Razabad, Lahore",0.0,0
+ChIJjR6gU9UBGTkRFLyWCqKMtsc,MUGHAL PURA,Syed Pharma+ Doctor's poly care clinic,31.431105,74.23114840000001,pharmacy,OPERATIONAL,"Raiwind Rd, Ali Raza Abad Ali Razabad, Lahore",4.1,7
+ChIJPUrVZisAGTkRjSo7dGvZ4Zw,BILAL GUNJ,Healthy Smile Dental Care Centre,31.4128639,74.2233662,dentist,OPERATIONAL,"370/A Block, Raiwind Rd, Sher Shah Colony, Lahore",4.6,58
+ChIJI1Zjz6sBGTkRKJE68wILaDw,EME SOCIETY THOKAR,Al shifa medical center,31.4507644,74.22222119999999,hospital,OPERATIONAL,"25A/C, E Block Muhafiz Town, Lahore",5.0,3
+ChIJ4zG6CRABGTkR4bk1QTsoiso,EME SOCIETY THOKAR,Pain care clinic,31.450629,74.2186663,hospital,OPERATIONAL,"Plot 92 awan chowk, Block E Muhafiz Town, Lahore",0.0,0
+ChIJ46doph4CGTkRRgiv-dGnDeU,EME SOCIETY THOKAR,Farooq Hospital West Wood Branch Lahore,31.465219,74.2358843,hospital,OPERATIONAL,"263، 262، Main Canal Rd، opposite Metro Cash & Carry Thokar Niaz baig, Westwood Colony Lahore",3.5,469
+ChIJ-VIYAef_GDkRCr3fR_zKZSE,EME SOCIETY THOKAR,Sahi clinic,31.4537996,74.21631959999999,hospital,OPERATIONAL,"F638+GG8, Block A Muhafiz Town, Lahore",3.0,4
+ChIJ97EemBz-GDkRxPzlgq_SEtM,EME SOCIETY THOKAR,Akhtar Saeed Trust Hospital,31.44432489999999,74.2125082,hospital,OPERATIONAL,"258 F Halli St, Block F DHA EME Sector, Lahore",4.0,100
+ChIJz1CDXBr-GDkR2c-fuIVi334,EME SOCIETY THOKAR,Arif Medical eme dha,31.4424221,74.2079966,hospital,OPERATIONAL,"365 J DHA, sector 12 DHA EME Sector, Lahore",4.7,3
+ChIJDfIQvEwBGTkRHsrJm6hlEVE,EME SOCIETY THOKAR,Khursheed Rasheed Hospital,31.4545476,74.22828779999999,hospital,OPERATIONAL,"F63H+R87, Lahore Canal Bank Phase 1 Gul Bahar Housing Society, Lahore",3.4,41
+ChIJj1uECZABGTkR4rySUPOT2QY,EME SOCIETY THOKAR,Pain care physiotherapy clinic,31.45094869999999,74.2217969,doctor,OPERATIONAL,"F62C+9PJ, E Block Block E Muhafiz Town, Lahore",5.0,1
+ChIJT22gPfAPGTkRGV8WKsx0tFE,EME SOCIETY THOKAR,Rauf Family Clinic,31.450599,74.22168409999999,doctor,OPERATIONAL,"Commercial Market, Canal Rd, E Block Block D Muhafiz Town, Lahore",5.0,5
+ChIJLTgWzPMBGTkRJywGQmzRbvc,EME SOCIETY THOKAR,Haider Medical Center,31.4553776,74.2200927,doctor,OPERATIONAL,"F64C+524, Appolo Basement, Canal Bank Rd, Pasco Society, Lahore",4.5,2
+ChIJEZtmFVb_GDkRvcXArjUGYhk,EME SOCIETY THOKAR,Drug Shop - DHA EME,31.4471129,74.215068,pharmacy,OPERATIONAL,"186, H Block Market, Latif Ave, Block H DHA EME Sector, Lahore",4.3,8
+ChIJjZFW2UEBGTkRi03o074fbZM,EME SOCIETY THOKAR,Bashir Sons Pharmacy,31.4553733,74.2178852,pharmacy,OPERATIONAL,"F649+45R, Canal Rd, adjacent Total Patrol Pump, Pasco Society, Lahore",3.7,32
+ChIJY08e4CkBGTkRxQuHYLZ-XTI,EME SOCIETY THOKAR,Drug Zone Pharmacy,31.4409505,74.22571219999999,pharmacy,OPERATIONAL,"Commercial Area Ph-I Agrics Town Raiwind, Road, Lahore",0.0,0
+ChIJ5zg4MG0DGTkRCkfww6q1RJs,EME SOCIETY THOKAR,Apple pharmacy,31.4548341,74.22786119999999,pharmacy,OPERATIONAL,"Lahore Canal Bank Phase 1 canal bank cooperative housing society, Lahore",4.3,3
+ChIJb5gITP4BGTkRgreS0eDxNyc,EME SOCIETY THOKAR,Rainbow Pharmacy,31.4553387,74.2197838,pharmacy,OPERATIONAL,"F649+4WM, Canal Rd، inside Rainbow Cash & Carry, Pasco Society, Lahore",4.5,4
+ChIJ9SMTXh3_GDkRNrk3irggDg4,EME SOCIETY THOKAR,Dental Companion,31.4532203,74.21515219999999,dentist,OPERATIONAL,"House no, 12-b Canal Bank Road, Block B Muhafiz Town, Lahore",4.5,8
+ChIJxzh1UA6rGTkRKFLbXIAn0yc,SALAMAT PURA,Dr Umair Shafique Ch. ENT Specialist,31.3534698,74.2471082,doctor,OPERATIONAL,"Block M7, CMA Healthcare Complex, 31 Main Blvd, near Hayat Pharmacy and Jalal Sons, Block M 7 Lake City, Lahore",5.0,27
+ChIJl_5Xn7WrGTkRK2Cqw6p2wEs,SALAMAT PURA,Dr Sarah javed (Medical Specialist),31.3525434,74.2456322,doctor,CLOSED_TEMPORARILY,"M7, Block M 7 Lake City, Lahore",5.0,2
+ChIJj3jYt38FGTkRXXaHc29l6Ls,BAHRIA TOWN,Medix Pro Pharmacy,31.3474861,74.23384089999999,pharmacy,OPERATIONAL,"Shop No. 06, Usman Block, Al-kabir town, Phase 2 Lahore",3.7,3
+ChIJLzGkPtirGTkRw7CyzvY6ED4,SALAMAT PURA,MY PHARMACY,31.3552428,74.2401655,pharmacy,OPERATIONAL,"Block M 1 Lake City, Lahore",0.0,0
+ChIJvd-y5oerGTkRar1OqOfguuY,BAHRIA TOWN,De'Drug Mart Pharmacy,31.356104,74.2355231,pharmacy,OPERATIONAL,"Inside 4 seasons Super Market, opposite Lake city, Lahore",0.0,0
+ChIJm7s_ZcCrGTkRlGodq4S3YQo,SALAMAT PURA,Well Farmacia,31.3540625,74.2442693,pharmacy,OPERATIONAL,"36/27 WELL FARMACIA MAIN BOULEVARD LAKE CITY RAIWIND ROAD, M7, Lahore",3.4,11
+ChIJsVSxdlyrGTkRdfTys8Ocw2Y,SALAMAT PURA,Hayat Pharmacy,31.353381,74.2470958,pharmacy,OPERATIONAL,"Lake City Main Blvd, Block M 7 Lake City, Lahore",3.3,17
+ChIJL5pZh2WrGTkRy6ue47Mq-Tg,SALAMAT PURA,Ghani Pharmacy,31.354114,74.2442793,pharmacy,OPERATIONAL,"7 Street 1, Block M 7 Lake City, Lahore",3.0,3
+ChIJ_28agJOqGTkR8n1tR_GzqBw,SALAMAT PURA,Servaid Pharmacy,31.35418749999999,74.2469472,pharmacy,OPERATIONAL,"Lake City Main Blvd, Block M 1 Lake City, Lahore",3.9,29
+ChIJezzELvirGTkRqm9HcLUbp5Y,BAHRIA TOWN,City Pharmacy,31.3542706,74.2366712,pharmacy,OPERATIONAL,"Raiwind Rd, Lahore",4.2,10
+ChIJx7V0ibsBGTkRUkcr2dEjglA,SALAMAT PURA,Dr.Hina Ali - Dental Fix,31.357907,74.2385031,dentist,OPERATIONAL,"Superior University, 17km Raiwind Rd, Kot Araian, Lahore",5.0,9
+ChIJMV6uewwBGTkRMk1XUx8Hpbo,TOWN SHIP,Eden family Clinic,31.3839067,74.2518336,hospital,OPERATIONAL,"97M2+HP8, Main Boulevard Gulberg, Eden Lane Villas 2 Lahore",0.0,0
+ChIJmR1XoGABGTkRVC4jIpFx4yY,TOWN SHIP,Vital Care Hospital,31.3801484,74.2571645,hospital,OPERATIONAL,"Khayaban-e-Amin Cricket Stadium, 50A Commercial, Lahore",4.2,22
+ChIJN9f_EqYBGTkRvUA3Cpz93eI,BAHRIA TOWN,Shaheen Medical Center,31.3748419,74.23069,hospital,OPERATIONAL,"96FJ+W7P, Raiwind Rd, opposite Riphah International University, Chamru Pur Chamrupur, Lahore",4.8,20
+ChIJv-83yXIBGTkRGNowsRBkCXo,TOWN SHIP,Nusrat Hospital,31.3804669,74.25322030000001,hospital,OPERATIONAL,"House No.13, II Main Boulevard, Eden Lane Villas 2 Lahore",4.5,59
+ChIJF0xmSderGTkRBiylitpb9RA,TOWN SHIP,Dr.Sarah Javed (🥇Medical Specialist & consultant physician),31.3801334,74.25712039999999,doctor,CLOSED_TEMPORARILY,"Vital Care Hospital, 50A commercial lane, Block A khayaban e amin, Lahore",5.0,124
+ChIJiyj9SFoBGTkRHEgoRX-iYzA,TOWN SHIP,Dr Muneeb Ali Mehmat ENT Specialist,31.38035279999999,74.2574115,doctor,OPERATIONAL,"ground, Vital care Hospital ,khyaban Ameen cricket stadium back side line Khyaban ameen, Cricket, Lahore",5.0,126
+ChIJN_nnL0qrGTkRyRoth2c9CYM,TOWN SHIP,Korean Acupuncture Dr. Kim Vital Care Hospital,31.38011479999999,74.2570587,doctor,OPERATIONAL,"Khayaban-e-Amin Cricket Stadium, 50A Commercial Block A Khayaban E Ameen, Lahore",5.0,5
+ChIJmyADrKCrGTkRK8oltFcYAwI,SALAMAT PURA,PUNJAB PHARMACY,31.3633259,74.2343691,pharmacy,OPERATIONAL,"Adda, plot roundabout Raiwind Rd, Block K Fazaia Housing Society, Lahore",4.1,135
+ChIJ97eW83GrGTkRSsns5b7Atw8,BAHRIA TOWN,Al Mustafa Medical Store,31.3609304,74.2344375,pharmacy,OPERATIONAL,"Chanar Courts, Lahore",4.0,1
+ChIJk3QSlc2rGTkRpbsGVIyY1fs,SALAMAT PURA,Fazal Din’s Pharma plus FDPP Adda plot Pharmacy & Medical store,31.3639783,74.2346013,pharmacy,CLOSED_TEMPORARILY,"967M+JV6, Adda Plot, Raiwind Rd, Block K Fazaia Housing Society, Lahore",3.8,24
+ChIJ23QKnIKrGTkRFNysVCgeQBo,SALAMAT PURA,Green plus pharmacie,31.3648925,74.2337717,pharmacy,OPERATIONAL,"967M+XG2, Raiwind Rd, Block K Fazaia Housing Society, Lahore",5.0,2
+ChIJfZIXG5cBGTkRJUL8Hv9_uiw,TOWN SHIP,Dental Studio By Dr Faizan Akhtar & Associates,31.3804701,74.2532191,dentist,OPERATIONAL,"Nusrat Hospital Main Boulevard, Eden Lane Villas 2 Lahore",5.0,33
+ChIJm2Qz2YQBGTkRLO_Q0BJ_guE,TOWN SHIP,Doctors health care Centre,31.401628,74.26544249999999,hospital,OPERATIONAL,"Plot 1، near Valencia Society, B Block Block B Naz Town, Lahore",0.0,0
+ChIJH1ZAXFcAGTkR02gAgWS4Uu4,WAPDA TOWN,Hameedah Memorial Hospital,31.4082076,74.2602589,hospital,OPERATIONAL,"Valencia Town D, D Block Commercial Area Valencia, Lahore",3.4,184
+ChIJ0c5HBaYBGTkRdrD3TxLM5ro,WAPDA TOWN,NFC Medical Center,31.416346,74.2681526,hospital,OPERATIONAL,"دفتر این ایف سی سوسایٹی, NFC Main Blvd, NFC Society, Lahore",0.0,0
+ChIJNwdiK2ABGTkRB8816KRyGzI,TOWN SHIP,Hashmi Clinic Office 2,31.4024735,74.2593802,hospital,OPERATIONAL,"C725+XQJ, Block H Valencia, Lahore",0.0,0
+ChIJo2zagnoBGTkRxdNPpx7H2vw,WAPDA TOWN,Medical Clinic,31.4020829,74.2403678,doctor,OPERATIONAL,"268, 8-Km Raiwind Rd, Canal Bank Society Phase 2 Gulnishan Park, Lahore",0.0,0
+ChIJTSAAXQgBGTkRsdhaJ5Y-CMA,TOWN SHIP,Shaheryar Clinic,31.4014882,74.2598628,doctor,OPERATIONAL,"C725+HWX, Block H Valencia, Lahore",5.0,4
+ChIJaZfk2zIBGTkRbVfWQGmtlR8,TOWN SHIP,Noor Eye Retina Hospital,31.3944003,74.2548975,doctor,OPERATIONAL,"Plaza#35, P1 Block, Town, Block P1 Block P 1 Valencia, Lahore",5.0,3
+ChIJhRo8YlwBGTkRcyp91sHwQ48,WAPDA TOWN,MY PHARMACY PVT LTD,31.3901344,74.24153,pharmacy,OPERATIONAL,"building Ground Floor, Head Office, UOL E1, Lahore",3.0,5
+ChIJywbk_WMBGTkR_eciJdtT4tg,TOWN SHIP,Baig Pharmacy,31.3921334,74.2560969,pharmacy,OPERATIONAL,"Shop No 2, Umer Market, Defence Road، opposite Gate 1, Block K 1 Valencia, Lahore",3.0,2
+ChIJHRYm1acBGTkRZcHgmOCbUss,WAPDA TOWN,Sardar Sons Pharmacy,31.3883907,74.24106019999999,pharmacy,OPERATIONAL,"Shop #4, Defence Rd, opposite University of Lahore Teaching Hospital, Lahore",4.6,9
+ChIJnbm7TgABGTkRdle5bqGRDfE,TOWN SHIP,Sardar sons pharmacy DHA rahbar,31.3928844,74.2494878,pharmacy,OPERATIONAL,"Shop#03, Chauhdary Market, Shano baba Gol Chakkar, Main Defence Rd, near Macdonalds, Block B Dha Rahbar Phase 1 Dha Rahbar, Lahore",0.0,0
+ChIJc4lUB_0BGTkRBD3-Xajx2xM,WAPDA TOWN,Hafeez & Sons Pharmacy,31.40416249999999,74.23712549999999,pharmacy,OPERATIONAL,"19A 20A, Lahore",1.0,2
+ChIJw8zDSgABGTkRAHBgl4Ku-SA,TOWN SHIP,Barry Pharmacy,31.3947405,74.25520519999999,pharmacy,OPERATIONAL,"C 9, Block P1 Block P 1 Valencia, Lahore",5.0,1
+ChIJ4xvily8BGTkRUJTRZnFCUg0,WAPDA TOWN,P,31.4029111,74.2565748,pharmacy,OPERATIONAL,"Shop No.1, 13 A/3, Block H Valencia, Lahore",5.0,2
+ChIJkempHwABGTkRk63cLnqq8h0,TOWN SHIP,Servaid Defence Road,31.3920445,74.2560218,pharmacy,OPERATIONAL,"Shop #4 & 5 umer market defwnce road, GATE #1, opposite DHA RAHBER, Lahore",3.6,13
+ChIJ2XgVVE8BGTkRBW_pvDaOKvo,WAPDA TOWN,Human care lab collation center in Tree Tops medical center,31.4299871,74.2650944,hospital,OPERATIONAL,"C7H8+X2X, Street 3, Block F1 Block F 1 Wapda Town Phase 1 Lahore",0.0,0
+ChIJzSQqO9IJGTkRGNw5EeMne70,WAPDA TOWN,Spirit Welfare Hospital,31.4361772,74.268512,hospital,OPERATIONAL,"Y-1 Phase, 8 Ring Road, Sector Y-1 Block E 2 Wapda Town Phase 1 DHA Phase 8, Lahore",4.0,2
+ChIJqVxPX9kBGTkRtGHC77rdYBg,WAPDA TOWN,Qasim Sandhu Hospital,31.427072,74.265638,hospital,OPERATIONAL,"Abbaseen Ave, WAPDA Town Block H 1 Wapda Town Phase 1 Lahore",4.2,32
+ChIJZXrTG1wBGTkR74AYQ3FesYs,WAPDA TOWN,Al Kuwait clinic,31.4274223,74.26194629999999,doctor,OPERATIONAL,"House no 93, Block H2 Block H 2 Wapda Town Phase 1 Lahore",0.0,0
+ChIJZaKfHx4BGTkR2a4_QIzO6Sg,WAPDA TOWN,My Pharmacy (Pvt.) Ltd.,31.4193474,74.2487945,pharmacy,OPERATIONAL,"Pine avenue, Main Road, Lahore",2.3,3
+ChIJQcWHmGYBGTkRPMYg-J_JDcs,WAPDA TOWN,Salman Pharmacy,31.4132989,74.2405009,pharmacy,OPERATIONAL,"T & T Main St, Block B T & T Aabpara Housing Society, Lahore",5.0,3
+ChIJ4ba2G1IFGTkRrwnU7coe8Uo,WAPDA TOWN,Well+pharmacy,31.4256947,74.25560779999999,pharmacy,OPERATIONAL,"Shop#2, Azhar Apartment Peer Ghazi, 74-A, Plot 74 Graveyard Rd, Gulshan-E-Lahore Block A Gulshan E Lahore, Lahore",5.0,3
+ChIJzzfSFeUBGTkRjyEkh8gUX-s,GANGA RAM HOSPITAL,CMA Healthcare Complex & Shades Aesthetic / Laser clinic,31.4538498,74.2455706,hospital,OPERATIONAL,"3, Block D Nawab Town, Lahore",4.9,106
+ChIJp1dNOjEDGTkR6b5bhk6pu9o,MUSTAFA TOWN,Al Rehman Welfare Medical Centre,31.4740625,74.2400625,hospital,OPERATIONAL,"Sarai, Lahore",5.0,1
+ChIJrQvL84oDGTkRoB4-6JKXSNo,MUSTAFA TOWN,Saif medical center,31.474129,74.23920369999999,hospital,OPERATIONAL,"Ada talab, Sarai, Lahore",0.0,0
+ChIJ_a60aQABGTkRSb3YwBnM3RE,GANGA RAM HOSPITAL,Saif Medical Complex,31.4567432,74.26428860000001,hospital,OPERATIONAL,"Khokhar Palace, Ayub Chowk, near PPSC Examination Center, Aitchison Society, Lahore",4.7,3
+ChIJKWuJ1A4DGTkRsV1imXNY_3g,GANGA RAM HOSPITAL,Care Complex Lahore,31.4669448,74.25279979999999,hospital,OPERATIONAL,"386, adjacent to McDonald's, J 3 Block Block J 3 Phase 2 Johar Town, Lahore",4.8,25
+ChIJRUh6ey0DGTkRauPfhWR7978,GANGA RAM HOSPITAL,Al Zahra Medical Complex,31.46479069999999,74.24862879999999,hospital,OPERATIONAL,"217 Shan Bhatti Rd, Ali Town, Lahore",4.8,25
+ChIJkxrS_TQDGTkRrDEkskRWpWc,GANGA RAM HOSPITAL,Hameeda Altaf Hospital,31.471432,74.2591516,hospital,OPERATIONAL,"110 Expo Center Rd, Johar, near Mughal Eye Hospital, Block J Phase 2 Town, Lahore",4.3,247
+ChIJwYcIJb8DGTkRyM_fmY8tirU,GANGA RAM HOSPITAL,Nisar Hospital,31.4622899,74.24450139999999,hospital,OPERATIONAL,"Main Gate Ali Town, Main Raiwind Rd, Thokar Niaz Baig, Lahore",4.6,37
+ChIJM0v1eT0CGTkRLfjQXUQTBOY,MUSTAFA TOWN,Alzainab Gynae & Medical Center,31.4747977,74.24205119999999,hospital,OPERATIONAL,"Multan Rd Sarshar Town, Thokar 53700, Sarai, Lahore",5.0,1
+ChIJQcqtjHADGTkRRY93grmhKuo,MUSTAFA TOWN,AlMustafa Medical Centre,31.4762952,74.2408083,hospital,OPERATIONAL,"F6GR+G87, Main Bazar, opposite Westbridge School, Thoker Niaz Baig, Lahore",5.0,1
+ChIJ3WiKKMADGTkRgFXnfdjI9Wc,MUSTAFA TOWN,Inayat Health Clinic,31.4679903,74.2294635,hospital,OPERATIONAL,"Unnamed Road, Canal Colony, Lahore",5.0,5
+ChIJ5zHD6oADGTkRsIWCh6_-i9c,GANGA RAM HOSPITAL,Naseem Sabir Medical Complex,31.4643937,74.25083819999999,hospital,OPERATIONAL,"47 B Judicial Colony, near Punjab School, Phase 2 Johar Town Campus, Lahore",5.0,14
+ChIJgZmY2XgDGTkRg-QTKnlt0rI,SAMAN ABAD,General Practitioner Clinic at Sehat Medical Complex,31.486063,74.2585173,doctor,OPERATIONAL,"Hanjarwal Orange Line, Multan Rd, Station Mustafa Town, Lahore",4.7,6
+ChIJNZ_n3p0DGTkRjpMBkoDWBjc,MUSTAFA TOWN,Vet & Pet Care Clinic,31.4726167,74.2410438,doctor,OPERATIONAL,"F6FR+2CV Dogar Plaza, Thokar Niaz Baig, Main Market, Lahore",0.0,0
+ChIJByEk0R4CGTkRgCCif2wvHaw,EME SOCIETY THOKAR,PATH Wellness Center Dr Nasir Randhawa,31.4649233,74.2385437,doctor,OPERATIONAL,"83 Westwood Rd, Westwood Colony Lahore",5.0,1
+ChIJDcgOi3IDGTkRlwKCXOsoUso,GANGA RAM HOSPITAL,Dr Muhammad Jawad Alam(spine & sports specialist),31.4711776,74.25357869999999,doctor,OPERATIONAL,"Sunflower j1 Block J 1 Phase 2 Johar Town, Lahore",5.0,3
+ChIJmVrADRMGGTkR5UmkKqoPVR4,GANGA RAM HOSPITAL,Dr. Atta-ul-Haq Plastic Surgeon,31.4738336,74.25889570000001,doctor,OPERATIONAL,"35-H3 Expo Center Rd, Block H-3 Block H 3 Phase 2 Johar Town, Lahore",4.9,63
+ChIJ8youJh3_GDkRfJjzR2jfMPM,EME SOCIETY THOKAR,Mujadid Alif Sani Medical Store,31.47053369999999,74.2411731,pharmacy,OPERATIONAL,"Ada mohlanwal, Multan Rd, Westwood Colony, Lahore",4.2,5
+ChIJAcSSp38EGTkR_M4SY6xO2xs,SAMAN ABAD,My Chemist,31.4781106,74.2546136,pharmacy,OPERATIONAL,"12-B Wahdat Rd, Canal View, Lahore",4.5,2
+ChIJWZ9UYBgCGTkRIaz7CNgCmeQ,EME SOCIETY THOKAR,AL CHEMIST Pharmacy,31.4693173,74.2400107,pharmacy,OPERATIONAL,"F69R+P2C، Dogar Market, Canal Bank Rd Lalazar Commercial Market, Thokar, Westwood Colony, Lahore",4.0,3
+ChIJf3G20x8DGTkRg6OODLizbsE,MUSTAFA TOWN,Waqas Medical and General Store,31.4821642,74.2377798,pharmacy,OPERATIONAL,"F6JQ+V46, Noori Chowk, Niaz Baig, Multan Rd, Gulzar Colony, Lahore",0.0,0
+ChIJSbYFSTcCGTkRUgBEsOtIBxw,SAMAN ABAD,Pharmex Pharmacy (Upto 10% discount),31.4796904,74.2548805,pharmacy,OPERATIONAL,"F7H3+VXC, Canal View, Lahore",3.4,10
+ChIJD6uiYgABGTkRuB9d6jbzrnY,GANGA RAM HOSPITAL,Pharma Street Pharmacy,31.4644541,74.2437082,pharmacy,OPERATIONAL,"Shop # 3 Plot 76-B, 2 Raiwind Rd, Shabbir Town Lahore",5.0,1
+ChIJDXYdJiYCGTkRLmaQuF_BbHg,GANGA RAM HOSPITAL,Apotek Pharmacy,31.4660617,74.2528367,pharmacy,OPERATIONAL,"F783+C4G, Shahrah Nazaria-e-Pakistan, Block J 3 Phase 2 Johar Town, Lahore",3.0,11
+ChIJO8lzMyQDGTkR4IatTnHUdWA,MUSTAFA TOWN,HEALTH CARE MEDICAL STORE,31.4758017,74.240704,pharmacy,OPERATIONAL,"Number dar market, Thoker Niaz Baig, Lahore",0.0,0
+ChIJy-LUjSACGTkR2mQCOWnkg0w,GANGA RAM HOSPITAL,Barkat Medical Store,31.4626496,74.24490229999999,pharmacy,OPERATIONAL,"Shop No.2 plot No.169, Ali Town, Lahore",3.5,2
+ChIJ5T3gNzcCGTkRJiTwUQ5PVCI,SAMAN ABAD,Amags Pharmacy,31.4801173,74.2546177,pharmacy,OPERATIONAL,"Canal View, Lahore",5.0,1
+ChIJ3eUvy_EDGTkRwH0mLDQqYOA,GANGA RAM HOSPITAL,Allied Medical Pharmacy,31.4627277,74.2443227,pharmacy,OPERATIONAL,"1A Raiwind Rd, Ali Town Lahore",4.3,6
+ChIJ-Z1I9BgCGTkRPyl_UcexNwc,EME SOCIETY THOKAR,USH Pharmacy,31.46904129999999,74.2397041,pharmacy,OPERATIONAL,"F69Q+JV8 Azmat Market, Canal Rd, Westwood Colony Thoker Niaz Baig, Lahore",3.9,7
+ChIJw_SWB2YDGTkRFxDNbY26fpI,SAMAN ABAD,Servaid Pharmacy,31.4793716,74.2546843,pharmacy,OPERATIONAL,"13 Canal View Main Blvd, Canal View, Lahore",3.9,8
+ChIJFbFdACcCGTkRRgpoaDk6OsQ,GANGA RAM HOSPITAL,Nawab Medical Store,31.4647155,74.24896609999999,pharmacy,OPERATIONAL,"214 Shan Bhatti Rd, Block K Ali Town, Lahore",0.0,0
+ChIJv6cSoq4DGTkRuExb3uJ3F3M,EME SOCIETY THOKAR,Rehman Medical & General Store,31.4641705,74.2422279,pharmacy,OPERATIONAL,"F67R+MV9, Kibria Town Lahore",0.0,0
+ChIJ_XVSx30DGTkR7VD2U3pHwtI,MUSTAFA TOWN,AL FALAH PHARMACY,31.4762206,74.24063060000002,pharmacy,OPERATIONAL,"Niazbeg Rd, Sarshar Town، Lahore",4.3,7
+ChIJowWh6IwDGTkRkAImQPuagYc,GANGA RAM HOSPITAL,Red Well Pharmacy,31.46880119999999,74.24299719999999,pharmacy,OPERATIONAL,"F69V+G5H, Block B Judicial Colony, Lahore",0.0,0
+ChIJdZYnqzcDGTkRHAs_ZNroNLA,MUSTAFA TOWN,Mujahid pharmacy,31.4762811,74.24082539999999,pharmacy,OPERATIONAL,"Main road, road, Thoker Niaz Baig, Lahore",5.0,2
+ChIJOaGfXaUDGTkRz-meJjqX71w,GANGA RAM HOSPITAL,Pharmex Plus Pharmacy,31.4683734,74.2421959,pharmacy,OPERATIONAL,"1 Raiwind Rd, Westwood Colony Lahore",4.2,5
+ChIJT4LwORkCGTkREAgD4pI3Zc0,EME SOCIETY THOKAR,Canal Side Pharma,31.4669418,74.2373384,pharmacy,OPERATIONAL,"F68P+QWG, Canal Rd, Westwood Colony Lahore",4.0,1
+ChIJwct0nygCGTkRR8uHXpRfHdQ,GANGA RAM HOSPITAL,Dental Wellness,31.46695829999999,74.2528749,dentist,OPERATIONAL,"385 J3, J 3 Block Block J 3 Phase 2 Johar Town, Lahore",4.8,93
+ChIJay6LE7EDGTkREivTQnSWb14,SAMAN ABAD,Dental Practice,31.4797924,74.25490959999999,dentist,OPERATIONAL,"4D Commercial Zone, Canal View Main Blvd, Canal View, Lahore",5.0,25
+ChIJQweFhukDGTkRCkMp9OmS4ms,GANGA RAM HOSPITAL,Dental Station,31.4642081,74.2494731,dentist,OPERATIONAL,"18 Shan Bhatti Rd, Block K Johar Town, Lahore",5.0,8
+ChIJr-16CiUDGTkRctZ4IInSKj4,MUSTAFA TOWN,Umar maternity home & welfare clinic,31.4983321,74.2575045,hospital,OPERATIONAL,"MashaAllah Chowk, Gosha-e-Ahbab, Maraghzar Colony society, Lahore",5.0,1
+ChIJC3Ef8SwDGTkRdJkxhVYi0Ag,SAMAN ABAD,"Shifa medical center kamran block allama Iqbal town,lbr",31.4974773,74.2686404,hospital,OPERATIONAL,"709, Kamran Block Allama Iqbal Town, Lahore",5.0,7
+ChIJU9dCGdYDGTkRMIxsrqgxXnc,MUSTAFA TOWN,Rehan Medical Center and Maternity Home,31.5101487,74.26783879999999,hospital,OPERATIONAL,"96-A, STREET NO.5, BILAL ROAD, FAROOQ-e-AZAM COLONY, Multan Rd, Kharak Awan Town, Lahore",2.5,2
+ChIJYTQ10SUDGTkRG1Z-j7mRm7c,SAMAN ABAD,Rehman Medical Diagnostic Center,31.4966333,74.2655317,hospital,OPERATIONAL,"719 Wahdat Rd, Kamran Block Allama Iqbal Town, Lahore",4.9,8
+ChIJYUpRF60DGTkRL6iEQAaz1JQ,MUSTAFA TOWN,ZAINAB MEDICAL CENTER,31.5025423,74.24862879999999,hospital,OPERATIONAL,"174 G Block, Marghzar Rd, Block G Marghzar Housing Scheme, Lahore",4.7,27
+ChIJkTLugG0DGTkRW7JT5lWaFYk,MUSTAFA TOWN,Khadija medical center,31.4932462,74.2480109,hospital,OPERATIONAL,"F6VX+76R, Street 2, khayaban e Quaid، Lahore",5.0,1
+ChIJNa_0zX4DGTkRP5ezIkzwVgM,SAMAN ABAD,Chaudhry Medical Complex,31.4970277,74.2658543,hospital,OPERATIONAL,"Plot 733, Kamran Block Allama Iqbal Town, Lahore",4.8,9
+ChIJCThh57wDGTkRcQejWMGuCls,MUSTAFA TOWN,AlRehman Clinic & Medical Centre,31.5001075,74.26369799999999,hospital,OPERATIONAL,"42 hajvery town, hajvery rd, Multan Rd, Kakazai, Lahore",4.8,25
+ChIJTdZ-3qoDGTkRe1-jCWGoCp0,MUSTAFA TOWN,Social Security Hospital,31.4972776,74.262323,hospital,OPERATIONAL,"Multan Chungi Multan Rd, Kakazai, Lahore",4.0,187
+ChIJLcgHwg8DGTkRFh2tvt2_ekM,SODIWAL COLONY,"THQ Hospital - Sabzazar, Lahore",31.5173112,74.2664727,hospital,OPERATIONAL,"Sabzazar Stadium Rd, Sabzazar Block G Sabzazar Housing Scheme Phase 1 & 2 Lahore",3.4,244
+ChIJLeL8KfgCGTkR1WrZUqfyZmY,MUSTAFA TOWN,Memorial Health Clinic,31.5093955,74.2532152,hospital,OPERATIONAL,"Shadiwal, Lahore",5.0,1
+ChIJIbaSyf0CGTkRTnj-FZPHsX0,SODIWAL COLONY,AL SHIFA Clinic,31.5151387,74.2623447,hospital,OPERATIONAL,"G786+3W5, Sabzazar Block P Sabzazar Housing Scheme Phase 1 & 2 Lahore",5.0,3
+ChIJLWtxVfkCGTkRsgRaqXQiCQY,SODIWAL COLONY,Ahon Surgimed Hospital,31.5132576,74.2588243,hospital,OPERATIONAL,"G775+8G4, Marghzar Rd, Sabzazar Block N Sabzazar Housing Scheme Phase 1 & 2 Lahore",0.0,0
+ChIJuY5ejLIDGTkRNiQxkD6dzLQ,SAMAN ABAD,Ijaz Hospital,31.4966315,74.2674108,hospital,OPERATIONAL,"30-Main Wahdat Rd, near Multan Chungi, Ghani Colony Waris Colony, Lahore",3.3,33
+ChIJXTWgiQ0DGTkRQMb5ih2_GTc,MUSTAFA TOWN,Al Madina Homeo Clinic,31.5094946,74.2469124,doctor,OPERATIONAL,"Shop 14, Phase, 2, Lalazaar Garden Shadiwal, Lahore",5.0,2
+ChIJO7dlTvMDGTkRPGjhjE5w-Z0,MUSTAFA TOWN,Medical Clinic and Urgent Care,31.4980441,74.26238579999999,doctor,OPERATIONAL,"house number, Nadeem Town multan Road, 35 Main St, Lahore",0.0,0
+ChIJC3POuD8DGTkRu3EAVWzTwkw,MUSTAFA TOWN,Doctor's Healthcare Clinic,31.5025383,74.251462,doctor,OPERATIONAL,"Plot 62, Maraghzar Colony Block P Marghzar Housing Scheme, Lahore",0.0,0
+ChIJkdiOuFACGTkRVmqwimKr6ww,MUSTAFA TOWN,Al Shafi Clinic,31.5009047,74.2545562,doctor,OPERATIONAL,"G723+9R7, Maraghzar Colony Block N Marghzar Housing Scheme, Lahore",0.0,0
+ChIJHdflHwADGTkRxOnus0qOlh4,MUSTAFA TOWN,Faimly healthcare clinic,31.498273,74.258652,doctor,OPERATIONAL,"32 Gosha-e-Ahbab, Maraghzar Colony Kakazai, Lahore",0.0,0
+ChIJr9nOn5IDGTkROBcxrse67p0,SODIWAL COLONY,Well Care Family Clinic,31.5124121,74.2617214,doctor,OPERATIONAL,"G766+XM9, Marghzar Rd, Duban Pura, Lahore",5.0,1
+ChIJkewT8YwDGTkRReuOvLVG9Zk,MUSTAFA TOWN,Bismillah Clinic,31.5024319,74.2487549,doctor,OPERATIONAL,"G62X+XF9, Maraghzar Colony Block G Marghzar Housing Scheme, Lahore",0.0,0
+ChIJDwdY6lACGTkRTcNMg_KfON4,MUSTAFA TOWN,Naik Pharmacy,31.5001875,74.25468750000002,pharmacy,OPERATIONAL,"Al Hamd Road, Maraghzar Colony Block N Marghzar Housing Scheme, Lahore",4.7,7
+ChIJH9ONv6UDGTkR1CEzpllhC5s,MUSTAFA TOWN,Punjab Medical Store,31.4915864,74.2449832,pharmacy,OPERATIONAL,"F6RV+JXQ, Mansoorha Main Bazaar Rd، near zikr Naizbaigh, Thoker Niaz Baig, Lahore",0.0,0
+ChIJja7M6lgCGTkR6c71Tj56KAw,MUSTAFA TOWN,Medi mart pharmacy,31.5046035,74.2490969,pharmacy,OPERATIONAL,"Marghzar Rd, Maraghzar Colony Block E Marghzar Housing Scheme, Lahore",4.8,6
+ChIJT5bIXB4DGTkRJCBvLxazxgU,MUSTAFA TOWN,The Life Care Pharmacy,31.498883,74.2463444,pharmacy,OPERATIONAL,"Plot 22 G, Block H Marghzar Housing Scheme, Lahore",4.8,22
+ChIJT_BMQ2kCGTkRPOKFkUZQFVo,MUSTAFA TOWN,Raza Medical Store,31.4890225,74.23684,pharmacy,OPERATIONAL,"Thoker Niaz Baig, Lahore",0.0,0
+ChIJH-3fftkDGTkRKqKe5QQDkSo,MUSTAFA TOWN,Rahim pharmacy,31.5044121,74.24919249999999,pharmacy,OPERATIONAL,"Plot 33, Maraghzar Colony Block E Marghzar Housing Scheme, Lahore",0.0,0
+ChIJw1MTaxgDGTkRyHsNpwXKhHw,MUSTAFA TOWN,Koh-e-Noor Pharmacy Branch II,31.4997689,74.2531125,pharmacy,OPERATIONAL,"Street# 1, Allah Hoo Street, National Park, Rana Town, Kakazai, Lahore",4.3,6
+ChIJfxPRP1kCGTkRQNBf7mS77pQ,MUSTAFA TOWN,Zaid Pharmacy,31.5025019,74.2486625,pharmacy,OPERATIONAL,"G63X+2FG, Maraghzar Colony Block G Marghzar Housing Scheme, Lahore",5.0,2
+ChIJgfQ40V4PGTkR20mTY8cVfsQ,MUSTAFA TOWN,Hussain Pharmacy,31.5032061,74.2511112,pharmacy,OPERATIONAL,"Street No. 1, Maraghzar Colony Block G Marghzar Housing Scheme, Lahore",5.0,3
+ChIJJysdFQADGTkRx91jzNw92Wc,MUSTAFA TOWN,Supper Drug Pharmacy,31.49984419999999,74.2558501,pharmacy,OPERATIONAL,"F7X4+W96, Pico Rd, Maraghzar Colony Kakazai, Lahore",0.0,0
+ChIJkULnmKQDGTkRJUFBSzU4Ofo,MUSTAFA TOWN,Ittefaq Pharmacy,31.4926897,74.2530505,pharmacy,OPERATIONAL,"Al Sheikh Chowk, Ittefaq Town, Lahore",5.0,2
+ChIJ_WUZqOEDGTkRwDSaQNF4hrg,MUSTAFA TOWN,Bismillah medical store,31.4903878,74.2506717,pharmacy,OPERATIONAL,"F7R2+577, Safedaian Wala 60 Feet Rd, Ittefaq Town, Lahore",5.0,4
+ChIJCXHNtGEDGTkR88nYd3DHQJE,MUSTAFA TOWN,Amin Pharmacy,31.5058613,74.2447159,pharmacy,OPERATIONAL,"1C, Pak park, Maraghzar Colony Block B Marghzar Housing Scheme, Lahore",5.0,5
+ChIJ3f2GcOkDGTkRnvXkxWHOTVw,MUSTAFA TOWN,AL-Fateh Medical Store,31.5001875,74.2548125,pharmacy,OPERATIONAL,"Multan Rd, Maraghzar Colony Block N Marghzar Housing Scheme, Lahore",0.0,0
+ChIJW8gwYHQDGTkRNMm1tFw91vo,MUSTAFA TOWN,Iqra pharmacy,31.4931142,74.2412958,pharmacy,OPERATIONAL,"F6VR+6GV Naiz baj, road, near oun o Muhammad imma barga, Thoker Niaz Baig, Lahore",5.0,4
+ChIJi1OkZiADGTkRNGvqLSLZv9M,MUSTAFA TOWN,Dar-ul-Barkat Pharmacy,31.5078398,74.2508254,pharmacy,OPERATIONAL,"80 feet road, near juma Bazar, Maraghzar Colony Block D Marghzar Housing Scheme, Lahore",5.0,2
+ChIJYe5r63ADGTkRZJ6AP-qnNEY,MUSTAFA TOWN,The Dental Corner Clinic,31.5066518,74.24942519999999,dentist,OPERATIONAL,"House number 3 Block D MARGHAZAR COLONY NEAR 80 FOOT ROAD MULTAN, ROAD, Lahore",5.0,27
+ChIJj1LUfHoDGTkRNT6sJveyRYc,MUSTAFA TOWN,Sardar lateef Dental hospital,31.4879112,74.25202399999999,dentist,OPERATIONAL,"Jamal Colony Ext, Hanjarwal, Lahore",3.8,10
+ChIJgXAqqCerGTkRU7u6gUz8qgc,TOWN SHIP,Rehman clinic,31.3719646,74.2900746,hospital,OPERATIONAL,"97CR+Q2P, New Defence Rd، near butt fast food, Lahore",5.0,2
+ChIJl3AGewCrGTkRLHUqWU4avq8,TOWN SHIP,Al Shifa Poly Clinic & Diagnostic Center,31.3684169,74.26423609999999,doctor,OPERATIONAL,"1-L Canal Commercial, Khayaban-e-Amin Ring Road Interchange, Block L Khayaban E Ameen, Lahore",5.0,3
+ChIJnaKv7wipGTkRNDCIJGTrgZE,SALAMAT PURA,Gynecologist in Lahore,31.3654408,74.261893,doctor,OPERATIONAL,"M3, 1417 street 10, extension Block M 3 Extension Lake City, Lahore",5.0,1
+ChIJMy3eB0ABGTkRRzxtai4cXXc,TOWN SHIP,Pharmacy Store,31.3808007,74.2645399,pharmacy,OPERATIONAL,"97J7+8QH, Defence Rd, Heritage Homes Block E Khayaban E Ameen, Lahore",5.0,1
+ChIJ3UxbewCrGTkR_FO82gq2fls,TOWN SHIP,Rani the life Pharmacy,31.380084,74.25931849999999,pharmacy,OPERATIONAL,"Shop no. 1, Ground floor, Al-Mezan Arcade, 24-CCA, Khyaban-e-Amin, Lahore",5.0,9
+ChIJjUClae8FGTkRskRQXNeLkgU,TOWN SHIP,Shakir Pharmacy,31.3711938,74.2823031,pharmacy,OPERATIONAL,"Shop # 2,3, Jamia Qadria Masjid, Halloki, Lahore",0.0,0
+ChIJ_xNjNo0BGTkRSZM7D4SEcVE,TOWN SHIP,"Lahore Hospital, Muhafiz Town",31.394862,74.2739682,hospital,OPERATIONAL,"97VF+WHW, Unnamed Road, Muhafiz Town Phase 2 Muhafiz Town, Lahore",4.8,5
+ChIJ_bCBuDABGTkRTh7VSIUXGio,TOWN SHIP,Dr. Saima Fahim Clinic,31.3996329,74.2717872,doctor,OPERATIONAL,"Plot 44, Block B Audit and Accounts Housing Society, Lahore",0.0,0
+ChIJuZn01xwBGTkRyqq_Eof3tm0,TOWN SHIP,Haq Sons Pharmacy,31.401654,74.2689334,pharmacy,OPERATIONAL,"Block E Audit and Accounts Housing Society, Lahore",5.0,1
+ChIJU2B7XQABGTkRloxeoSFS-Vk,TOWN SHIP,E-Pharmacy,31.4048027,74.2763932,pharmacy,OPERATIONAL,"C73G+PHG, Block B Nasheman-e-Iqbal Phase 2, Lahore",5.0,4
+ChIJb7ZC-QIBGTkRzvjNIfZA1g8,TOWN SHIP,Med Loft Pharmacy / Madina Medical & Dental Center,31.4016643,74.26892029999999,pharmacy,OPERATIONAL,"Shop No#5, Round About, near UET, Block E Audit and Accounts Housing Society, Lahore",4.1,17
+ChIJHcP1h3sBGTkRhFHSKS5T1aM,TOWN SHIP,E-Pharmacy,31.4002322,74.268785,pharmacy,OPERATIONAL,"138-E, Phase 1 Audit and Accounts Housing Society, Lahore",0.0,0
+ChIJIXZXbtMBGTkRTTcd4DvzgwU,TOWN SHIP,Punjab Pharmacy,31.3911567,74.2613946,pharmacy,OPERATIONAL,"78-79 A Muhafiz Town Phase 2, Main Defence Rd, opposite PSO Filling Station, National Police Foundation Housing Society Lahore",4.8,24
+ChIJafF5WwABGTkRr1CXW-_4DX8,TOWN SHIP,SK PHARMACY,31.4043939,74.2659091,pharmacy,OPERATIONAL,"C738+Q93, Block A Naz Town, Lahore",5.0,4
+ChIJ377VR8EBGTkRXTxtWXZ0Ue0,TOWN SHIP,Medycle Pharmacy,31.4029281,74.2603262,pharmacy,OPERATIONAL,"A 6/4, Block H Valencia, Lahore",5.0,1
+ChIJz8gGWVQAGTkRvXTCJd_pr7c,TOWN SHIP,Mediq Pharmacy,31.40834319999999,74.26914599999999,pharmacy,OPERATIONAL,"A 1 block, A.1 Valencia, Lahore",4.0,1
+ChIJF8qJefYAGTkRMPb3P82KVJ4,TOWN SHIP,City Pharma Plus Pharmacy,31.4036736,74.2666842,pharmacy,OPERATIONAL,"A Near, 28 Valencia Main Blvd, Block A Naz Town, Lahore",4.3,8
+ChIJiSNPDAABGTkRVWz_nw3hBgg,TOWN SHIP,Medisons pharmacy,31.3916043,74.2683921,pharmacy,OPERATIONAL,"97R9+P6P, National Police Foundation Housing Society Muhafiz Town Phase 2 Muhafiz Town, Lahore",0.0,0
+ChIJGcdWvtMBGTkRDJq6RWAkUeg,TOWN SHIP,Nexus pharmacy,31.3887246,74.2736526,pharmacy,OPERATIONAL,"Gate #4 Defence Rd, opp. DHA Rehbar, Muhafiz Town Phase 2 Muhafiz Town, Lahore",3.0,6
+ChIJB0PFKf8BGTkR_R2-T1ZR9P4,TOWN SHIP,Sunny Dental Surgery,31.4035915,74.26676929999999,dentist,OPERATIONAL,"28 A, near Valencia Town, Naz Town, Lahore",5.0,3
+ChIJmVi9HV4BGTkR0S8_2arSHDo,TOWN SHIP,Dr M/M Rehman's🦷 Dental Clinic and Implant center🦷,31.3885287,74.2736575,dentist,OPERATIONAL,"Defence Road, At U-turn, Gate#4 2, opposite DHA Rahbar, Lahore",4.8,101
+ChIJ1U0qiz0BGTkRH85RcvQxn5c,TOWN SHIP,Iffat Anwar Medical Complex,31.4377738,74.2885103,hospital,OPERATIONAL,"16 - Awaisia Society, College Road، near Ghazi Chowk, Township Lahore",4.1,165
+ChIJR8RydxYBGTkREeBmhKWPd8c,WAPDA TOWN,Hajira Medical Complex,31.4386591,74.28632309999999,hospital,OPERATIONAL,"Sutlej Ave, Block B1 Block B 1 PGECHS, Lahore",4.3,65
+ChIJf0L3Bd4BGTkRkMgd7aN_nvQ,WAPDA TOWN,Momna Ghaffar physiotherapist at chugtai medical center awaisia,31.4380972,74.2881803,hospital,OPERATIONAL,"17, Awasia Housing Society Awaisia Housing Scheme, Lahore",0.0,0
+ChIJfUuZKCABGTkRL7ZTxLMSIM4,TOWN SHIP,Care Medical Complex,31.4188609,74.28130469999999,hospital,OPERATIONAL,"29 Main Boulevard, Block D Military Accounts Chs, Lahore",5.0,4
+ChIJJ80rLQADGTkROUGlC07HfPg,TOWN SHIP,Zubair medical and cardiac centre,31.4192464,74.2813053,hospital,OPERATIONAL,"23/A main boulevard, Zaheer Ave, Lahore",5.0,36
+ChIJwZSgBmgBGTkR886gsKKRgCU,WAPDA TOWN,Health City Hospital,31.4296927,74.27037299999999,hospital,OPERATIONAL,"92 Midway Rd, S, H-1 Block H 1 Wapda Town Phase 1 Lahore",3.6,70
+ChIJLaEjbgABGTkR8g4Tgy-_bxM,TOWN SHIP,WeCare Medical Centre,31.4247705,74.2838628,hospital,OPERATIONAL,"44 College Road, Gul e Daman Housing Society, Lahore",5.0,3
+ChIJg4W1oT0BGTkREe3-7Wbzyl4,TOWN SHIP,Hafeez Hospital- Dr Kashif Hafeez,31.436808,74.289943,hospital,OPERATIONAL,"160 C1 Sutlej Ave, near Ghazi Chowk, NESPAK Society Block C 1 Nespak Housing Scheme, Lahore",4.3,38
+ChIJOeyz_Q8BGTkRJlCkLyvYq9k,WAPDA TOWN,Life Care Hospital,31.4326774,74.2764327,hospital,OPERATIONAL,"C7MG+3HF، D Nespak Housing Society، ‏Main Boulevard Gulshan-e-Ravi, Block D 1 Nespak Housing Scheme, Lahore",3.9,33
+ChIJK-6oSjMBGTkRTubOdE46aEY,TOWN SHIP,Naseem hospital,31.4229999,74.2823377,hospital,OPERATIONAL,"Park Military Accounts Society, 35-A, MAIN College Road, near GOURMET BAKERS, Lahore",4.1,16
+ChIJO9jV1wsBGTkRAYLM4BWhqUk,WAPDA TOWN,Azeem Khatoon Family Hospital,31.4363718,74.268804,hospital,OPERATIONAL,"146 E2 Market, WAPDA Town Block E 2 Wapda Town Phase 1 Lahore",4.9,14
+ChIJM7grtOABGTkRoVx3apnqObc,WAPDA TOWN,Online Doctor consultation and home visits Lahore,31.43260339999999,74.26547479999999,doctor,OPERATIONAL,"Ground Floor Building # 10 Block F2, Wapda Wapda Town Phase 1 Town, Lahore",5.0,1
+ChIJlVjfHgABGTkRp1y2ZEA0CKM,WAPDA TOWN,Child Specialist | Ultrasound Specialist | Doctor Masood Clinic,31.419948,74.2662035,doctor,OPERATIONAL,"25 K1, Chashma Rd, WAPDA Town Block K 1 Wapda Town Phase 1 Lahore",4.7,20
+ChIJh3PDFNgBGTkRP4SA0Bzz8zQ,WAPDA TOWN,"Dr. Zain Mehmood Butt Cardiologist, Lahore",31.4372651,74.2810119,doctor,OPERATIONAL,"CARDIOLOGY Clinic, Ever Care Hospital, D1 commercial NECHS, NESPAK Society Phase 1 Nespak Housing Scheme, Lahore",5.0,4
+ChIJ5TTYLYgBGTkRtow0m3Lv2l8,WAPDA TOWN,Alara Healthcare Clinic,31.432693,74.265626,doctor,OPERATIONAL,"Ground Floor, Building # 10, Block F2 Wapda Town Phase 1 Lahore",4.9,120
+ChIJOSYQ3x0BGTkRHhNbnQ7vUEI,TOWN SHIP,Subhan Pharmacy & Doctor Clinic,31.423341,74.28235699999999,doctor,OPERATIONAL,"C7FJ+8WQ, College Road, Block A Military Accounts Chs, Lahore",0.0,0
+ChIJU4_jLgABGTkR-i8lDnolbnA,TOWN SHIP,Doctor+ Health Care,31.4191224,74.2869844,doctor,OPERATIONAL,"29a Babar Ln, Block E Military Accounts Chs, Lahore",5.0,3
+ChIJK0nd6DEBGTkRf2YTVnxdaT4,TOWN SHIP,KK Pharma plus,31.4216558,74.28064549999999,pharmacy,OPERATIONAL,"Missile chowk, College Road, Block E PGECHS 2, Lahore",4.2,6
+ChIJ2X4eUDgBGTkRIcDt3CgYZc0,TOWN SHIP,Ayaz Pharmacy,31.4212029,74.27690439999999,pharmacy,OPERATIONAL,"plot no 170-E, punjab employees cooperative society phase 2 Punjab Government Employees Cooperative Housing Society Phase 2, Lahore",5.0,4
+ChIJBUv6TAIBGTkRJE0NN5CBFSg,WAPDA TOWN,Wapda Medical Store,31.4262148,74.26881519999999,pharmacy,OPERATIONAL,"147 Tarbela Rd, WAPDA Town Block J 1 Wapda Town Phase 1 Lahore",0.0,0
+ChIJsTjYB3kBGTkR-FFJUpjqaGk,TOWN SHIP,Sheikh & Son's Pharmacy,31.421544,74.28105219999999,pharmacy,OPERATIONAL,"Plot No 109-A، Phase 2Collage Road، Block D PGECHS, Lahore",3.0,1
+ChIJhQAeF-IAGTkRpkzGL0XD42k,TOWN SHIP,Elahi Medical Store General Store,31.4204786,74.2815703,pharmacy,OPERATIONAL,"Eden Boulevard Block A Military Accounts Chs, Lahore",0.0,0
+ChIJwTFWShoBGTkRrRDCyz8Zrls,WAPDA TOWN,Ghosia Pharmacy,31.4301605,74.2808656,pharmacy,OPERATIONAL,"C7JJ+28Q, Block D PCSIR Staff Colony, Lahore",4.3,6
+ChIJ91fauPUBGTkRd7rtUbj2u04,TOWN SHIP,Zaka Pharmacy +,31.4225194,74.2814676,pharmacy,OPERATIONAL,"Plot 16, 1, Block A Military Accounts Chs, Lahore",3.7,7
+ChIJbx5_Ta0BGTkR7-rNdJsp_ug,TOWN SHIP,NEW RAHAT PHARMACY,31.4237586,74.2824184,pharmacy,OPERATIONAL,"18, Block A Military Accounts Chs, Lahore",4.0,2
+ChIJyYlNMysBGTkREDTKBdUhiPY,WAPDA TOWN,Fayyaz Sons Pharmacy,31.4226288,74.26528669999999,pharmacy,OPERATIONAL,"27, Block J2 Block J 2 Wapda Town Phase 1 Lahore",3.7,3
+ChIJjaDNOAABGTkR1GHYmv8rDnA,WAPDA TOWN,Life Pharmacy,31.4199254,74.2632046,pharmacy,OPERATIONAL,"309 Chashma Rd, near Rehmat Chowk, Block K2 Block K 2 Wapda Town Phase 1 Lahore",5.0,2
+ChIJu51jb2oBGTkRFvhJUcLIkW8,WAPDA TOWN,Al Madina medicos,31.4284631,74.27134199999999,pharmacy,OPERATIONAL,"Shope no 5, St 1, near sumander chok, Sattoo Katla, Lahore",0.0,0
+ChIJz5G5Pr8BGTkRfh2T81j_n4Y,WAPDA TOWN,Manzoor Sons Pharmacy,31.4224363,74.265244,pharmacy,OPERATIONAL,"27 To, Block J2 Block J 2 Wapda Town Phase 1 Lahore",1.0,1
+ChIJTb5kNv4BGTkRT1e_6OfIvNo,WAPDA TOWN,Hodgson Plus Pharmacy,31.4205894,74.2653405,pharmacy,OPERATIONAL,"11 Abbaseen Ave, Block K2 Block K 2 Wapda Town Phase 1 Lahore",3.9,18
+ChIJHwbwO8UBGTkRI4rtNU59_a0,WAPDA TOWN,Clinico Pharmacy,31.4198928,74.2663994,pharmacy,OPERATIONAL,"272, Block K1 Block K 1 Block K Phase-1, Lahore",4.7,13
+ChIJVxJBLgABGTkR-kEtLteo_sY,TOWN SHIP,Punjab Pharmacy,31.4222025,74.28107349999999,pharmacy,OPERATIONAL,"C7CJ+VCQ Gouri misile chowk, College Road, Block A Military Accounts Chs, Lahore",3.0,5
+ChIJ2aib4PABGTkRO2ayfIVZc2E,WAPDA TOWN,Valencia Pharmacy,31.4160925,74.2610322,pharmacy,OPERATIONAL,"C786+CCJ, Latif St, Block A1 Block A 1 Valencia, Lahore",0.0,0
+ChIJCVAUPOIAGTkRHWzf8LtLboA,TOWN SHIP,ZULFIQAR SONS PHARMACY,31.4199928,74.28133129999999,pharmacy,OPERATIONAL,"C79J+XGX, Eden Boulevard Block D Military Accounts Chs, Lahore",0.0,0
+ChIJX1hPL-ABGTkREmCbY42S52g,WAPDA TOWN,Euro Pharmacy,31.4195611,74.2709051,pharmacy,OPERATIONAL,"351-K1 NFC Society, Lahore",3.4,5
+ChIJ8dhVF10BGTkRaYum4xSaNxw,TOWN SHIP,Al shafi care pharmacy,31.4196083,74.281348,pharmacy,OPERATIONAL,"21 main Boulevard, Eden Boulevard Block D military accounts, Lahore",5.0,1
+ChIJz7uKO4EBGTkRXxEBb02f9zE,WAPDA TOWN,DentX Dental & Medical Clinic,31.4196801,74.26279629999999,dentist,OPERATIONAL,"346-K2 Chashma Rd, near Rehmat Market, Block K2 Block K 2 Wapda Town Phase 1 Lahore",5.0,228
+ChIJD8KxAuMBGTkRIpQhn_HfsgI,WAPDA TOWN,Dental Villa,31.4148012,74.26337219999999,dentist,OPERATIONAL,"209 St 4, near Wapda Town, NFC Society, Lahore",5.0,25
+ChIJv3OrqUIBGTkRRWdmOgFb_vo,TOWN SHIP,Cosmo Dental Clinic,31.4210664,74.2813034,dentist,OPERATIONAL,"Plaza 4-B, Shop No.2, Main Commercial Road, Housing Society Block A Military Accounts Chs, Lahore",5.0,8
+ChIJNwJFOEUBGTkR0cvjQfGnpfg,WAPDA TOWN,Dr. Saud Ahmed Cheema dental surgery,31.4156949,74.26097759999999,dentist,OPERATIONAL,"corner plaza, Block A1 market, Valencia, Lahore",5.0,44
+ChIJfQTjoQABGTkRbUVpbLykngQ,WAPDA TOWN,"Alina Dental clinics, Orthodontics and Implantology center",31.4237969,74.26515839999999,dentist,OPERATIONAL,"Abbaseen Ave, Block J2 Block J 2 Wapda Town Phase 1 West, Lahore",4.7,199
+ChIJuYaaspkBGTkRzgHhBG0qIe4,WAPDA TOWN,Victoria Dental And Medical Center Wapda Town,31.4198956,74.2624873,dentist,OPERATIONAL,"303 k2, Lahore",4.8,31
+ChIJARCyjwEBGTkR4lmPgZ2tmwU,WAPDA TOWN,"Dr Khaled Kareem, Dental Clinic and Residence",31.42215969999999,74.2700602,dentist,OPERATIONAL,"317Block K1, Wapda Town, Lahore, Pakistan, WAPDA Town Block K 1 Wapda Town Phase 1 Lahore",4.5,11
+ChIJ8wuvAzECGTkRid-LFpJNmsY,GANGA RAM HOSPITAL,Doctors Hospital & Medical Center,31.4796509,74.28036929999999,hospital,OPERATIONAL,"152-G, 1 Canal Rd, Block G1 Block G 1 Phase 1 Johar Town, Lahore",2.8,865
+ChIJg44kx-sDGTkROoN4R4WB_t0,GANGA RAM HOSPITAL,Welcare Hospital,31.4854836,74.29232280000001,hospital,OPERATIONAL,"F7PR+5WW, Wafaqi Colony, Lahore",4.6,5
+ChIJQVQt1MYDGTkR5H1VeqG-99g,SAMAN ABAD,Tech Medical Center,31.4855246,74.2821661,hospital,OPERATIONAL,"F7PJ+6V3, Tech Society, Lahore",5.0,4
+ChIJ5elBPtQDGTkRd5jJphdOqPM,GANGA RAM HOSPITAL,Muhammad Hospital,31.4687709,74.2695844,hospital,OPERATIONAL,"22-L, 22 Abdul Haque Rd, Johar Block L town, Lahore",4.3,56
+ChIJq3TXmTEBGTkRk2kbtfD6TDQ,GANGA RAM HOSPITAL,Johar medicare complex,31.4600031,74.2714848,hospital,OPERATIONAL,"36 Shah Alam Rd, Block R Phase 2 Johar Town, Lahore",3.6,14
+ChIJfwHoHIoBGTkRyIeEDegF9cs,GANGA RAM HOSPITAL,Chinese Zhongba - Zaib Hospital and Medical Center,31.45907,74.27640989999999,hospital,OPERATIONAL,"61 Chowk، near Domino Pizza, Block R 1 Phase 2 Shadiwal, Lahore",2.6,10
+ChIJ720nk2oBGTkRqLaXF2Yua-g,GANGA RAM HOSPITAL,Omar Hospital & Cardiac Centre Johar Town Branch,31.45764479999999,74.28865139999999,hospital,OPERATIONAL,"Plot No. 393-396 & 423-426, Block D II Johar Town, Lahore",3.5,162
+ChIJYT0dxQsBGTkRpZMuMb0Atok,GANGA RAM HOSPITAL,Zaib Hospital Lahore - ZhongBa Infertility Clinic,31.45907,74.27640989999999,hospital,OPERATIONAL,"61 - A Shadiwal Chowk, near Allied Bank, Block R 1 Phase 2 Johar Town, Lahore",1.0,4
+ChIJkxf2ZU8BGTkRVT54jkcfskU,GANGA RAM HOSPITAL,Chinese Visa | Infertility Hospital | Zaib Medical Center,31.4585077,74.2764672,hospital,OPERATIONAL,"Samsani Rd، near Meezan Bank, Block R 1 Phase 2 Johar Town, Lahore",1.5,2
+ChIJrRrvcHABGTkRN1fTO3U9bSA,GANGA RAM HOSPITAL,Wazir Habib Cancer Center,31.4803049,74.2816352,hospital,OPERATIONAL,"21-G1 Johar Town opposite Doctors Hospital near Cakes&bakes, Canal Rd, Block G 1 Phase 1 Johar Town, Lahore",4.3,61
+ChIJ-emUun4BGTkRgruOFHNl7VE,GANGA RAM HOSPITAL,Gastroenterologist in Lahore - Bawaseer ka ilaj - Zaib Medical Center,31.4586806,74.2764527,hospital,OPERATIONAL,"Zaib Medical Center Johar Town، Shadiwal Chowk، near Shahbaz Tikka Restaurant, Block R 1 Phase 2 Johar Town, Lahore",2.6,11
+ChIJ1-4AOdEDGTkRZSSqOfPcRfo,GANGA RAM HOSPITAL,Iqbal Medical Complex,31.4714795,74.2724168,hospital,OPERATIONAL,"347, Main Blvd, Block G, Johar Town, Lahore, Punjab",3.9,7
+ChIJk2ZUvYcBGTkRR6Lm_nyPnxY,GANGA RAM HOSPITAL,Tariq Medical Complex,31.4664327,74.287391,hospital,OPERATIONAL,"Tariq Medical Complex, 267, near Moon Heights, opposite F Block Market, Block F f block Johar Town, Lahore, Punjab Tariq Medical Complex, 267, near Moon Heights, opposite F Block Market, Block F commercial market Johar Town, Lahore",4.8,13
+ChIJ6zYaSToDGTkR_j5NeTrx-90,GANGA RAM HOSPITAL,"Mughal Medical and Gyne centre l Best gynecologist in Lahore (Experienced in Ganga Ram, CMH, National Hospital, KSA Hospital)",31.4632765,74.2726538,hospital,OPERATIONAL,"663 P Block Rd, Block Q Phase 2 Johar Town, Lahore",4.8,17
+ChIJAywKYVoDGTkR7T6XI1ZzpSg,GANGA RAM HOSPITAL,Allpatient,31.4697435,74.27389459999999,doctor,OPERATIONAL,"7, Block M Phase 2 Johar Town, Lahore",5.0,3
+ChIJFavjGWIDGTkRcstnj3fC0y8,GANGA RAM HOSPITAL,Dr.Tahir Aman Clinic and Ultrasound,31.4730425,74.27156420000001,doctor,OPERATIONAL,"438, Block G4 Block G 4 Phase 2 Johar Town, Lahore",4.3,4
+ChIJrUuzvB8DGTkRcvmt1F0Rq_8,GANGA RAM HOSPITAL,Al-Qaim clinic orthopaedic And Gynae,31.4706132,74.2647137,doctor,OPERATIONAL,"346 Minhaj- ul- Hussain Rd, Block H 2 H 3 Johar Town, Lahore",5.0,1
+ChIJI5gHIAADGTkRijHtZ6gDWqI,GANGA RAM HOSPITAL,Eeman Clinic,31.4711358,74.2662928,doctor,OPERATIONAL,"1 Phase, 294, Block H Johar Town, Lahore",5.0,1
+ChIJq68WXMQDGTkRkt9HeMd7U9o,GANGA RAM HOSPITAL,Aziz Haematology Clinic,31.4684701,74.2659018,doctor,OPERATIONAL,276 h2، Lahore,3.8,21
+ChIJTUC1Pw4DGTkRdsZTpNDFpc8,GANGA RAM HOSPITAL,Prof. Dr. Taj Jamshaid Consultant Physician Diabetologist & Hepatologist,31.46979899999999,74.27395419999999,doctor,OPERATIONAL,"7 M Khokhar Chowk, Johar Block M Phase 2 Town, Lahore",4.5,23
+ChIJE1pd-lQDGTkRWKP9BCBRn6k,GANGA RAM HOSPITAL,"Dr Muzammil Aslam Kataria - Gastroenterologist, Consultant Physician",31.47969,74.28026849999999,doctor,OPERATIONAL,"Doctors Hospital & Medical Center OPD, St 1, Block G1 Block G 1 Phase 1 Johar Town, Lahore",4.3,6
+ChIJpXw7_mMBGTkRXIBcY_KbD8g,GANGA RAM HOSPITAL,Gyn & Obs Clinic,31.4609845,74.28241009999999,doctor,OPERATIONAL,"F، 152 St 51, Block F1 Block F 1 Phase 1 Johar Town, Lahore",5.0,5
+ChIJYaP9voMDGTkRXGKxCAJhXow,GANGA RAM HOSPITAL,Dr Ali Anjum,31.4697515,74.2737377,doctor,OPERATIONAL,"F79F+WF5 Chughtai medical centre, Block M Block L Johar Town, Lahore",4.6,29
+ChIJR89lJiwCGTkREyAobyZ3MSk,GANGA RAM HOSPITAL,Star Pharmacy,31.4709076,74.2593169,pharmacy,OPERATIONAL,"Block J Phase 2 Johar Town, Lahore",5.0,2
+ChIJAQDA8MQDGTkR5RAuhVqom2c,GANGA RAM HOSPITAL,PNP The Pharmacy DHMC,31.4794716,74.2804477,pharmacy,OPERATIONAL,"F7HJ+R52 Doctor's Hospital & Medical Center, Canal Rd, Block G1 Block G 1 Phase 1 Johar Town, Lahore",3.4,5
+ChIJsZ8UjN4DGTkRtiZAVa8B9Vo,GANGA RAM HOSPITAL,Medical store,31.4683791,74.2728321,pharmacy,OPERATIONAL,"975 L Block Rd, Block L Johar Town, Lahore",4.5,6
+ChIJlaD7tdQDGTkRDM7ApQ_Ubok,GANGA RAM HOSPITAL,Hashmi Pharmacy,31.4683472,74.26521799999999,pharmacy,OPERATIONAL,"Block H-2 Block H 2 Phase 2 Johar Town, Lahore",0.0,0
+ChIJb02ZBzgDGTkR5VHrvI4H2-0,GANGA RAM HOSPITAL,Punjab Pharmacy Johar Town,31.4701698,74.27326579999999,pharmacy,OPERATIONAL,"470 G3, Block G 3 Phase 2 Johar Town, Lahore",4.8,8
+ChIJHwiQIqsDGTkRWn7Tl4oL-wU,GANGA RAM HOSPITAL,"Mughal Pharmacy (Johar Town, Lahore)",31.4721701,74.2602096,pharmacy,OPERATIONAL,"301, opp. Mughal Eye Hospital, Block H-3 Block H 3 Phase 2 Johar Town, Lahore",3.0,5
+ChIJvzrlPVcDGTkRaT8m29TNiT4,GANGA RAM HOSPITAL,Khalid pharmacy,31.4751297,74.2807297,pharmacy,OPERATIONAL,"Johar, 10-A, G block town, Lahore",5.0,4
+ChIJwzpNf9gDGTkRfRXBXwswuuM,GANGA RAM HOSPITAL,Family Pharmacy,31.4659245,74.27908699999999,pharmacy,OPERATIONAL,"F78H+9J9, Samsani Khui Block M Phase 2 Johar Town, Lahore",0.0,0
+ChIJi4KjWvkDGTkR1KjzOvUuXJQ,GANGA RAM HOSPITAL,My Chemist + Pharmacy,31.4758957,74.2810797,pharmacy,OPERATIONAL,"Block G, 7B Abdul Haque Rd, Block G Block G 1 Phase 1 Johar Town, Lahore",4.5,22
+ChIJy6Z23NYDGTkR3u1-5LZCMdQ,GANGA RAM HOSPITAL,AL Chemist,31.4696528,74.2732849,pharmacy,OPERATIONAL,"F79F+V87, Abdul Haque Rd, Block M Phase 2 Johar Town, Lahore",4.7,3
+ChIJ5_Rw2dYDGTkRzyEfwjAUBjo,GANGA RAM HOSPITAL,Ammar Medical Store,31.46982,74.27337,pharmacy,OPERATIONAL,"F79F+W8H, Khokhar Chowk, Abdul Haq Rd, Block M, Johar Town, Lahore, Punjab, Block M Phase 2 Johar Town, Lahore",0.0,0
+ChIJ6wY9TrEDGTkR49fKPMnY1Qk,GANGA RAM HOSPITAL,Medilinq Pharmacy,31.4687743,74.2695839,pharmacy,OPERATIONAL,"plot#22 Abdul Haque Rd, Block L Johar Town, Lahore",5.0,1
+ChIJyevHciwCGTkRvC1S8ynHteE,GANGA RAM HOSPITAL,Fatima Pharmacy,31.4698349,74.2602698,pharmacy,OPERATIONAL,"Fatima Pharmacy, 305/41 Expo Center Rd, Block H-3 Block H 3 Phase 2 Johar Town, Lahore",4.4,14
+ChIJWZgfF9sDGTkR55yu1Yc1iBU,GANGA RAM HOSPITAL,My Doctors Pharmacy,31.47553,74.28045999999999,pharmacy,OPERATIONAL,"Chaudhry Plaza, Abdul Haq Rd, Block G1, Johar Town, Lahore, Punjab",5.0,1
+ChIJZySdQwADGTkR7iKaFdoKoZY,GANGA RAM HOSPITAL,Pharmasave Pharmacy,31.471932,74.2779113,pharmacy,OPERATIONAL,"433g1, Abdul Haque Rd, Block G1 Block F 2 Phase 1 Johar Town, Lahore",5.0,1
+ChIJqRR1288DGTkRf-CPH5-GdwI,GANGA RAM HOSPITAL,Health care plus Pharmacy - Johar Town. Lahore,31.4691996,74.2690776,pharmacy,OPERATIONAL,"SHOP # 254, Block H-2 Block H 2 Phase 2 Johar Town, Lahore",5.0,16
+ChIJaypxFdsDGTkRbmmdAM_-YRI,GANGA RAM HOSPITAL,CURE N CARE DENTAL CENTRE,31.4752214,74.28086189999999,dentist,OPERATIONAL,"opposite to G1 market, Block G Phase 1 Johar Town, Lahore",4.9,265
+ChIJP4n0HOkDGTkRRPyS_gMsOhE,GANGA RAM HOSPITAL,Dental Clinic Lahore by Dr Ayesha Dentist doctor,31.4732152,74.2591497,dentist,OPERATIONAL,"35H3, Johar Town, Lahore",4.9,76
+ChIJ10yFBN0DGTkRpuJ_1rLLLmI,GANGA RAM HOSPITAL,Dental Bay,31.4643641,74.2747736,dentist,OPERATIONAL,"782, m block, Main Blvd, Block N Block M Phase 2 Johar Town, Lahore",4.9,36
+ChIJnTTZkPkBGTkRnAckYBJdJ9w,GANGA RAM HOSPITAL,SMILE HUB CLINICS,31.462573,74.2746528,dentist,OPERATIONAL,"599 Main Blvd, Block Q Phase 2 Johar Town, Lahore",4.8,158
+ChIJEQwVrdsDGTkRogFxCmhfIus,GANGA RAM HOSPITAL,DENTAL HOUSE,31.4734692,74.2795868,dentist,OPERATIONAL,"1st Floor, Bilal Arcade, opposite to the international school of Choueifat, Block G G-1 Johar Town, Lahore",5.0,115
+ChIJ1xRU7TABGTkRtHQHvX29g6k,GANGA RAM HOSPITAL,Dr Fatima Saleem | BDS | MFDS (1) ENGLAND | GOLD MEDALIST | BEST DENTIST IN JOHAR TOWN,31.4646865,74.2747036,dentist,OPERATIONAL,"782-M Block, Main Blvd, Johar Town, Lahore, 54782 Johar, Town, Lahore",4.9,19
+ChIJp8k5uYIDGTkRzwDCo10ZawM,GANGA RAM HOSPITAL,Dental Clinic by Dr Bilal,31.4685953,74.26644329999999,dentist,OPERATIONAL,"Building#, 273, Block H 2 Phase 2 Johar Town, Lahore",4.9,529
+ChIJcUyuf5ADGTkR__zI9ISdv2k,GANGA RAM HOSPITAL,Dr. Shehla Batool,31.4697435,74.27389459999999,dentist,OPERATIONAL,"7, Block M Phase 2 Johar Town, Lahore",5.0,7
+ChIJvWYbKa4DGTkRDRm1h7n9QEw,GANGA RAM HOSPITAL,Dr.Faisal Liaqat Rana,31.4688757,74.27008909999999,dentist,OPERATIONAL,"Khokhar Chowk, 37 L Block, Abdul Haque Rd, near emporium mall and, Block L Johar Town, Lahore",5.0,3
+ChIJk0TvCvgDGTkR-v1lIqsfTqQ,GANGA RAM HOSPITAL,Alpha Dental Clinic,31.4708105,74.2590876,dentist,OPERATIONAL,"122, Block J Johar Town, Lahore",4.9,72
+ChIJn2pIeAABGTkRyOPZZB8aFEw,GANGA RAM HOSPITAL,Umar Farooq Dental & Cosmetology Clinic,31.4624464,74.2756043,dentist,OPERATIONAL,"Umar Farooq Dental & Cosmetology Clinic, 43A, Block N Phase 2 Johar Town, Lahore",5.0,50
+ChIJOT_RhXABGTkR_J31Ti6ZAOE,GANGA RAM HOSPITAL,Dr Abdullah Karama | best dentist in lahore,31.462573,74.2746528,dentist,OPERATIONAL,"599 Main Blvd، opposite Pizza Hut, Block Q Phase 2 Johar Town, Lahore",4.7,9
+ChIJz1ZQ1oIDGTkR9DAmDfgCGCk,GANGA RAM HOSPITAL,Rehman Dental Care,31.4719332,74.27849820000002,dentist,OPERATIONAL,"Plot no.6, Abdul Haque Rd, Block F2 Block F 2 Phase 1 Johar Town, Lahore",4.9,40
+ChIJT4BR3akDGTkRLJKr6NgYB3A,WALTON ROAD,Emarat Medical Center,31.508853,74.2723204,hospital,OPERATIONAL,"Plot 666 Fazal e Haq Rd, Nishtar Block Nishter Block Allama Iqbal Town, Lahore",2.0,1
+ChIJYdome3UEGTkRBByMiN1SroI,SAMAN ABAD,Lahore Medical City hospital,31.4989967,74.2750021,hospital,OPERATIONAL,"32 Wahdat Rd, Mamdoot Block Mustafa Town, Lahore",3.4,51
+ChIJkU_yrdgDGTkRt0ik2aKDe_s,REHMAN-PURA,Umar Medical & Dental Clinic,31.5171677,74.2930058,hospital,OPERATIONAL,"42 Allama Iqbal St, Gulshan Block Allam, town, Lahore",5.0,2
+ChIJ_Y6rmKkDGTkR2zkzSwd6anQ,WALTON ROAD,Doctors Clinic And Maternity Home,31.5071403,74.2722326,hospital,OPERATIONAL,"600, Nishtar Block Nishter Block Allama Iqbal Town, Lahore",4.5,4
+ChIJO_od7gwDGTkRd-x-phrQnRg,REHMAN-PURA,Bajwa Hospital,31.5180625,74.2859375,hospital,OPERATIONAL,"356 Hafeez Taaib Rd, Kashmir Block Allama Iqbal Town, Lahore",3.3,153
+ChIJIyXGDbIDGTkRhuncTWxxdAo,SAMAN ABAD,Al-Khaleej Medical Diagnostic Center,31.4975113,74.2695739,hospital,OPERATIONAL,"708-Kamran Block near Hathi Chowk, Main Wahdat Road Multan Chungi, Kamran Block Allama Iqbal Town, Lahore",3.5,10
+ChIJ5-_WlN0DGTkR4GOHJkzNMOk,MUSTAFA TOWN,Alfatima pain and medical care clinic,31.5065289,74.2700548,doctor,OPERATIONAL,"St 7 house 15 II, Multan Rd, new town Awan Town, Lahore",5.0,3
+ChIJ6WQlU6YDGTkRlwH6cvB03Uw,WALTON ROAD,Dr Abdul Ghaffar Clinic,31.50757,74.27904,doctor,CLOSED_TEMPORARILY,"G75H+2JF, Karim Block Allama Iqbal Town, Lahore",4.9,18
+ChIJ8fHAvwADGTkRzqDewVI5aJQ,SODIWAL COLONY,Dr Mohammad Anwar Chohan Clinic,31.5105152,74.2694112,doctor,OPERATIONAL,"G769+6Q3 Kharak Nala, Multan Rd, Sabzazar Block H Sabzazar Housing Scheme Phase 1 & 2 Lahore",4.5,2
+ChIJf7m4zFMCGTkRSuLWX76DZ0M,MUSTAFA TOWN,Al Falah Medical Store,31.4997255,74.2600277,pharmacy,OPERATIONAL,"F7X6+V2R, Hajvery Rd, Kakazai, Lahore",4.6,7
+ChIJ-7OETqYDGTkRA5Hp0MY5uks,WALTON ROAD,Health Plus Pharmacy,31.50718549999999,74.2785911,pharmacy,OPERATIONAL,"Karim Block Allama Iqbal Town, Lahore",0.0,0
+ChIJoe7dVk0CGTkRttS8_dt_tHo,MUSTAFA TOWN,AAA Medical Store,31.49716,74.26436,pharmacy,OPERATIONAL,"F7W7+VP9, Multan Rd, Hajvery Town, Ittefaq Town, Lahore, Punjab, Kakazai, Lahore",4.3,6
+ChIJs0sPMCIDGTkRFRmDnr8FsKo,WALTON ROAD,First Pharmacy,31.5061104,74.2786421,pharmacy,OPERATIONAL,"G74H+CFR, Unnamed Road, Karim Block Allama Iqbal Town, Lahore",4.8,5
+ChIJW3FR9CEDGTkRLuWpLNPPUAE,MUSTAFA TOWN,FAROOQ MEDICAL STORE,31.5072679,74.26627239999999,pharmacy,OPERATIONAL,"Multan Rd, Kharak Awan Town, Lahore",5.0,2
+ChIJjw-KOqgDGTkRjEKV1u7avPc,REHMAN-PURA,Watani Departmental & Medical Store,31.50895999999999,74.27449,pharmacy,OPERATIONAL,"Ravi Block Allama Iqbal Town, Lahore",5.0,1
+ChIJVcGaRzADGTkR3_5v0-GaPvg,SAMAN ABAD,Medizone + medical store,31.4982559,74.2738954,pharmacy,OPERATIONAL,"142, near wahdat road, Mamdoot Block Abbas Block Mustafa Town, Lahore",5.0,1
+ChIJB5gGXqYDGTkR5Rf1ZuAxbcc,WALTON ROAD,Taj Medicos,31.5062719,74.2792059,pharmacy,OPERATIONAL,"Karim Block Allama Iqbal Town, Lahore",3.0,1
+ChIJo_y6OGIDGTkRfOD_7Mq5qrc,SAMAN ABAD,Malco The Medicine Super Store,31.4963055,74.2662186,pharmacy,OPERATIONAL,"F7W8+GGH, Waris Colony Lahore",4.3,7
+ChIJpxnmjbIDGTkRdG9ygDSIvh0,SAMAN ABAD,Dillon Pharmacy,31.4966802,74.2671617,pharmacy,OPERATIONAL,"Shop no.3 Alnoor Complex، 230 Wahdat Rd, Waris Colony, Lahore",0.0,0
+ChIJubRoZbIDGTkR7C1nX4GQdi8,SAMAN ABAD,Asif Medical Co,31.49714,74.2685,pharmacy,OPERATIONAL,"F7W9+VC2, Multan Chungi, Wahdat Rd, Mandi Stop, Mansura, Lahore, Punjab, Waris Colony, Lahore",3.0,1
+ChIJT8-EjrIDGTkRBWTHPvD43sE,SAMAN ABAD,Arsal Medical Store,31.4967298,74.2673319,pharmacy,OPERATIONAL,"F7W8+MWW, Multan Chungi, Wahdat Rd Mansura",0.0,0
+ChIJ3xvylh0DGTkRFoB0xktQwFA,MUSTAFA TOWN,Anwar Pharmacy,31.4997598,74.260308,pharmacy,OPERATIONAL,"Anwar Market , Peco Road, link Multan Road, Post Office Mansoora",4.7,18
+ChIJ2UAzJqoDGTkRoDbLag4j98A,MUSTAFA TOWN,Al Sayad Brothers Pharmacy,31.5072684,74.2705363,pharmacy,OPERATIONAL,"G74C+W63, Multan Rd, Kharak Awan Town, Lahore",5.0,2
+ChIJDSYhV00CGTkRM4l6sVHGG8Q,MUSTAFA TOWN,Pharmacy,31.4972388,74.2642635,pharmacy,OPERATIONAL,"F7W7+VPV, Multan Rd Hajvery Town, Ittefaq Town, Lahore",0.0,0
+ChIJp5m2LqsDGTkRcqNEPMxF9z8,MUSTAFA TOWN,Hashmi Medical & General Store,31.5055044,74.26538,pharmacy,OPERATIONAL,"Main Bazaar, Hassan Town, 33-B Multan Rd, Awan Town, Lahore",0.0,0
+ChIJXxtrhcYDGTkR_zsnidGS36Q,MUSTAFA TOWN,Umar Usman Pharmacy and Super Store,31.4913358,74.26176339999999,pharmacy,OPERATIONAL,"F7R6+GPM, Multan Rd, Gulshan e Abbas Scheme No.1 Gulshan E Abbas Scheme No.1 Hanjarwal, Lahore",3.7,3
+ChIJA-MXBFMCGTkRgk3fzNRWVnE,MUSTAFA TOWN,New National Pharmacy,31.5003913,74.26236490000001,pharmacy,OPERATIONAL,"G726+5W5, Farooq e Azam Chowk, Hajvery Rd, Kakazai, Lahore",5.0,4
+ChIJNRFY5EwCGTkRKg6-oDQxR0s,MUSTAFA TOWN,Mansoora Medical & General Store,31.494095,74.2628296,pharmacy,OPERATIONAL,"F7V7+J4P, Multan Rd, Mansoora Bazar Cresent Town, Lahore",0.0,0
+ChIJK_ZM3OkDGTkR95KzJ0ijtN8,WALTON ROAD,Hyatt Pharmacy,31.5075989,74.2784897,pharmacy,OPERATIONAL,"Iqbal, Shop No. 56/11, Fazal e Haq Road, Allama, Karim Block Town, Lahore",5.0,3
+ChIJ4yxheqgDGTkR5g3wX8QwrT0,WALTON ROAD,DENTAL ART,31.5076341,74.2786361,dentist,OPERATIONAL,"Servaid Pharmacy، 56/3 Karim Block Market, 1st Floor of, Allama Iqbal Town, Lahore",4.4,179
+ChIJB_XSuKsDGTkR3CpdzCcBl1Y,MUSTAFA TOWN,Hussain Dental Clinic,31.50534,74.26914,dentist,OPERATIONAL,"G749+4MJ, Multan Rd, New Town, Ittefaq Town, Lahore, Punjab, Awan Town, Lahore",5.0,1
+ChIJAyyXI0EDGTkRe6rvSRxM-Bk,SODIWAL COLONY,Fazal Khushnood Welfare Hospital,31.5169408,74.2746347,hospital,OPERATIONAL,"G78F+QVC, Block H Block A Sabzazar Housing Scheme Phase 1 & 2 Lahore",3.8,4
+ChIJv5X65xsDGTkRJ2KG_CpZv8s,SODIWAL COLONY,Khawajagan Free Hospital,31.5256479,74.2721949,hospital,OPERATIONAL,"G7GC+7V4، Jamia Masjid Qari Muhammad Rasheed Wali, Sabzazar Block B Sabzazar Housing Scheme Phase 1 & 2 Lahore",4.5,6
+ChIJUTL1MIcDGTkRoWq2iUIoDSI,SODIWAL COLONY,MAKKI MADNI HOSPITAL,31.5309762,74.2759295,hospital,OPERATIONAL,"Furniture Market, Bund Road, opposite Shezan Factory, near Maaliyon Ka Dera, Dholanwal Lahore",5.0,2
+ChIJ7S4Bw70DGTkRj2yZi9S_EGA,SODIWAL COLONY,Muaz Medical Complex,31.5275224,74.2654577,hospital,OPERATIONAL,"153, Block G Sabzazar Housing Scheme Phase 1 & 2 Lahore",4.0,7
+ChIJO_lTZRkDGTkRkzp-rP-DNTE,SODIWAL COLONY,Woman Welfare Centre,31.5270347,74.2729398,hospital,OPERATIONAL,"G7GF+R58، Jamia Masjid Qari Muhammad Rasheed Wali, Jhugian Nagra Kot Kamboh, Lahore",5.0,1
+ChIJzSlBB_0CGTkR3SkRnUu3OfA,SODIWAL COLONY,Iram clinic,31.5167769,74.2622825,doctor,OPERATIONAL,706، M Block,4.0,1
+ChIJS_ZX9xIDGTkRvqkedYnEA0Q,REHMAN-PURA,Ahmed Hassan HomoeoPathic Clinic,31.5243885,74.2857507,doctor,OPERATIONAL,"414, Huma Block Allama Iqbal Town, Lahore",5.0,1
+ChIJ9XdhiU8DGTkRCkxNXzntaZg,SODIWAL COLONY,Razi health centre homeopethy burn clinic,31.5365909,74.2698606,doctor,OPERATIONAL,"G7P9+JXQ, Unnamed Road, Kot Kamboh Lahore",5.0,2
+ChIJ02QJ6usDGTkRwjG_H7OnXGo,REHMAN-PURA,Danish Homoeopathic Clinic,31.5215598,74.2846943,doctor,OPERATIONAL,"Plot 536, Huma Block Allama Iqbal Town, Lahore",0.0,0
+ChIJZ_agwagDGTkRPa9HjMYlzDM,SODIWAL COLONY,Naseem Medical Store,31.5281113,74.2776928,pharmacy,OPERATIONAL,Dholanwal Lahore,4.3,6
+ChIJA0ErXnUDGTkRFrecJxPSYoc,SODIWAL COLONY,My Pharmacy,31.5281734,74.27797919999999,pharmacy,OPERATIONAL,"G7HH+763, Kot Muhammad Nagra Town, Lahore",5.0,2
+ChIJGxnemR4DGTkRnxocW0KPuNA,SODIWAL COLONY,Shahab Medical Store,31.5265035,74.2692222,pharmacy,OPERATIONAL,"Kot Kamboh, Lahore",4.0,3
+ChIJBUN59RwDGTkREgMa_Wup9Uo,SODIWAL COLONY,Masood Medical Store,31.5230396,74.269119,pharmacy,OPERATIONAL,Block C Sabzazar Housing Scheme Phase 1 & 2 Lahore,0.0,0
+ChIJd23CfRkDGTkRxPaJdQHdbLA,SODIWAL COLONY,Bhai Bhai Medical Store,31.5264368,74.27328229999999,pharmacy,OPERATIONAL,"G7GF+H8J, Kot Kamboh, Lahore",5.0,1
+ChIJT61LQeQDGTkROeVyJyQiuYI,SODIWAL COLONY,Bashir medical store,31.5322785,74.2691704,pharmacy,OPERATIONAL,"G7J9+WMW, Kot Kamboh Lahore",3.0,2
+ChIJgyhSJiwDGTkRvhA0UboqKhU,SODIWAL COLONY,Medical Store,31.5222433,74.26176219999999,pharmacy,OPERATIONAL,"G7C6+VQ8, Ganje shakar Road, Block A Block G Sabzazar Housing Scheme Phase 1 & 2 Lahore",1.0,1
+ChIJjRMIAAADGTkR05k3z3mWOak,SODIWAL COLONY,Asif Pharmacy &General Store,31.5282146,74.2699197,pharmacy,OPERATIONAL,"G7H9+7XM, Jhugian Nagra Kot Kamboh, Lahore",5.0,1
+ChIJRfOrmRADGTkRZmgG0zF9XD4,SODIWAL COLONY,Dubai Pharmacy,31.52528,74.27718999999999,pharmacy,OPERATIONAL,Sabzazar Block A Sabzazar Housing Scheme Phase 1 & 2 Lahore,4.0,3
+ChIJff8c8aEDGTkRPGlKgJulpBo,SODIWAL COLONY,The Medicure Pharmacy,31.5280587,74.2699298,pharmacy,OPERATIONAL,"Chowk, Shop 3,Nagra, Bund Road, Jhugian Nagra Lahore",0.0,0
+ChIJp0fxAtcDGTkR_3densiAo0s,SODIWAL COLONY,Ahmad Medical Store,31.5287299,74.277305,pharmacy,OPERATIONAL,"G7HG+FWV, Shahalam St, Kot Muhammad Nagra Town, Lahore",5.0,3
+ChIJ08EDbxoDGTkRZdxFNjgykJM,SODIWAL COLONY,Atlas Pharmacy,31.5246589,74.27584809999999,pharmacy,OPERATIONAL,"Phase 1 & 2, Punjab, 88-A Main Boulevard Sabzazar, Block A Sabzazar Housing Scheme Phase 1 & 2 Lahore",4.9,7
+ChIJ0_G4CgADGTkRETn9X_UsXJA,SODIWAL COLONY,Central pharmacy,31.5152187,74.26236349999999,pharmacy,OPERATIONAL,"120 P Block Rd, near makkah chowk, Sabzazar Block P Sabzazar Housing Scheme Phase 1 & 2 Lahore",5.0,5
+ChIJETow_PEDGTkRABQzRitRHU0,SODIWAL COLONY,Sher Sons Medical store,31.5158878,74.26300359999999,pharmacy,OPERATIONAL,"Plot 204, Block Q, Sabzazar Block P Sabzazar Housing Scheme Phase 1 & 2 Lahore",0.0,0
+ChIJA5c4x0cDGTkRA_u6ZTtgfC0,SODIWAL COLONY,Al Rahman Medical Store & Doctor Clinic,31.516039,74.2628549,pharmacy,OPERATIONAL,"Plot No 133P Block, Multan Rd, Sabzazar Block P Sabzazar Housing Scheme Phase 1 & 2 Lahore",5.0,2
+ChIJ0d7yq7kDGTkRSgtdsf6S0C4,SODIWAL COLONY,Naveed Dentomedix The Tooth Club,31.5319,74.2627669,dentist,OPERATIONAL,"E, Plot no 37 E-block, block Main Blvd Sabzazar, Lahore",4.9,12
+ChIJM1hz-vYDGTkRbNBye2SDcJI,SODIWAL COLONY,ODAC Dental Clinic,31.514039,74.2668107,dentist,OPERATIONAL,"Sabzazar H1 block, Main Blvd Allama Iqbal Town, near bhati motrs iqbal center, Lahore",5.0,13
+ChIJ2zY7rJYBGTkR9h0lvyGeZA4,TOWN SHIP,DHA Medics,31.3822448,74.27583299999999,hospital,OPERATIONAL,"DHA Medics, Block-2J Sector 2, Halloki Gardens Block J Dha Rahbar Phase 2 Rahbar, Lahore",5.0,2
+ChIJdT4CRd6rGTkReyLBkgSZJC4,TOWN SHIP,Al Aziz Medical and Gernal Store,31.3713306,74.28550849999999,pharmacy,OPERATIONAL,"97CP+G6J, Main Bazar, Halloki, Lahore",3.0,3
+ChIJr7D_agABGTkRPKbMKZFtIZM,QILA LAKSHMAN SINGH,Ch sania clinic and maternity home,31.3963556,74.3060314,hospital,OPERATIONAL,"98W4+GCV, Kahna Kacha Flyover, Nangar Kana Kacha, Lahore",0.0,0
+ChIJzYileNkBGTkRdUM9I_dHxpo,QILA LAKSHMAN SINGH,Imam Medical Pharmacy,31.3970917,74.30510799999999,pharmacy,OPERATIONAL,"98W4+R2Q, Nangar Kana Kacha, Lahore",5.0,3
+ChIJ63zwgjYBGTkR4ggjI1onL4U,TOWN SHIP,E-Pharmacy,31.3988809,74.2890796,pharmacy,OPERATIONAL,"Plot 4, Block B1 Block B 1 Engineers Town, Lahore",4.3,16
+ChIJCy6_dwABGTkR9zykFQfA6rM,TOWN SHIP,Amin Pharmacy,31.3894445,74.28652,pharmacy,OPERATIONAL,"97QP+QJ2, Block A Engineers Town, Lahore",0.0,0
+ChIJ_y8anq4BGTkRBVL_4D-_lvo,TOWN SHIP,HEALTH HEAVEN PHARMACY,31.3993281,74.28873469999999,pharmacy,OPERATIONAL,"38, 97XQ+QCC, a Street 3, Block C1 Block C 1 Engineers Town, Lahore",5.0,8
+ChIJScm0NjgBGTkRBk34uV9kubA,TOWN SHIP,The Medicine Lounge Pharmacy,31.3988603,74.289177,pharmacy,OPERATIONAL,"4-B1, Engineers Town, Lahore",5.0,1
+ChIJ04Phpj4BGTkR5ZGV2Rt9Hh4,TOWN SHIP,Jahaan Pharmacy Engineers Town,31.3988773,74.2891705,pharmacy,OPERATIONAL,"Plot 4 Chaudhry Rd, Block B1 Block B 1 Engineers Town, Lahore",5.0,1
+ChIJcbRgJgsHGTkRzXf3LYhKWto,TOWN SHIP,Hussain Medical Center,31.4337321,74.2975562,hospital,OPERATIONAL,"341, Township Block 5 Twp Sector C 2 Lahore",4.3,15
+ChIJC7xfAH4BGTkRLMVBo6BGfSA,TOWN SHIP,Jameel Medical Center,31.4336365,74.2983162,hospital,OPERATIONAL,"Block, C2, No 413, 6, sector Lahore",5.0,2
+ChIJn9qVGzkBGTkRubchu4EFA30,TOWN SHIP,Wazir Hospital,31.4425461,74.2961104,hospital,OPERATIONAL,"C7VW+2C9, Township Block 1 Twp Sector C 1 Lahore",3.5,46
+ChIJhU9KMiwBGTkRaAi47QO10rw,TOWN SHIP,Alhamd Medical center,31.4328971,74.3068564,hospital,OPERATIONAL,"C8M4+5P5, Hassan Basri Rd, Sector D2 Sector D 2 Block 1 Green Town, Lahore",5.0,1
+ChIJw986quMBGTkRU0lfGA1kBVE,TOWN SHIP,Khadija Medical Clinic,31.4426775,74.3100528,hospital,OPERATIONAL,"Umar Chowk, 253, Township Block 1 Sector D1 Lahore",5.0,2
+ChIJcUfQYy0BGTkR-dlzgoSHgfI,TOWN SHIP,Husnain clinic green town Lahore,31.4358059,74.31019239999999,hospital,OPERATIONAL,"Sunday Bazar Rd, Sector D2 Sector D 2 Block 3 Green Town, Lahore",5.0,1
+ChIJi--nWvMBGTkRVjoRY_y5Tpo,TOWN SHIP,SOHAIL & SALMA HOSPITAL TRUST,31.43004809999999,74.30808929999999,hospital,OPERATIONAL,"1077, block 5 , sector D2 Green town, sector D2, Lahore",4.5,8
+ChIJbWpmRmwBGTkRUksL1jkvO2k,TOWN SHIP,Al Shifa Clinic,31.4283955,74.2989881,hospital,OPERATIONAL,"Bagria road, Bagrian Green Town, Lahore",5.0,4
+ChIJlU493U4BGTkRH6OgmtkSyHY,TOWN SHIP,Arshad Homeopathic Clinic,31.4301708,74.2824614,doctor,OPERATIONAL,"Shop No 3, Block No 17-E, Bilal Park PCSIR, Staff, Society, Lahore",0.0,0
+ChIJKYu57LQBGTkRrYILAEJiukE,TOWN SHIP,Doctor Serwer Clinic,31.4360731,74.2987658,doctor,OPERATIONAL,"139-4-C2 C2, Township Block 4 Twp Sector C 2 Green Town, Lahore",0.0,0
+ChIJz6rZSwABGTkRS1UDt3Blogg,TOWN SHIP,Clinic,31.4346266,74.3073885,doctor,OPERATIONAL,"House number, 629, Sector D2 Block 5 Sector D 2 Block 3 Green Town, Lahore",0.0,0
+ChIJWTmYqdIBGTkRCQ2SmLfGSWk,TOWN SHIP,Chohdari Clinic,31.4341501,74.29635329999999,doctor,OPERATIONAL,"Plot 190, Township Block 5 Twp Sector C 2 Lahore",5.0,2
+ChIJfcD0CS4BGTkRgkSmY4fRd6o,TOWN SHIP,Gohar Clinic,31.4347564,74.3058519,doctor,OPERATIONAL,"C8M4+W89, Sector D2 Sector D 2 Block 3 Green Town, Lahore",5.0,1
+ChIJsQlZ7NgBGTkRK5BsDtDk4_s,TOWN SHIP,NIAZ CLINIC,31.4269898,74.30255869999999,doctor,OPERATIONAL,"C8G3+Q2X, Unnamed Road, Bagrian Lahore",5.0,4
+ChIJUzqyBTIBGTkR6UPejBakGNo,TOWN SHIP,Helpline Clinic,31.4364247,74.3065586,doctor,OPERATIONAL,"House No.530, 784-3-D2, Sector D2 Sector D 2 Block 3 Green Town, Lahore",5.0,1
+ChIJN-_CQAABGTkRGqzdJQ19Pg4,TOWN SHIP,Khan medical store,31.41878239999999,74.2871062,pharmacy,OPERATIONAL,"C79P+GR5, Block C Military Accounts Chs, Lahore",5.0,4
+ChIJd9jnqqwBGTkRMQU12VVx_HU,TOWN SHIP,Usman Bashir Pharmacy / Medical Store.,31.4332382,74.29922990000001,pharmacy,OPERATIONAL,"409 Madar-e-Millat Road, Township Block 6 Twp Sector C 2 Lahore",4.5,2
+ChIJ9e_qldMBGTkRmSD_Uk3x74I,TOWN SHIP,ASLAM & SON'S MEDICAL STORE,31.4197924,74.2932762,pharmacy,OPERATIONAL,"C79V+X54 Rehan Market, Bagrian Rd, Bagrian Hakim Town, Lahore",5.0,1
+ChIJwUuDOjwBGTkRBNaI8gnQ7AM,TOWN SHIP,Medica Plus Pharmacy,31.4150398,74.2905512,pharmacy,OPERATIONAL,"C78R+267، PIA Road, High Court Society Phase 2 High Court Society, Lahore",5.0,2
+ChIJgWhNmYgBGTkRFJut1Eqt4l8,TOWN SHIP,MashaAllah Medical Store,31.4268796,74.30254649999999,pharmacy,OPERATIONAL,"C8G3+Q23, Bagrian Lahore",4.5,2
+ChIJO9xIfxgBGTkR8n4XFDnlOWA,TOWN SHIP,Syed medicine and Pharmacy Plus,31.4308041,74.2882474,pharmacy,OPERATIONAL,"Aslam Centre, 141-B College Road, Block B PCSIR Staff Colony, Lahore",4.7,3
+ChIJaxWYguUBGTkRgP3z84yn74U,TOWN SHIP,ARHAM MEDICAL STORE,31.4269375,74.3025625,pharmacy,OPERATIONAL,"melad chowk, bhatta#1, Bagrian Green Town, Lahore",0.0,0
+ChIJv0JRH-IBGTkRZCdxZ-exYVY,TOWN SHIP,E Pharmacy,31.4305567,74.28545799999999,pharmacy,OPERATIONAL,"Property#217 Shop, 3, Block C PCSIR Staff Colony, Lahore",4.7,10
+ChIJ93N6JhcBGTkRJY_S-wmA_E8,TOWN SHIP,Bhutta Medical Store,31.4249282,74.2986272,pharmacy,OPERATIONAL,"C7FX+XFC, Unnamed Road, Bagrian Lahore",4.0,1
+ChIJKQFVEAkBGTkR579P7bTsxZw,TOWN SHIP,Sheharyar Medical Store,31.4218924,74.30371269999999,pharmacy,OPERATIONAL,"C8C3+QF6, Bara Dari Rd, Bagrian shahadra, Lahore",0.0,0
+ChIJAcDLK3gBGTkRTM3fEGhY1QA,TOWN SHIP,Health Planet Pharmacy,31.424272,74.29578099999999,pharmacy,OPERATIONAL,"Dharam Chund, Feroz park Phase II Near Peer bazar, Bagrian, Lahore",5.0,1
+ChIJXzbtRPcBGTkRqevT-71JqZk,TOWN SHIP,Mian Medical and Cosmetic Store,31.4223089,74.3021481,pharmacy,OPERATIONAL,"Bhatta Nb 2, Sher Chowk, Bagrian, Lahore",4.0,4
+ChIJz3tbIB8BGTkRxSnb-r-edxI,TOWN SHIP,Reem Pharmacy,31.4264184,74.28544579999999,pharmacy,OPERATIONAL,"C7GP+H58, College Road, Gul e Daman Gul E Daman, Lahore",5.0,3
+ChIJv-ux5R4BGTkRhvo43aLgy04,TOWN SHIP,Med Life Pharmacy,31.4258655,74.2844034,pharmacy,OPERATIONAL,"C7GM+8QV, College Road, near Marriage hut oppt Zam Zam plaza, Gul-e-Damen housing society Gul E Daman, Lahore",5.0,5
+ChIJl3hCZycBGTkR9yVaut9738A,TOWN SHIP,Zahid Pharmacy & Clinic,31.4238445,74.2957658,pharmacy,OPERATIONAL,"C7FW+G8J, Bagrian Rd, Bagrian Lahore",2.8,5
+ChIJ0Qf5JFABGTkRRkOpMJdRcEY,TOWN SHIP,Oncolife Pharma Distributors,31.4268612,74.2999076,pharmacy,OPERATIONAL,"Tokay Wali Gali H#7 Near Nawaz Mord, Bagrian Lahore",5.0,2
+ChIJxZcUdysBGTkR_VFlbQXfycM,TOWN SHIP,Punjab pharmacy ameer chowk,31.4263089,74.2847389,pharmacy,OPERATIONAL,"Gul e Daman Gul E Daman, Lahore",4.1,8
+ChIJx5kPZgABGTkRaZ_a1BpOHWU,TOWN SHIP,Ayyan Medical Store,31.4209919,74.3019248,pharmacy,OPERATIONAL,"C8C2+9QV, Bagrian Lahore",0.0,0
+ChIJfSNIGkYBGTkRsEkc2CEyqro,TOWN SHIP,Al Rehman Pharmacy,31.4249462,74.3020398,pharmacy,OPERATIONAL,"C8F2+FQ5 hafiz Chowk, Bagrian Lahore",0.0,0
+ChIJny6CQ8QBGTkRHWE2gbhmqls,TOWN SHIP,Waqas Medical and Dental Clinic,31.4329943,74.3070841,dentist,OPERATIONAL,"Mian Chowk, Shop # 644 Hassan Basri Rd, 5-D2 Sector D 2 Block 5 Green Town, Lahore",5.0,28
+ChIJVXniS9gBGTkRH0WPP8wRBXI,TOWN SHIP,Al fareed medical clinic,31.4432537,74.2937056,hospital,OPERATIONAL,"Allah Baksh Rd, Mateen Avenue Lahore",5.0,5
+ChIJtW5gMhgBGTkRdaGVnbqUYEQ,TOWN SHIP,Lahore Medical Centre,31.4434946,74.3061456,hospital,OPERATIONAL,"226, Township, Block 1 Sector D1 Lahore",0.0,0
+ChIJ865_NwABGTkRAhQp8gOcD9A,GARDEN TOWN,Muhammadi medical center,31.4641252,74.3063439,hospital,OPERATIONAL,"410، 3C1, Township Block 16 Sector B 1 umar chowk, Lahore",0.0,0
+ChIJk1uL_IEBGTkRPMkQdaDGyEc,GANGA RAM HOSPITAL,Zaib Hospital Lahore - Zaib Medical Center,31.4585261,74.2765032,hospital,OPERATIONAL,"Zaib hospital R1, near Meezan Bank, Block R 1 Phase 2 Johar Town, Lahore",1.7,11
+ChIJs1aK8hYBGTkRqhMUAmEx4mk,TOWN SHIP,Lahore residency and rehabilitation welfare for special children,31.4432062,74.305088,hospital,OPERATIONAL,"396 c block umer chock, Township Block 3 Twp Sector C 1 Lahore",3.7,3
+ChIJFadTRbEGGTkR-bEKgyrfH1A,GARDEN TOWN,Salman Hospital,31.4547655,74.3181687,hospital,OPERATIONAL,"639A, 1 Haider Rd, Township Block 4 Sector A 2 Lahore",4.3,9
+ChIJ06c6_NUBGTkR-yaXKZU7ORk,TOWN SHIP,AGHAZ WELFARE CLINIC,31.4437711,74.3110866,hospital,OPERATIONAL,"C8V6+GC4, Rana Rd, Sector D1 Block 4 Sector D1 Lahore",5.0,1
+ChIJVatnhP0DGTkRZi0Jmoz0URw,GARDEN TOWN,Iqraa Medical Complex (IMC) Old Building,31.4677296,74.30555679999999,hospital,OPERATIONAL,"24, 25, 26 Maulana Shaukat Ali Rd, Block A Phase 1 Johar Town, Lahore",2.6,439
+ChIJtR0Ksa0GGTkRtZVQnMFgNgY,GARDEN TOWN,Rehman Hospital And Maternity Home,31.4615789,74.3162354,hospital,OPERATIONAL,222 2B-1 aboubakar road lahore,5.0,2
+ChIJGwGj0Z8FGTkRm30Qu1G9kG0,GANGA RAM HOSPITAL,"Dr. Fahmina Ashfaq - Sugar, Medical & Blood Pressure Specialist Lady Doctor",31.4588053,74.28962229999999,doctor,OPERATIONAL,"Block, Omar hospital and cardiac centre, D2, Civic Centre Block D 2 Phase 1 Johar Town, Lahore",4.9,105
+ChIJ0YUyMR0BGTkRDCSGxxsc6V8,GARDEN TOWN,Medi Well Medical and Dental Clinic,31.4608128,74.3074944,doctor,OPERATIONAL,"Plot 97, Township Block 12 Sector B 1 Lahore",0.0,0
+ChIJyfNWUQIBGTkRfeWtpNhfVbg,TOWN SHIP,Dr Zubair Ul Faisal Clinic,31.4443177,74.30651979999999,doctor,OPERATIONAL,"C8V4+PJC, Sector D1 Block 2 Sector D1 Lahore",4.0,4
+ChIJq_l72tUBGTkRRGTA8yDwwiY,TOWN SHIP,Al-Shifa medical Complex,31.4426713,74.29428539999999,doctor,OPERATIONAL,"37-A2-C2 near NADRA office Butt Chowk, Township Block 2 Twp Sector C 2 Lahore",5.0,5
+ChIJUaedrbMFGTkRh_1Si8WeawQ,TOWN SHIP,TARYAQ Clinic,31.440081,74.3118693,doctor,OPERATIONAL,"Kir Kalan Rd, Sector D1 - Block 5, Kir Kalan Block 3 Sector D1 Lahore",4.8,5
+ChIJlxZeSVABGTkRTcz8BdtLM7k,GARDEN TOWN,Arif Memorial Clinic by Dr. Muhammad Asif Rana,31.4593427,74.3026302,doctor,OPERATIONAL,"F853+P3J, Sector C2 Block A 2 Phase 1 Johar Town, Lahore",5.0,7
+ChIJgQ1xnFR-_aURXCREbaQ8E3I,GANGA RAM HOSPITAL,Doctor Raheel Imam Qureshi - Best General Surgeon,31.4578726,74.287166,doctor,OPERATIONAL,"Plot No. 392, Omar Hospital and Cardiac Center, Block D2 Block D 2 Phase 1 Johar Town, Lahore",5.0,8
+ChIJE_uF34IBGTkRuWGXx18AEXM,TOWN SHIP,Zubaida Majeed Poly Clinic,31.4396265,74.3029293,doctor,OPERATIONAL,"Plot 77, Sector C 2 Town Ship Block 3 Twp Sector C 1 Lahore",4.7,6
+ChIJQ3IOu1gBGTkRQlGEYxyVbBE,GARDEN TOWN,Bu Ali Seena Clinic,31.4590408,74.3059506,doctor,OPERATIONAL,"Plot 287, Sector B-1 Block 14 Sector B 1 Lahore",1.0,1
+ChIJ5QLpcgABGTkRPUU26TzHpLo,GANGA RAM HOSPITAL,Primecare Health Clinic,31.4530673,74.28594389999999,doctor,OPERATIONAL,"PIA Main Boulevard, Block D Phase 1 Johar Town, Lahore",5.0,8
+ChIJMaiq2DgBGTkRTtAsehSu8jw,TOWN SHIP,Kamran Pharmacy,31.4428459,74.2953186,pharmacy,OPERATIONAL,Block 1 Sector C-1 Block 1 Twp Sector C 1 Lahore,0.0,0
+ChIJY5a3-z4BGTkRmW8RYcNtPXU,TOWN SHIP,ALI MEDICOS,31.4419146,74.29169,pharmacy,OPERATIONAL,"C7RR+QM8، hajveri chowk gunj buksh road icchra, Mateen Avenue, Lahore",0.0,0
+ChIJhdV2VTABGTkRuqGLMixK-Cw,TOWN SHIP,Arman Medical & Super Store,31.4381653,74.3028599,pharmacy,OPERATIONAL,Township Block 3 Twp Sector C 2 Lahore,0.0,0
+ChIJCQ1X0DUBGTkRfkfE04_M4xY,TOWN SHIP,Bilal Pharmacy & Medical Store,31.4448062,74.3065184,pharmacy,OPERATIONAL,Sector C1 Block 3 Twp Sector C 1 Lahore,0.0,0
+ChIJC3M5B6UBGTkRdfJgOhfMLeA,TOWN SHIP,Mian Medical Store,31.4462195,74.2993718,pharmacy,OPERATIONAL,"148 2-C1, Near The Punjab School, Tipu Chok, Township, 2-C1 Lahore",4.8,4
+ChIJr1qOBUEBGTkROA7n8TREGVA,WAPDA TOWN,Iqbal Pharmacy,31.4486322,74.291777,pharmacy,OPERATIONAL,"Block B Revenue Employees Cooperative Housing Society, Lahore",5.0,3
+ChIJwQARcGIbGTkRZAlZg5mhNg0,WAPDA TOWN,branded medical store,31.4503189,74.2980682,pharmacy,OPERATIONAL,"College Road, Block 2 Sector C-1 Ahmed Avenue, Lahore",5.0,1
+ChIJryUfiR0BGTkRteyz8dqEPEs,GANGA RAM HOSPITAL,Moon Pharmacy,31.4506771,74.28565069999999,pharmacy,OPERATIONAL,"Street Number 4, Block A1 Block A 1 Pia Housing Scheme, Lahore",5.0,1
+ChIJwxKTRzQBGTkRfiPuO--hOXU,TOWN SHIP,Haji Shafi Medical Store,31.4436091,74.3075013,pharmacy,OPERATIONAL,"C8V4+CXQ, Township Block 1 Sector D1 Lahore",5.0,8
+ChIJa68yO68BGTkRPnwWx4_7rD0,TOWN SHIP,Ashraf Sons Medical Store Township,31.4418164,74.2971268,pharmacy,OPERATIONAL,"Plot 130, Township Block 2 Twp Sector C 2 Lahore",5.0,2
+ChIJk3VzmBkBGTkRd5rrHNU-NJE,GANGA RAM HOSPITAL,ANWAR SONS MEDICAL STORE,31.4507656,74.29737589999999,pharmacy,OPERATIONAL,"F72W+8X2, Ahmed Avenue, Tatlay Aali",0.0,0
+ChIJvdvkwjUBGTkRKR7U9tVU_SM,TOWN SHIP,Medix Pharmacy,31.4455501,74.3067772,pharmacy,OPERATIONAL,"574 3 c1, road, Bagrian Block 3 Twp Sector C 1 Lahore",4.7,3
+ChIJt3hwnz8BGTkRMZR3jLkqo08,WAPDA TOWN,Abdullah pharmacy,31.4435066,74.2913141,pharmacy,OPERATIONAL,"Shop no, Al Makkah colony Butt chowk, 1s Saeed Rd, Mateen Avenue, Lahore",5.0,3
+ChIJUXH4DRYBGTkRRQmKmVXYnVc,WAPDA TOWN,Hayat Pharmacy,31.43838389999999,74.28707899999999,pharmacy,OPERATIONAL,"Awaisia Housing Society Park, Allah Yar St, Awasia Housing Society Awaisia Housing Scheme, Lahore",3.7,6
+ChIJhyRFLrsBGTkReVT7-unFoAs,TOWN SHIP,Saleem Sons Pharma,31.4438771,74.3030584,pharmacy,OPERATIONAL,"Chaudhary Rahmat Ali Road, near Qadri Chowk, Sector C1 Block 3 Twp Sector C 1 Lahore",0.0,0
+ChIJv7ws1jgBGTkR5YdFB7JjgIw,TOWN SHIP,Karamanwala Medical Store & General Store,31.4428228,74.2947815,pharmacy,OPERATIONAL,"C7VV+4WC, Hazrat Umer Farooq Rd, Block 1 Sector C-2, Township Block 2 Twp Sector C 2 Lahore",0.0,0
+ChIJKYmJpegBGTkROAHTh1Y8j9U,GANGA RAM HOSPITAL,Pakistan Pharmacy,31.4509959,74.2866202,pharmacy,OPERATIONAL,"F72P+9JX, Unnamed Road, Block A1 Block A 1 Pia Housing Scheme, Lahore",4.0,4
+ChIJKcZlOzwBGTkRZcf8vG8iDwE,TOWN SHIP,A+ Pharmacy,31.4388859,74.292335,pharmacy,OPERATIONAL,Sector C2 Block 1 Twp Sector C 2 Lahore,0.0,0
+ChIJC4tbSsQBGTkRKeSzHRsYfQQ,WAPDA TOWN,MEDI+ RITE Pharmacy,31.4437534,74.2863888,pharmacy,OPERATIONAL,"290 Hamza plaza A1 Block Commercial Market, Phase 1 PGECHS, Lahore",0.0,0
+ChIJZXEuHU4BGTkRUO_4CAr3Cz0,GARDEN TOWN,Life pharmacy,31.4578971,74.3052817,pharmacy,OPERATIONAL,"160-2 B, St 52, Township Block 2 Sector B 2 Lahore",5.0,1
+ChIJ-e3GJwABGTkRkctwUIZt-4U,GARDEN TOWN,DENT'ORAL CLINICS,31.4583427,74.3042435,dentist,OPERATIONAL,"221 Abu Bakar Rd, Township Block 1 Sector B 2 Lahore",4.9,60
+ChIJBQ68ieMBGTkRUSqmII8Rsrg,TOWN SHIP,SAEED MEMORIAL DENTAL SURGERY,31.4421463,74.2961186,dentist,OPERATIONAL,"Butt chowk, Plot 110, Township Block 2 sector 2C2 Lahore",4.7,19
+ChIJtbPLSOABGTkRBnstc9H2Pgo,WAPDA TOWN,Dental & Diet Clinic,31.4434456,74.29009959999999,dentist,OPERATIONAL,"25-A Punjab View Butt Chowk, College Road, Township Mateen Avenue, Lahore",5.0,25
+ChIJCz4bN1YBGTkRH6CbxlBb3pU,GANGA RAM HOSPITAL,Blue Tooth Dental Consultancy,31.4493679,74.2866042,dentist,OPERATIONAL,"188A1, Block A 1 PIA Housing Society, Lahore",0.0,0
+ChIJVwRu5qcDGTkR4ufY_OtvW4E,CANTT,Ahmad HealthCare Hospital,31.483765,74.2994221,hospital,OPERATIONAL,"146-A, G.O.R - V Block A Faisal Town،, Lahore",3.8,20
+ChIJd6Jxs_YDGTkR3t5ISLsu-po,CANTT,WilCare Lahore,31.4849635,74.3061409,hospital,OPERATIONAL,"3-M Abul Hassan Isfahani Rd, Model Town Extension Block M Model Town, Lahore",3.0,227
+ChIJe4iVD40DGTkRv_K3p1swl9U,CANTT,Drifti Nephrology and Medical Center,31.48261949999999,74.3039055,hospital,OPERATIONAL,"Plot 145, Block B Faisal Town, Lahore",5.0,7
+ChIJucjBXeMDGTkRk_iKzaRL3CA,GANGA RAM HOSPITAL,Al-Fazal Hospital,31.4734797,74.2986781,hospital,OPERATIONAL,"BOR Main Rd, Board of Revenue Housing Society BOR Society, Lahore",4.0,78
+ChIJc5BNIMQDGTkR4iLjIOOIgt0,GANGA RAM HOSPITAL,Shazia Zahid Medical Centre,31.4737518,74.2957004,hospital,OPERATIONAL,"9 Saadat Street, near Jutt Chowk, near BOR Society, BOR Society, Lahore",4.4,39
+ChIJuyol0e8DGTkRkoRXdgVqkFw,GANGA RAM HOSPITAL,Hussain Cardiology & Medical Associates (Center),31.4662974,74.2922092,hospital,OPERATIONAL,"House no.16, Block F Phase 1 Johar Town, Lahore",4.8,42
+ChIJk3pzm84BGTkRWgki7s0cRsA,GARDEN TOWN,The family clinic.,31.463569,74.3081764,doctor,OPERATIONAL,"Plot 246, PCSIR Staff Colony Block 16 Sector B 1 Lahore",5.0,2
+ChIJR_MolAIBGTkRG1Y_8w9fAyI,GARDEN TOWN,Doctor Suhail's Clinic,31.4635918,74.3071875,doctor,OPERATIONAL,"F874+CVM, Township Block 15 Sector B 1 Lahore",4.3,3
+ChIJl8IfPxwDGTkRo5SjS1X-efo,GANGA RAM HOSPITAL,Ali Clinic ( Dr. Maira),31.4744207,74.28987769999999,doctor,OPERATIONAL,"Plot 740, Block E1 Block E 1 Phase 1 Johar Town, Lahore",4.8,4
+ChIJO2rGrpUBGTkR4ZrTzCkhqV8,GARDEN TOWN,Dr Saleem Skin Clinic,31.4663579,74.3070784,doctor,OPERATIONAL,"F884+GRF, College Road, Sector B-1 Block 10 Sector B 1 Lahore",3.8,18
+ChIJ_Wl7z-8DGTkRMaHTvhhO9sk,CANTT,Prof. Dr Khalil Bukhari Clinic,31.4815568,74.29915629999999,doctor,OPERATIONAL,"571 St A, Block A Faisal Town, Lahore",4.6,10
+ChIJt6rNOPwDGTkR-JDkgmBBCT0,SHAHDRAH,CLINIC DR AFAQ,31.4735523,74.3076272,doctor,OPERATIONAL,"169 C faisal Town, Block C Faisal Town, Lahore",4.0,1
+ChIJ8TLmZFUBGTkRP1VfhDDc620,SHAHDRAH,Dr. Saud Awan,31.4692267,74.3097259,doctor,OPERATIONAL,"F895+MVQ, Block D Faisal Town, Lahore",0.0,0
+ChIJF4mQzvEDGTkRarG5AcC39dc,CANTT,Hashmi Clinic,31.4829371,74.3010628,doctor,OPERATIONAL,"31 B, Block A Faisal Town, Lahore",0.0,0
+ChIJYfzQkecDGTkRbOxTsKY7Njo,GANGA RAM HOSPITAL,Khalid Medical Store,31.4763505,74.2890123,pharmacy,OPERATIONAL,"Mumtaz Market, Main Road, Wafaqi Colony, Lahore",4.7,12
+ChIJKY6pFFEBGTkRGxtsq-SNvFs,GARDEN TOWN,Ideal Medical & General Store,31.46175999999999,74.3044688,pharmacy,OPERATIONAL,Sector B-1 Block 15 Sector B 1 Lahore,2.5,2
+ChIJtfORz_UDGTkRrXY2LP8eZaw,GANGA RAM HOSPITAL,Shamim Medical Store,31.4795062,74.2964045,pharmacy,OPERATIONAL,"Shah di khoi Rizwan Chowk, Johar Town, Lahore",3.8,5
+ChIJQV2dIVQBGTkRvWdyiuZFxRg,GARDEN TOWN,Madni Pharmacy,31.4652867,74.30622629999999,pharmacy,OPERATIONAL,PCSIR Staff Colony Block 16 Sector B 1 Lahore,0.0,0
+ChIJDemmG_MDGTkRo1Z-DalY7s0,CANTT,Al Barkat Pharmacy,31.4749984,74.3035752,pharmacy,OPERATIONAL,"Qazi Muhammad Isa Rd, Block C Faisal Town, Lahore",4.3,12
+ChIJkybVjOcDGTkRlxWnaGjX0jA,GANGA RAM HOSPITAL,BANDAGE PHARMACY,31.4767092,74.28927879999999,pharmacy,OPERATIONAL,"Bandage Pharmacy mumtaz market Main Road Wafaqi Colony, Johar Town, Lahore",4.0,4
+ChIJ_Y_HpWoBGTkRTLZODYVpVYY,GANGA RAM HOSPITAL,Moon Pharmacy,31.4760193,74.2892732,pharmacy,OPERATIONAL,"Shop No 1, Ilyas Market, 397A Main Road, Wafaqi Colony, Lahore",0.0,0
+ChIJZWcAYFkDGTkRW5-WmswtBsE,GANGA RAM HOSPITAL,Shuraim Pharmacy,31.4710467,74.2880564,pharmacy,OPERATIONAL,"Awan Chowk,Ali Street،, Block E 1 Phase 1 Johar Town, Lahore",5.0,2
+ChIJfd83OxoBGTkRhlpbHgAAVAc,GANGA RAM HOSPITAL,Hamza Pharmacy.,31.4677738,74.301754,pharmacy,OPERATIONAL,"Shop no. 8, ground floor, Israr Market, Block B1 Block B 1 Phase 1 Johar Town, Lahore",5.0,12
+ChIJpyIsM1QBGTkRjxp69_qUBgM,GARDEN TOWN,Razi Pharmacy,31.46655,74.3069,pharmacy,OPERATIONAL,Sector B-1 Block 10 Sector B 1 Lahore,0.0,0
+ChIJLTP0kd4DGTkRz5gq59Hexvs,CANTT,Smart PharmaCure,31.4804907,74.3017398,pharmacy,OPERATIONAL,"Al Imran Hospital, 852-B, Faisal Town, Lahore",0.0,0
+ChIJ23RePy0BGTkRbPYliQ3hal4,GARDEN TOWN,Community Pharmacy,31.4642844,74.30512019999999,pharmacy,OPERATIONAL,"Aslam Chowk, College Road, Sector B-1 Block A 1 Phase 1 Johar Town, Lahore",5.0,3
+ChIJNen2JbsBGTkRdQ-UpVgcQFc,GANGA RAM HOSPITAL,Three star medical store,31.4655137,74.2872706,pharmacy,OPERATIONAL,"298, Johar Town Rd, Block F Phase 1 Johar Town, Lahore",3.7,3
+ChIJLZisSPkDGTkR6P3lrdlm95Y,SHAHDRAH,RX Pharmacy,31.4755534,74.30697119999999,pharmacy,OPERATIONAL,"F8G4+6QH Moon Market, Block C1 Block C 1 Faisal Town, Lahore",4.0,9
+ChIJTSadgpkDGTkRNvOkpjsnTfc,CANTT,Pharmacy mart,31.47525749999999,74.3045707,pharmacy,OPERATIONAL,"F8G3+4R4, Ghaus-e-Azam Rd, Civic Center Commercial Area Faisal Town, Lahore",0.0,0
+ChIJSz6JawADGTkRlQvuP55IWSM,GANGA RAM HOSPITAL,Life pharmacy inside Niazi hospital,31.4694261,74.2998303,pharmacy,OPERATIONAL,"F79X+QWG Niazi hospital, near Allah hoo Round, Block A Phase 1 Johar Town, Lahore",5.0,1
+ChIJRYTVJWQBGTkRhDJC1h4tyV8,GANGA RAM HOSPITAL,albrai medical store,31.4648532,74.28757410000001,pharmacy,OPERATIONAL,"273F, Block F Phase 1 Johar Town, Lahore",0.0,0
+ChIJkcr_yEsFGTkRCjnhw2G2a7w,CANTT,The Dental Suite,31.4835422,74.2990634,dentist,OPERATIONAL,"1st Floor, 149-A (HBFC, IDC Labs / Safe Med Speciality Clinics, opposite Main Gate Allama Iqbal Medical College / Jinnah Hospital, Block A Faisal Town, Lahore",5.0,55
+ChIJ3XwCNY0DGTkRZgRAvnQ6vfw,CANTT,Dentistree by Dr. Wajiha Shoukat,31.4834834,74.29895789999999,dentist,OPERATIONAL,"1st Floor - LifeLine Imaging Center Opp Jinnah Hospital Gate # 2 151-A HBFC, Faisal Town, Lahore",5.0,13
+ChIJ4zwRL_YDGTkRz6_5OUK9gp8,CANTT,Dental & Medical Curatives,31.4827409,74.3063846,dentist,OPERATIONAL,"B-6, Main Road, Faisal Town, Lahore, Block B Faisal Town, Lahore",4.9,43
+ChIJwwc1EV8BGTkRXYtnyS8GAso,GANGA RAM HOSPITAL,Dental Essence,31.4657095,74.29256339999999,dentist,OPERATIONAL,"52-B, Johar Town, Lahore",5.0,6
+ChIJu5c8FfkDGTkRGn4uZ_C_lqo,CANTT,Executive Dental Surgery,31.4766137,74.30767039999999,dentist,OPERATIONAL,"Plot 37B, Amna palace, Qazi Muhammad Isa Rd, Block B Faisal Town, Lahore",4.9,17
+ChIJgU0E_gcEGTkRQp1BVqe2s-g,CANTT,Saira Memorial Hospital,31.4811146,74.31215639999999,hospital,OPERATIONAL,"1-M, Civic Centre, Model Town Extension Block M Commercial Area Model Town, Lahore",3.6,343
+ChIJVb4uKR4DGTkRh8vXLThieJg,CANTT,AL- E- IMRAN TRUST HOSPITAL,31.4805245,74.30170989999999,hospital,OPERATIONAL,"F8J2+9M6, 852, Block B Faisal Town, Lahore",4.6,19
+ChIJt5N5i_wDGTkReWTdj5Nbhmk,CANTT,CLINIC HEALTHCARE,31.4881827,74.3083891,doctor,OPERATIONAL,"214-E L block Model Town Extension, Block L Model Town, Lahore",0.0,0
+ChIJaVXiYZgDGTkRmmOcLbX2PEk,FAISAL TOWN,Pharmacy,31.5076939,74.2964221,pharmacy,OPERATIONAL,"505 Wahdat Rd, Abbas Block Nazim Block Mustafa Town, Lahore",0.0,0
+ChIJOwxwpjQDGTkRV4JuAymaGyY,REHMAN-PURA,Entidoc Pharmacy,31.5065912,74.28534049999999,pharmacy,OPERATIONAL,"house#41/1 street#8 Nizam block bikhywal, Raza Block Allama Iqbal Town, Lahore",5.0,13
+ChIJNVSbXJ8DGTkRf0bfEnN41S4,REHMAN-PURA,Azam Sons Pharmacy,31.5071604,74.2890391,pharmacy,OPERATIONAL,"591- Allama Iqbal Town, Nazim Block Allama Iqbal Town, Lahore",4.8,9
+ChIJBeP-owsBGTkRNqXkfNwPASU,QILA LAKSHMAN SINGH,Zarrar medical centre,31.3966115,74.30502129999999,hospital,OPERATIONAL,"Kahna Kacha Flyover, Kana Kacha, Lahore",5.0,1
+ChIJXYHAmhYHGTkRDLOyDCQ1fYg,QILA LAKSHMAN SINGH,Noor medical store,31.388088,74.3196902,pharmacy,OPERATIONAL,"98Q9+6VP, Unnamed Road, Kacha Village, Kacha",5.0,1
+ChIJh1XW15kHGTkRhNmUlnSddZg,QILA LAKSHMAN SINGH,Tayyab pharmacy,31.3876731,74.3196913,pharmacy,OPERATIONAL,"Kacha Village, Lahore",0.0,0
+ChIJPTdSbesHGTkRz_D-xY5O3no,PAK ARAB SOCIETY,Zainab Family Poly Clinic,31.4364315,74.3441005,hospital,OPERATIONAL,"C8PV+HJH, Defence Rd, Block C Pak-Arab Housing Scheme, Lahore",4.6,7
+ChIJG9_ZGR8HGTkRr3c6GQ4J5eo,QILA LAKSHMAN SINGH,Mafaza-Tul-Hayat Hospital,31.42512799999999,74.3371724,hospital,OPERATIONAL,"3.5Km, Chungi, Defence Rd, Amar Sidhu Chandrai, Lahore",4.7,57
+ChIJ_cbnNH0HGTkRhw4yLWMBKbc,PAK ARAB SOCIETY,Dr javed clinic,31.4306667,74.3315786,hospital,OPERATIONAL,"C8JJ+7J8, Chandrāi Chandrai, Lahore",5.0,1
+ChIJcRKyZwAHGTkRPUeJAp7mHvs,QILA LAKSHMAN SINGH,Shuftain clinic,31.4217967,74.336362,doctor,OPERATIONAL,"C8CP+PHR, Fateh Villas Lahore",5.0,1
+ChIJS7DtQwAHGTkRUj9prxi53Eg,QILA LAKSHMAN SINGH,Sadiq Medical Store,31.4149201,74.3279297,pharmacy,OPERATIONAL,"C87H+X54, Gujjar Colony Lahore",0.0,0
+ChIJrVsjF9YHGTkRDg_B87J1K0o,QILA LAKSHMAN SINGH,Munir Medicose (MM),31.4157704,74.3258046,pharmacy,OPERATIONAL,"Plot no.173, rakhh chandrai, b, Defence Rd, Gujjar Colony Lahore",4.5,4
+ChIJ20ygaQAHGTkRJgmva_UV_Gg,QILA LAKSHMAN SINGH,Asif Medical Store,31.41631499999999,74.3286444,pharmacy,OPERATIONAL,"C88H+GCQ, Gujjar Colony Lahore",0.0,0
+ChIJ2eexMM8HGTkRTzK-7OfOLqU,QILA LAKSHMAN SINGH,Anwar pharmacy,31.4215594,74.3297477,pharmacy,OPERATIONAL,"C8CH+JVH, Defence Rd, Lahore",0.0,0
+ChIJT-FgQAAHGTkRVGIOhMEZx4k,QILA LAKSHMAN SINGH,New Pakistan Vet Store,31.4216659,74.33003570000001,pharmacy,OPERATIONAL,"Plot no 1, Gujjar colony Chandrai road, chungi, near Military dairy farm, amar sidhu Lahore",5.0,1
+ChIJhTxLXkUBGTkRF7aCBsb2y_Y,GANGA RAM HOSPITAL,Umar Medical Centre,31.4559621,74.299909,hospital,OPERATIONAL,"42 A/III, College Road, Johar Town, Lahore",3.9,42
+ChIJZWrrS5gGGTkRSeIuv-gSugo,SHAHDRAH,Ahmad Clinic,31.46378,74.33793229999999,hospital,OPERATIONAL,"54 Ayub St, Kot Lakhpat, Lahore",0.0,0
+ChIJ9d2xVP4BGTkRkkE9Pd3QKso,TOWN SHIP,Ali Medical Clinic,31.4381188,74.3037845,hospital,OPERATIONAL,"2, Lahore",0.0,0
+ChIJAcdBNbEGGTkRL-PN65jcFmo,GARDEN TOWN,Medical Centre,31.4542339,74.3192066,hospital,OPERATIONAL,"F839+MMW, Township Block 4 Sector A 2 Lahore",4.0,2
+ChIJhSSOPAoHGTkRydTmcDWqEZw,GARDEN TOWN,Zainab Medical Complex,31.4525442,74.3194578,hospital,OPERATIONAL,"F839+2Q8, Umer St, Township Block 6 Sector A 2 Lahore",5.0,2
+ChIJQac_QzQBGTkR2kzlpYXMrs8,TOWN SHIP,Jlal Medical Center,31.4435317,74.3080359,hospital,OPERATIONAL,"411-2D-1 Social Welfare Rd, Township Block 1 Sector D1 Lahore",5.0,2
+ChIJ4TRvFlsBGTkRkzQHSW0v8bQ,GARDEN TOWN,Umer Clinic and maternity home عمرکلینک اینڈگائنی ھوم,31.45645129999999,74.3107399,hospital,OPERATIONAL,"Plot 5 Township, Block 5 Sector B 1 Lahore",5.0,1
+ChIJTeq8PDEBGTkRZRSYcYZU9X0,TOWN SHIP,Dr. Khalida Khanam Clinic,31.4400893,74.3037608,hospital,OPERATIONAL,"House # 175, Block #3, Sector CI, Township, Block 3 Twp Sector C 1 Lahore",4.4,7
+ChIJf3JjS0oBGTkR8XoLqEFW2es,GANGA RAM HOSPITAL,Chaudhry Rehmat Ali Memorial Trust Hospital,31.453005,74.299803,hospital,OPERATIONAL,"Wasti Chowk, 45 Civic Center St, Township Twp Commercial Area Lahore",4.0,157
+ChIJa7Jagz8BGTkRtDGdqWRp_Po,GARDEN TOWN,Ghousia Medical Center,31.4590204,74.30597829999999,hospital,OPERATIONAL,"287, Township Block 14 Sector B 1 Lahore",5.0,2
+ChIJh-qDGGUBGTkRg1s8YxT76Oo,TOWN SHIP,Shifa Dental Clinic,31.4431856,74.3054401,hospital,OPERATIONAL,"469-3-C1, umer chok, Township Block 3 Twp Sector C 1 Lahore",5.0,16
+ChIJd4sb1KQGGTkRqDIqtI4ukwo,SHAHDRAH,HASSAN CLINIC,31.4610275,74.3267566,doctor,OPERATIONAL,"F86G+CP2، kotlakhpat , main pindi stop, Kot Lakhpat, Lahore",5.0,1
+ChIJT3zuB8wHGTkRen0RzHNDe9o,SHAHDRAH,Dr Waqar Ahmed Faisal Hospital,31.4600205,74.3374759,doctor,OPERATIONAL,"F86P+2X5, Karman Wala Bazar Rd, Kot Lakhpat, Lahore",0.0,0
+ChIJvSjxzpgHGTkRZTwsc2LfA-I,SHAHDRAH,Sufi Ghulam Mustafa Clinic,31.4602856,74.3359406,doctor,OPERATIONAL,"F86P+498, Karman Wala Bazar Rd, Kot Lakhpat, Lahore",2.0,2
+ChIJXQrH_UgHGTkRnr9c4pTMBcc,SHAHDRAH,Ayan Clinic Ali Park,31.4628432,74.3234773,doctor,OPERATIONAL,"F87F+49P, Rana St, Kot Lakhpat, Lahore",5.0,1
+ChIJKfG4rrMGGTkRkmqBHeI4DvE,GARDEN TOWN,Butt Medical Store,31.45604,74.31518,pharmacy,OPERATIONAL,Sector A1 Sector A 1 Lahore,5.0,1
+ChIJ3-7BSrEGGTkRJeCahm9yGA8,GARDEN TOWN,Bukhari Medical Store,31.4542881,74.3190413,pharmacy,OPERATIONAL,"F839+MJR, Haider Rd, Township Block 4 Sector A 2 Lahore",4.1,16
+ChIJny7Xk00BGTkRPLiX6lZTTxs,GARDEN TOWN,Township Medical Store,31.4574336,74.3077319,pharmacy,OPERATIONAL,Sector B-1 Block 6 Sector B 1 Lahore,1.7,3
+ChIJLxM_5MIHGTkRT9ca8JHSvUg,TOWN SHIP,Hamza Medical Store,31.4413026,74.3125982,pharmacy,OPERATIONAL,"Kir Kalan Road, Sector D1 Block 5, Kir Kalan Sector D1 Lahore",5.0,1
+ChIJK25z0DIBGTkRNB0gcAOfNzM,TOWN SHIP,Health Care Pharmacy,31.4387255,74.31125100000001,pharmacy,OPERATIONAL,"C8Q6+FGJ, Unnamed Road, Sector D1 - Block 5 Block 5 Sector D1 Lahore",4.5,4
+ChIJW4UGnVIBGTkR6v8hDUuOaZI,GARDEN TOWN,Munir Medical Store,31.4587153,74.30976059999999,pharmacy,OPERATIONAL,"Block 6, B-1 Lahore",4.8,5
+ChIJSX_5xYIHGTkRSBKkieaftHQ,GARDEN TOWN,PHARMAPRIXX PHARMACY,31.45472059999999,74.318609,pharmacy,OPERATIONAL,"حیدر روڈ، Sector A1 Sector A 1 ٹاؤنشپ، لاہور, ضلع لاہور, پنجاب 54770, Township Sector A 1 Lahore",0.0,0
+ChIJUezHT7EGGTkRFBdOR3b1teE,GARDEN TOWN,Hospital Pharmacy,31.4547441,74.3185496,pharmacy,OPERATIONAL,"F839+VCV, Township Block 4 Sector A 2 Lahore",4.8,5
+ChIJrTtD2gYHGTkRahiST8qV3Hg,TOWN SHIP,Butt Medical Store,31.441064,74.3126059,pharmacy,OPERATIONAL,"C8R7+C2H, Township Block 5 Sector D1 Lahore",5.0,2
+ChIJn-PL7_gHGTkRHJfHga8dbvg,GARDEN TOWN,Oxygen Pharmacy,31.4533598,74.3201155,pharmacy,OPERATIONAL,"Shop#12, Block 2, 1 Umer Chowk, Township Block 6 Sector D Lahore",0.0,0
+ChIJF9BQfQAHGTkR2UfvpMZoSkk,TOWN SHIP,Al Madina Medical Store,31.4414939,74.3126094,pharmacy,OPERATIONAL,"Plot 500, Township Block 3 Sector D1 Lahore",0.0,0
+ChIJW60HTQAHGTkRlOxg1UueIrU,GARDEN TOWN,Faisal Medicose pharmacy,31.4495185,74.31915769999999,pharmacy,OPERATIONAL,"C8X9+RM2, Township Block 5 Sector A 2 Lahore",5.0,11
+ChIJKwXTzjIBGTkRfEA39Mhfbxo,TOWN SHIP,Okara Medical S,31.438259,74.3113098,pharmacy,OPERATIONAL,"C8Q6+7GV, Township Block 5 Sector D1 Lahore",4.5,2
+ChIJS3vSo8MHGTkRE_kmefwZ52A,GARDEN TOWN,National Pharmacy +,31.4550841,74.3169727,pharmacy,OPERATIONAL,"245 - sector A2, Haider Rd, Township Block 4 Sector A 2 Lahore",0.0,0
+ChIJjTDGNQADGTkRieD2w0sF390,GARDEN TOWN,"Punjab Pharmacy, Liaqat Chowk, Sabzazar, Lahore",31.4489032,74.3103546,pharmacy,OPERATIONAL,"128-A Liaqat Chowk, Civic Center Twp Commercial Area Lahore",3.7,3
+ChIJ0eKymEIHGTkRg_urVtmYZaQ,GARDEN TOWN,Khokhar Pharmacy,31.4512069,74.313963,pharmacy,CLOSED_TEMPORARILY,"Plot 107, Block 1 - Sector A2 Block 1 Sector A 2 Lahore",4.0,1
+ChIJP2_Uf9gHGTkRH1VJJ-NgnaI,GARDEN TOWN,Care Plus Pharmacy,31.4548002,74.318408,pharmacy,OPERATIONAL,"Haider Rd, Sector A1 Sector A 1 Lahore",5.0,1
+ChIJI4ro78QGGTkRN3Kl9OoMm3s,GARDEN TOWN,Rehman Medicare,31.44053,74.3273,pharmacy,OPERATIONAL,"Quaid-e-Azam Industrial Estate Quaid e Azam Industrial Estate, Lahore",4.0,3
+ChIJv6jtvxsHGTkRb-nsVRe7Y0Q,GARDEN TOWN,Al-Nafay Medical Store,31.4495137,74.319097,pharmacy,OPERATIONAL,"Mansoor Center, Township Block 5 Sector A 2 Lahore",3.0,1
+ChIJtRiRoU0BGTkRXcwAs1gSysk,GARDEN TOWN,Al-Mustafa Dental Clinic,31.4569169,74.308584,dentist,OPERATIONAL,Sector B-1 Block 6 Sector B 1 Lahore,5.0,2
+ChIJMZ5lf0wBGTkRmbRKAOzWhlw,GARDEN TOWN,Township Dental Surgery,31.4528928,74.3086136,dentist,OPERATIONAL,"building no, A2 sector 1, 297, Township Lahore",4.9,21
+ChIJj70pX-8HGTkRGfeGUhe9RM0,GARDEN TOWN,NEO DENTAL HUB,31.4548655,74.3182961,dentist,OPERATIONAL,"A1, 640 Haider Rd, Township Sector A 1 Lahore",4.6,11
+ChIJg7wiQw4EGTkR_sOu4R7xDGg,CANTT,"Medical Centre, Ladies Club D Block Model Town",31.4878905,74.3231989,hospital,OPERATIONAL,"Medical Center, Ladies Club. Main circular road",4.1,14
+ChIJrXIFXGQFGTkRSpMI2GzJqw8,CANTT,Model Town Hospital New Building,31.4836233,74.3215599,hospital,OPERATIONAL,"F8MC+CJV, Model Town Circular Rd, Model Town, Lahore",4.6,47
+ChIJ_wNYyHAFGTkRuU6uIchqB0A,CANTT,Model Town Trust Hospital,31.4834923,74.32135509999999,hospital,OPERATIONAL,"Plot 32 E, Block E Model Town, Lahore",3.8,5
+ChIJV3K3LQgDGTkRsFe454wJ_TI,SHAHDRAH,M H Memorial Medical Complex Lahore,31.4747476,74.3073737,hospital,OPERATIONAL,"127, Block C1 Block C 1 Faisal Town, Lahore",4.9,11
+ChIJy-llM0oHGTkR6FUEe3lETS4,SHAHDRAH,Al Rashid Medical Complex,31.4701796,74.3319324,hospital,OPERATIONAL,"Plot 9, Model Town Extension Block S Model Town, Lahore",5.0,4
+ChIJg2k13voDGTkRtf6DpfrvuY0,CANTT,First Medical,31.4772054,74.3014671,hospital,OPERATIONAL,"934-B Maulana Shaukat Ali Rd, Block B Faisal Town, Lahore",4.3,7
+ChIJSx5oCWABGTkRhLJHRr2VcAg,SHAHDRAH,Mediwin Clinic,31.4735056,74.3345526,doctor,OPERATIONAL,"343, R Block Block R Model Town, Lahore",0.0,0
+ChIJVbffN8cHGTkRzxs9wIOEvzE,SHAHDRAH,Ezra Medical Center,31.47001419999999,74.3346921,doctor,OPERATIONAL,"6-B Model Town Ext, Road, Block S Dilkusha Garden, Lahore",0.0,0
+ChIJhbQOwqsGGTkR1rIK2kouXcI,SHAHDRAH,TheDoctor,31.4664572,74.3165418,doctor,OPERATIONAL,"124 Zainab Tower Model Town Link Road, Phase 3 GECH Society, Lahore",5.0,4
+ChIJB6TsBqEGGTkR2hYWNbLE4Vw,SHAHDRAH,Jammu Medical Store,31.469258,74.33208189999999,pharmacy,OPERATIONAL,"F89J+PR4, Pindi Rajputan Liaquatabad (Dhalla), Lahore",3.0,2
+ChIJFeY5IqoGGTkRXHxwC8F77Wo,SHAHDRAH,Medicos Medical Store,31.469116,74.3173338,pharmacy,OPERATIONAL,"F898+MV5, Model Town Link Rd, G. E. C. H. S Phase 3 Muhammadpura, Lahore",4.3,4
+ChIJZcXKSv8BGTkRiAdMhNkNBwE,GARDEN TOWN,Abdullah Pharmacy,31.4639666,74.31086789999999,pharmacy,OPERATIONAL,"F876+H8Q, Al-Madina Road, Township Block 11 Sector B 1 Lahore",5.0,4
+ChIJ1UuLtFQBGTkRt0kh7v6QVdk,GARDEN TOWN,Lahore Medical Store,31.46550969999999,74.3116558,pharmacy,OPERATIONAL,"F886+6M2, Lahore Plaza Shaukat Ali Rd, Township Block 10 Sector B 1 Lahore",0.0,0
+ChIJQxfi5c0HGTkR-RozuECrfmE,SHAHDRAH,Hasnat medical store,31.4716414,74.33022749999999,pharmacy,OPERATIONAL,"F8CJ+M35, Model Town Extension Block Q Flats Model Town, Lahore",4.2,5
+ChIJFeak3OUHGTkR40KUm9XQZLM,SHAHDRAH,Aid Plus Pharmacy,31.4622292,74.3265261,pharmacy,OPERATIONAL,"Pindi Rajputan Kot Lakhpat, Lahore",5.0,13
+ChIJZfWcH6UHGTkR3czyiDO01cc,SHAHDRAH,Umer Medical Store,31.46260659999999,74.3308864,pharmacy,OPERATIONAL,"F87J+29R, Karma Wala Main Bazar Rd, Kot Lakhpat, Lahore",5.0,4
+ChIJNwCB3EABGTkRbjf_p0e4Nac,GARDEN TOWN,Khalid pharmacy,31.4636003,74.3094871,pharmacy,OPERATIONAL,"House no 78 block 11, Street no 3, Sector B1, Township Lahore",5.0,7
+ChIJ1RQG8NgBGTkRF0jErKFSuVU,GARDEN TOWN,AZIZ MEDICAL STORE عزیز میڈیکل سٹور,31.4624033,74.31004539999999,pharmacy,OPERATIONAL,"House 9, Sector B-1 Block 12 Sector B 1 Lahore",3.5,4
+ChIJlb9Fjf8DGTkRo-KfXyuIedo,SHAHDRAH,Meddi Inn Pharmacy,31.4712523,74.31107639999999,pharmacy,OPERATIONAL,"F8C6+GC4, Justice Abdul Khaliq Rd, Block D Faisal Town, Lahore",5.0,1
+ChIJzz6AAAgEGTkRg2LV_NpcRv0,CANTT,Five Star Medical Store,31.4811329,74.31201159999999,pharmacy,OPERATIONAL,"Block M, Model Town, Lahore, Punjab",3.7,3
+ChIJc4mu708FGTkRgc3eLUQGwiQ,CANTT,MEDLINE PHARMACY,31.4801297,74.3243293,pharmacy,OPERATIONAL,"F8JF+3P4, Friends Colony Block G Model Town, Rawalpindi",0.0,0
+ChIJw3fWa-sHGTkRi0KS8thLN9w,SHAHDRAH,Rana pharmacy,31.4682499,74.3324382,pharmacy,OPERATIONAL,"F89J+8X4 Talash Bazar، near norani masjid, Liaquatabad (Dhalla), Lahore",3.5,2
+ChIJBe1mALEHGTkRKaOOdctRZxM,SHAHDRAH,Malik Pharmacy & General Store,31.464706,74.3333087,pharmacy,OPERATIONAL,"F87M+V8M, Iqbal St, Kot Lakhpat, Lahore",3.0,2
+ChIJhf0dnj8BGTkR8Fiu7Okn-is,GARDEN TOWN,Al Noor Medicos,31.4625898,74.3101539,pharmacy,OPERATIONAL,"Al-Madina Road, Township Block 12 Sector B 1 Lahore",3.4,5
+ChIJ-4pfRfgDGTkRTPLpKJus8-Y,CANTT,Java Medical & General Store,31.4787502,74.3095913,pharmacy,OPERATIONAL,"Abul Hassan Isfahani Rd, Block N Block N Central Flats Model Town, Lahore",3.9,8
+ChIJEYJNsVQBGTkRNIAmccc-UOI,GARDEN TOWN,Bashir Sons,31.4653818,74.3114071,pharmacy,OPERATIONAL,Sector B-1 Block 10 Sector B 1 Lahore,0.0,0
+ChIJyUAaagAHGTkR1QGmk-_tKdc,SHAHDRAH,Yashfeen pharmacy,31.4679953,74.32731,pharmacy,OPERATIONAL,"F89G+5WV, Near Al-Madina Shadi Hall, Main Rohi Nala, Muhallah Salamat Pura . Liaqatabad, Kot Lakhpat, Lahore",5.0,2
+ChIJfaVXaJMHGTkR7Z6AiUlB_pY,SHAHDRAH,Safder Medical Hall,31.4660823,74.3327604,pharmacy,OPERATIONAL,"F88M+C4J, Talaah Bazar, Liaquatabad (Dhalla), Lahore",5.0,5
+ChIJVUyxLv8DGTkRKht73VftTFU,SHAHDRAH,Dental Solutions,31.4699615,74.3097659,dentist,OPERATIONAL,"14-C1 Abul Hassan Isfahani Rd, Block D Faisal Town, Lahore",3.4,5
+ChIJpflcORwEGTkRb9aI_NiTNt8,SHAHDRAH,Khan Dental Surgery,31.4742307,74.3296828,dentist,OPERATIONAL,"423 q Model Town lahore 423 q, Block Q Model Town, Lahore",5.0,3
+ChIJKUohLBABGTkRkrQUY_Iqpz4,GARDEN TOWN,Ahmad dental surgery,31.4631373,74.30995140000002,dentist,OPERATIONAL,"Plot 71, Township Block 12 Sector B 1 Lahore",0.0,0
+ChIJcS_peKoFGTkRu-_yt10PFH8,CANTT,Salam Medical Complex,31.5009949,74.3324213,hospital,OPERATIONAL,"320 Lahore – Kasur Rd, Tipu Block Garden Town, Lahore",4.6,57
+ChIJa6uH7fMDGTkRkK2LLDoWsyo,CANTT,Kalim Medical Center,31.4869393,74.3052671,hospital,OPERATIONAL,"18 Usmani Rd, Block L Model Town, Lahore",3.9,14
+ChIJhwyFL3MEGTkRb4Ca2aR4QAw,CANTT,The Pharmacy,31.4939279,74.32003139999999,pharmacy,OPERATIONAL,"Ata Turk Block Garden Town, Lahore",3.6,5
+ChIJAZyGRfcEGTkRdZ805wvC1FE,CANTT,KM pharmacy,31.5022779,74.324386,pharmacy,OPERATIONAL,"Main Boulevard Garden Town, 10-E Ali Block Main Market, Lahore",0.0,0
+ChIJYf9YmL4DGTkRynwXrGqVLBU,CANTT,Health Care Pharmacy Model Town,31.4904231,74.31176940000002,pharmacy,OPERATIONAL,"K, Major Shoaib Shaheed Road Model, Block, Town, Lahore",4.9,10
+ChIJhy-cXIgFGTkR3bADtHQ4VsQ,CANTT,Zahid Medical Store,31.49029119999999,74.31882159999999,pharmacy,OPERATIONAL,"Shop No.5 Model Town, D.Block Mander Market, Lahore",5.0,2
+ChIJ09m-D1AFGTkRRy6U3IN63q8,CANTT,Yashfeen pharmacy,31.4888845,74.3264177,pharmacy,OPERATIONAL,"Shop 128, Bank Square Market, Model, Block C town, Lahore",5.0,5
+ChIJH-oMgOAFGTkRGGe966q-3gk,CANTT,Emulous Pharmacy,31.4939648,74.3199243,pharmacy,OPERATIONAL,"SAJID MARKET, Shershah Block Ata Turk Block new garden town, Lahore",4.9,10
+ChIJo44ZC3EEGTkRPHX-RAUyc3U,CANTT,Access Health Pharmacy,31.5003725,74.32038279999999,pharmacy,OPERATIONAL,"G82C+45R, Barkat Market Pedestrian Bridge, Commercial Area Garden Town, Lahore",4.5,2
+ChIJ7TQN_74FGTkR8xrorh-4sfk,CANTT,Ali Medicose,31.488801,74.3260703,pharmacy,OPERATIONAL,"176 C, Bank Square Market, Model Town, Lahore",5.0,1
+ChIJ34vBVREEGTkRiebbWA4HLVo,CANTT,Waqar Medics,31.4887848,74.3290739,pharmacy,OPERATIONAL,"2 Model Town Circular Road, Block B Model Town, Lahore",4.3,18
+ChIJOVswuSEFGTkRGnVSjyiZTF0,CANTT,Pharmacy,31.4947816,74.31252239999999,pharmacy,OPERATIONAL,"20, Tariq Block Aurangzeb Block Garden Town, Lahore",4.7,3
+ChIJTyHhuX0FGTkRUvFX3AS5D08,CANTT,Fazal & Sons Pharmacy,31.4903309,74.3182968,pharmacy,OPERATIONAL,"F8R9+48F, Block D Model Town, Lahore",5.0,4
+ChIJpSd-ATMFGTkRKC0mesZmbVs,CANTT,Shifa Pharmacy,31.5005263,74.3197514,pharmacy,OPERATIONAL,"1 Main Boulevard Garden Town, Aibak Block Garden Town, Lahore",4.2,13
+ChIJ6VuPCMEFGTkRowLoBTS61yc,CANTT,Holistic Care Pharmacy,31.4999323,74.3230263,pharmacy,OPERATIONAL,"48-B, Babar Block Garden Town, Lahore",5.0,181
+ChIJASJBgGsEGTkRem0TEZv1dhM,CANTT,The Dental Practice,31.4973993,74.3294933,dentist,OPERATIONAL,"Office number, 8, Block J Model Town, Lahore",4.9,61
+ChIJ17Cm1xIEGTkRFcazti5B2ro,CANTT,De'Dentiste',31.4941102,74.3249127,dentist,OPERATIONAL,"113 C Model Town Circular Road, Block C Model Town, Lahore",4.9,309
+ChIJz0WrUfkbGTkRQUoliXkJ-Zk,CANTT,Smile Solutions,31.489078,74.3257141,dentist,OPERATIONAL,"Shop #12-C, Bank Square Market, Model Town, Lahore",5.0,91
+ChIJ0ZDLzXEFGTkRzyjdCtP5BZU,CANTT,Dental Dynamics,31.4888038,74.3266696,dentist,OPERATIONAL,"4, Bank Square Market, C - Block Model Town, Lahore",4.9,31
+ChIJ56DYxvQFGTkRtMMyA7vzLI0,CANTT,"Premium Dental Care, Salam Medical Complex, Lahore",31.5008571,74.3325353,dentist,OPERATIONAL,"320 Lahore – Kasur Rd, Tipu Block Garden Town, Lahore",5.0,76
+ChIJR9YFfxEEGTkR4Z02vv0sQ68,CANTT,Dental Works,31.488394,74.3265861,dentist,OPERATIONAL,"Model Town C Block Bank Square Market, Shop No.14, 15, Lahore",4.9,79
+ChIJ8Tqdyi8HGTkRjICTRa1gofs,QILA LAKSHMAN SINGH,Care Homoeopathic Clinic,31.3909736,74.3588961,doctor,OPERATIONAL,"Gajju Matah, Ring Road, near Bulleh Shah Interchange, Lahore",4.4,23
+ChIJMUptJ60HGTkRqZHLKsWGpBI,QILA LAKSHMAN SINGH,Asif Pharmacy & General store,31.3979674,74.3568885,pharmacy,OPERATIONAL,"99X4+5QJ، Green Cap Rd,Azeem Plaza, ground Floor, Green Cap Housing Scheme, Gajju Matah",5.0,1
+ChIJmfTiThYHGTkR3pkkLQfVOWU,QILA LAKSHMAN SINGH,Medicare Hospital (Noor Elahi Branch),31.4358125,74.35493749999999,hospital,OPERATIONAL,"Lahore – Kasur Rd, Saroba Garden Housing Scoiety, Lahore",4.4,25
+ChIJsWNo2nkHGTkRZZSzZ0kBGRM,PAK ARAB SOCIETY,RAZIA SULTANA WELFARE HOSPITAL,31.4401687,74.34616660000002,hospital,OPERATIONAL,"1, 5km Defence Rd, near Almustafa School, Quaid e Millat Colony, Lahore",5.0,8
+ChIJge7218AHGTkRDwqjBPry9wA,QILA LAKSHMAN SINGH,EYE Care Clinic at Doctors Healthcare Centre,31.4328978,74.3532002,hospital,OPERATIONAL,"42 A Pak-Arab Housing Scheme Main Rd, Block A Pak-Arab Housing Scheme, Lahore",5.0,1
+ChIJkbOcAv8GGTkRMY-7PDiAvD4,QILA LAKSHMAN SINGH,Zia Hospital & Maternity Complex,31.4355175,74.35561129999999,hospital,OPERATIONAL,"47 A 1, Street Ideal Garden Society، 17km، Main Lahore – Kasur Rd، opp. Awan, Lahore",4.3,336
+ChIJb_yVaPcGGTkR67jdu3PHrLY,QILA LAKSHMAN SINGH,Medicure Hospital,31.44265519999999,74.3545353,hospital,OPERATIONAL,"Metro station 22, Main, Lahore – Kasur Rd, Tidlan Wali Jhalar, Lahore",5.0,3
+ChIJecS9SMkHGTkRhVK66QjnGwM,QILA LAKSHMAN SINGH,Muzammil clinic,31.42371929999999,74.35399029999999,doctor,OPERATIONAL,"C9F3+FH9, Shadab Garden, Lahore",5.0,2
+ChIJBXJoGXYHGTkRa8vCrjuWcOM,QILA LAKSHMAN SINGH,Dr. Rebakh Yasir,31.4336647,74.3538001,doctor,OPERATIONAL,"52 Lahore – Kasur Rd, Saroba Garden Housing Scoiety, Lahore",5.0,1
+ChIJQyFFcGgHGTkRPkKoSuJSqd0,QILA LAKSHMAN SINGH,Prof Dr. Kashif Ali Khan,31.4317362,74.3481682,doctor,OPERATIONAL,"Green Pharmacy & Clinics, Main Blvd, Block B Pak-Arab Housing Scheme, Lahore",4.8,29
+ChIJA1JB0eIGGTkRScqhrJSVDNM,QILA LAKSHMAN SINGH,Medic Pharmacy,31.4320988,74.3465339,pharmacy,OPERATIONAL,"C8JW+RJC, Pak-Arab Housing Scheme Main Rd, Block B Pak-Arab Housing Scheme, Lahore",4.4,5
+ChIJIYEMfwAHGTkRXmKri4-Y2Bs,QILA LAKSHMAN SINGH,Life Medical Store,31.4319894,74.34720999999999,pharmacy,OPERATIONAL,"C8JW+QVW, Main Rd, C Block Block C Pak-Arab Housing Scheme, Lahore",5.0,2
+ChIJ7fkdU34HGTkRhEOr8A9FfBU,QILA LAKSHMAN SINGH,Sultan pharmacy,31.4227009,74.3543265,pharmacy,OPERATIONAL,"Main stop sua asal raiwind road, Shadab Garden Lahore",0.0,0
+ChIJ37g-mcoHGTkRaHHSHburm7c,QILA LAKSHMAN SINGH,Ittefaq Pharmacy & Mart,31.4227758,74.357641,pharmacy,OPERATIONAL,"C9F5+436 Malik Plaza, Service Road, Shadab Garden, Lahore",4.0,6
+ChIJGa5pIAAHGTkRzuyuI5s359M,QILA LAKSHMAN SINGH,MS Health Care Pharmacy,31.4221965,74.35758299999999,pharmacy,OPERATIONAL,"18 Km Ferozepur Rd, Shadab Garden, Lahore",4.3,4
+ChIJzYsubqsHGTkRCX64gUhnwCw,QILA LAKSHMAN SINGH,Al Aziz Pharmacy & Clinic,31.4251246,74.3470528,pharmacy,OPERATIONAL,"C8GW+3R3, Sherwani Town Housing Scheme, Lahore",3.0,2
+ChIJUVKaWYwGGTkR2YSaAMPs_jA,FEROZPUR ROAD (GARDEN TOWN,Lahore General Hospital,31.4547155,74.3509918,hospital,OPERATIONAL,"Ferozpur Road، near Chungi, Amar Sidhu Ismail Nagar, Lahore",4.0,691
+ChIJH1mH0BgHGTkRfglzTwA-P-k,FEROZPUR ROAD (GARDEN TOWN,Sharif Maternity & Clinic,31.4527173,74.3479964,hospital,OPERATIONAL,"Back side general hospital ( soup factory, Street 14 Muhallah, Tariq Abad Ismail Nagar, Lahore",0.0,0
+ChIJUQ-oso8GGTkRsSGOTjh-vWE,FEROZPUR ROAD (GARDEN TOWN,DR. Farrukh Shaheen Furqan Homoeo And Herbal Clinic,31.4607592,74.34921349999999,doctor,OPERATIONAL,"Green Complex, Service Ln, Bostan Colony, Lahore",0.0,0
+ChIJg9MjqFkHGTkRmUB5gDJnWno,PAK ARAB SOCIETY,zam zam clinic,31.4387538,74.3448631,doctor,OPERATIONAL,"Race Club Rd, Quaid e Millat Colony, Lahore",4.0,2
+ChIJydWeLRYHGTkRRWoG23spZnk,FEROZPUR ROAD (GARDEN TOWN,Rafay family clinic,31.4521054,74.34699839999999,doctor,OPERATIONAL,"F82W+RQX, Ayub Rd, Ismail Nagar Lahore",5.0,2
+ChIJQ8bfQcEHGTkRHRp7Ran_rx4,PAK ARAB SOCIETY,Homeoworld Homeopathic Clinic,31.4445717,74.34765159999999,doctor,OPERATIONAL,"hamdani park, chungi, amar Sidhu Quaid e Millat Colony, Lahore",5.0,2
+ChIJ_xkVrQEHGTkRyyjAPETeTxY,PAK ARAB SOCIETY,Shoaib Medical Store,31.4385822,74.3454367,pharmacy,OPERATIONAL,"C8QW+C5M, Defence Rd, Quaid e Millat Colony, Lahore",4.4,109
+ChIJBeaMrvMGGTkRuMUl-r62zYg,FEROZPUR ROAD (GARDEN TOWN,Ehsan Medicle Store,31.4494862,74.3499368,pharmacy,OPERATIONAL,"C8XX+QXV, Kacha Jail Rd, Makhdumabad Ismail Nagar, Lahore",4.0,3
+ChIJO5_m7-8HGTkRtGlpgVRiCvA,QILA LAKSHMAN SINGH,Al-Naqeeb Medical Store,31.43970849999999,74.35434099999999,pharmacy,OPERATIONAL,"Wazir Ali Street No. 1, Bank Stop Main Chungi, Lahore – Kasur Rd, Amar Sidhu Ideal Garden Housing Scheme, Lahore",5.0,1
+ChIJUSsy7lUHGTkRDfm8bSioTDI,FEROZPUR ROAD (GARDEN TOWN,Faheem Medical Store,31.4574549,74.3506572,pharmacy,OPERATIONAL,"F942+X7M, near new emergency lahore general hospital, Lahore – Kasur Rd",3.7,3
+ChIJ2_8vJ_MGGTkRjEUWE9jPwd0,FEROZPUR ROAD (GARDEN TOWN,Ahmed Medeical Store,31.4514189,74.3500458,pharmacy,OPERATIONAL,"F922+H27, Bazar, Ismail Nagar Lahore",0.0,0
+ChIJmdksuvkGGTkRSO2s_-2qMU8,QILA LAKSHMAN SINGH,Furqan Medical Store,31.4401595,74.3549018,pharmacy,OPERATIONAL,"C9R3+3X6, Tidlanwali Jhalār Ideal Garden Housing Scheme, Lahore",0.0,0
+ChIJu_FtoowGGTkRTqO4VSmM6Uo,FEROZPUR ROAD (GARDEN TOWN,Aziz Medical Store,31.4541076,74.3524049,pharmacy,OPERATIONAL,"F932+JXR, Lahore – Kasur Rd, Amar Sidhu Gul Colony, Lahore",3.0,1
+ChIJ8Wgx0TIHGTkRpzGMx4NzYjQ,PAK ARAB SOCIETY,Surgeon Pharmacy,31.4486674,74.35149009999999,pharmacy,OPERATIONAL,"C9X2+FH5, Quaid e Millat Colony, Lahore",5.0,1
+ChIJvXnvkvMGGTkR7MkO2v45Ej4,FEROZPUR ROAD (GARDEN TOWN,Bismillah Medical Store,31.4487402,74.3520127,pharmacy,OPERATIONAL,"C9X2+FRR, Kacha Jail Rd, Makhdumabad Ismail Nagar, Lahore",3.0,1
+ChIJu7q0AAAHGTkRtkGQUYmF9R8,FEROZPUR ROAD (GARDEN TOWN,Medical Store 92,31.4509554,74.3460554,pharmacy,OPERATIONAL,"F82W+9CJ, Kacha Jail Rd, Ismail Nagar Lahore",0.0,0
+ChIJKc7J1OwGGTkRfAUFoeQDF8I,PAK ARAB SOCIETY,Zubair Medical Store,31.4515669,74.3437759,pharmacy,OPERATIONAL,"F82V+JGJ, Kacha Jail Rd, Quaid e Millat Colony, Lahore",4.3,6
+ChIJ43aUkvMGGTkRZNnADWWsLBo,FEROZPUR ROAD (GARDEN TOWN,Shafique Medical Store,31.4487231,74.35208510000001,pharmacy,OPERATIONAL,"C9X2+FRP, Kacha Jail Rd, Makhdumabad Ismail Nagar, Lahore",5.0,1
+ChIJK5SEIAAHGTkRM0m616JDij8,PAK ARAB SOCIETY,Jammu Medical & General Store,31.4484419,74.3515611,pharmacy,OPERATIONAL,"C9X2+9H5, Defence Rd, Quaid e Millat Colony, Lahore",0.0,0
+ChIJ05mSKdwHGTkR5ZYsASMuDfc,PAK ARAB SOCIETY,ORANGE PHARMACY,31.4470129,74.3432326,pharmacy,OPERATIONAL,"C8WV+R75, Kacha Jail Road, Cjungi, Amar Sidhu Quaid e Millat Colony, Lahore",3.7,7
+ChIJAafqkCwHGTkR9_abzh2GcoA,PAK ARAB SOCIETY,Al Hamd Pharmacy,31.4453673,74.3426004,pharmacy,OPERATIONAL,"Millat Road near kasoori bakery Baber Chowk, Chungi, Amer Sidhu Cantt, Lahore",5.0,2
+ChIJxU8a2-7_GDkRQvYtZhQIqwg,EME SOCIETY THOKAR,Sadiqe Akbar Clinic,31.4494653,74.20625110000002,doctor,OPERATIONAL,"C6X4+QGJ, Multan Rd, Kot Gujra, Lahore",0.0,0
+ChIJD_J59AX-GDkR3YIS3TwH0C4,EME SOCIETY THOKAR,Ahmad Medical and General Store,31.4500073,74.2065451,pharmacy,OPERATIONAL,"F624+2J6, Multan Rd, near Park View Villas, Kot Gujra, Lahore",4.7,3
+ChIJhwUdAgD_GDkRarkUrvfwaWY,EME SOCIETY THOKAR,Nahdy Medical Store,31.448553,74.20494479999999,pharmacy,OPERATIONAL,"Shope nbr 1, Barket Chowk Peco Road, Multan Rd, Kot Gujra, Lahore",0.0,0
+ChIJ8RsE7_QDGTkRzX2oDnBjFc4,EME SOCIETY THOKAR,Ali Hospital Thoker Niaz Baig Lahore,31.4701592,74.24132589999999,hospital,OPERATIONAL,"0 Raiwind Rd, Thoker Niaz Baig, Lahore",3.5,35
+ChIJzZt3OhkCGTkR4mfQEWgxym0,EME SOCIETY THOKAR,Rabbani Hospital,31.4668369,74.23751340000001,hospital,OPERATIONAL,"F68Q+P2J, Canal Rd, Westwood Colony Lahore",3.0,54
+ChIJ96I_GxIDGTkRwFFcWu09XkM,MUSTAFA TOWN,AbdulAziz Chaudhary Clinic,31.4786025,74.2319672,hospital,OPERATIONAL,"F6HJ+CQW, Unnamed Road, Gulshan Town, Lahore",0.0,0
+ChIJxw2W7a36k00RarTsjyivK5E,GANGA RAM HOSPITAL,CMA Health Care Center,31.4579994,74.24488769999999,doctor,OPERATIONAL,"3-D Raiwind Rd, Block C Nawab Town, Lahore",4.9,15
+ChIJyY96AMIDGTkRO1_gU49Y6IE,EME SOCIETY THOKAR,Dr Bilal Warraich,31.4636557,74.2384771,doctor,OPERATIONAL,"99 Westwood Rd, Westwood Colony Lahore",5.0,1
+ChIJt_EIewADGTkRg_bsWfrLrgw,EME SOCIETY THOKAR,Qadri Medical Store,31.4634421,74.2378021,pharmacy,OPERATIONAL,"F67Q+94M, Westwood Rd, Westwood Colony Market, Lahore",0.0,0
+ChIJK-rP4xsCGTkRk1BV5Agcrhs,EME SOCIETY THOKAR,Mahmood Pharmacy,31.46629059999999,74.2342048,pharmacy,OPERATIONAL,"2 KM, Thokar Niaz Baig, 53700 Multan Rd, Amarkot, Lahore",4.3,8
+ChIJK8-QRQADGTkRV_MDAdX3EbQ,MUSTAFA TOWN,Shehzad dental clinic,31.4747475,74.2406003,dentist,OPERATIONAL,"F6FR+R9C, Sarai Lahore",0.0,0
+ChIJQT6M2CcDGTkRB-Cusys1qz8,MUSTAFA TOWN,Awan Medical centre,31.5001275,74.2400947,hospital,OPERATIONAL,"near maragzar colony, Maraghzar Colony Kaleem ullah Scheme, Lahore",0.0,0
+ChIJNVJfD5ADGTkROgS-3ScPLdM,MUSTAFA TOWN,Awaisia Clinic,31.4924313,74.245583,hospital,OPERATIONAL,"F6RW+X6G, Thokar Niaz Baig Flyover, Thoker Niaz Baig, Lahore",5.0,1
+ChIJ9X2rEcsDGTkRkuV8VInlpz0,MUSTAFA TOWN,Raza homeo Clinic,31.4737533,74.2407065,doctor,OPERATIONAL,"raza homeo clinic, Thokar Niaz Baig Flyover, Sarai Lahore",0.0,0
+ChIJ4wUobWsCGTkRpIj6S-MbNDU,MUSTAFA TOWN,Zoom Medical Store,31.4848006,74.2369428,pharmacy,OPERATIONAL,"Shop#4, Niazbeg Rd, Khatimunnabi Sallallahoo Alaihee Waalihee Wasallum Rd, Thoker Niaz Baig, Lahore",4.7,6
+ChIJ90_0I2sCGTkRe3O2cve6dUs,MUSTAFA TOWN,Al-Shifa Medical Store,31.4840422,74.23802409999999,pharmacy,OPERATIONAL,"F6MQ+J66، چوکی والی گلی, Gulzar colony Thoker Niaz Baig, Lahore",4.5,2
+ChIJk31OXMYDGTkRk3pErBgVF2c,MUSTAFA TOWN,Al_Syed Pharmacy,31.4827902,74.2375582,pharmacy,OPERATIONAL,"F6MQ+428, Niazbeg Rd, Gulzar colony Gulzar Colony, Lahore",5.0,6
+ChIJj1CdfugDGTkRU16fDg3It4Y,MUSTAFA TOWN,Waris Sons Pharmacy,31.4849652,74.2367683,pharmacy,OPERATIONAL,"F6MP+XPJ, Haveli Nattan Di, Naiz Baig Road, Thoker Niaz Baig, Lahore",3.7,3
+ChIJb6rITz4DGTkRz0wjCUu0eJw,MUSTAFA TOWN,Family Dental Clinic,31.5033763,74.2676147,doctor,OPERATIONAL,"28 Main Rd Awan Town, Ali Block Awan Town, Lahore",5.0,1
+ChIJNeP4uYwDGTkRR_V-T48nI6E,MUSTAFA TOWN,First Pharmacy,31.5088055,74.2525953,pharmacy,OPERATIONAL,"80 Feet Marghzar Rd, Saman Zar Colony Meharpura, Lahore",5.0,22
+ChIJB7HmWncDGTkRfRW-Aks532g,MUSTAFA TOWN,Drugx Mart pharmacy,31.5126527,74.2569895,pharmacy,OPERATIONAL,"MA DOLLA TRADE CENTRE 80FEET, Marghzar Rd, Shadiwal, Lahore",5.0,4
+ChIJczczjP4CGTkRsBbiejkEhEo,SODIWAL COLONY,Pharmacy Plus,31.5126836,74.2614136,pharmacy,OPERATIONAL,"5 Marghzar Rd, Block P Sabzazar Housing Scheme Phase 1 & 2 Lahore",5.0,3
+ChIJBzOTCeoDGTkRz21AzgrDqOk,MUSTAFA TOWN,Musa Pharmacy,31.5099193,74.2541506,pharmacy,OPERATIONAL,"80 Main ft Road, Maraghzar Colony Shadiwal, Lahore",4.7,7
+ChIJRRwQ49oDGTkRO1B27L-FxKU,MUSTAFA TOWN,Smart pharmacy,31.5099446,74.2493064,pharmacy,OPERATIONAL,"G65X+XPF, Lalazar Rd, Phase 2 Shadiwal, Lahore",5.0,1
+ChIJFxysXT8DGTkRFVaMN-A78Yo,MUSTAFA TOWN,Al Raheem pharmacy,31.509138,74.2468932,pharmacy,OPERATIONAL,"G65W+MQ3, Lalazar Rd, Lalazaar Garden Shadiwal, Lahore",0.0,0
+ChIJRwQECxYDGTkRo1HgsYC-4Ow,MUSTAFA TOWN,Servaid pharmacy,31.5098688,74.25428240000001,pharmacy,OPERATIONAL,"G753+WPV, Marghzar Rd, Shadiwal, Lahore",3.2,6
+ChIJSbSxUFMDGTkRxpNxLEd6ky0,MUSTAFA TOWN,My pharmacy,31.5100365,74.2493607,pharmacy,OPERATIONAL,"G66X+2QV, Lalazar Rd, Phase 2 Shadiwal, Lahore",5.0,2
+ChIJC9lU5mEDGTkRvTgr3CpnKgY,SODIWAL COLONY,Rescue pharmacy,31.51527,74.2623631,pharmacy,OPERATIONAL,"121 P Block Rd, Block Q Block P Sabzazar Housing Scheme Phase 1 & 2 Lahore",3.0,10
+ChIJuz6HYu4DGTkRoPtMCAvdMiQ,REHMAN-PURA,Ozone Clinic - Ozone Therapy - Pain Management Specialist in Lahore,31.5168052,74.2938296,doctor,OPERATIONAL,"10 Main Blvd Allama Iqbal Town, Gulshan Block Allama Iqbal Town, Lahore",4.1,12
+ChIJ70NRiXMDGTkRkOXyW3ucUMk,REHMAN-PURA,Dr Tariq Yasin Clinic,31.5177989,74.29258039999999,doctor,OPERATIONAL,"22-A, Gulshan Block Allama Iqbal Town, Lahore",4.8,5
+ChIJxW-94nEDGTkRSky8RIV0K8o,REHMAN-PURA,AB Dental Center,31.5235719,74.2851718,dentist,OPERATIONAL,"Nargis Block, Huma Block Allama Iqbal Town, Lahore",4.9,28
+ChIJoffWlz8DGTkRcp2BudrqBXY,REHMAN-PURA,Dr Atif Masood,31.5181108,74.2859706,doctor,OPERATIONAL,"Iqbal, 356 Allama, Kashmir Block Town, Lahore",0.0,0
+ChIJ9fvDxRMDGTkRsuwrn79SP4Q,SODIWAL COLONY,Medicine Shop Pharmacy,31.5256758,74.28351909999999,pharmacy,OPERATIONAL,"G7GM+7CC, Allama Iqbal Rd, Scheme Mor Jahanzeb Block Allama Iqbal Town, Lahore",5.0,2
+ChIJ26Tlf3YDGTkRlQZPNATGoEQ,REHMAN-PURA,Javed Medical Store,31.5148714,74.2942609,pharmacy,OPERATIONAL,"G77V+WPR, Hunza Block, Allama Iqbal Town, Lahore, Punjab, Hunza Block Allama Iqbal Town, Lahore",3.5,6
+ChIJEdS_XzoDGTkRGPe3FmgEVTQ,REHMAN-PURA,Ali pharmacy,31.5120121,74.2937142,pharmacy,OPERATIONAL,"376 Street Number 4, Najaf Colony Hunza Block Allama Iqbal Town, Lahore",5.0,2
+ChIJQZDALg0DGTkRC6AXnjhfd8w,REHMAN-PURA,Rizwan Medical & General Store,31.520322,74.2878367,pharmacy,OPERATIONAL,"G7CQ+456, Hafiz Taib Rd, Kashmir Block, Allama Iqbal Town, Kashmir Block Allama Iqbal Town, Lahore",0.0,0
+ChIJDW0IoSQDGTkRPEk2wHqbpfY,REHMAN-PURA,Al Chemist Pharmacy,31.5182016,74.29205379999999,pharmacy,OPERATIONAL,"25 Main Boulevard Allama Iqbal Town, Gulshan Block Allama Iqbal Town, Lahore",4.3,9
+ChIJr_Q7A3MDGTkRVdPWjXZetmE,REHMAN-PURA,Smile Dental Clinic,31.5199647,74.2906213,dentist,OPERATIONAL,"G79R+X6Q Javaid center, main bolevard, near McDonald moon Market, Kashmir Block Allama Iqbal Town, Lahore",1.3,3
+ChIJVfGhSKoDGTkRTwHLHjRoETo,REHMAN-PURA,DR HAMZA DENTAL CENTRE,31.5132789,74.2926406,dentist,OPERATIONAL,"361, Hunza Block Allama Iqbal Town, Lahore",4.7,172
+ChIJc0hKGg0DGTkRJGBcELxKovU,REHMAN-PURA,Farooq Dental Clinic,31.5202184,74.2864278,dentist,OPERATIONAL,"G7CP+3HM, Huma Block, Allama Iqbal Town, Lahore, Punjab, Huma Block Allama Iqbal Town, Lahore",5.0,1
+ChIJ5ZgZkJ8GGTkR8vKXrDHc1hc,SHAHDRAH,Noor Medical Store,31.4709074,74.336094,pharmacy,OPERATIONAL,"F8CP+9C9, Dilkusha Garden Lahore",5.0,1
+ChIJl2eJA7gHGTkR8luKIWSD_M8,FEROZPUR ROAD (GARDEN TOWN,The healers pharmacy,31.4665966,74.3468017,pharmacy,OPERATIONAL,"qainchi amer sidhu, Lahore – Kasur Rd, Gulshan Colony, Lahore",0.0,0
+ChIJj9vKy4oFGTkRH20sMokxDN8,SHAHDRAH,Decent pharmacy,31.4755742,74.33835049999999,pharmacy,OPERATIONAL,"F8GQ+68G, Bahar Colony, Lahore",4.7,11
+ChIJ0UDFq6EGGTkRyTLRY-SD9A8,SHAHDRAH,Touseef Medical Store,31.4694694,74.3326185,pharmacy,OPERATIONAL,"F89M+Q2X, Block S Model Town, Lahore",4.5,2
+ChIJp5GV7B0HGTkRP_A_WXDwnQA,FEROZPUR ROAD (GARDEN TOWN,Faisal Medical store,31.4644555,74.3460723,pharmacy,OPERATIONAL,"F87W+QC7, Bostan Colony, Lahore",5.0,3
+ChIJSd7w-CAEGTkRz1sWkv48Ot8,SHAHDRAH,Aziz Pharmacy.,31.4755267,74.33853409999999,pharmacy,OPERATIONAL,"near Ittefaq Hospital, Model Town, Lahore",4.0,12
+ChIJ6dqqFPEFGTkRaD5gIZuGGLI,SHAHDRAH,Servaid Pharmacy,31.475462,74.33867699999999,pharmacy,OPERATIONAL,"F8GQ+5FR, Bahar Colony, Lahore",3.7,3
+ChIJVcIFViAEGTkReHH4TcuVHgw,SHAHDRAH,Ittefaq Pharmacy,31.4754829,74.33789360000002,pharmacy,OPERATIONAL,"F8GQ+55R, Bahar Colony, Lahore",3.9,12
+ChIJ7RbNMsoHGTkRMxXLghgsTg8,SHAHDRAH,Arslan Medical & General Store,31.4673325,74.337068,pharmacy,OPERATIONAL,"F88P+WRM, Naiyan wala chowk, Kot Lakhpat, Lahore",5.0,2
+ChIJLUuD9ZsGGTkRtIBXNvZPKc4,SHAHDRAH,Life Pharmacy Peco Road,31.468184,74.3424047,pharmacy,OPERATIONAL,"F89R+7XC, Kot Lakhpat, Lahore",5.0,3
+ChIJSWbgaNoFGTkRd4r-tOa7aVU,SHAHDRAH,Ghani Dental Care,31.4762278,74.3361133,dentist,OPERATIONAL,"Shop No. 1, Adjusent to Shoukat Khanam Collection center, Al-Murtaza Market, Model, near Itefaq Hospital, Block R Town, Lahore",5.0,132
+ChIJ3fHdDaAHGTkRQIHNbT66skM,QILA LAKSHMAN SINGH,Medix Plus Pharmacy,31.4102141,74.3594208,pharmacy,OPERATIONAL,"21km Main feroz pur road, Glaxo Town, Lahore",4.5,8
+ChIJKa6_faAHGTkRMWMdA9PkpOg,QILA LAKSHMAN SINGH,Al Macca Medical Store,31.4117575,74.3591971,pharmacy,OPERATIONAL,"C965+PM4، Ferozepur Road, Hamza Town, Lahore – Kasur Rd, Glaxo Town, Lahore",5.0,1
+ChIJwSaj0PwHGTkRCANq4bD2n5o,QILA LAKSHMAN SINGH,Lahore Care Pharmacy & Mart,31.4103087,74.35942399999999,pharmacy,OPERATIONAL,"20-KM Anam Road, Glaxo Town, Lahore",4.0,1
+ChIJgY7rIfEBGTkRBnSnwdYYYlE,WAPDA TOWN,"HR Diagnostics - The Radiology Clinic (Lab, Ultrasound, X-ray, OPG, ECG, Echo)",31.4419012,74.27691949999999,doctor,OPERATIONAL,"29 B4 Rd, Block B4 Block B 4 Wapda Town Phase 1 Lahore",4.2,108
+ChIJCfwz5hMBGTkR7AB2Q10NUFI,WAPDA TOWN,Rahim Plus Pharmacy,31.4389464,74.2811969,pharmacy,OPERATIONAL,"C7QJ+HFH, WAPDA Town Block B 4 Wapda Town Phase 1 Lahore",4.5,4
+ChIJr32AqZ8BGTkRK5aoklx1bAs,WAPDA TOWN,ZM Pharmacy,31.4422266,74.28286969999999,pharmacy,OPERATIONAL,"2-C, Block A 5 PGECHS, Lahore",0.0,0
+ChIJHQBOocsBGTkReUxJpLDU2M4,GANGA RAM HOSPITAL,Medx Pharmacy,31.4466541,74.2813259,pharmacy,OPERATIONAL,"8-D PIA Main Boulevard, Block D Pia Housing Scheme, Lahore",5.0,8
+ChIJr064BQ0BGTkRH0tNZsj3WfA,WAPDA TOWN,Mahmood Pharmacy,31.4406947,74.27430369999999,pharmacy,OPERATIONAL,"C7RF+7P 394, Block D3 Block D 3 Wapda Town Phase 1 Lahore",4.1,18
+ChIJffDCEwkBGTkRT2xhrQXJ0Rk,WAPDA TOWN,United Health Care Pharmacy,31.4350619,74.26880129999999,pharmacy,OPERATIONAL,"79 E1 Main Boulevard, WAPDA Town Block E 1 Wapda Town Phase 1 Lahore",4.6,24
+ChIJJ-xQ3fIBGTkRFWwqBpzMIXc,WAPDA TOWN,Sparkling Dental & Aesthetics,31.4424652,74.27698869999999,dentist,OPERATIONAL,"238 D PIA Main Boulevard, Block D Pia Housing Scheme, Lahore",4.9,100
+ChIJI877DAkBGTkRL7CZ1zY6EDw,WAPDA TOWN,Dental Concepts,31.4352122,74.2684088,dentist,OPERATIONAL,"Dental Concepts, Main Road, Block E2 Block E 2 Wapda Town Phase 1 Lahore",4.8,21
+ChIJA1SpBzIBGTkRSq0XvODOprc,WAPDA TOWN,Dr. Ahemd Liaquat ( Best Dentist ),31.4419306,74.27697719999999,dentist,OPERATIONAL,"28, Block B4 Block B 4 Wapda Town Phase 1 Lahore",0.0,0
+ChIJb5y9YQABGTkRhO-tRl-SMyg,GANGA RAM HOSPITAL,Alpha Health Clinic,31.4575082,74.2727366,doctor,OPERATIONAL,"F75F+235, Block A Abdalians Cooperative Housing Society, Lahore",4.7,12
+ChIJs28E-OsBGTkRVMaRD44xD4A,GANGA RAM HOSPITAL,Serenity Clinic,31.4589642,74.2710384,doctor,OPERATIONAL,"F75C+J9X, Street 2, Block R Phase 2 Johar Town, Lahore",0.0,0
+ChIJQVgdBuMBGTkRGMFz5vV22_g,GANGA RAM HOSPITAL,HealthPack Pharmacy,31.459743,74.25208789999999,pharmacy,OPERATIONAL,"9A, Aitchison Society Block A Aitchison Society, Lahore",5.0,5
+ChIJEUkCBgMBGTkRmWJEYJdZEys,GANGA RAM HOSPITAL,Farmazia,31.4595092,74.25546109999999,pharmacy,OPERATIONAL,"Shop no. 04, sheikh market, Sher Ali Rd, Aitchison Society Lahore",5.0,4
+ChIJmRl3iCACGTkRaM4wt6UH2v8,GANGA RAM HOSPITAL,Drug Mart Pharmacy,31.462239,74.244472,pharmacy,OPERATIONAL,"4, 1 KM Raiwind Rd, near Lahore University, Ali Town Lahore",4.6,11
+ChIJ0coM8rUBGTkRE0Pmog7EB1Q,GANGA RAM HOSPITAL,Khalid pharmacy,31.4550203,74.2537833,pharmacy,OPERATIONAL,"F743+2G3 Badam bagh, Nasirabad Aitchison Society, Lahore",1.0,1
+ChIJ0xKEYgADGTkRekd5rWsVvAU,GANGA RAM HOSPITAL,Mahmood Pharmacy,31.4626594,74.2443925,pharmacy,OPERATIONAL,"4a Raiwind Rd, behind Faisal Bank, Ali Town Lahore",4.3,6
+ChIJ01jNCmoBGTkRAmOFMsm_uks,GANGA RAM HOSPITAL,Rahbar Pharmacy Nawab Town Raiwind Road,31.4572548,74.2453467,pharmacy,OPERATIONAL,"9C Raiwind Rd, Block C Nawab Town, Lahore",4.0,7
+ChIJARTmQ1oBGTkR93OYIvPfZyM,GANGA RAM HOSPITAL,NMP Pharmacy,31.4590301,74.2448816,pharmacy,OPERATIONAL,"1 Raiwind Rd, Block C Nawab Town, Lahore",3.5,10
+ChIJXW7in8L_GDkRwnmVdgP3SIw,BAHRIA TOWN,Hi Care Clinic & Holistic Healing Centre,31.3777928,74.1745451,hospital,OPERATIONAL,"Shop # 25, Overseas Enclave Overseas A Sector B Bahria Town, Lahore",4.8,11
+ChIJvUsA53X_GDkRuZRcN1udxCM,BAHRIA TOWN,Life Hospital,31.3802715,74.1696312,hospital,OPERATIONAL,"Life Hospital Moza maraka, near main gate, Bahria Town Aa Block Sector D Bahria Town, Lahore",3.9,168
+ChIJqadWZ7n_GDkRqtAt2Ydprx8,BAHRIA TOWN,Dr Omer children’s Clinic,31.3763717,74.1855719,hospital,OPERATIONAL,"Plaza no 6-A, Basement of Fazal Din Pharmacy, Talwar Chowk Commercial Area Sector C Bahria Town, Lahore",5.0,11
+ChIJAagZX_j_GDkRHc46nWqh0x4,BAHRIA TOWN,Khalil Medical Store,31.3836364,74.14949899999999,hospital,OPERATIONAL,"94MX+FQ5, Maraka Village, Maraka",0.0,0
