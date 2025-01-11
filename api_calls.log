@@ -1,2559 +1,1719 @@
-Grid #0 | Search #0 | API Hit: hospital at (31.588084, 74.422455) - Found: 16 customers
-Grid #0 | Search #1 | API Hit: doctor at (31.588084, 74.422455) - Found: 5 customers
-Grid #0 | Search #2 | API Hit: pharmacy at (31.588084, 74.422455) - Found: 14 customers
-Grid #0 | Search #3 | API Hit: dentist at (31.588084, 74.422455) - Found: 0 customers
+Grid #0 | Search #0 | API Hit: hospital at (31.246936, 74.120801) - Found: 0 customers
+Grid #0 | Search #1 | API Hit: doctor at (31.246936, 74.120801) - Found: 0 customers
+Grid #0 | Search #2 | API Hit: pharmacy at (31.246936, 74.120801) - Found: 0 customers
+Grid #0 | Search #3 | API Hit: dentist at (31.246936, 74.120801) - Found: 0 customers
 
 Grid #0 - Total API Hits: 4
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #1 | Search #0 | API Hit: hospital at (31.613237, 74.422455) - Found: 5 customers
-Grid #1 | Search #1 | API Hit: doctor at (31.613237, 74.422455) - Found: 0 customers
-Grid #1 | Search #2 | API Hit: pharmacy at (31.613237, 74.422455) - Found: 8 customers
-Grid #1 | Search #3 | API Hit: dentist at (31.613237, 74.422455) - Found: 0 customers
+Grid #1 | Search #0 | API Hit: hospital at (31.272089, 74.120801) - Found: 0 customers
+Grid #1 | Search #1 | API Hit: doctor at (31.272089, 74.120801) - Found: 0 customers
+Grid #1 | Search #2 | API Hit: pharmacy at (31.272089, 74.120801) - Found: 2 customers
+Grid #1 | Search #3 | API Hit: dentist at (31.272089, 74.120801) - Found: 0 customers
 
 Grid #1 - Total API Hits: 8
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #2 | Search #0 | API Hit: hospital at (31.537778, 74.447608) - Found: 10 customers
-Grid #2 | Search #1 | API Hit: doctor at (31.537778, 74.447608) - Found: 1 customers
-Grid #2 | Search #2 | API Hit: pharmacy at (31.537778, 74.447608) - Found: 6 customers
-Grid #2 | Search #3 | API Hit: dentist at (31.537778, 74.447608) - Found: 1 customers
+Grid #2 | Search #0 | API Hit: hospital at (31.246936, 74.145954) - Found: 2 customers
+Grid #2 | Search #1 | API Hit: doctor at (31.246936, 74.145954) - Found: 0 customers
+Grid #2 | Search #2 | API Hit: pharmacy at (31.246936, 74.145954) - Found: 0 customers
+Grid #2 | Search #3 | API Hit: dentist at (31.246936, 74.145954) - Found: 0 customers
 
 Grid #2 - Total API Hits: 12
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #3 | Search #0 | API Hit: hospital at (31.562931, 74.447608) - Found: 9 customers
-Grid #3 | Search #1 | API Hit: doctor at (31.562931, 74.447608) - Found: 1 customers
-Grid #3 | Search #2 | API Hit: pharmacy at (31.562931, 74.447608) - Found: 3 customers
-Grid #3 | Search #3 | API Hit: dentist at (31.562931, 74.447608) - Found: 0 customers
+Grid #3 | Search #0 | API Hit: hospital at (31.272089, 74.145954) - Found: 3 customers
+Grid #3 | Search #1 | API Hit: doctor at (31.272089, 74.145954) - Found: 0 customers
+Grid #3 | Search #2 | API Hit: pharmacy at (31.272089, 74.145954) - Found: 0 customers
+Grid #3 | Search #3 | API Hit: dentist at (31.272089, 74.145954) - Found: 0 customers
 
 Grid #3 - Total API Hits: 16
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #4 | Search #0 | API Hit: hospital at (31.588084, 74.447608) - Found: 9 customers
-Grid #4 | Search #1 | API Hit: doctor at (31.588084, 74.447608) - Found: 3 customers
-Grid #4 | Search #2 | API Hit: pharmacy at (31.588084, 74.447608) - Found: 14 customers
-Grid #4 | Search #3 | API Hit: dentist at (31.588084, 74.447608) - Found: 0 customers
+Grid #4 | Search #0 | API Hit: hospital at (31.297241, 74.145954) - Found: 2 customers
+Grid #4 | Search #1 | API Hit: doctor at (31.297241, 74.145954) - Found: 0 customers
+Grid #4 | Search #2 | API Hit: pharmacy at (31.297241, 74.145954) - Found: 1 customers
+Grid #4 | Search #3 | API Hit: dentist at (31.297241, 74.145954) - Found: 0 customers
 
 Grid #4 - Total API Hits: 20
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #5 | Search #0 | API Hit: hospital at (31.613237, 74.447608) - Found: 2 customers
-Grid #5 | Search #1 | API Hit: doctor at (31.613237, 74.447608) - Found: 0 customers
-Grid #5 | Search #2 | API Hit: pharmacy at (31.613237, 74.447608) - Found: 1 customers
-Grid #5 | Search #3 | API Hit: dentist at (31.613237, 74.447608) - Found: 0 customers
+Grid #5 | Search #0 | API Hit: hospital at (31.347547, 74.145954) - Found: 3 customers
+Grid #5 | Search #1 | API Hit: doctor at (31.347547, 74.145954) - Found: 0 customers
+Grid #5 | Search #2 | API Hit: pharmacy at (31.347547, 74.145954) - Found: 1 customers
+Grid #5 | Search #3 | API Hit: dentist at (31.347547, 74.145954) - Found: 0 customers
 
 Grid #5 - Total API Hits: 24
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #6 | Search #0 | API Hit: hospital at (31.512626, 74.472761) - Found: 6 customers
-Grid #6 | Search #1 | API Hit: doctor at (31.512626, 74.472761) - Found: 0 customers
-Grid #6 | Search #2 | API Hit: pharmacy at (31.512626, 74.472761) - Found: 1 customers
-Grid #6 | Search #3 | API Hit: dentist at (31.512626, 74.472761) - Found: 0 customers
+Grid #6 | Search #0 | API Hit: hospital at (31.246936, 74.171106) - Found: 3 customers
+Grid #6 | Search #1 | API Hit: doctor at (31.246936, 74.171106) - Found: 0 customers
+Grid #6 | Search #2 | API Hit: pharmacy at (31.246936, 74.171106) - Found: 0 customers
+Grid #6 | Search #3 | API Hit: dentist at (31.246936, 74.171106) - Found: 0 customers
 
 Grid #6 - Total API Hits: 28
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #7 | Search #0 | API Hit: hospital at (31.537778, 74.472761) - Found: 7 customers
-Grid #7 | Search #1 | API Hit: doctor at (31.537778, 74.472761) - Found: 0 customers
-Grid #7 | Search #2 | API Hit: pharmacy at (31.537778, 74.472761) - Found: 0 customers
-Grid #7 | Search #3 | API Hit: dentist at (31.537778, 74.472761) - Found: 0 customers
+Grid #7 | Search #0 | API Hit: hospital at (31.272089, 74.171106) - Found: 2 customers
+Grid #7 | Search #1 | API Hit: doctor at (31.272089, 74.171106) - Found: 0 customers
+Grid #7 | Search #2 | API Hit: pharmacy at (31.272089, 74.171106) - Found: 1 customers
+Grid #7 | Search #3 | API Hit: dentist at (31.272089, 74.171106) - Found: 0 customers
 
 Grid #7 - Total API Hits: 32
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #8 | Search #0 | API Hit: hospital at (31.562931, 74.472761) - Found: 7 customers
-Grid #8 | Search #1 | API Hit: doctor at (31.562931, 74.472761) - Found: 0 customers
-Grid #8 | Search #2 | API Hit: pharmacy at (31.562931, 74.472761) - Found: 0 customers
-Grid #8 | Search #3 | API Hit: dentist at (31.562931, 74.472761) - Found: 0 customers
+Grid #8 | Search #0 | API Hit: hospital at (31.322394, 74.171106) - Found: 4 customers
+Grid #8 | Search #1 | API Hit: doctor at (31.322394, 74.171106) - Found: 0 customers
+Grid #8 | Search #2 | API Hit: pharmacy at (31.322394, 74.171106) - Found: 0 customers
+Grid #8 | Search #3 | API Hit: dentist at (31.322394, 74.171106) - Found: 0 customers
 
 Grid #8 - Total API Hits: 36
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #9 | Search #0 | API Hit: hospital at (31.588084, 74.472761) - Found: 13 customers
-Grid #9 | Search #1 | API Hit: doctor at (31.588084, 74.472761) - Found: 5 customers
-Grid #9 | Search #2 | API Hit: pharmacy at (31.588084, 74.472761) - Found: 20 customers
-Grid #9 | Search #3 | API Hit: dentist at (31.588084, 74.472761) - Found: 1 customers
+Grid #9 | Search #0 | API Hit: hospital at (31.246936, 74.196259) - Found: 13 customers
+Grid #9 | Search #1 | API Hit: doctor at (31.246936, 74.196259) - Found: 3 customers
+Grid #9 | Search #2 | API Hit: pharmacy at (31.246936, 74.196259) - Found: 7 customers
+Grid #9 | Search #3 | API Hit: dentist at (31.246936, 74.196259) - Found: 1 customers
 
 Grid #9 - Total API Hits: 40
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #10 | Search #0 | API Hit: hospital at (31.487473, 74.497913) - Found: 2 customers
-Grid #10 | Search #1 | API Hit: doctor at (31.487473, 74.497913) - Found: 1 customers
-Grid #10 | Search #2 | API Hit: pharmacy at (31.487473, 74.497913) - Found: 3 customers
-Grid #10 | Search #3 | API Hit: dentist at (31.487473, 74.497913) - Found: 0 customers
+Grid #10 | Search #0 | API Hit: hospital at (31.272089, 74.196259) - Found: 4 customers
+Grid #10 | Search #1 | API Hit: doctor at (31.272089, 74.196259) - Found: 0 customers
+Grid #10 | Search #2 | API Hit: pharmacy at (31.272089, 74.196259) - Found: 0 customers
+Grid #10 | Search #3 | API Hit: dentist at (31.272089, 74.196259) - Found: 0 customers
 
 Grid #10 - Total API Hits: 44
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #11 | Search #0 | API Hit: hospital at (31.512626, 74.497913) - Found: 1 customers
-Grid #11 | Search #1 | API Hit: doctor at (31.512626, 74.497913) - Found: 0 customers
-Grid #11 | Search #2 | API Hit: pharmacy at (31.512626, 74.497913) - Found: 0 customers
-Grid #11 | Search #3 | API Hit: dentist at (31.512626, 74.497913) - Found: 0 customers
+Grid #11 | Search #0 | API Hit: hospital at (31.297241, 74.196259) - Found: 3 customers
+Grid #11 | Search #1 | API Hit: doctor at (31.297241, 74.196259) - Found: 0 customers
+Grid #11 | Search #2 | API Hit: pharmacy at (31.297241, 74.196259) - Found: 2 customers
+Grid #11 | Search #3 | API Hit: dentist at (31.297241, 74.196259) - Found: 0 customers
 
 Grid #11 - Total API Hits: 48
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #12 | Search #0 | API Hit: hospital at (31.537778, 74.497913) - Found: 0 customers
-Grid #12 | Search #1 | API Hit: doctor at (31.537778, 74.497913) - Found: 0 customers
-Grid #12 | Search #2 | API Hit: pharmacy at (31.537778, 74.497913) - Found: 1 customers
-Grid #12 | Search #3 | API Hit: dentist at (31.537778, 74.497913) - Found: 0 customers
+Grid #12 | Search #0 | API Hit: hospital at (31.322394, 74.196259) - Found: 7 customers
+Grid #12 | Search #1 | API Hit: doctor at (31.322394, 74.196259) - Found: 0 customers
+Grid #12 | Search #2 | API Hit: pharmacy at (31.322394, 74.196259) - Found: 2 customers
+Grid #12 | Search #3 | API Hit: dentist at (31.322394, 74.196259) - Found: 0 customers
 
 Grid #12 - Total API Hits: 52
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #13 | Search #0 | API Hit: hospital at (31.562931, 74.497913) - Found: 5 customers
-Grid #13 | Search #1 | API Hit: doctor at (31.562931, 74.497913) - Found: 0 customers
-Grid #13 | Search #2 | API Hit: pharmacy at (31.562931, 74.497913) - Found: 0 customers
-Grid #13 | Search #3 | API Hit: dentist at (31.562931, 74.497913) - Found: 0 customers
+Grid #13 | Search #0 | API Hit: hospital at (31.246936, 74.221412) - Found: 20 customers
+Grid #13 | Search #1 | API Hit: doctor at (31.246936, 74.221412) - Found: 9 customers
+Grid #13 | Search #2 | API Hit: pharmacy at (31.246936, 74.221412) - Found: 20 customers
+Grid #13 | Search #3 | API Hit: dentist at (31.246936, 74.221412) - Found: 1 customers
 
 Grid #13 - Total API Hits: 56
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #14 | Search #0 | API Hit: hospital at (31.588084, 74.497913) - Found: 7 customers
-Grid #14 | Search #1 | API Hit: doctor at (31.588084, 74.497913) - Found: 1 customers
-Grid #14 | Search #2 | API Hit: pharmacy at (31.588084, 74.497913) - Found: 12 customers
-Grid #14 | Search #3 | API Hit: dentist at (31.588084, 74.497913) - Found: 0 customers
+Grid #14 | Search #0 | API Hit: hospital at (31.272089, 74.221412) - Found: 9 customers
+Grid #14 | Search #1 | API Hit: doctor at (31.272089, 74.221412) - Found: 2 customers
+Grid #14 | Search #2 | API Hit: pharmacy at (31.272089, 74.221412) - Found: 1 customers
+Grid #14 | Search #3 | API Hit: dentist at (31.272089, 74.221412) - Found: 0 customers
 
 Grid #14 - Total API Hits: 60
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #15 | Search #0 | API Hit: hospital at (31.487473, 74.523066) - Found: 1 customers
-Grid #15 | Search #1 | API Hit: doctor at (31.487473, 74.523066) - Found: 0 customers
-Grid #15 | Search #2 | API Hit: pharmacy at (31.487473, 74.523066) - Found: 4 customers
-Grid #15 | Search #3 | API Hit: dentist at (31.487473, 74.523066) - Found: 0 customers
+Grid #15 | Search #0 | API Hit: hospital at (31.297241, 74.221412) - Found: 5 customers
+Grid #15 | Search #1 | API Hit: doctor at (31.297241, 74.221412) - Found: 0 customers
+Grid #15 | Search #2 | API Hit: pharmacy at (31.297241, 74.221412) - Found: 0 customers
+Grid #15 | Search #3 | API Hit: dentist at (31.297241, 74.221412) - Found: 0 customers
 
 Grid #15 - Total API Hits: 64
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #16 | Search #0 | API Hit: hospital at (31.512626, 74.523066) - Found: 1 customers
-Grid #16 | Search #1 | API Hit: doctor at (31.512626, 74.523066) - Found: 0 customers
-Grid #16 | Search #2 | API Hit: pharmacy at (31.512626, 74.523066) - Found: 0 customers
-Grid #16 | Search #3 | API Hit: dentist at (31.512626, 74.523066) - Found: 0 customers
+Grid #16 | Search #0 | API Hit: hospital at (31.322394, 74.221412) - Found: 8 customers
+Grid #16 | Search #1 | API Hit: doctor at (31.322394, 74.221412) - Found: 2 customers
+Grid #16 | Search #2 | API Hit: pharmacy at (31.322394, 74.221412) - Found: 10 customers
+Grid #16 | Search #3 | API Hit: dentist at (31.322394, 74.221412) - Found: 1 customers
 
 Grid #16 - Total API Hits: 68
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #17 | Search #0 | API Hit: hospital at (31.537778, 74.523066) - Found: 1 customers
-Grid #17 | Search #1 | API Hit: doctor at (31.537778, 74.523066) - Found: 0 customers
-Grid #17 | Search #2 | API Hit: pharmacy at (31.537778, 74.523066) - Found: 1 customers
-Grid #17 | Search #3 | API Hit: dentist at (31.537778, 74.523066) - Found: 0 customers
+Grid #17 | Search #0 | API Hit: hospital at (31.297241, 74.246564) - Found: 1 customers
+Grid #17 | Search #1 | API Hit: doctor at (31.297241, 74.246564) - Found: 0 customers
+Grid #17 | Search #2 | API Hit: pharmacy at (31.297241, 74.246564) - Found: 0 customers
+Grid #17 | Search #3 | API Hit: dentist at (31.297241, 74.246564) - Found: 0 customers
 
 Grid #17 - Total API Hits: 72
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #18 | Search #0 | API Hit: hospital at (31.462320, 74.548219) - Found: 0 customers
-Grid #18 | Search #1 | API Hit: doctor at (31.462320, 74.548219) - Found: 0 customers
-Grid #18 | Search #2 | API Hit: pharmacy at (31.462320, 74.548219) - Found: 0 customers
-Grid #18 | Search #3 | API Hit: dentist at (31.462320, 74.548219) - Found: 0 customers
+Grid #18 | Search #0 | API Hit: hospital at (31.230911, 74.158751) - Found: 0 customers
+Grid #18 | Search #1 | API Hit: doctor at (31.230911, 74.158751) - Found: 1 customers
+Grid #18 | Search #2 | API Hit: pharmacy at (31.230911, 74.158751) - Found: 0 customers
+Grid #18 | Search #3 | API Hit: dentist at (31.230911, 74.158751) - Found: 0 customers
 
 Grid #18 - Total API Hits: 76
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #19 | Search #0 | API Hit: hospital at (31.487473, 74.548219) - Found: 0 customers
-Grid #19 | Search #1 | API Hit: doctor at (31.487473, 74.548219) - Found: 0 customers
-Grid #19 | Search #2 | API Hit: pharmacy at (31.487473, 74.548219) - Found: 0 customers
-Grid #19 | Search #3 | API Hit: dentist at (31.487473, 74.548219) - Found: 0 customers
+Grid #19 | Search #0 | API Hit: hospital at (31.229667, 74.115181) - Found: 0 customers
+Grid #19 | Search #1 | API Hit: doctor at (31.229667, 74.115181) - Found: 0 customers
+Grid #19 | Search #2 | API Hit: pharmacy at (31.229667, 74.115181) - Found: 0 customers
+Grid #19 | Search #3 | API Hit: dentist at (31.229667, 74.115181) - Found: 0 customers
 
 Grid #19 - Total API Hits: 80
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #20 | Search #0 | API Hit: hospital at (31.512626, 74.548219) - Found: 1 customers
-Grid #20 | Search #1 | API Hit: doctor at (31.512626, 74.548219) - Found: 0 customers
-Grid #20 | Search #2 | API Hit: pharmacy at (31.512626, 74.548219) - Found: 0 customers
-Grid #20 | Search #3 | API Hit: dentist at (31.512626, 74.548219) - Found: 0 customers
+Grid #20 | Search #0 | API Hit: hospital at (31.269539, 74.100402) - Found: 0 customers
+Grid #20 | Search #1 | API Hit: doctor at (31.269539, 74.100402) - Found: 0 customers
+Grid #20 | Search #2 | API Hit: pharmacy at (31.269539, 74.100402) - Found: 0 customers
+Grid #20 | Search #3 | API Hit: dentist at (31.269539, 74.100402) - Found: 0 customers
 
 Grid #20 - Total API Hits: 84
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #21 | Search #0 | API Hit: hospital at (31.437168, 74.573371) - Found: 2 customers
-Grid #21 | Search #1 | API Hit: doctor at (31.437168, 74.573371) - Found: 0 customers
-Grid #21 | Search #2 | API Hit: pharmacy at (31.437168, 74.573371) - Found: 5 customers
-Grid #21 | Search #3 | API Hit: dentist at (31.437168, 74.573371) - Found: 0 customers
+Grid #21 | Search #0 | API Hit: hospital at (31.288749, 74.129240) - Found: 1 customers
+Grid #21 | Search #1 | API Hit: doctor at (31.288749, 74.129240) - Found: 0 customers
+Grid #21 | Search #2 | API Hit: pharmacy at (31.288749, 74.129240) - Found: 0 customers
+Grid #21 | Search #3 | API Hit: dentist at (31.288749, 74.129240) - Found: 0 customers
 
 Grid #21 - Total API Hits: 88
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #22 | Search #0 | API Hit: hospital at (31.462320, 74.573371) - Found: 0 customers
-Grid #22 | Search #1 | API Hit: doctor at (31.462320, 74.573371) - Found: 0 customers
-Grid #22 | Search #2 | API Hit: pharmacy at (31.462320, 74.573371) - Found: 0 customers
-Grid #22 | Search #3 | API Hit: dentist at (31.462320, 74.573371) - Found: 0 customers
+Grid #22 | Search #0 | API Hit: hospital at (31.327217, 74.152196) - Found: 3 customers
+Grid #22 | Search #1 | API Hit: doctor at (31.327217, 74.152196) - Found: 0 customers
+Grid #22 | Search #2 | API Hit: pharmacy at (31.327217, 74.152196) - Found: 0 customers
+Grid #22 | Search #3 | API Hit: dentist at (31.327217, 74.152196) - Found: 0 customers
 
 Grid #22 - Total API Hits: 92
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #23 | Search #0 | API Hit: hospital at (31.487473, 74.573371) - Found: 0 customers
-Grid #23 | Search #1 | API Hit: doctor at (31.487473, 74.573371) - Found: 0 customers
-Grid #23 | Search #2 | API Hit: pharmacy at (31.487473, 74.573371) - Found: 0 customers
-Grid #23 | Search #3 | API Hit: dentist at (31.487473, 74.573371) - Found: 0 customers
+Grid #23 | Search #0 | API Hit: hospital at (31.353576, 74.128491) - Found: 2 customers
+Grid #23 | Search #1 | API Hit: doctor at (31.353576, 74.128491) - Found: 0 customers
+Grid #23 | Search #2 | API Hit: pharmacy at (31.353576, 74.128491) - Found: 11 customers
+Grid #23 | Search #3 | API Hit: dentist at (31.353576, 74.128491) - Found: 0 customers
 
 Grid #23 - Total API Hits: 96
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #24 | Search #0 | API Hit: hospital at (31.437168, 74.598524) - Found: 0 customers
-Grid #24 | Search #1 | API Hit: doctor at (31.437168, 74.598524) - Found: 0 customers
-Grid #24 | Search #2 | API Hit: pharmacy at (31.437168, 74.598524) - Found: 0 customers
-Grid #24 | Search #3 | API Hit: dentist at (31.437168, 74.598524) - Found: 0 customers
+Grid #24 | Search #0 | API Hit: hospital at (31.338849, 74.234004) - Found: 5 customers
+Grid #24 | Search #1 | API Hit: doctor at (31.338849, 74.234004) - Found: 2 customers
+Grid #24 | Search #2 | API Hit: pharmacy at (31.338849, 74.234004) - Found: 7 customers
+Grid #24 | Search #3 | API Hit: dentist at (31.338849, 74.234004) - Found: 0 customers
 
 Grid #24 - Total API Hits: 100
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #25 | Search #0 | API Hit: hospital at (31.462320, 74.598524) - Found: 0 customers
-Grid #25 | Search #1 | API Hit: doctor at (31.462320, 74.598524) - Found: 0 customers
-Grid #25 | Search #2 | API Hit: pharmacy at (31.462320, 74.598524) - Found: 0 customers
-Grid #25 | Search #3 | API Hit: dentist at (31.462320, 74.598524) - Found: 0 customers
+Grid #25 | Search #0 | API Hit: hospital at (31.315612, 74.246491) - Found: 1 customers
+Grid #25 | Search #1 | API Hit: doctor at (31.315612, 74.246491) - Found: 0 customers
+Grid #25 | Search #2 | API Hit: pharmacy at (31.315612, 74.246491) - Found: 0 customers
+Grid #25 | Search #3 | API Hit: dentist at (31.315612, 74.246491) - Found: 0 customers
 
 Grid #25 - Total API Hits: 104
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #26 | Search #0 | API Hit: hospital at (31.462320, 74.623677) - Found: 0 customers
-Grid #26 | Search #1 | API Hit: doctor at (31.462320, 74.623677) - Found: 0 customers
-Grid #26 | Search #2 | API Hit: pharmacy at (31.462320, 74.623677) - Found: 0 customers
-Grid #26 | Search #3 | API Hit: dentist at (31.462320, 74.623677) - Found: 0 customers
+Grid #26 | Search #0 | API Hit: hospital at (31.279127, 74.239055) - Found: 5 customers
+Grid #26 | Search #1 | API Hit: doctor at (31.279127, 74.239055) - Found: 0 customers
+Grid #26 | Search #2 | API Hit: pharmacy at (31.279127, 74.239055) - Found: 3 customers
+Grid #26 | Search #3 | API Hit: dentist at (31.279127, 74.239055) - Found: 0 customers
 
 Grid #26 - Total API Hits: 108
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #27 | Search #0 | API Hit: hospital at (31.554985, 74.423140) - Found: 15 customers
-Grid #27 | Search #1 | API Hit: doctor at (31.554985, 74.423140) - Found: 4 customers
-Grid #27 | Search #2 | API Hit: pharmacy at (31.554985, 74.423140) - Found: 15 customers
-Grid #27 | Search #3 | API Hit: dentist at (31.554985, 74.423140) - Found: 0 customers
+Grid #27 | Search #0 | API Hit: hospital at (31.259201, 74.239140) - Found: 14 customers
+Grid #27 | Search #1 | API Hit: doctor at (31.259201, 74.239140) - Found: 3 customers
+Grid #27 | Search #2 | API Hit: pharmacy at (31.259201, 74.239140) - Found: 3 customers
+Grid #27 | Search #3 | API Hit: dentist at (31.259201, 74.239140) - Found: 0 customers
 
 Grid #27 - Total API Hits: 112
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #28 | Search #0 | API Hit: hospital at (31.601647, 74.403703) - Found: 9 customers
-Grid #28 | Search #1 | API Hit: doctor at (31.601647, 74.403703) - Found: 4 customers
-Grid #28 | Search #2 | API Hit: pharmacy at (31.601647, 74.403703) - Found: 20 customers
-Grid #28 | Search #3 | API Hit: dentist at (31.601647, 74.403703) - Found: 0 customers
+Grid #28 | Search #0 | API Hit: hospital at (31.227683, 74.193991) - Found: 6 customers
+Grid #28 | Search #1 | API Hit: doctor at (31.227683, 74.193991) - Found: 0 customers
+Grid #28 | Search #2 | API Hit: pharmacy at (31.227683, 74.193991) - Found: 4 customers
+Grid #28 | Search #3 | API Hit: dentist at (31.227683, 74.193991) - Found: 0 customers
 
 Grid #28 - Total API Hits: 116
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #29 | Search #0 | API Hit: hospital at (31.608265, 74.482652) - Found: 4 customers
-Grid #29 | Search #1 | API Hit: doctor at (31.608265, 74.482652) - Found: 2 customers
-Grid #29 | Search #2 | API Hit: pharmacy at (31.608265, 74.482652) - Found: 2 customers
-Grid #29 | Search #3 | API Hit: dentist at (31.608265, 74.482652) - Found: 0 customers
+Grid #29 | Search #0 | API Hit: hospital at (31.301074, 74.169657) - Found: 2 customers
+Grid #29 | Search #1 | API Hit: doctor at (31.301074, 74.169657) - Found: 0 customers
+Grid #29 | Search #2 | API Hit: pharmacy at (31.301074, 74.169657) - Found: 3 customers
+Grid #29 | Search #3 | API Hit: dentist at (31.301074, 74.169657) - Found: 0 customers
 
 Grid #29 - Total API Hits: 120
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #30 | Search #0 | API Hit: hospital at (31.555773, 74.516410) - Found: 2 customers
-Grid #30 | Search #1 | API Hit: doctor at (31.555773, 74.516410) - Found: 0 customers
-Grid #30 | Search #2 | API Hit: pharmacy at (31.555773, 74.516410) - Found: 1 customers
-Grid #30 | Search #3 | API Hit: dentist at (31.555773, 74.516410) - Found: 0 customers
+Grid #30 | Search #0 | API Hit: hospital at (31.240648, 74.114513) - Found: 0 customers
+Grid #30 | Search #1 | API Hit: doctor at (31.240648, 74.114513) - Found: 0 customers
+Grid #30 | Search #2 | API Hit: pharmacy at (31.240648, 74.114513) - Found: 0 customers
+Grid #30 | Search #3 | API Hit: dentist at (31.240648, 74.114513) - Found: 0 customers
 
 Grid #30 - Total API Hits: 124
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #31 | Search #0 | API Hit: hospital at (31.532651, 74.542842) - Found: 1 customers
-Grid #31 | Search #1 | API Hit: doctor at (31.532651, 74.542842) - Found: 0 customers
-Grid #31 | Search #2 | API Hit: pharmacy at (31.532651, 74.542842) - Found: 1 customers
-Grid #31 | Search #3 | API Hit: dentist at (31.532651, 74.542842) - Found: 0 customers
+Grid #31 | Search #0 | API Hit: hospital at (31.240648, 74.133377) - Found: 0 customers
+Grid #31 | Search #1 | API Hit: doctor at (31.240648, 74.133377) - Found: 0 customers
+Grid #31 | Search #2 | API Hit: pharmacy at (31.240648, 74.133377) - Found: 1 customers
+Grid #31 | Search #3 | API Hit: dentist at (31.240648, 74.133377) - Found: 0 customers
 
 Grid #31 - Total API Hits: 128
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #32 | Search #0 | API Hit: hospital at (31.507383, 74.568668) - Found: 0 customers
-Grid #32 | Search #1 | API Hit: doctor at (31.507383, 74.568668) - Found: 0 customers
-Grid #32 | Search #2 | API Hit: pharmacy at (31.507383, 74.568668) - Found: 0 customers
-Grid #32 | Search #3 | API Hit: dentist at (31.507383, 74.568668) - Found: 0 customers
+Grid #32 | Search #0 | API Hit: hospital at (31.259512, 74.133377) - Found: 1 customers
+Grid #32 | Search #1 | API Hit: doctor at (31.259512, 74.133377) - Found: 0 customers
+Grid #32 | Search #2 | API Hit: pharmacy at (31.259512, 74.133377) - Found: 2 customers
+Grid #32 | Search #3 | API Hit: dentist at (31.259512, 74.133377) - Found: 0 customers
 
 Grid #32 - Total API Hits: 132
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #33 | Search #0 | API Hit: hospital at (31.483529, 74.597366) - Found: 0 customers
-Grid #33 | Search #1 | API Hit: doctor at (31.483529, 74.597366) - Found: 0 customers
-Grid #33 | Search #2 | API Hit: pharmacy at (31.483529, 74.597366) - Found: 0 customers
-Grid #33 | Search #3 | API Hit: dentist at (31.483529, 74.597366) - Found: 0 customers
+Grid #33 | Search #0 | API Hit: hospital at (31.278377, 74.133377) - Found: 0 customers
+Grid #33 | Search #1 | API Hit: doctor at (31.278377, 74.133377) - Found: 0 customers
+Grid #33 | Search #2 | API Hit: pharmacy at (31.278377, 74.133377) - Found: 0 customers
+Grid #33 | Search #3 | API Hit: dentist at (31.278377, 74.133377) - Found: 0 customers
 
 Grid #33 - Total API Hits: 136
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #34 | Search #0 | API Hit: hospital at (31.441907, 74.618923) - Found: 0 customers
-Grid #34 | Search #1 | API Hit: doctor at (31.441907, 74.618923) - Found: 0 customers
-Grid #34 | Search #2 | API Hit: pharmacy at (31.441907, 74.618923) - Found: 0 customers
-Grid #34 | Search #3 | API Hit: dentist at (31.441907, 74.618923) - Found: 0 customers
+Grid #34 | Search #0 | API Hit: hospital at (31.353835, 74.133377) - Found: 2 customers
+Grid #34 | Search #1 | API Hit: doctor at (31.353835, 74.133377) - Found: 0 customers
+Grid #34 | Search #2 | API Hit: pharmacy at (31.353835, 74.133377) - Found: 12 customers
+Grid #34 | Search #3 | API Hit: dentist at (31.353835, 74.133377) - Found: 0 customers
 
 Grid #34 - Total API Hits: 140
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #35 | Search #0 | API Hit: hospital at (31.418244, 74.591803) - Found: 1 customers
-Grid #35 | Search #1 | API Hit: doctor at (31.418244, 74.591803) - Found: 0 customers
-Grid #35 | Search #2 | API Hit: pharmacy at (31.418244, 74.591803) - Found: 0 customers
-Grid #35 | Search #3 | API Hit: dentist at (31.418244, 74.591803) - Found: 0 customers
+Grid #35 | Search #0 | API Hit: hospital at (31.240648, 74.152242) - Found: 1 customers
+Grid #35 | Search #1 | API Hit: doctor at (31.240648, 74.152242) - Found: 0 customers
+Grid #35 | Search #2 | API Hit: pharmacy at (31.240648, 74.152242) - Found: 0 customers
+Grid #35 | Search #3 | API Hit: dentist at (31.240648, 74.152242) - Found: 0 customers
 
 Grid #35 - Total API Hits: 144
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #36 | Search #0 | API Hit: hospital at (31.443294, 74.553754) - Found: 1 customers
-Grid #36 | Search #1 | API Hit: doctor at (31.443294, 74.553754) - Found: 0 customers
-Grid #36 | Search #2 | API Hit: pharmacy at (31.443294, 74.553754) - Found: 4 customers
-Grid #36 | Search #3 | API Hit: dentist at (31.443294, 74.553754) - Found: 0 customers
+Grid #36 | Search #0 | API Hit: hospital at (31.259512, 74.152242) - Found: 2 customers
+Grid #36 | Search #1 | API Hit: doctor at (31.259512, 74.152242) - Found: 0 customers
+Grid #36 | Search #2 | API Hit: pharmacy at (31.259512, 74.152242) - Found: 2 customers
+Grid #36 | Search #3 | API Hit: dentist at (31.259512, 74.152242) - Found: 0 customers
 
 Grid #36 - Total API Hits: 148
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #37 | Search #0 | API Hit: hospital at (31.465459, 74.525944) - Found: 1 customers
-Grid #37 | Search #1 | API Hit: doctor at (31.465459, 74.525944) - Found: 0 customers
-Grid #37 | Search #2 | API Hit: pharmacy at (31.465459, 74.525944) - Found: 0 customers
-Grid #37 | Search #3 | API Hit: dentist at (31.465459, 74.525944) - Found: 0 customers
+Grid #37 | Search #0 | API Hit: hospital at (31.278377, 74.152242) - Found: 0 customers
+Grid #37 | Search #1 | API Hit: doctor at (31.278377, 74.152242) - Found: 0 customers
+Grid #37 | Search #2 | API Hit: pharmacy at (31.278377, 74.152242) - Found: 0 customers
+Grid #37 | Search #3 | API Hit: dentist at (31.278377, 74.152242) - Found: 0 customers
 
 Grid #37 - Total API Hits: 152
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #38 | Search #0 | API Hit: hospital at (31.498018, 74.483308) - Found: 0 customers
-Grid #38 | Search #1 | API Hit: doctor at (31.498018, 74.483308) - Found: 0 customers
-Grid #38 | Search #2 | API Hit: pharmacy at (31.498018, 74.483308) - Found: 3 customers
-Grid #38 | Search #3 | API Hit: dentist at (31.498018, 74.483308) - Found: 0 customers
+Grid #38 | Search #0 | API Hit: hospital at (31.297241, 74.152242) - Found: 2 customers
+Grid #38 | Search #1 | API Hit: doctor at (31.297241, 74.152242) - Found: 0 customers
+Grid #38 | Search #2 | API Hit: pharmacy at (31.297241, 74.152242) - Found: 2 customers
+Grid #38 | Search #3 | API Hit: dentist at (31.297241, 74.152242) - Found: 0 customers
 
 Grid #38 - Total API Hits: 156
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #39 | Search #0 | API Hit: hospital at (31.521036, 74.455967) - Found: 9 customers
-Grid #39 | Search #1 | API Hit: doctor at (31.521036, 74.455967) - Found: 2 customers
-Grid #39 | Search #2 | API Hit: pharmacy at (31.521036, 74.455967) - Found: 11 customers
-Grid #39 | Search #3 | API Hit: dentist at (31.521036, 74.455967) - Found: 2 customers
+Grid #39 | Search #0 | API Hit: hospital at (31.334971, 74.152242) - Found: 0 customers
+Grid #39 | Search #1 | API Hit: doctor at (31.334971, 74.152242) - Found: 0 customers
+Grid #39 | Search #2 | API Hit: pharmacy at (31.334971, 74.152242) - Found: 0 customers
+Grid #39 | Search #3 | API Hit: dentist at (31.334971, 74.152242) - Found: 0 customers
 
 Grid #39 - Total API Hits: 160
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #40 | Search #0 | API Hit: hospital at (31.581796, 74.416167) - Found: 15 customers
-Grid #40 | Search #1 | API Hit: doctor at (31.581796, 74.416167) - Found: 5 customers
-Grid #40 | Search #2 | API Hit: pharmacy at (31.581796, 74.416167) - Found: 20 customers
-Grid #40 | Search #3 | API Hit: dentist at (31.581796, 74.416167) - Found: 0 customers
+Grid #40 | Search #0 | API Hit: hospital at (31.240648, 74.171106) - Found: 3 customers
+Grid #40 | Search #1 | API Hit: doctor at (31.240648, 74.171106) - Found: 0 customers
+Grid #40 | Search #2 | API Hit: pharmacy at (31.240648, 74.171106) - Found: 0 customers
+Grid #40 | Search #3 | API Hit: dentist at (31.240648, 74.171106) - Found: 0 customers
 
 Grid #40 - Total API Hits: 164
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #41 | Search #0 | API Hit: hospital at (31.600660, 74.416167) - Found: 11 customers
-Grid #41 | Search #1 | API Hit: doctor at (31.600660, 74.416167) - Found: 5 customers
-Grid #41 | Search #2 | API Hit: pharmacy at (31.600660, 74.416167) - Found: 14 customers
-Grid #41 | Search #3 | API Hit: dentist at (31.600660, 74.416167) - Found: 0 customers
+Grid #41 | Search #0 | API Hit: hospital at (31.259512, 74.171106) - Found: 3 customers
+Grid #41 | Search #1 | API Hit: doctor at (31.259512, 74.171106) - Found: 0 customers
+Grid #41 | Search #2 | API Hit: pharmacy at (31.259512, 74.171106) - Found: 1 customers
+Grid #41 | Search #3 | API Hit: dentist at (31.259512, 74.171106) - Found: 0 customers
 
 Grid #41 - Total API Hits: 168
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #42 | Search #0 | API Hit: hospital at (31.544067, 74.435031) - Found: 8 customers
-Grid #42 | Search #1 | API Hit: doctor at (31.544067, 74.435031) - Found: 0 customers
-Grid #42 | Search #2 | API Hit: pharmacy at (31.544067, 74.435031) - Found: 4 customers
-Grid #42 | Search #3 | API Hit: dentist at (31.544067, 74.435031) - Found: 0 customers
+Grid #42 | Search #0 | API Hit: hospital at (31.278377, 74.171106) - Found: 0 customers
+Grid #42 | Search #1 | API Hit: doctor at (31.278377, 74.171106) - Found: 0 customers
+Grid #42 | Search #2 | API Hit: pharmacy at (31.278377, 74.171106) - Found: 2 customers
+Grid #42 | Search #3 | API Hit: dentist at (31.278377, 74.171106) - Found: 0 customers
 
 Grid #42 - Total API Hits: 172
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #43 | Search #0 | API Hit: hospital at (31.562931, 74.435031) - Found: 12 customers
-Grid #43 | Search #1 | API Hit: doctor at (31.562931, 74.435031) - Found: 2 customers
-Grid #43 | Search #2 | API Hit: pharmacy at (31.562931, 74.435031) - Found: 6 customers
-Grid #43 | Search #3 | API Hit: dentist at (31.562931, 74.435031) - Found: 0 customers
+Grid #43 | Search #0 | API Hit: hospital at (31.316106, 74.171106) - Found: 3 customers
+Grid #43 | Search #1 | API Hit: doctor at (31.316106, 74.171106) - Found: 0 customers
+Grid #43 | Search #2 | API Hit: pharmacy at (31.316106, 74.171106) - Found: 1 customers
+Grid #43 | Search #3 | API Hit: dentist at (31.316106, 74.171106) - Found: 0 customers
 
 Grid #43 - Total API Hits: 176
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #44 | Search #0 | API Hit: hospital at (31.581796, 74.435031) - Found: 11 customers
-Grid #44 | Search #1 | API Hit: doctor at (31.581796, 74.435031) - Found: 5 customers
-Grid #44 | Search #2 | API Hit: pharmacy at (31.581796, 74.435031) - Found: 20 customers
-Grid #44 | Search #3 | API Hit: dentist at (31.581796, 74.435031) - Found: 0 customers
+Grid #44 | Search #0 | API Hit: hospital at (31.240648, 74.189971) - Found: 8 customers
+Grid #44 | Search #1 | API Hit: doctor at (31.240648, 74.189971) - Found: 1 customers
+Grid #44 | Search #2 | API Hit: pharmacy at (31.240648, 74.189971) - Found: 0 customers
+Grid #44 | Search #3 | API Hit: dentist at (31.240648, 74.189971) - Found: 0 customers
 
 Grid #44 - Total API Hits: 180
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #45 | Search #0 | API Hit: hospital at (31.600660, 74.435031) - Found: 3 customers
-Grid #45 | Search #1 | API Hit: doctor at (31.600660, 74.435031) - Found: 2 customers
-Grid #45 | Search #2 | API Hit: pharmacy at (31.600660, 74.435031) - Found: 10 customers
-Grid #45 | Search #3 | API Hit: dentist at (31.600660, 74.435031) - Found: 0 customers
+Grid #45 | Search #0 | API Hit: hospital at (31.259512, 74.189971) - Found: 5 customers
+Grid #45 | Search #1 | API Hit: doctor at (31.259512, 74.189971) - Found: 1 customers
+Grid #45 | Search #2 | API Hit: pharmacy at (31.259512, 74.189971) - Found: 0 customers
+Grid #45 | Search #3 | API Hit: dentist at (31.259512, 74.189971) - Found: 0 customers
 
 Grid #45 - Total API Hits: 184
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #46 | Search #0 | API Hit: hospital at (31.619525, 74.435031) - Found: 0 customers
-Grid #46 | Search #1 | API Hit: doctor at (31.619525, 74.435031) - Found: 0 customers
-Grid #46 | Search #2 | API Hit: pharmacy at (31.619525, 74.435031) - Found: 1 customers
-Grid #46 | Search #3 | API Hit: dentist at (31.619525, 74.435031) - Found: 0 customers
+Grid #46 | Search #0 | API Hit: hospital at (31.297241, 74.189971) - Found: 1 customers
+Grid #46 | Search #1 | API Hit: doctor at (31.297241, 74.189971) - Found: 0 customers
+Grid #46 | Search #2 | API Hit: pharmacy at (31.297241, 74.189971) - Found: 1 customers
+Grid #46 | Search #3 | API Hit: dentist at (31.297241, 74.189971) - Found: 0 customers
 
 Grid #46 - Total API Hits: 188
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #47 | Search #0 | API Hit: hospital at (31.525202, 74.453896) - Found: 9 customers
-Grid #47 | Search #1 | API Hit: doctor at (31.525202, 74.453896) - Found: 6 customers
-Grid #47 | Search #2 | API Hit: pharmacy at (31.525202, 74.453896) - Found: 11 customers
-Grid #47 | Search #3 | API Hit: dentist at (31.525202, 74.453896) - Found: 2 customers
+Grid #47 | Search #0 | API Hit: hospital at (31.316106, 74.189971) - Found: 5 customers
+Grid #47 | Search #1 | API Hit: doctor at (31.316106, 74.189971) - Found: 0 customers
+Grid #47 | Search #2 | API Hit: pharmacy at (31.316106, 74.189971) - Found: 2 customers
+Grid #47 | Search #3 | API Hit: dentist at (31.316106, 74.189971) - Found: 0 customers
 
 Grid #47 - Total API Hits: 192
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #48 | Search #0 | API Hit: hospital at (31.544067, 74.453896) - Found: 7 customers
-Grid #48 | Search #1 | API Hit: doctor at (31.544067, 74.453896) - Found: 0 customers
-Grid #48 | Search #2 | API Hit: pharmacy at (31.544067, 74.453896) - Found: 0 customers
-Grid #48 | Search #3 | API Hit: dentist at (31.544067, 74.453896) - Found: 0 customers
+Grid #48 | Search #0 | API Hit: hospital at (31.240648, 74.208835) - Found: 17 customers
+Grid #48 | Search #1 | API Hit: doctor at (31.240648, 74.208835) - Found: 7 customers
+Grid #48 | Search #2 | API Hit: pharmacy at (31.240648, 74.208835) - Found: 20 customers
+Grid #48 | Search #3 | API Hit: dentist at (31.240648, 74.208835) - Found: 2 customers
 
 Grid #48 - Total API Hits: 196
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #49 | Search #0 | API Hit: hospital at (31.562931, 74.453896) - Found: 7 customers
-Grid #49 | Search #1 | API Hit: doctor at (31.562931, 74.453896) - Found: 1 customers
-Grid #49 | Search #2 | API Hit: pharmacy at (31.562931, 74.453896) - Found: 1 customers
-Grid #49 | Search #3 | API Hit: dentist at (31.562931, 74.453896) - Found: 0 customers
+Grid #49 | Search #0 | API Hit: hospital at (31.259512, 74.208835) - Found: 13 customers
+Grid #49 | Search #1 | API Hit: doctor at (31.259512, 74.208835) - Found: 9 customers
+Grid #49 | Search #2 | API Hit: pharmacy at (31.259512, 74.208835) - Found: 11 customers
+Grid #49 | Search #3 | API Hit: dentist at (31.259512, 74.208835) - Found: 0 customers
 
 Grid #49 - Total API Hits: 200
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #50 | Search #0 | API Hit: hospital at (31.581796, 74.453896) - Found: 12 customers
-Grid #50 | Search #1 | API Hit: doctor at (31.581796, 74.453896) - Found: 5 customers
-Grid #50 | Search #2 | API Hit: pharmacy at (31.581796, 74.453896) - Found: 18 customers
-Grid #50 | Search #3 | API Hit: dentist at (31.581796, 74.453896) - Found: 0 customers
+Grid #50 | Search #0 | API Hit: hospital at (31.278377, 74.208835) - Found: 5 customers
+Grid #50 | Search #1 | API Hit: doctor at (31.278377, 74.208835) - Found: 0 customers
+Grid #50 | Search #2 | API Hit: pharmacy at (31.278377, 74.208835) - Found: 0 customers
+Grid #50 | Search #3 | API Hit: dentist at (31.278377, 74.208835) - Found: 0 customers
 
 Grid #50 - Total API Hits: 204
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #51 | Search #0 | API Hit: hospital at (31.600660, 74.453896) - Found: 8 customers
-Grid #51 | Search #1 | API Hit: doctor at (31.600660, 74.453896) - Found: 3 customers
-Grid #51 | Search #2 | API Hit: pharmacy at (31.600660, 74.453896) - Found: 12 customers
-Grid #51 | Search #3 | API Hit: dentist at (31.600660, 74.453896) - Found: 0 customers
+Grid #51 | Search #0 | API Hit: hospital at (31.297241, 74.208835) - Found: 5 customers
+Grid #51 | Search #1 | API Hit: doctor at (31.297241, 74.208835) - Found: 0 customers
+Grid #51 | Search #2 | API Hit: pharmacy at (31.297241, 74.208835) - Found: 1 customers
+Grid #51 | Search #3 | API Hit: dentist at (31.297241, 74.208835) - Found: 0 customers
 
 Grid #51 - Total API Hits: 208
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #52 | Search #0 | API Hit: hospital at (31.506337, 74.472761) - Found: 5 customers
-Grid #52 | Search #1 | API Hit: doctor at (31.506337, 74.472761) - Found: 0 customers
-Grid #52 | Search #2 | API Hit: pharmacy at (31.506337, 74.472761) - Found: 2 customers
-Grid #52 | Search #3 | API Hit: dentist at (31.506337, 74.472761) - Found: 0 customers
+Grid #52 | Search #0 | API Hit: hospital at (31.316106, 74.208835) - Found: 7 customers
+Grid #52 | Search #1 | API Hit: doctor at (31.316106, 74.208835) - Found: 1 customers
+Grid #52 | Search #2 | API Hit: pharmacy at (31.316106, 74.208835) - Found: 8 customers
+Grid #52 | Search #3 | API Hit: dentist at (31.316106, 74.208835) - Found: 0 customers
 
 Grid #52 - Total API Hits: 212
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #53 | Search #0 | API Hit: hospital at (31.525202, 74.472761) - Found: 7 customers
-Grid #53 | Search #1 | API Hit: doctor at (31.525202, 74.472761) - Found: 1 customers
-Grid #53 | Search #2 | API Hit: pharmacy at (31.525202, 74.472761) - Found: 1 customers
-Grid #53 | Search #3 | API Hit: dentist at (31.525202, 74.472761) - Found: 0 customers
+Grid #53 | Search #0 | API Hit: hospital at (31.240648, 74.227700) - Found: 18 customers
+Grid #53 | Search #1 | API Hit: doctor at (31.240648, 74.227700) - Found: 7 customers
+Grid #53 | Search #2 | API Hit: pharmacy at (31.240648, 74.227700) - Found: 11 customers
+Grid #53 | Search #3 | API Hit: dentist at (31.240648, 74.227700) - Found: 0 customers
 
 Grid #53 - Total API Hits: 216
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #54 | Search #0 | API Hit: hospital at (31.544067, 74.472761) - Found: 5 customers
-Grid #54 | Search #1 | API Hit: doctor at (31.544067, 74.472761) - Found: 0 customers
-Grid #54 | Search #2 | API Hit: pharmacy at (31.544067, 74.472761) - Found: 0 customers
-Grid #54 | Search #3 | API Hit: dentist at (31.544067, 74.472761) - Found: 0 customers
+Grid #54 | Search #0 | API Hit: hospital at (31.259512, 74.227700) - Found: 20 customers
+Grid #54 | Search #1 | API Hit: doctor at (31.259512, 74.227700) - Found: 8 customers
+Grid #54 | Search #2 | API Hit: pharmacy at (31.259512, 74.227700) - Found: 19 customers
+Grid #54 | Search #3 | API Hit: dentist at (31.259512, 74.227700) - Found: 0 customers
 
 Grid #54 - Total API Hits: 220
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #55 | Search #0 | API Hit: hospital at (31.562931, 74.472761) - Found: 7 customers
-Grid #55 | Search #1 | API Hit: doctor at (31.562931, 74.472761) - Found: 0 customers
-Grid #55 | Search #2 | API Hit: pharmacy at (31.562931, 74.472761) - Found: 0 customers
-Grid #55 | Search #3 | API Hit: dentist at (31.562931, 74.472761) - Found: 0 customers
+Grid #55 | Search #0 | API Hit: hospital at (31.278377, 74.227700) - Found: 6 customers
+Grid #55 | Search #1 | API Hit: doctor at (31.278377, 74.227700) - Found: 0 customers
+Grid #55 | Search #2 | API Hit: pharmacy at (31.278377, 74.227700) - Found: 0 customers
+Grid #55 | Search #3 | API Hit: dentist at (31.278377, 74.227700) - Found: 0 customers
 
 Grid #55 - Total API Hits: 224
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #56 | Search #0 | API Hit: hospital at (31.581796, 74.472761) - Found: 6 customers
-Grid #56 | Search #1 | API Hit: doctor at (31.581796, 74.472761) - Found: 3 customers
-Grid #56 | Search #2 | API Hit: pharmacy at (31.581796, 74.472761) - Found: 14 customers
-Grid #56 | Search #3 | API Hit: dentist at (31.581796, 74.472761) - Found: 1 customers
+Grid #56 | Search #0 | API Hit: hospital at (31.297241, 74.227700) - Found: 5 customers
+Grid #56 | Search #1 | API Hit: doctor at (31.297241, 74.227700) - Found: 0 customers
+Grid #56 | Search #2 | API Hit: pharmacy at (31.297241, 74.227700) - Found: 0 customers
+Grid #56 | Search #3 | API Hit: dentist at (31.297241, 74.227700) - Found: 0 customers
 
 Grid #56 - Total API Hits: 228
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #57 | Search #0 | API Hit: hospital at (31.600660, 74.472761) - Found: 11 customers
-Grid #57 | Search #1 | API Hit: doctor at (31.600660, 74.472761) - Found: 4 customers
-Grid #57 | Search #2 | API Hit: pharmacy at (31.600660, 74.472761) - Found: 15 customers
-Grid #57 | Search #3 | API Hit: dentist at (31.600660, 74.472761) - Found: 0 customers
+Grid #57 | Search #0 | API Hit: hospital at (31.316106, 74.227700) - Found: 4 customers
+Grid #57 | Search #1 | API Hit: doctor at (31.316106, 74.227700) - Found: 1 customers
+Grid #57 | Search #2 | API Hit: pharmacy at (31.316106, 74.227700) - Found: 8 customers
+Grid #57 | Search #3 | API Hit: dentist at (31.316106, 74.227700) - Found: 1 customers
 
 Grid #57 - Total API Hits: 232
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #58 | Search #0 | API Hit: hospital at (31.506337, 74.491625) - Found: 1 customers
-Grid #58 | Search #1 | API Hit: doctor at (31.506337, 74.491625) - Found: 0 customers
-Grid #58 | Search #2 | API Hit: pharmacy at (31.506337, 74.491625) - Found: 1 customers
-Grid #58 | Search #3 | API Hit: dentist at (31.506337, 74.491625) - Found: 0 customers
+Grid #58 | Search #0 | API Hit: hospital at (31.334971, 74.227700) - Found: 7 customers
+Grid #58 | Search #1 | API Hit: doctor at (31.334971, 74.227700) - Found: 1 customers
+Grid #58 | Search #2 | API Hit: pharmacy at (31.334971, 74.227700) - Found: 7 customers
+Grid #58 | Search #3 | API Hit: dentist at (31.334971, 74.227700) - Found: 0 customers
 
 Grid #58 - Total API Hits: 236
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #59 | Search #0 | API Hit: hospital at (31.525202, 74.491625) - Found: 0 customers
-Grid #59 | Search #1 | API Hit: doctor at (31.525202, 74.491625) - Found: 0 customers
-Grid #59 | Search #2 | API Hit: pharmacy at (31.525202, 74.491625) - Found: 0 customers
-Grid #59 | Search #3 | API Hit: dentist at (31.525202, 74.491625) - Found: 0 customers
+Grid #59 | Search #0 | API Hit: hospital at (31.297241, 74.246564) - Found: 1 customers
+Grid #59 | Search #1 | API Hit: doctor at (31.297241, 74.246564) - Found: 0 customers
+Grid #59 | Search #2 | API Hit: pharmacy at (31.297241, 74.246564) - Found: 0 customers
+Grid #59 | Search #3 | API Hit: dentist at (31.297241, 74.246564) - Found: 0 customers
 
 Grid #59 - Total API Hits: 240
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #60 | Search #0 | API Hit: hospital at (31.544067, 74.491625) - Found: 0 customers
-Grid #60 | Search #1 | API Hit: doctor at (31.544067, 74.491625) - Found: 0 customers
-Grid #60 | Search #2 | API Hit: pharmacy at (31.544067, 74.491625) - Found: 1 customers
-Grid #60 | Search #3 | API Hit: dentist at (31.544067, 74.491625) - Found: 0 customers
+Grid #60 | Search #0 | API Hit: hospital at (31.316106, 74.246564) - Found: 1 customers
+Grid #60 | Search #1 | API Hit: doctor at (31.316106, 74.246564) - Found: 0 customers
+Grid #60 | Search #2 | API Hit: pharmacy at (31.316106, 74.246564) - Found: 0 customers
+Grid #60 | Search #3 | API Hit: dentist at (31.316106, 74.246564) - Found: 0 customers
 
 Grid #60 - Total API Hits: 244
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #61 | Search #0 | API Hit: hospital at (31.562931, 74.491625) - Found: 4 customers
-Grid #61 | Search #1 | API Hit: doctor at (31.562931, 74.491625) - Found: 0 customers
-Grid #61 | Search #2 | API Hit: pharmacy at (31.562931, 74.491625) - Found: 0 customers
-Grid #61 | Search #3 | API Hit: dentist at (31.562931, 74.491625) - Found: 0 customers
+Grid #61 | Search #0 | API Hit: hospital at (31.229624, 74.161010) - Found: 0 customers
+Grid #61 | Search #1 | API Hit: doctor at (31.229624, 74.161010) - Found: 1 customers
+Grid #61 | Search #2 | API Hit: pharmacy at (31.229624, 74.161010) - Found: 0 customers
+Grid #61 | Search #3 | API Hit: dentist at (31.229624, 74.161010) - Found: 0 customers
 
 Grid #61 - Total API Hits: 248
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #62 | Search #0 | API Hit: hospital at (31.581796, 74.491625) - Found: 7 customers
-Grid #62 | Search #1 | API Hit: doctor at (31.581796, 74.491625) - Found: 4 customers
-Grid #62 | Search #2 | API Hit: pharmacy at (31.581796, 74.491625) - Found: 10 customers
-Grid #62 | Search #3 | API Hit: dentist at (31.581796, 74.491625) - Found: 0 customers
+Grid #62 | Search #0 | API Hit: hospital at (31.266883, 74.112433) - Found: 0 customers
+Grid #62 | Search #1 | API Hit: doctor at (31.266883, 74.112433) - Found: 0 customers
+Grid #62 | Search #2 | API Hit: pharmacy at (31.266883, 74.112433) - Found: 1 customers
+Grid #62 | Search #3 | API Hit: dentist at (31.266883, 74.112433) - Found: 0 customers
 
 Grid #62 - Total API Hits: 252
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #63 | Search #0 | API Hit: hospital at (31.600660, 74.491625) - Found: 3 customers
-Grid #63 | Search #1 | API Hit: doctor at (31.600660, 74.491625) - Found: 4 customers
-Grid #63 | Search #2 | API Hit: pharmacy at (31.600660, 74.491625) - Found: 17 customers
-Grid #63 | Search #3 | API Hit: dentist at (31.600660, 74.491625) - Found: 0 customers
+Grid #63 | Search #0 | API Hit: hospital at (31.292759, 74.137051) - Found: 1 customers
+Grid #63 | Search #1 | API Hit: doctor at (31.292759, 74.137051) - Found: 0 customers
+Grid #63 | Search #2 | API Hit: pharmacy at (31.292759, 74.137051) - Found: 0 customers
+Grid #63 | Search #3 | API Hit: dentist at (31.292759, 74.137051) - Found: 0 customers
 
 Grid #63 - Total API Hits: 256
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #64 | Search #0 | API Hit: hospital at (31.487473, 74.510490) - Found: 1 customers
-Grid #64 | Search #1 | API Hit: doctor at (31.487473, 74.510490) - Found: 1 customers
-Grid #64 | Search #2 | API Hit: pharmacy at (31.487473, 74.510490) - Found: 4 customers
-Grid #64 | Search #3 | API Hit: dentist at (31.487473, 74.510490) - Found: 0 customers
+Grid #64 | Search #0 | API Hit: hospital at (31.308092, 74.160250) - Found: 2 customers
+Grid #64 | Search #1 | API Hit: doctor at (31.308092, 74.160250) - Found: 0 customers
+Grid #64 | Search #2 | API Hit: pharmacy at (31.308092, 74.160250) - Found: 1 customers
+Grid #64 | Search #3 | API Hit: dentist at (31.308092, 74.160250) - Found: 0 customers
 
 Grid #64 - Total API Hits: 260
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #65 | Search #0 | API Hit: hospital at (31.506337, 74.510490) - Found: 0 customers
-Grid #65 | Search #1 | API Hit: doctor at (31.506337, 74.510490) - Found: 0 customers
-Grid #65 | Search #2 | API Hit: pharmacy at (31.506337, 74.510490) - Found: 0 customers
-Grid #65 | Search #3 | API Hit: dentist at (31.506337, 74.510490) - Found: 0 customers
+Grid #65 | Search #0 | API Hit: hospital at (31.319228, 74.156063) - Found: 3 customers
+Grid #65 | Search #1 | API Hit: doctor at (31.319228, 74.156063) - Found: 0 customers
+Grid #65 | Search #2 | API Hit: pharmacy at (31.319228, 74.156063) - Found: 1 customers
+Grid #65 | Search #3 | API Hit: dentist at (31.319228, 74.156063) - Found: 0 customers
 
 Grid #65 - Total API Hits: 264
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #66 | Search #0 | API Hit: hospital at (31.525202, 74.510490) - Found: 0 customers
-Grid #66 | Search #1 | API Hit: doctor at (31.525202, 74.510490) - Found: 0 customers
-Grid #66 | Search #2 | API Hit: pharmacy at (31.525202, 74.510490) - Found: 0 customers
-Grid #66 | Search #3 | API Hit: dentist at (31.525202, 74.510490) - Found: 0 customers
+Grid #66 | Search #0 | API Hit: hospital at (31.340467, 74.138853) - Found: 3 customers
+Grid #66 | Search #1 | API Hit: doctor at (31.340467, 74.138853) - Found: 0 customers
+Grid #66 | Search #2 | API Hit: pharmacy at (31.340467, 74.138853) - Found: 0 customers
+Grid #66 | Search #3 | API Hit: dentist at (31.340467, 74.138853) - Found: 0 customers
 
 Grid #66 - Total API Hits: 268
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #67 | Search #0 | API Hit: hospital at (31.544067, 74.510490) - Found: 0 customers
-Grid #67 | Search #1 | API Hit: doctor at (31.544067, 74.510490) - Found: 0 customers
-Grid #67 | Search #2 | API Hit: pharmacy at (31.544067, 74.510490) - Found: 0 customers
-Grid #67 | Search #3 | API Hit: dentist at (31.544067, 74.510490) - Found: 0 customers
+Grid #67 | Search #0 | API Hit: hospital at (31.349020, 74.146781) - Found: 2 customers
+Grid #67 | Search #1 | API Hit: doctor at (31.349020, 74.146781) - Found: 0 customers
+Grid #67 | Search #2 | API Hit: pharmacy at (31.349020, 74.146781) - Found: 1 customers
+Grid #67 | Search #3 | API Hit: dentist at (31.349020, 74.146781) - Found: 0 customers
 
 Grid #67 - Total API Hits: 272
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #68 | Search #0 | API Hit: hospital at (31.468608, 74.529354) - Found: 1 customers
-Grid #68 | Search #1 | API Hit: doctor at (31.468608, 74.529354) - Found: 0 customers
-Grid #68 | Search #2 | API Hit: pharmacy at (31.468608, 74.529354) - Found: 0 customers
-Grid #68 | Search #3 | API Hit: dentist at (31.468608, 74.529354) - Found: 0 customers
+Grid #68 | Search #0 | API Hit: hospital at (31.328548, 74.164826) - Found: 4 customers
+Grid #68 | Search #1 | API Hit: doctor at (31.328548, 74.164826) - Found: 0 customers
+Grid #68 | Search #2 | API Hit: pharmacy at (31.328548, 74.164826) - Found: 0 customers
+Grid #68 | Search #3 | API Hit: dentist at (31.328548, 74.164826) - Found: 0 customers
 
 Grid #68 - Total API Hits: 276
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #69 | Search #0 | API Hit: hospital at (31.487473, 74.529354) - Found: 1 customers
-Grid #69 | Search #1 | API Hit: doctor at (31.487473, 74.529354) - Found: 0 customers
-Grid #69 | Search #2 | API Hit: pharmacy at (31.487473, 74.529354) - Found: 0 customers
-Grid #69 | Search #3 | API Hit: dentist at (31.487473, 74.529354) - Found: 0 customers
+Grid #69 | Search #0 | API Hit: hospital at (31.328156, 74.200800) - Found: 8 customers
+Grid #69 | Search #1 | API Hit: doctor at (31.328156, 74.200800) - Found: 0 customers
+Grid #69 | Search #2 | API Hit: pharmacy at (31.328156, 74.200800) - Found: 4 customers
+Grid #69 | Search #3 | API Hit: dentist at (31.328156, 74.200800) - Found: 0 customers
 
 Grid #69 - Total API Hits: 280
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #70 | Search #0 | API Hit: hospital at (31.506337, 74.529354) - Found: 0 customers
-Grid #70 | Search #1 | API Hit: doctor at (31.506337, 74.529354) - Found: 0 customers
-Grid #70 | Search #2 | API Hit: pharmacy at (31.506337, 74.529354) - Found: 0 customers
-Grid #70 | Search #3 | API Hit: dentist at (31.506337, 74.529354) - Found: 0 customers
+Grid #70 | Search #0 | API Hit: hospital at (31.330809, 74.210832) - Found: 8 customers
+Grid #70 | Search #1 | API Hit: doctor at (31.330809, 74.210832) - Found: 1 customers
+Grid #70 | Search #2 | API Hit: pharmacy at (31.330809, 74.210832) - Found: 2 customers
+Grid #70 | Search #3 | API Hit: dentist at (31.330809, 74.210832) - Found: 1 customers
 
 Grid #70 - Total API Hits: 284
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #71 | Search #0 | API Hit: hospital at (31.525202, 74.529354) - Found: 1 customers
-Grid #71 | Search #1 | API Hit: doctor at (31.525202, 74.529354) - Found: 0 customers
-Grid #71 | Search #2 | API Hit: pharmacy at (31.525202, 74.529354) - Found: 0 customers
-Grid #71 | Search #3 | API Hit: dentist at (31.525202, 74.529354) - Found: 0 customers
+Grid #71 | Search #0 | API Hit: hospital at (31.283227, 74.241211) - Found: 4 customers
+Grid #71 | Search #1 | API Hit: doctor at (31.283227, 74.241211) - Found: 0 customers
+Grid #71 | Search #2 | API Hit: pharmacy at (31.283227, 74.241211) - Found: 0 customers
+Grid #71 | Search #3 | API Hit: dentist at (31.283227, 74.241211) - Found: 0 customers
 
 Grid #71 - Total API Hits: 288
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #72 | Search #0 | API Hit: hospital at (31.544067, 74.529354) - Found: 1 customers
-Grid #72 | Search #1 | API Hit: doctor at (31.544067, 74.529354) - Found: 0 customers
-Grid #72 | Search #2 | API Hit: pharmacy at (31.544067, 74.529354) - Found: 1 customers
-Grid #72 | Search #3 | API Hit: dentist at (31.544067, 74.529354) - Found: 0 customers
+Grid #72 | Search #0 | API Hit: hospital at (31.259377, 74.241780) - Found: 8 customers
+Grid #72 | Search #1 | API Hit: doctor at (31.259377, 74.241780) - Found: 2 customers
+Grid #72 | Search #2 | API Hit: pharmacy at (31.259377, 74.241780) - Found: 4 customers
+Grid #72 | Search #3 | API Hit: dentist at (31.259377, 74.241780) - Found: 0 customers
 
 Grid #72 - Total API Hits: 292
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #73 | Search #0 | API Hit: hospital at (31.449744, 74.548219) - Found: 0 customers
-Grid #73 | Search #1 | API Hit: doctor at (31.449744, 74.548219) - Found: 0 customers
-Grid #73 | Search #2 | API Hit: pharmacy at (31.449744, 74.548219) - Found: 3 customers
-Grid #73 | Search #3 | API Hit: dentist at (31.449744, 74.548219) - Found: 0 customers
+Grid #73 | Search #0 | API Hit: hospital at (31.226308, 74.193377) - Found: 5 customers
+Grid #73 | Search #1 | API Hit: doctor at (31.226308, 74.193377) - Found: 0 customers
+Grid #73 | Search #2 | API Hit: pharmacy at (31.226308, 74.193377) - Found: 3 customers
+Grid #73 | Search #3 | API Hit: dentist at (31.226308, 74.193377) - Found: 0 customers
 
 Grid #73 - Total API Hits: 296
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #74 | Search #0 | API Hit: hospital at (31.468608, 74.548219) - Found: 0 customers
-Grid #74 | Search #1 | API Hit: doctor at (31.468608, 74.548219) - Found: 0 customers
-Grid #74 | Search #2 | API Hit: pharmacy at (31.468608, 74.548219) - Found: 0 customers
-Grid #74 | Search #3 | API Hit: dentist at (31.468608, 74.548219) - Found: 0 customers
+Grid #74 | Search #0 | API Hit: hospital at (31.276846, 74.193263) - Found: 1 customers
+Grid #74 | Search #1 | API Hit: doctor at (31.276846, 74.193263) - Found: 0 customers
+Grid #74 | Search #2 | API Hit: pharmacy at (31.276846, 74.193263) - Found: 0 customers
+Grid #74 | Search #3 | API Hit: dentist at (31.276846, 74.193263) - Found: 0 customers
 
 Grid #74 - Total API Hits: 300
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #75 | Search #0 | API Hit: hospital at (31.487473, 74.548219) - Found: 0 customers
-Grid #75 | Search #1 | API Hit: doctor at (31.487473, 74.548219) - Found: 0 customers
-Grid #75 | Search #2 | API Hit: pharmacy at (31.487473, 74.548219) - Found: 0 customers
-Grid #75 | Search #3 | API Hit: dentist at (31.487473, 74.548219) - Found: 0 customers
+Grid #75 | Search #0 | API Hit: hospital at (31.302537, 74.176235) - Found: 1 customers
+Grid #75 | Search #1 | API Hit: doctor at (31.302537, 74.176235) - Found: 0 customers
+Grid #75 | Search #2 | API Hit: pharmacy at (31.302537, 74.176235) - Found: 2 customers
+Grid #75 | Search #3 | API Hit: dentist at (31.302537, 74.176235) - Found: 0 customers
 
 Grid #75 - Total API Hits: 304
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #76 | Search #0 | API Hit: hospital at (31.506337, 74.548219) - Found: 0 customers
-Grid #76 | Search #1 | API Hit: doctor at (31.506337, 74.548219) - Found: 0 customers
-Grid #76 | Search #2 | API Hit: pharmacy at (31.506337, 74.548219) - Found: 0 customers
-Grid #76 | Search #3 | API Hit: dentist at (31.506337, 74.548219) - Found: 0 customers
+Grid #76 | Search #0 | API Hit: hospital at (31.302419, 74.166159) - Found: 2 customers
+Grid #76 | Search #1 | API Hit: doctor at (31.302419, 74.166159) - Found: 0 customers
+Grid #76 | Search #2 | API Hit: pharmacy at (31.302419, 74.166159) - Found: 3 customers
+Grid #76 | Search #3 | API Hit: dentist at (31.302419, 74.166159) - Found: 0 customers
 
 Grid #76 - Total API Hits: 308
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #77 | Search #0 | API Hit: hospital at (31.525202, 74.548219) - Found: 1 customers
-Grid #77 | Search #1 | API Hit: doctor at (31.525202, 74.548219) - Found: 0 customers
-Grid #77 | Search #2 | API Hit: pharmacy at (31.525202, 74.548219) - Found: 1 customers
-Grid #77 | Search #3 | API Hit: dentist at (31.525202, 74.548219) - Found: 0 customers
+Grid #77 | Search #0 | API Hit: hospital at (31.290540, 74.164253) - Found: 2 customers
+Grid #77 | Search #1 | API Hit: doctor at (31.290540, 74.164253) - Found: 0 customers
+Grid #77 | Search #2 | API Hit: pharmacy at (31.290540, 74.164253) - Found: 4 customers
+Grid #77 | Search #3 | API Hit: dentist at (31.290540, 74.164253) - Found: 0 customers
 
 Grid #77 - Total API Hits: 312
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #78 | Search #0 | API Hit: hospital at (31.449744, 74.567083) - Found: 1 customers
-Grid #78 | Search #1 | API Hit: doctor at (31.449744, 74.567083) - Found: 0 customers
-Grid #78 | Search #2 | API Hit: pharmacy at (31.449744, 74.567083) - Found: 5 customers
-Grid #78 | Search #3 | API Hit: dentist at (31.449744, 74.567083) - Found: 0 customers
+Grid #78 | Search #0 | API Hit: hospital at (31.234360, 74.120801) - Found: 0 customers
+Grid #78 | Search #1 | API Hit: doctor at (31.234360, 74.120801) - Found: 0 customers
+Grid #78 | Search #2 | API Hit: pharmacy at (31.234360, 74.120801) - Found: 1 customers
+Grid #78 | Search #3 | API Hit: dentist at (31.234360, 74.120801) - Found: 0 customers
 
 Grid #78 - Total API Hits: 316
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #79 | Search #0 | API Hit: hospital at (31.468608, 74.567083) - Found: 0 customers
-Grid #79 | Search #1 | API Hit: doctor at (31.468608, 74.567083) - Found: 0 customers
-Grid #79 | Search #2 | API Hit: pharmacy at (31.468608, 74.567083) - Found: 0 customers
-Grid #79 | Search #3 | API Hit: dentist at (31.468608, 74.567083) - Found: 0 customers
+Grid #79 | Search #0 | API Hit: hospital at (31.246936, 74.120801) - Found: 0 customers
+Grid #79 | Search #1 | API Hit: doctor at (31.246936, 74.120801) - Found: 0 customers
+Grid #79 | Search #2 | API Hit: pharmacy at (31.246936, 74.120801) - Found: 0 customers
+Grid #79 | Search #3 | API Hit: dentist at (31.246936, 74.120801) - Found: 0 customers
 
 Grid #79 - Total API Hits: 320
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #80 | Search #0 | API Hit: hospital at (31.487473, 74.567083) - Found: 0 customers
-Grid #80 | Search #1 | API Hit: doctor at (31.487473, 74.567083) - Found: 0 customers
-Grid #80 | Search #2 | API Hit: pharmacy at (31.487473, 74.567083) - Found: 0 customers
-Grid #80 | Search #3 | API Hit: dentist at (31.487473, 74.567083) - Found: 0 customers
+Grid #80 | Search #0 | API Hit: hospital at (31.259512, 74.120801) - Found: 0 customers
+Grid #80 | Search #1 | API Hit: doctor at (31.259512, 74.120801) - Found: 0 customers
+Grid #80 | Search #2 | API Hit: pharmacy at (31.259512, 74.120801) - Found: 2 customers
+Grid #80 | Search #3 | API Hit: dentist at (31.259512, 74.120801) - Found: 0 customers
 
 Grid #80 - Total API Hits: 324
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #81 | Search #0 | API Hit: hospital at (31.506337, 74.567083) - Found: 0 customers
-Grid #81 | Search #1 | API Hit: doctor at (31.506337, 74.567083) - Found: 0 customers
-Grid #81 | Search #2 | API Hit: pharmacy at (31.506337, 74.567083) - Found: 0 customers
-Grid #81 | Search #3 | API Hit: dentist at (31.506337, 74.567083) - Found: 0 customers
+Grid #81 | Search #0 | API Hit: hospital at (31.272089, 74.120801) - Found: 1 customers
+Grid #81 | Search #1 | API Hit: doctor at (31.272089, 74.120801) - Found: 0 customers
+Grid #81 | Search #2 | API Hit: pharmacy at (31.272089, 74.120801) - Found: 2 customers
+Grid #81 | Search #3 | API Hit: dentist at (31.272089, 74.120801) - Found: 0 customers
 
 Grid #81 - Total API Hits: 328
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #82 | Search #0 | API Hit: hospital at (31.430879, 74.585948) - Found: 1 customers
-Grid #82 | Search #1 | API Hit: doctor at (31.430879, 74.585948) - Found: 0 customers
-Grid #82 | Search #2 | API Hit: pharmacy at (31.430879, 74.585948) - Found: 0 customers
-Grid #82 | Search #3 | API Hit: dentist at (31.430879, 74.585948) - Found: 0 customers
+Grid #82 | Search #0 | API Hit: hospital at (31.246936, 74.133377) - Found: 1 customers
+Grid #82 | Search #1 | API Hit: doctor at (31.246936, 74.133377) - Found: 0 customers
+Grid #82 | Search #2 | API Hit: pharmacy at (31.246936, 74.133377) - Found: 0 customers
+Grid #82 | Search #3 | API Hit: dentist at (31.246936, 74.133377) - Found: 0 customers
 
 Grid #82 - Total API Hits: 332
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #83 | Search #0 | API Hit: hospital at (31.449744, 74.585948) - Found: 1 customers
-Grid #83 | Search #1 | API Hit: doctor at (31.449744, 74.585948) - Found: 0 customers
-Grid #83 | Search #2 | API Hit: pharmacy at (31.449744, 74.585948) - Found: 0 customers
-Grid #83 | Search #3 | API Hit: dentist at (31.449744, 74.585948) - Found: 0 customers
+Grid #83 | Search #0 | API Hit: hospital at (31.259512, 74.133377) - Found: 1 customers
+Grid #83 | Search #1 | API Hit: doctor at (31.259512, 74.133377) - Found: 0 customers
+Grid #83 | Search #2 | API Hit: pharmacy at (31.259512, 74.133377) - Found: 2 customers
+Grid #83 | Search #3 | API Hit: dentist at (31.259512, 74.133377) - Found: 0 customers
 
 Grid #83 - Total API Hits: 336
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #84 | Search #0 | API Hit: hospital at (31.468608, 74.585948) - Found: 0 customers
-Grid #84 | Search #1 | API Hit: doctor at (31.468608, 74.585948) - Found: 0 customers
-Grid #84 | Search #2 | API Hit: pharmacy at (31.468608, 74.585948) - Found: 0 customers
-Grid #84 | Search #3 | API Hit: dentist at (31.468608, 74.585948) - Found: 0 customers
+Grid #84 | Search #0 | API Hit: hospital at (31.272089, 74.133377) - Found: 1 customers
+Grid #84 | Search #1 | API Hit: doctor at (31.272089, 74.133377) - Found: 0 customers
+Grid #84 | Search #2 | API Hit: pharmacy at (31.272089, 74.133377) - Found: 2 customers
+Grid #84 | Search #3 | API Hit: dentist at (31.272089, 74.133377) - Found: 0 customers
 
 Grid #84 - Total API Hits: 340
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #85 | Search #0 | API Hit: hospital at (31.487473, 74.585948) - Found: 0 customers
-Grid #85 | Search #1 | API Hit: doctor at (31.487473, 74.585948) - Found: 0 customers
-Grid #85 | Search #2 | API Hit: pharmacy at (31.487473, 74.585948) - Found: 0 customers
-Grid #85 | Search #3 | API Hit: dentist at (31.487473, 74.585948) - Found: 0 customers
+Grid #85 | Search #0 | API Hit: hospital at (31.284665, 74.133377) - Found: 1 customers
+Grid #85 | Search #1 | API Hit: doctor at (31.284665, 74.133377) - Found: 0 customers
+Grid #85 | Search #2 | API Hit: pharmacy at (31.284665, 74.133377) - Found: 0 customers
+Grid #85 | Search #3 | API Hit: dentist at (31.284665, 74.133377) - Found: 0 customers
 
 Grid #85 - Total API Hits: 344
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #86 | Search #0 | API Hit: hospital at (31.430879, 74.604812) - Found: 0 customers
-Grid #86 | Search #1 | API Hit: doctor at (31.430879, 74.604812) - Found: 0 customers
-Grid #86 | Search #2 | API Hit: pharmacy at (31.430879, 74.604812) - Found: 0 customers
-Grid #86 | Search #3 | API Hit: dentist at (31.430879, 74.604812) - Found: 0 customers
+Grid #86 | Search #0 | API Hit: hospital at (31.347547, 74.133377) - Found: 3 customers
+Grid #86 | Search #1 | API Hit: doctor at (31.347547, 74.133377) - Found: 0 customers
+Grid #86 | Search #2 | API Hit: pharmacy at (31.347547, 74.133377) - Found: 12 customers
+Grid #86 | Search #3 | API Hit: dentist at (31.347547, 74.133377) - Found: 0 customers
 
 Grid #86 - Total API Hits: 348
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #87 | Search #0 | API Hit: hospital at (31.449744, 74.604812) - Found: 0 customers
-Grid #87 | Search #1 | API Hit: doctor at (31.449744, 74.604812) - Found: 0 customers
-Grid #87 | Search #2 | API Hit: pharmacy at (31.449744, 74.604812) - Found: 0 customers
-Grid #87 | Search #3 | API Hit: dentist at (31.449744, 74.604812) - Found: 0 customers
+Grid #87 | Search #0 | API Hit: hospital at (31.246936, 74.145954) - Found: 1 customers
+Grid #87 | Search #1 | API Hit: doctor at (31.246936, 74.145954) - Found: 0 customers
+Grid #87 | Search #2 | API Hit: pharmacy at (31.246936, 74.145954) - Found: 0 customers
+Grid #87 | Search #3 | API Hit: dentist at (31.246936, 74.145954) - Found: 0 customers
 
 Grid #87 - Total API Hits: 352
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #88 | Search #0 | API Hit: hospital at (31.468608, 74.604812) - Found: 0 customers
-Grid #88 | Search #1 | API Hit: doctor at (31.468608, 74.604812) - Found: 0 customers
-Grid #88 | Search #2 | API Hit: pharmacy at (31.468608, 74.604812) - Found: 0 customers
-Grid #88 | Search #3 | API Hit: dentist at (31.468608, 74.604812) - Found: 0 customers
+Grid #88 | Search #0 | API Hit: hospital at (31.259512, 74.145954) - Found: 1 customers
+Grid #88 | Search #1 | API Hit: doctor at (31.259512, 74.145954) - Found: 0 customers
+Grid #88 | Search #2 | API Hit: pharmacy at (31.259512, 74.145954) - Found: 2 customers
+Grid #88 | Search #3 | API Hit: dentist at (31.259512, 74.145954) - Found: 0 customers
 
 Grid #88 - Total API Hits: 356
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #89 | Search #0 | API Hit: hospital at (31.449744, 74.623677) - Found: 0 customers
-Grid #89 | Search #1 | API Hit: doctor at (31.449744, 74.623677) - Found: 0 customers
-Grid #89 | Search #2 | API Hit: pharmacy at (31.449744, 74.623677) - Found: 0 customers
-Grid #89 | Search #3 | API Hit: dentist at (31.449744, 74.623677) - Found: 0 customers
+Grid #89 | Search #0 | API Hit: hospital at (31.272089, 74.145954) - Found: 1 customers
+Grid #89 | Search #1 | API Hit: doctor at (31.272089, 74.145954) - Found: 0 customers
+Grid #89 | Search #2 | API Hit: pharmacy at (31.272089, 74.145954) - Found: 0 customers
+Grid #89 | Search #3 | API Hit: dentist at (31.272089, 74.145954) - Found: 0 customers
 
 Grid #89 - Total API Hits: 360
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #90 | Search #0 | API Hit: hospital at (31.550934, 74.417630) - Found: 12 customers
-Grid #90 | Search #1 | API Hit: doctor at (31.550934, 74.417630) - Found: 5 customers
-Grid #90 | Search #2 | API Hit: pharmacy at (31.550934, 74.417630) - Found: 20 customers
-Grid #90 | Search #3 | API Hit: dentist at (31.550934, 74.417630) - Found: 0 customers
+Grid #90 | Search #0 | API Hit: hospital at (31.284665, 74.145954) - Found: 1 customers
+Grid #90 | Search #1 | API Hit: doctor at (31.284665, 74.145954) - Found: 0 customers
+Grid #90 | Search #2 | API Hit: pharmacy at (31.284665, 74.145954) - Found: 1 customers
+Grid #90 | Search #3 | API Hit: dentist at (31.284665, 74.145954) - Found: 0 customers
 
 Grid #90 - Total API Hits: 364
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #91 | Search #0 | API Hit: hospital at (31.567929, 74.420411) - Found: 14 customers
-Grid #91 | Search #1 | API Hit: doctor at (31.567929, 74.420411) - Found: 5 customers
-Grid #91 | Search #2 | API Hit: pharmacy at (31.567929, 74.420411) - Found: 20 customers
-Grid #91 | Search #3 | API Hit: dentist at (31.567929, 74.420411) - Found: 2 customers
+Grid #91 | Search #0 | API Hit: hospital at (31.297241, 74.145954) - Found: 2 customers
+Grid #91 | Search #1 | API Hit: doctor at (31.297241, 74.145954) - Found: 0 customers
+Grid #91 | Search #2 | API Hit: pharmacy at (31.297241, 74.145954) - Found: 1 customers
+Grid #91 | Search #3 | API Hit: dentist at (31.297241, 74.145954) - Found: 0 customers
 
 Grid #91 - Total API Hits: 368
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #92 | Search #0 | API Hit: hospital at (31.604060, 74.404471) - Found: 6 customers
-Grid #92 | Search #1 | API Hit: doctor at (31.604060, 74.404471) - Found: 2 customers
-Grid #92 | Search #2 | API Hit: pharmacy at (31.604060, 74.404471) - Found: 19 customers
-Grid #92 | Search #3 | API Hit: dentist at (31.604060, 74.404471) - Found: 0 customers
+Grid #92 | Search #0 | API Hit: hospital at (31.334971, 74.145954) - Found: 3 customers
+Grid #92 | Search #1 | API Hit: doctor at (31.334971, 74.145954) - Found: 0 customers
+Grid #92 | Search #2 | API Hit: pharmacy at (31.334971, 74.145954) - Found: 0 customers
+Grid #92 | Search #3 | API Hit: dentist at (31.334971, 74.145954) - Found: 0 customers
 
 Grid #92 - Total API Hits: 372
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #93 | Search #0 | API Hit: hospital at (31.615187, 74.449760) - Found: 1 customers
-Grid #93 | Search #1 | API Hit: doctor at (31.615187, 74.449760) - Found: 0 customers
-Grid #93 | Search #2 | API Hit: pharmacy at (31.615187, 74.449760) - Found: 1 customers
-Grid #93 | Search #3 | API Hit: dentist at (31.615187, 74.449760) - Found: 0 customers
+Grid #93 | Search #0 | API Hit: hospital at (31.347547, 74.145954) - Found: 3 customers
+Grid #93 | Search #1 | API Hit: doctor at (31.347547, 74.145954) - Found: 0 customers
+Grid #93 | Search #2 | API Hit: pharmacy at (31.347547, 74.145954) - Found: 1 customers
+Grid #93 | Search #3 | API Hit: dentist at (31.347547, 74.145954) - Found: 0 customers
 
 Grid #93 - Total API Hits: 376
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #94 | Search #0 | API Hit: hospital at (31.613284, 74.486299) - Found: 4 customers
-Grid #94 | Search #1 | API Hit: doctor at (31.613284, 74.486299) - Found: 1 customers
-Grid #94 | Search #2 | API Hit: pharmacy at (31.613284, 74.486299) - Found: 0 customers
-Grid #94 | Search #3 | API Hit: dentist at (31.613284, 74.486299) - Found: 0 customers
+Grid #94 | Search #0 | API Hit: hospital at (31.234360, 74.158530) - Found: 0 customers
+Grid #94 | Search #1 | API Hit: doctor at (31.234360, 74.158530) - Found: 1 customers
+Grid #94 | Search #2 | API Hit: pharmacy at (31.234360, 74.158530) - Found: 0 customers
+Grid #94 | Search #3 | API Hit: dentist at (31.234360, 74.158530) - Found: 0 customers
 
 Grid #94 - Total API Hits: 380
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #95 | Search #0 | API Hit: hospital at (31.592589, 74.507755) - Found: 4 customers
-Grid #95 | Search #1 | API Hit: doctor at (31.592589, 74.507755) - Found: 1 customers
-Grid #95 | Search #2 | API Hit: pharmacy at (31.592589, 74.507755) - Found: 11 customers
-Grid #95 | Search #3 | API Hit: dentist at (31.592589, 74.507755) - Found: 0 customers
+Grid #95 | Search #0 | API Hit: hospital at (31.246936, 74.158530) - Found: 1 customers
+Grid #95 | Search #1 | API Hit: doctor at (31.246936, 74.158530) - Found: 0 customers
+Grid #95 | Search #2 | API Hit: pharmacy at (31.246936, 74.158530) - Found: 0 customers
+Grid #95 | Search #3 | API Hit: dentist at (31.246936, 74.158530) - Found: 0 customers
 
 Grid #95 - Total API Hits: 384
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #96 | Search #0 | API Hit: hospital at (31.572253, 74.502324) - Found: 4 customers
-Grid #96 | Search #1 | API Hit: doctor at (31.572253, 74.502324) - Found: 0 customers
-Grid #96 | Search #2 | API Hit: pharmacy at (31.572253, 74.502324) - Found: 2 customers
-Grid #96 | Search #3 | API Hit: dentist at (31.572253, 74.502324) - Found: 0 customers
+Grid #96 | Search #0 | API Hit: hospital at (31.259512, 74.158530) - Found: 1 customers
+Grid #96 | Search #1 | API Hit: doctor at (31.259512, 74.158530) - Found: 0 customers
+Grid #96 | Search #2 | API Hit: pharmacy at (31.259512, 74.158530) - Found: 3 customers
+Grid #96 | Search #3 | API Hit: dentist at (31.259512, 74.158530) - Found: 0 customers
 
 Grid #96 - Total API Hits: 388
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #97 | Search #0 | API Hit: hospital at (31.558623, 74.510636) - Found: 3 customers
-Grid #97 | Search #1 | API Hit: doctor at (31.558623, 74.510636) - Found: 0 customers
-Grid #97 | Search #2 | API Hit: pharmacy at (31.558623, 74.510636) - Found: 0 customers
-Grid #97 | Search #3 | API Hit: dentist at (31.558623, 74.510636) - Found: 0 customers
+Grid #97 | Search #0 | API Hit: hospital at (31.272089, 74.158530) - Found: 2 customers
+Grid #97 | Search #1 | API Hit: doctor at (31.272089, 74.158530) - Found: 0 customers
+Grid #97 | Search #2 | API Hit: pharmacy at (31.272089, 74.158530) - Found: 1 customers
+Grid #97 | Search #3 | API Hit: dentist at (31.272089, 74.158530) - Found: 0 customers
 
 Grid #97 - Total API Hits: 392
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #98 | Search #0 | API Hit: hospital at (31.537346, 74.541477) - Found: 1 customers
-Grid #98 | Search #1 | API Hit: doctor at (31.537346, 74.541477) - Found: 0 customers
-Grid #98 | Search #2 | API Hit: pharmacy at (31.537346, 74.541477) - Found: 1 customers
-Grid #98 | Search #3 | API Hit: dentist at (31.537346, 74.541477) - Found: 0 customers
+Grid #98 | Search #0 | API Hit: hospital at (31.284665, 74.158530) - Found: 1 customers
+Grid #98 | Search #1 | API Hit: doctor at (31.284665, 74.158530) - Found: 0 customers
+Grid #98 | Search #2 | API Hit: pharmacy at (31.284665, 74.158530) - Found: 3 customers
+Grid #98 | Search #3 | API Hit: dentist at (31.284665, 74.158530) - Found: 0 customers
 
 Grid #98 - Total API Hits: 396
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #99 | Search #0 | API Hit: hospital at (31.517852, 74.559755) - Found: 1 customers
-Grid #99 | Search #1 | API Hit: doctor at (31.517852, 74.559755) - Found: 0 customers
-Grid #99 | Search #2 | API Hit: pharmacy at (31.517852, 74.559755) - Found: 0 customers
-Grid #99 | Search #3 | API Hit: dentist at (31.517852, 74.559755) - Found: 0 customers
+Grid #99 | Search #0 | API Hit: hospital at (31.297241, 74.158530) - Found: 2 customers
+Grid #99 | Search #1 | API Hit: doctor at (31.297241, 74.158530) - Found: 0 customers
+Grid #99 | Search #2 | API Hit: pharmacy at (31.297241, 74.158530) - Found: 3 customers
+Grid #99 | Search #3 | API Hit: dentist at (31.297241, 74.158530) - Found: 0 customers
 
 Grid #99 - Total API Hits: 400
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #100 | Search #0 | API Hit: hospital at (31.500424, 74.580101) - Found: 0 customers
-Grid #100 | Search #1 | API Hit: doctor at (31.500424, 74.580101) - Found: 0 customers
-Grid #100 | Search #2 | API Hit: pharmacy at (31.500424, 74.580101) - Found: 0 customers
-Grid #100 | Search #3 | API Hit: dentist at (31.500424, 74.580101) - Found: 0 customers
+Grid #100 | Search #0 | API Hit: hospital at (31.322394, 74.158530) - Found: 4 customers
+Grid #100 | Search #1 | API Hit: doctor at (31.322394, 74.158530) - Found: 0 customers
+Grid #100 | Search #2 | API Hit: pharmacy at (31.322394, 74.158530) - Found: 0 customers
+Grid #100 | Search #3 | API Hit: dentist at (31.322394, 74.158530) - Found: 0 customers
 
 Grid #100 - Total API Hits: 404
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #101 | Search #0 | API Hit: hospital at (31.483013, 74.600597) - Found: 0 customers
-Grid #101 | Search #1 | API Hit: doctor at (31.483013, 74.600597) - Found: 0 customers
-Grid #101 | Search #2 | API Hit: pharmacy at (31.483013, 74.600597) - Found: 0 customers
-Grid #101 | Search #3 | API Hit: dentist at (31.483013, 74.600597) - Found: 0 customers
+Grid #101 | Search #0 | API Hit: hospital at (31.234360, 74.171106) - Found: 2 customers
+Grid #101 | Search #1 | API Hit: doctor at (31.234360, 74.171106) - Found: 1 customers
+Grid #101 | Search #2 | API Hit: pharmacy at (31.234360, 74.171106) - Found: 0 customers
+Grid #101 | Search #3 | API Hit: dentist at (31.234360, 74.171106) - Found: 0 customers
 
 Grid #101 - Total API Hits: 408
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #102 | Search #0 | API Hit: hospital at (31.464684, 74.622769) - Found: 0 customers
-Grid #102 | Search #1 | API Hit: doctor at (31.464684, 74.622769) - Found: 0 customers
-Grid #102 | Search #2 | API Hit: pharmacy at (31.464684, 74.622769) - Found: 0 customers
-Grid #102 | Search #3 | API Hit: dentist at (31.464684, 74.622769) - Found: 0 customers
+Grid #102 | Search #0 | API Hit: hospital at (31.246936, 74.171106) - Found: 3 customers
+Grid #102 | Search #1 | API Hit: doctor at (31.246936, 74.171106) - Found: 0 customers
+Grid #102 | Search #2 | API Hit: pharmacy at (31.246936, 74.171106) - Found: 0 customers
+Grid #102 | Search #3 | API Hit: dentist at (31.246936, 74.171106) - Found: 0 customers
 
 Grid #102 - Total API Hits: 412
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #103 | Search #0 | API Hit: hospital at (31.437271, 74.617289) - Found: 0 customers
-Grid #103 | Search #1 | API Hit: doctor at (31.437271, 74.617289) - Found: 0 customers
-Grid #103 | Search #2 | API Hit: pharmacy at (31.437271, 74.617289) - Found: 0 customers
-Grid #103 | Search #3 | API Hit: dentist at (31.437271, 74.617289) - Found: 0 customers
+Grid #103 | Search #0 | API Hit: hospital at (31.259512, 74.171106) - Found: 2 customers
+Grid #103 | Search #1 | API Hit: doctor at (31.259512, 74.171106) - Found: 0 customers
+Grid #103 | Search #2 | API Hit: pharmacy at (31.259512, 74.171106) - Found: 1 customers
+Grid #103 | Search #3 | API Hit: dentist at (31.259512, 74.171106) - Found: 0 customers
 
 Grid #103 - Total API Hits: 416
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #104 | Search #0 | API Hit: hospital at (31.416769, 74.594637) - Found: 1 customers
-Grid #104 | Search #1 | API Hit: doctor at (31.416769, 74.594637) - Found: 0 customers
-Grid #104 | Search #2 | API Hit: pharmacy at (31.416769, 74.594637) - Found: 0 customers
-Grid #104 | Search #3 | API Hit: dentist at (31.416769, 74.594637) - Found: 0 customers
+Grid #104 | Search #0 | API Hit: hospital at (31.272089, 74.171106) - Found: 2 customers
+Grid #104 | Search #1 | API Hit: doctor at (31.272089, 74.171106) - Found: 0 customers
+Grid #104 | Search #2 | API Hit: pharmacy at (31.272089, 74.171106) - Found: 1 customers
+Grid #104 | Search #3 | API Hit: dentist at (31.272089, 74.171106) - Found: 0 customers
 
 Grid #104 - Total API Hits: 420
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #105 | Search #0 | API Hit: hospital at (31.434287, 74.567131) - Found: 1 customers
-Grid #105 | Search #1 | API Hit: doctor at (31.434287, 74.567131) - Found: 0 customers
-Grid #105 | Search #2 | API Hit: pharmacy at (31.434287, 74.567131) - Found: 5 customers
-Grid #105 | Search #3 | API Hit: dentist at (31.434287, 74.567131) - Found: 0 customers
+Grid #105 | Search #0 | API Hit: hospital at (31.309818, 74.171106) - Found: 3 customers
+Grid #105 | Search #1 | API Hit: doctor at (31.309818, 74.171106) - Found: 0 customers
+Grid #105 | Search #2 | API Hit: pharmacy at (31.309818, 74.171106) - Found: 1 customers
+Grid #105 | Search #3 | API Hit: dentist at (31.309818, 74.171106) - Found: 0 customers
 
 Grid #105 - Total API Hits: 424
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #106 | Search #0 | API Hit: hospital at (31.455061, 74.534453) - Found: 0 customers
-Grid #106 | Search #1 | API Hit: doctor at (31.455061, 74.534453) - Found: 0 customers
-Grid #106 | Search #2 | API Hit: pharmacy at (31.455061, 74.534453) - Found: 0 customers
-Grid #106 | Search #3 | API Hit: dentist at (31.455061, 74.534453) - Found: 0 customers
+Grid #106 | Search #0 | API Hit: hospital at (31.322394, 74.171106) - Found: 4 customers
+Grid #106 | Search #1 | API Hit: doctor at (31.322394, 74.171106) - Found: 0 customers
+Grid #106 | Search #2 | API Hit: pharmacy at (31.322394, 74.171106) - Found: 0 customers
+Grid #106 | Search #3 | API Hit: dentist at (31.322394, 74.171106) - Found: 0 customers
 
 Grid #106 - Total API Hits: 428
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #107 | Search #0 | API Hit: hospital at (31.473351, 74.515221) - Found: 1 customers
-Grid #107 | Search #1 | API Hit: doctor at (31.473351, 74.515221) - Found: 1 customers
-Grid #107 | Search #2 | API Hit: pharmacy at (31.473351, 74.515221) - Found: 4 customers
-Grid #107 | Search #3 | API Hit: dentist at (31.473351, 74.515221) - Found: 0 customers
+Grid #107 | Search #0 | API Hit: hospital at (31.234360, 74.183683) - Found: 3 customers
+Grid #107 | Search #1 | API Hit: doctor at (31.234360, 74.183683) - Found: 1 customers
+Grid #107 | Search #2 | API Hit: pharmacy at (31.234360, 74.183683) - Found: 1 customers
+Grid #107 | Search #3 | API Hit: dentist at (31.234360, 74.183683) - Found: 0 customers
 
 Grid #107 - Total API Hits: 432
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #108 | Search #0 | API Hit: hospital at (31.491261, 74.494925) - Found: 1 customers
-Grid #108 | Search #1 | API Hit: doctor at (31.491261, 74.494925) - Found: 0 customers
-Grid #108 | Search #2 | API Hit: pharmacy at (31.491261, 74.494925) - Found: 2 customers
-Grid #108 | Search #3 | API Hit: dentist at (31.491261, 74.494925) - Found: 0 customers
+Grid #108 | Search #0 | API Hit: hospital at (31.246936, 74.183683) - Found: 4 customers
+Grid #108 | Search #1 | API Hit: doctor at (31.246936, 74.183683) - Found: 0 customers
+Grid #108 | Search #2 | API Hit: pharmacy at (31.246936, 74.183683) - Found: 0 customers
+Grid #108 | Search #3 | API Hit: dentist at (31.246936, 74.183683) - Found: 0 customers
 
 Grid #108 - Total API Hits: 436
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #109 | Search #0 | API Hit: hospital at (31.514479, 74.462028) - Found: 8 customers
-Grid #109 | Search #1 | API Hit: doctor at (31.514479, 74.462028) - Found: 1 customers
-Grid #109 | Search #2 | API Hit: pharmacy at (31.514479, 74.462028) - Found: 4 customers
-Grid #109 | Search #3 | API Hit: dentist at (31.514479, 74.462028) - Found: 1 customers
+Grid #109 | Search #0 | API Hit: hospital at (31.259512, 74.183683) - Found: 2 customers
+Grid #109 | Search #1 | API Hit: doctor at (31.259512, 74.183683) - Found: 0 customers
+Grid #109 | Search #2 | API Hit: pharmacy at (31.259512, 74.183683) - Found: 0 customers
+Grid #109 | Search #3 | API Hit: dentist at (31.259512, 74.183683) - Found: 0 customers
 
 Grid #109 - Total API Hits: 440
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #110 | Search #0 | API Hit: hospital at (31.531712, 74.441504) - Found: 14 customers
-Grid #110 | Search #1 | API Hit: doctor at (31.531712, 74.441504) - Found: 1 customers
-Grid #110 | Search #2 | API Hit: pharmacy at (31.531712, 74.441504) - Found: 10 customers
-Grid #110 | Search #3 | API Hit: dentist at (31.531712, 74.441504) - Found: 2 customers
+Grid #110 | Search #0 | API Hit: hospital at (31.297241, 74.183683) - Found: 1 customers
+Grid #110 | Search #1 | API Hit: doctor at (31.297241, 74.183683) - Found: 0 customers
+Grid #110 | Search #2 | API Hit: pharmacy at (31.297241, 74.183683) - Found: 2 customers
+Grid #110 | Search #3 | API Hit: dentist at (31.297241, 74.183683) - Found: 0 customers
 
 Grid #110 - Total API Hits: 444
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #111 | Search #0 | API Hit: hospital at (31.550355, 74.409879) - Found: 14 customers
-Grid #111 | Search #1 | API Hit: doctor at (31.550355, 74.409879) - Found: 6 customers
-Grid #111 | Search #2 | API Hit: pharmacy at (31.550355, 74.409879) - Found: 20 customers
-Grid #111 | Search #3 | API Hit: dentist at (31.550355, 74.409879) - Found: 1 customers
+Grid #111 | Search #0 | API Hit: hospital at (31.309818, 74.183683) - Found: 1 customers
+Grid #111 | Search #1 | API Hit: doctor at (31.309818, 74.183683) - Found: 0 customers
+Grid #111 | Search #2 | API Hit: pharmacy at (31.309818, 74.183683) - Found: 0 customers
+Grid #111 | Search #3 | API Hit: dentist at (31.309818, 74.183683) - Found: 0 customers
 
 Grid #111 - Total API Hits: 448
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #112 | Search #0 | API Hit: hospital at (31.588084, 74.409879) - Found: 20 customers
-Grid #112 | Search #1 | API Hit: doctor at (31.588084, 74.409879) - Found: 6 customers
-Grid #112 | Search #2 | API Hit: pharmacy at (31.588084, 74.409879) - Found: 20 customers
-Grid #112 | Search #3 | API Hit: dentist at (31.588084, 74.409879) - Found: 0 customers
+Grid #112 | Search #0 | API Hit: hospital at (31.322394, 74.183683) - Found: 5 customers
+Grid #112 | Search #1 | API Hit: doctor at (31.322394, 74.183683) - Found: 0 customers
+Grid #112 | Search #2 | API Hit: pharmacy at (31.322394, 74.183683) - Found: 0 customers
+Grid #112 | Search #3 | API Hit: dentist at (31.322394, 74.183683) - Found: 0 customers
 
 Grid #112 - Total API Hits: 452
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #113 | Search #0 | API Hit: hospital at (31.600660, 74.409879) - Found: 17 customers
-Grid #113 | Search #1 | API Hit: doctor at (31.600660, 74.409879) - Found: 3 customers
-Grid #113 | Search #2 | API Hit: pharmacy at (31.600660, 74.409879) - Found: 15 customers
-Grid #113 | Search #3 | API Hit: dentist at (31.600660, 74.409879) - Found: 0 customers
+Grid #113 | Search #0 | API Hit: hospital at (31.234360, 74.196259) - Found: 13 customers
+Grid #113 | Search #1 | API Hit: doctor at (31.234360, 74.196259) - Found: 3 customers
+Grid #113 | Search #2 | API Hit: pharmacy at (31.234360, 74.196259) - Found: 5 customers
+Grid #113 | Search #3 | API Hit: dentist at (31.234360, 74.196259) - Found: 0 customers
 
 Grid #113 - Total API Hits: 456
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #114 | Search #0 | API Hit: hospital at (31.550355, 74.422455) - Found: 20 customers
-Grid #114 | Search #1 | API Hit: doctor at (31.550355, 74.422455) - Found: 4 customers
-Grid #114 | Search #2 | API Hit: pharmacy at (31.550355, 74.422455) - Found: 16 customers
-Grid #114 | Search #3 | API Hit: dentist at (31.550355, 74.422455) - Found: 0 customers
+Grid #114 | Search #0 | API Hit: hospital at (31.246936, 74.196259) - Found: 11 customers
+Grid #114 | Search #1 | API Hit: doctor at (31.246936, 74.196259) - Found: 3 customers
+Grid #114 | Search #2 | API Hit: pharmacy at (31.246936, 74.196259) - Found: 7 customers
+Grid #114 | Search #3 | API Hit: dentist at (31.246936, 74.196259) - Found: 1 customers
 
 Grid #114 - Total API Hits: 460
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #115 | Search #0 | API Hit: hospital at (31.575507, 74.422455) - Found: 14 customers
-Grid #115 | Search #1 | API Hit: doctor at (31.575507, 74.422455) - Found: 5 customers
-Grid #115 | Search #2 | API Hit: pharmacy at (31.575507, 74.422455) - Found: 19 customers
-Grid #115 | Search #3 | API Hit: dentist at (31.575507, 74.422455) - Found: 2 customers
+Grid #115 | Search #0 | API Hit: hospital at (31.259512, 74.196259) - Found: 10 customers
+Grid #115 | Search #1 | API Hit: doctor at (31.259512, 74.196259) - Found: 3 customers
+Grid #115 | Search #2 | API Hit: pharmacy at (31.259512, 74.196259) - Found: 0 customers
+Grid #115 | Search #3 | API Hit: dentist at (31.259512, 74.196259) - Found: 0 customers
 
 Grid #115 - Total API Hits: 464
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #116 | Search #0 | API Hit: hospital at (31.588084, 74.422455) - Found: 16 customers
-Grid #116 | Search #1 | API Hit: doctor at (31.588084, 74.422455) - Found: 5 customers
-Grid #116 | Search #2 | API Hit: pharmacy at (31.588084, 74.422455) - Found: 14 customers
-Grid #116 | Search #3 | API Hit: dentist at (31.588084, 74.422455) - Found: 0 customers
+Grid #116 | Search #0 | API Hit: hospital at (31.272089, 74.196259) - Found: 4 customers
+Grid #116 | Search #1 | API Hit: doctor at (31.272089, 74.196259) - Found: 0 customers
+Grid #116 | Search #2 | API Hit: pharmacy at (31.272089, 74.196259) - Found: 0 customers
+Grid #116 | Search #3 | API Hit: dentist at (31.272089, 74.196259) - Found: 0 customers
 
 Grid #116 - Total API Hits: 468
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #117 | Search #0 | API Hit: hospital at (31.600660, 74.422455) - Found: 7 customers
-Grid #117 | Search #1 | API Hit: doctor at (31.600660, 74.422455) - Found: 4 customers
-Grid #117 | Search #2 | API Hit: pharmacy at (31.600660, 74.422455) - Found: 15 customers
-Grid #117 | Search #3 | API Hit: dentist at (31.600660, 74.422455) - Found: 0 customers
+Grid #117 | Search #0 | API Hit: hospital at (31.284665, 74.196259) - Found: 1 customers
+Grid #117 | Search #1 | API Hit: doctor at (31.284665, 74.196259) - Found: 0 customers
+Grid #117 | Search #2 | API Hit: pharmacy at (31.284665, 74.196259) - Found: 1 customers
+Grid #117 | Search #3 | API Hit: dentist at (31.284665, 74.196259) - Found: 0 customers
 
 Grid #117 - Total API Hits: 472
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #118 | Search #0 | API Hit: hospital at (31.613237, 74.422455) - Found: 4 customers
-Grid #118 | Search #1 | API Hit: doctor at (31.613237, 74.422455) - Found: 0 customers
-Grid #118 | Search #2 | API Hit: pharmacy at (31.613237, 74.422455) - Found: 8 customers
-Grid #118 | Search #3 | API Hit: dentist at (31.613237, 74.422455) - Found: 0 customers
+Grid #118 | Search #0 | API Hit: hospital at (31.297241, 74.196259) - Found: 4 customers
+Grid #118 | Search #1 | API Hit: doctor at (31.297241, 74.196259) - Found: 0 customers
+Grid #118 | Search #2 | API Hit: pharmacy at (31.297241, 74.196259) - Found: 2 customers
+Grid #118 | Search #3 | API Hit: dentist at (31.297241, 74.196259) - Found: 0 customers
 
 Grid #118 - Total API Hits: 476
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #119 | Search #0 | API Hit: hospital at (31.537778, 74.435031) - Found: 10 customers
-Grid #119 | Search #1 | API Hit: doctor at (31.537778, 74.435031) - Found: 3 customers
-Grid #119 | Search #2 | API Hit: pharmacy at (31.537778, 74.435031) - Found: 6 customers
-Grid #119 | Search #3 | API Hit: dentist at (31.537778, 74.435031) - Found: 0 customers
+Grid #119 | Search #0 | API Hit: hospital at (31.309818, 74.196259) - Found: 3 customers
+Grid #119 | Search #1 | API Hit: doctor at (31.309818, 74.196259) - Found: 0 customers
+Grid #119 | Search #2 | API Hit: pharmacy at (31.309818, 74.196259) - Found: 3 customers
+Grid #119 | Search #3 | API Hit: dentist at (31.309818, 74.196259) - Found: 0 customers
 
 Grid #119 - Total API Hits: 480
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #120 | Search #0 | API Hit: hospital at (31.550355, 74.435031) - Found: 7 customers
-Grid #120 | Search #1 | API Hit: doctor at (31.550355, 74.435031) - Found: 1 customers
-Grid #120 | Search #2 | API Hit: pharmacy at (31.550355, 74.435031) - Found: 4 customers
-Grid #120 | Search #3 | API Hit: dentist at (31.550355, 74.435031) - Found: 0 customers
+Grid #120 | Search #0 | API Hit: hospital at (31.322394, 74.196259) - Found: 7 customers
+Grid #120 | Search #1 | API Hit: doctor at (31.322394, 74.196259) - Found: 0 customers
+Grid #120 | Search #2 | API Hit: pharmacy at (31.322394, 74.196259) - Found: 2 customers
+Grid #120 | Search #3 | API Hit: dentist at (31.322394, 74.196259) - Found: 0 customers
 
 Grid #120 - Total API Hits: 484
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #121 | Search #0 | API Hit: hospital at (31.562931, 74.435031) - Found: 12 customers
-Grid #121 | Search #1 | API Hit: doctor at (31.562931, 74.435031) - Found: 2 customers
-Grid #121 | Search #2 | API Hit: pharmacy at (31.562931, 74.435031) - Found: 6 customers
-Grid #121 | Search #3 | API Hit: dentist at (31.562931, 74.435031) - Found: 0 customers
+Grid #121 | Search #0 | API Hit: hospital at (31.234360, 74.208835) - Found: 16 customers
+Grid #121 | Search #1 | API Hit: doctor at (31.234360, 74.208835) - Found: 5 customers
+Grid #121 | Search #2 | API Hit: pharmacy at (31.234360, 74.208835) - Found: 13 customers
+Grid #121 | Search #3 | API Hit: dentist at (31.234360, 74.208835) - Found: 0 customers
 
 Grid #121 - Total API Hits: 488
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #122 | Search #0 | API Hit: hospital at (31.575507, 74.435031) - Found: 12 customers
-Grid #122 | Search #1 | API Hit: doctor at (31.575507, 74.435031) - Found: 5 customers
-Grid #122 | Search #2 | API Hit: pharmacy at (31.575507, 74.435031) - Found: 16 customers
-Grid #122 | Search #3 | API Hit: dentist at (31.575507, 74.435031) - Found: 0 customers
+Grid #122 | Search #0 | API Hit: hospital at (31.246936, 74.208835) - Found: 19 customers
+Grid #122 | Search #1 | API Hit: doctor at (31.246936, 74.208835) - Found: 9 customers
+Grid #122 | Search #2 | API Hit: pharmacy at (31.246936, 74.208835) - Found: 20 customers
+Grid #122 | Search #3 | API Hit: dentist at (31.246936, 74.208835) - Found: 2 customers
 
 Grid #122 - Total API Hits: 492
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #123 | Search #0 | API Hit: hospital at (31.588084, 74.435031) - Found: 12 customers
-Grid #123 | Search #1 | API Hit: doctor at (31.588084, 74.435031) - Found: 5 customers
-Grid #123 | Search #2 | API Hit: pharmacy at (31.588084, 74.435031) - Found: 13 customers
-Grid #123 | Search #3 | API Hit: dentist at (31.588084, 74.435031) - Found: 0 customers
+Grid #123 | Search #0 | API Hit: hospital at (31.259512, 74.208835) - Found: 20 customers
+Grid #123 | Search #1 | API Hit: doctor at (31.259512, 74.208835) - Found: 9 customers
+Grid #123 | Search #2 | API Hit: pharmacy at (31.259512, 74.208835) - Found: 11 customers
+Grid #123 | Search #3 | API Hit: dentist at (31.259512, 74.208835) - Found: 0 customers
 
 Grid #123 - Total API Hits: 496
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #124 | Search #0 | API Hit: hospital at (31.600660, 74.435031) - Found: 3 customers
-Grid #124 | Search #1 | API Hit: doctor at (31.600660, 74.435031) - Found: 2 customers
-Grid #124 | Search #2 | API Hit: pharmacy at (31.600660, 74.435031) - Found: 10 customers
-Grid #124 | Search #3 | API Hit: dentist at (31.600660, 74.435031) - Found: 0 customers
+Grid #124 | Search #0 | API Hit: hospital at (31.272089, 74.208835) - Found: 9 customers
+Grid #124 | Search #1 | API Hit: doctor at (31.272089, 74.208835) - Found: 2 customers
+Grid #124 | Search #2 | API Hit: pharmacy at (31.272089, 74.208835) - Found: 0 customers
+Grid #124 | Search #3 | API Hit: dentist at (31.272089, 74.208835) - Found: 0 customers
 
 Grid #124 - Total API Hits: 500
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #125 | Search #0 | API Hit: hospital at (31.613237, 74.435031) - Found: 1 customers
-Grid #125 | Search #1 | API Hit: doctor at (31.613237, 74.435031) - Found: 0 customers
-Grid #125 | Search #2 | API Hit: pharmacy at (31.613237, 74.435031) - Found: 0 customers
-Grid #125 | Search #3 | API Hit: dentist at (31.613237, 74.435031) - Found: 0 customers
+Grid #125 | Search #0 | API Hit: hospital at (31.284665, 74.208835) - Found: 4 customers
+Grid #125 | Search #1 | API Hit: doctor at (31.284665, 74.208835) - Found: 0 customers
+Grid #125 | Search #2 | API Hit: pharmacy at (31.284665, 74.208835) - Found: 1 customers
+Grid #125 | Search #3 | API Hit: dentist at (31.284665, 74.208835) - Found: 0 customers
 
 Grid #125 - Total API Hits: 504
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #126 | Search #0 | API Hit: hospital at (31.537778, 74.447608) - Found: 7 customers
-Grid #126 | Search #1 | API Hit: doctor at (31.537778, 74.447608) - Found: 1 customers
-Grid #126 | Search #2 | API Hit: pharmacy at (31.537778, 74.447608) - Found: 6 customers
-Grid #126 | Search #3 | API Hit: dentist at (31.537778, 74.447608) - Found: 1 customers
+Grid #126 | Search #0 | API Hit: hospital at (31.297241, 74.208835) - Found: 5 customers
+Grid #126 | Search #1 | API Hit: doctor at (31.297241, 74.208835) - Found: 0 customers
+Grid #126 | Search #2 | API Hit: pharmacy at (31.297241, 74.208835) - Found: 1 customers
+Grid #126 | Search #3 | API Hit: dentist at (31.297241, 74.208835) - Found: 0 customers
 
 Grid #126 - Total API Hits: 508
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #127 | Search #0 | API Hit: hospital at (31.550355, 74.447608) - Found: 9 customers
-Grid #127 | Search #1 | API Hit: doctor at (31.550355, 74.447608) - Found: 1 customers
-Grid #127 | Search #2 | API Hit: pharmacy at (31.550355, 74.447608) - Found: 0 customers
-Grid #127 | Search #3 | API Hit: dentist at (31.550355, 74.447608) - Found: 0 customers
+Grid #127 | Search #0 | API Hit: hospital at (31.309818, 74.208835) - Found: 4 customers
+Grid #127 | Search #1 | API Hit: doctor at (31.309818, 74.208835) - Found: 1 customers
+Grid #127 | Search #2 | API Hit: pharmacy at (31.309818, 74.208835) - Found: 7 customers
+Grid #127 | Search #3 | API Hit: dentist at (31.309818, 74.208835) - Found: 0 customers
 
 Grid #127 - Total API Hits: 512
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #128 | Search #0 | API Hit: hospital at (31.562931, 74.447608) - Found: 9 customers
-Grid #128 | Search #1 | API Hit: doctor at (31.562931, 74.447608) - Found: 2 customers
-Grid #128 | Search #2 | API Hit: pharmacy at (31.562931, 74.447608) - Found: 3 customers
-Grid #128 | Search #3 | API Hit: dentist at (31.562931, 74.447608) - Found: 0 customers
+Grid #128 | Search #0 | API Hit: hospital at (31.322394, 74.208835) - Found: 7 customers
+Grid #128 | Search #1 | API Hit: doctor at (31.322394, 74.208835) - Found: 1 customers
+Grid #128 | Search #2 | API Hit: pharmacy at (31.322394, 74.208835) - Found: 8 customers
+Grid #128 | Search #3 | API Hit: dentist at (31.322394, 74.208835) - Found: 0 customers
 
 Grid #128 - Total API Hits: 516
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #129 | Search #0 | API Hit: hospital at (31.575507, 74.447608) - Found: 13 customers
-Grid #129 | Search #1 | API Hit: doctor at (31.575507, 74.447608) - Found: 4 customers
-Grid #129 | Search #2 | API Hit: pharmacy at (31.575507, 74.447608) - Found: 6 customers
-Grid #129 | Search #3 | API Hit: dentist at (31.575507, 74.447608) - Found: 0 customers
+Grid #129 | Search #0 | API Hit: hospital at (31.246936, 74.221412) - Found: 20 customers
+Grid #129 | Search #1 | API Hit: doctor at (31.246936, 74.221412) - Found: 9 customers
+Grid #129 | Search #2 | API Hit: pharmacy at (31.246936, 74.221412) - Found: 20 customers
+Grid #129 | Search #3 | API Hit: dentist at (31.246936, 74.221412) - Found: 1 customers
 
 Grid #129 - Total API Hits: 520
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #130 | Search #0 | API Hit: hospital at (31.588084, 74.447608) - Found: 11 customers
-Grid #130 | Search #1 | API Hit: doctor at (31.588084, 74.447608) - Found: 3 customers
-Grid #130 | Search #2 | API Hit: pharmacy at (31.588084, 74.447608) - Found: 14 customers
-Grid #130 | Search #3 | API Hit: dentist at (31.588084, 74.447608) - Found: 0 customers
+Grid #130 | Search #0 | API Hit: hospital at (31.259512, 74.221412) - Found: 20 customers
+Grid #130 | Search #1 | API Hit: doctor at (31.259512, 74.221412) - Found: 9 customers
+Grid #130 | Search #2 | API Hit: pharmacy at (31.259512, 74.221412) - Found: 19 customers
+Grid #130 | Search #3 | API Hit: dentist at (31.259512, 74.221412) - Found: 0 customers
 
 Grid #130 - Total API Hits: 524
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #131 | Search #0 | API Hit: hospital at (31.600660, 74.447608) - Found: 5 customers
-Grid #131 | Search #1 | API Hit: doctor at (31.600660, 74.447608) - Found: 2 customers
-Grid #131 | Search #2 | API Hit: pharmacy at (31.600660, 74.447608) - Found: 14 customers
-Grid #131 | Search #3 | API Hit: dentist at (31.600660, 74.447608) - Found: 0 customers
+Grid #131 | Search #0 | API Hit: hospital at (31.272089, 74.221412) - Found: 12 customers
+Grid #131 | Search #1 | API Hit: doctor at (31.272089, 74.221412) - Found: 2 customers
+Grid #131 | Search #2 | API Hit: pharmacy at (31.272089, 74.221412) - Found: 1 customers
+Grid #131 | Search #3 | API Hit: dentist at (31.272089, 74.221412) - Found: 0 customers
 
 Grid #131 - Total API Hits: 528
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #132 | Search #0 | API Hit: hospital at (31.613237, 74.447608) - Found: 2 customers
-Grid #132 | Search #1 | API Hit: doctor at (31.613237, 74.447608) - Found: 0 customers
-Grid #132 | Search #2 | API Hit: pharmacy at (31.613237, 74.447608) - Found: 1 customers
-Grid #132 | Search #3 | API Hit: dentist at (31.613237, 74.447608) - Found: 0 customers
+Grid #132 | Search #0 | API Hit: hospital at (31.284665, 74.221412) - Found: 4 customers
+Grid #132 | Search #1 | API Hit: doctor at (31.284665, 74.221412) - Found: 0 customers
+Grid #132 | Search #2 | API Hit: pharmacy at (31.284665, 74.221412) - Found: 1 customers
+Grid #132 | Search #3 | API Hit: dentist at (31.284665, 74.221412) - Found: 0 customers
 
 Grid #132 - Total API Hits: 532
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #133 | Search #0 | API Hit: hospital at (31.525202, 74.460184) - Found: 10 customers
-Grid #133 | Search #1 | API Hit: doctor at (31.525202, 74.460184) - Found: 1 customers
-Grid #133 | Search #2 | API Hit: pharmacy at (31.525202, 74.460184) - Found: 9 customers
-Grid #133 | Search #3 | API Hit: dentist at (31.525202, 74.460184) - Found: 2 customers
+Grid #133 | Search #0 | API Hit: hospital at (31.297241, 74.221412) - Found: 4 customers
+Grid #133 | Search #1 | API Hit: doctor at (31.297241, 74.221412) - Found: 0 customers
+Grid #133 | Search #2 | API Hit: pharmacy at (31.297241, 74.221412) - Found: 0 customers
+Grid #133 | Search #3 | API Hit: dentist at (31.297241, 74.221412) - Found: 0 customers
 
 Grid #133 - Total API Hits: 536
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #134 | Search #0 | API Hit: hospital at (31.537778, 74.460184) - Found: 10 customers
-Grid #134 | Search #1 | API Hit: doctor at (31.537778, 74.460184) - Found: 1 customers
-Grid #134 | Search #2 | API Hit: pharmacy at (31.537778, 74.460184) - Found: 4 customers
-Grid #134 | Search #3 | API Hit: dentist at (31.537778, 74.460184) - Found: 1 customers
+Grid #134 | Search #0 | API Hit: hospital at (31.309818, 74.221412) - Found: 3 customers
+Grid #134 | Search #1 | API Hit: doctor at (31.309818, 74.221412) - Found: 1 customers
+Grid #134 | Search #2 | API Hit: pharmacy at (31.309818, 74.221412) - Found: 6 customers
+Grid #134 | Search #3 | API Hit: dentist at (31.309818, 74.221412) - Found: 0 customers
 
 Grid #134 - Total API Hits: 540
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #135 | Search #0 | API Hit: hospital at (31.550355, 74.460184) - Found: 4 customers
-Grid #135 | Search #1 | API Hit: doctor at (31.550355, 74.460184) - Found: 0 customers
-Grid #135 | Search #2 | API Hit: pharmacy at (31.550355, 74.460184) - Found: 0 customers
-Grid #135 | Search #3 | API Hit: dentist at (31.550355, 74.460184) - Found: 0 customers
+Grid #135 | Search #0 | API Hit: hospital at (31.322394, 74.221412) - Found: 8 customers
+Grid #135 | Search #1 | API Hit: doctor at (31.322394, 74.221412) - Found: 2 customers
+Grid #135 | Search #2 | API Hit: pharmacy at (31.322394, 74.221412) - Found: 10 customers
+Grid #135 | Search #3 | API Hit: dentist at (31.322394, 74.221412) - Found: 1 customers
 
 Grid #135 - Total API Hits: 544
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #136 | Search #0 | API Hit: hospital at (31.562931, 74.460184) - Found: 8 customers
-Grid #136 | Search #1 | API Hit: doctor at (31.562931, 74.460184) - Found: 1 customers
-Grid #136 | Search #2 | API Hit: pharmacy at (31.562931, 74.460184) - Found: 1 customers
-Grid #136 | Search #3 | API Hit: dentist at (31.562931, 74.460184) - Found: 0 customers
+Grid #136 | Search #0 | API Hit: hospital at (31.334971, 74.221412) - Found: 10 customers
+Grid #136 | Search #1 | API Hit: doctor at (31.334971, 74.221412) - Found: 1 customers
+Grid #136 | Search #2 | API Hit: pharmacy at (31.334971, 74.221412) - Found: 0 customers
+Grid #136 | Search #3 | API Hit: dentist at (31.334971, 74.221412) - Found: 0 customers
 
 Grid #136 - Total API Hits: 548
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #137 | Search #0 | API Hit: hospital at (31.575507, 74.460184) - Found: 11 customers
-Grid #137 | Search #1 | API Hit: doctor at (31.575507, 74.460184) - Found: 4 customers
-Grid #137 | Search #2 | API Hit: pharmacy at (31.575507, 74.460184) - Found: 12 customers
-Grid #137 | Search #3 | API Hit: dentist at (31.575507, 74.460184) - Found: 0 customers
+Grid #137 | Search #0 | API Hit: hospital at (31.259512, 74.233988) - Found: 20 customers
+Grid #137 | Search #1 | API Hit: doctor at (31.259512, 74.233988) - Found: 6 customers
+Grid #137 | Search #2 | API Hit: pharmacy at (31.259512, 74.233988) - Found: 11 customers
+Grid #137 | Search #3 | API Hit: dentist at (31.259512, 74.233988) - Found: 0 customers
 
 Grid #137 - Total API Hits: 552
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #138 | Search #0 | API Hit: hospital at (31.588084, 74.460184) - Found: 13 customers
-Grid #138 | Search #1 | API Hit: doctor at (31.588084, 74.460184) - Found: 6 customers
-Grid #138 | Search #2 | API Hit: pharmacy at (31.588084, 74.460184) - Found: 16 customers
-Grid #138 | Search #3 | API Hit: dentist at (31.588084, 74.460184) - Found: 0 customers
+Grid #138 | Search #0 | API Hit: hospital at (31.272089, 74.233988) - Found: 10 customers
+Grid #138 | Search #1 | API Hit: doctor at (31.272089, 74.233988) - Found: 2 customers
+Grid #138 | Search #2 | API Hit: pharmacy at (31.272089, 74.233988) - Found: 2 customers
+Grid #138 | Search #3 | API Hit: dentist at (31.272089, 74.233988) - Found: 0 customers
 
 Grid #138 - Total API Hits: 556
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #139 | Search #0 | API Hit: hospital at (31.600660, 74.460184) - Found: 8 customers
-Grid #139 | Search #1 | API Hit: doctor at (31.600660, 74.460184) - Found: 3 customers
-Grid #139 | Search #2 | API Hit: pharmacy at (31.600660, 74.460184) - Found: 11 customers
-Grid #139 | Search #3 | API Hit: dentist at (31.600660, 74.460184) - Found: 0 customers
+Grid #139 | Search #0 | API Hit: hospital at (31.284665, 74.233988) - Found: 4 customers
+Grid #139 | Search #1 | API Hit: doctor at (31.284665, 74.233988) - Found: 0 customers
+Grid #139 | Search #2 | API Hit: pharmacy at (31.284665, 74.233988) - Found: 1 customers
+Grid #139 | Search #3 | API Hit: dentist at (31.284665, 74.233988) - Found: 0 customers
 
 Grid #139 - Total API Hits: 560
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #140 | Search #0 | API Hit: hospital at (31.512626, 74.472761) - Found: 6 customers
-Grid #140 | Search #1 | API Hit: doctor at (31.512626, 74.472761) - Found: 0 customers
-Grid #140 | Search #2 | API Hit: pharmacy at (31.512626, 74.472761) - Found: 1 customers
-Grid #140 | Search #3 | API Hit: dentist at (31.512626, 74.472761) - Found: 0 customers
+Grid #140 | Search #0 | API Hit: hospital at (31.297241, 74.233988) - Found: 5 customers
+Grid #140 | Search #1 | API Hit: doctor at (31.297241, 74.233988) - Found: 0 customers
+Grid #140 | Search #2 | API Hit: pharmacy at (31.297241, 74.233988) - Found: 0 customers
+Grid #140 | Search #3 | API Hit: dentist at (31.297241, 74.233988) - Found: 0 customers
 
 Grid #140 - Total API Hits: 564
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #141 | Search #0 | API Hit: hospital at (31.525202, 74.472761) - Found: 7 customers
-Grid #141 | Search #1 | API Hit: doctor at (31.525202, 74.472761) - Found: 0 customers
-Grid #141 | Search #2 | API Hit: pharmacy at (31.525202, 74.472761) - Found: 1 customers
-Grid #141 | Search #3 | API Hit: dentist at (31.525202, 74.472761) - Found: 0 customers
+Grid #141 | Search #0 | API Hit: hospital at (31.309818, 74.233988) - Found: 1 customers
+Grid #141 | Search #1 | API Hit: doctor at (31.309818, 74.233988) - Found: 2 customers
+Grid #141 | Search #2 | API Hit: pharmacy at (31.309818, 74.233988) - Found: 1 customers
+Grid #141 | Search #3 | API Hit: dentist at (31.309818, 74.233988) - Found: 0 customers
 
 Grid #141 - Total API Hits: 568
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #142 | Search #0 | API Hit: hospital at (31.537778, 74.472761) - Found: 7 customers
-Grid #142 | Search #1 | API Hit: doctor at (31.537778, 74.472761) - Found: 0 customers
-Grid #142 | Search #2 | API Hit: pharmacy at (31.537778, 74.472761) - Found: 0 customers
-Grid #142 | Search #3 | API Hit: dentist at (31.537778, 74.472761) - Found: 0 customers
+Grid #142 | Search #0 | API Hit: hospital at (31.334971, 74.233988) - Found: 5 customers
+Grid #142 | Search #1 | API Hit: doctor at (31.334971, 74.233988) - Found: 1 customers
+Grid #142 | Search #2 | API Hit: pharmacy at (31.334971, 74.233988) - Found: 6 customers
+Grid #142 | Search #3 | API Hit: dentist at (31.334971, 74.233988) - Found: 0 customers
 
 Grid #142 - Total API Hits: 572
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #143 | Search #0 | API Hit: hospital at (31.550355, 74.472761) - Found: 2 customers
-Grid #143 | Search #1 | API Hit: doctor at (31.550355, 74.472761) - Found: 0 customers
-Grid #143 | Search #2 | API Hit: pharmacy at (31.550355, 74.472761) - Found: 0 customers
-Grid #143 | Search #3 | API Hit: dentist at (31.550355, 74.472761) - Found: 0 customers
+Grid #143 | Search #0 | API Hit: hospital at (31.297241, 74.246564) - Found: 1 customers
+Grid #143 | Search #1 | API Hit: doctor at (31.297241, 74.246564) - Found: 0 customers
+Grid #143 | Search #2 | API Hit: pharmacy at (31.297241, 74.246564) - Found: 0 customers
+Grid #143 | Search #3 | API Hit: dentist at (31.297241, 74.246564) - Found: 0 customers
 
 Grid #143 - Total API Hits: 576
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #144 | Search #0 | API Hit: hospital at (31.562931, 74.472761) - Found: 7 customers
-Grid #144 | Search #1 | API Hit: doctor at (31.562931, 74.472761) - Found: 0 customers
-Grid #144 | Search #2 | API Hit: pharmacy at (31.562931, 74.472761) - Found: 0 customers
-Grid #144 | Search #3 | API Hit: dentist at (31.562931, 74.472761) - Found: 0 customers
+Grid #144 | Search #0 | API Hit: hospital at (31.309818, 74.246564) - Found: 0 customers
+Grid #144 | Search #1 | API Hit: doctor at (31.309818, 74.246564) - Found: 0 customers
+Grid #144 | Search #2 | API Hit: pharmacy at (31.309818, 74.246564) - Found: 0 customers
+Grid #144 | Search #3 | API Hit: dentist at (31.309818, 74.246564) - Found: 0 customers
 
 Grid #144 - Total API Hits: 580
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #145 | Search #0 | API Hit: hospital at (31.575507, 74.472761) - Found: 11 customers
-Grid #145 | Search #1 | API Hit: doctor at (31.575507, 74.472761) - Found: 2 customers
-Grid #145 | Search #2 | API Hit: pharmacy at (31.575507, 74.472761) - Found: 9 customers
-Grid #145 | Search #3 | API Hit: dentist at (31.575507, 74.472761) - Found: 1 customers
+Grid #145 | Search #0 | API Hit: hospital at (31.237133, 74.146466) - Found: 0 customers
+Grid #145 | Search #1 | API Hit: doctor at (31.237133, 74.146466) - Found: 0 customers
+Grid #145 | Search #2 | API Hit: pharmacy at (31.237133, 74.146466) - Found: 1 customers
+Grid #145 | Search #3 | API Hit: dentist at (31.237133, 74.146466) - Found: 0 customers
 
 Grid #145 - Total API Hits: 584
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #146 | Search #0 | API Hit: hospital at (31.588084, 74.472761) - Found: 13 customers
-Grid #146 | Search #1 | API Hit: doctor at (31.588084, 74.472761) - Found: 3 customers
-Grid #146 | Search #2 | API Hit: pharmacy at (31.588084, 74.472761) - Found: 20 customers
-Grid #146 | Search #3 | API Hit: dentist at (31.588084, 74.472761) - Found: 1 customers
+Grid #146 | Search #0 | API Hit: hospital at (31.238702, 74.128987) - Found: 0 customers
+Grid #146 | Search #1 | API Hit: doctor at (31.238702, 74.128987) - Found: 0 customers
+Grid #146 | Search #2 | API Hit: pharmacy at (31.238702, 74.128987) - Found: 1 customers
+Grid #146 | Search #3 | API Hit: dentist at (31.238702, 74.128987) - Found: 0 customers
 
 Grid #146 - Total API Hits: 588
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #147 | Search #0 | API Hit: hospital at (31.600660, 74.472761) - Found: 9 customers
-Grid #147 | Search #1 | API Hit: doctor at (31.600660, 74.472761) - Found: 4 customers
-Grid #147 | Search #2 | API Hit: pharmacy at (31.600660, 74.472761) - Found: 15 customers
-Grid #147 | Search #3 | API Hit: dentist at (31.600660, 74.472761) - Found: 0 customers
+Grid #147 | Search #0 | API Hit: hospital at (31.245835, 74.110689) - Found: 0 customers
+Grid #147 | Search #1 | API Hit: doctor at (31.245835, 74.110689) - Found: 0 customers
+Grid #147 | Search #2 | API Hit: pharmacy at (31.245835, 74.110689) - Found: 0 customers
+Grid #147 | Search #3 | API Hit: dentist at (31.245835, 74.110689) - Found: 0 customers
 
 Grid #147 - Total API Hits: 592
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #148 | Search #0 | API Hit: hospital at (31.500049, 74.485337) - Found: 0 customers
-Grid #148 | Search #1 | API Hit: doctor at (31.500049, 74.485337) - Found: 0 customers
-Grid #148 | Search #2 | API Hit: pharmacy at (31.500049, 74.485337) - Found: 2 customers
-Grid #148 | Search #3 | API Hit: dentist at (31.500049, 74.485337) - Found: 0 customers
+Grid #148 | Search #0 | API Hit: hospital at (31.268162, 74.105513) - Found: 0 customers
+Grid #148 | Search #1 | API Hit: doctor at (31.268162, 74.105513) - Found: 0 customers
+Grid #148 | Search #2 | API Hit: pharmacy at (31.268162, 74.105513) - Found: 0 customers
+Grid #148 | Search #3 | API Hit: dentist at (31.268162, 74.105513) - Found: 0 customers
 
 Grid #148 - Total API Hits: 596
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #149 | Search #0 | API Hit: hospital at (31.512626, 74.485337) - Found: 1 customers
-Grid #149 | Search #1 | API Hit: doctor at (31.512626, 74.485337) - Found: 0 customers
-Grid #149 | Search #2 | API Hit: pharmacy at (31.512626, 74.485337) - Found: 0 customers
-Grid #149 | Search #3 | API Hit: dentist at (31.512626, 74.485337) - Found: 0 customers
+Grid #149 | Search #0 | API Hit: hospital at (31.282754, 74.122629) - Found: 0 customers
+Grid #149 | Search #1 | API Hit: doctor at (31.282754, 74.122629) - Found: 0 customers
+Grid #149 | Search #2 | API Hit: pharmacy at (31.282754, 74.122629) - Found: 0 customers
+Grid #149 | Search #3 | API Hit: dentist at (31.282754, 74.122629) - Found: 0 customers
 
 Grid #149 - Total API Hits: 600
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #150 | Search #0 | API Hit: hospital at (31.525202, 74.485337) - Found: 0 customers
-Grid #150 | Search #1 | API Hit: doctor at (31.525202, 74.485337) - Found: 0 customers
-Grid #150 | Search #2 | API Hit: pharmacy at (31.525202, 74.485337) - Found: 0 customers
-Grid #150 | Search #3 | API Hit: dentist at (31.525202, 74.485337) - Found: 0 customers
+Grid #150 | Search #0 | API Hit: hospital at (31.293674, 74.136737) - Found: 1 customers
+Grid #150 | Search #1 | API Hit: doctor at (31.293674, 74.136737) - Found: 0 customers
+Grid #150 | Search #2 | API Hit: pharmacy at (31.293674, 74.136737) - Found: 0 customers
+Grid #150 | Search #3 | API Hit: dentist at (31.293674, 74.136737) - Found: 0 customers
 
 Grid #150 - Total API Hits: 604
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #151 | Search #0 | API Hit: hospital at (31.537778, 74.485337) - Found: 0 customers
-Grid #151 | Search #1 | API Hit: doctor at (31.537778, 74.485337) - Found: 0 customers
-Grid #151 | Search #2 | API Hit: pharmacy at (31.537778, 74.485337) - Found: 1 customers
-Grid #151 | Search #3 | API Hit: dentist at (31.537778, 74.485337) - Found: 0 customers
+Grid #151 | Search #0 | API Hit: hospital at (31.303819, 74.152395) - Found: 2 customers
+Grid #151 | Search #1 | API Hit: doctor at (31.303819, 74.152395) - Found: 0 customers
+Grid #151 | Search #2 | API Hit: pharmacy at (31.303819, 74.152395) - Found: 1 customers
+Grid #151 | Search #3 | API Hit: dentist at (31.303819, 74.152395) - Found: 0 customers
 
 Grid #151 - Total API Hits: 608
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #152 | Search #0 | API Hit: hospital at (31.550355, 74.485337) - Found: 0 customers
-Grid #152 | Search #1 | API Hit: doctor at (31.550355, 74.485337) - Found: 0 customers
-Grid #152 | Search #2 | API Hit: pharmacy at (31.550355, 74.485337) - Found: 1 customers
-Grid #152 | Search #3 | API Hit: dentist at (31.550355, 74.485337) - Found: 0 customers
+Grid #152 | Search #0 | API Hit: hospital at (31.306975, 74.160659) - Found: 2 customers
+Grid #152 | Search #1 | API Hit: doctor at (31.306975, 74.160659) - Found: 0 customers
+Grid #152 | Search #2 | API Hit: pharmacy at (31.306975, 74.160659) - Found: 1 customers
+Grid #152 | Search #3 | API Hit: dentist at (31.306975, 74.160659) - Found: 0 customers
 
 Grid #152 - Total API Hits: 612
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #153 | Search #0 | API Hit: hospital at (31.562931, 74.485337) - Found: 6 customers
-Grid #153 | Search #1 | API Hit: doctor at (31.562931, 74.485337) - Found: 0 customers
-Grid #153 | Search #2 | API Hit: pharmacy at (31.562931, 74.485337) - Found: 0 customers
-Grid #153 | Search #3 | API Hit: dentist at (31.562931, 74.485337) - Found: 0 customers
+Grid #153 | Search #0 | API Hit: hospital at (31.312959, 74.161418) - Found: 3 customers
+Grid #153 | Search #1 | API Hit: doctor at (31.312959, 74.161418) - Found: 0 customers
+Grid #153 | Search #2 | API Hit: pharmacy at (31.312959, 74.161418) - Found: 1 customers
+Grid #153 | Search #3 | API Hit: dentist at (31.312959, 74.161418) - Found: 0 customers
 
 Grid #153 - Total API Hits: 616
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #154 | Search #0 | API Hit: hospital at (31.575507, 74.485337) - Found: 10 customers
-Grid #154 | Search #1 | API Hit: doctor at (31.575507, 74.485337) - Found: 1 customers
-Grid #154 | Search #2 | API Hit: pharmacy at (31.575507, 74.485337) - Found: 6 customers
-Grid #154 | Search #3 | API Hit: dentist at (31.575507, 74.485337) - Found: 1 customers
+Grid #154 | Search #0 | API Hit: hospital at (31.326751, 74.150378) - Found: 3 customers
+Grid #154 | Search #1 | API Hit: doctor at (31.326751, 74.150378) - Found: 0 customers
+Grid #154 | Search #2 | API Hit: pharmacy at (31.326751, 74.150378) - Found: 0 customers
+Grid #154 | Search #3 | API Hit: dentist at (31.326751, 74.150378) - Found: 0 customers
 
 Grid #154 - Total API Hits: 620
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #155 | Search #0 | API Hit: hospital at (31.588084, 74.485337) - Found: 11 customers
-Grid #155 | Search #1 | API Hit: doctor at (31.588084, 74.485337) - Found: 4 customers
-Grid #155 | Search #2 | API Hit: pharmacy at (31.588084, 74.485337) - Found: 17 customers
-Grid #155 | Search #3 | API Hit: dentist at (31.588084, 74.485337) - Found: 1 customers
+Grid #155 | Search #0 | API Hit: hospital at (31.339699, 74.138097) - Found: 3 customers
+Grid #155 | Search #1 | API Hit: doctor at (31.339699, 74.138097) - Found: 0 customers
+Grid #155 | Search #2 | API Hit: pharmacy at (31.339699, 74.138097) - Found: 0 customers
+Grid #155 | Search #3 | API Hit: dentist at (31.339699, 74.138097) - Found: 0 customers
 
 Grid #155 - Total API Hits: 624
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #156 | Search #0 | API Hit: hospital at (31.600660, 74.485337) - Found: 8 customers
-Grid #156 | Search #1 | API Hit: doctor at (31.600660, 74.485337) - Found: 5 customers
-Grid #156 | Search #2 | API Hit: pharmacy at (31.600660, 74.485337) - Found: 12 customers
-Grid #156 | Search #3 | API Hit: dentist at (31.600660, 74.485337) - Found: 0 customers
+Grid #156 | Search #0 | API Hit: hospital at (31.357373, 74.141476) - Found: 2 customers
+Grid #156 | Search #1 | API Hit: doctor at (31.357373, 74.141476) - Found: 0 customers
+Grid #156 | Search #2 | API Hit: pharmacy at (31.357373, 74.141476) - Found: 1 customers
+Grid #156 | Search #3 | API Hit: dentist at (31.357373, 74.141476) - Found: 0 customers
 
 Grid #156 - Total API Hits: 628
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #157 | Search #0 | API Hit: hospital at (31.613237, 74.485337) - Found: 3 customers
-Grid #157 | Search #1 | API Hit: doctor at (31.613237, 74.485337) - Found: 1 customers
-Grid #157 | Search #2 | API Hit: pharmacy at (31.613237, 74.485337) - Found: 0 customers
-Grid #157 | Search #3 | API Hit: dentist at (31.613237, 74.485337) - Found: 0 customers
+Grid #157 | Search #0 | API Hit: hospital at (31.331711, 74.157544) - Found: 3 customers
+Grid #157 | Search #1 | API Hit: doctor at (31.331711, 74.157544) - Found: 0 customers
+Grid #157 | Search #2 | API Hit: pharmacy at (31.331711, 74.157544) - Found: 0 customers
+Grid #157 | Search #3 | API Hit: dentist at (31.331711, 74.157544) - Found: 0 customers
 
 Grid #157 - Total API Hits: 632
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #158 | Search #0 | API Hit: hospital at (31.487473, 74.497913) - Found: 2 customers
-Grid #158 | Search #1 | API Hit: doctor at (31.487473, 74.497913) - Found: 1 customers
-Grid #158 | Search #2 | API Hit: pharmacy at (31.487473, 74.497913) - Found: 3 customers
-Grid #158 | Search #3 | API Hit: dentist at (31.487473, 74.497913) - Found: 0 customers
+Grid #158 | Search #0 | API Hit: hospital at (31.329611, 74.202720) - Found: 7 customers
+Grid #158 | Search #1 | API Hit: doctor at (31.329611, 74.202720) - Found: 1 customers
+Grid #158 | Search #2 | API Hit: pharmacy at (31.329611, 74.202720) - Found: 3 customers
+Grid #158 | Search #3 | API Hit: dentist at (31.329611, 74.202720) - Found: 0 customers
 
 Grid #158 - Total API Hits: 636
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #159 | Search #0 | API Hit: hospital at (31.500049, 74.497913) - Found: 1 customers
-Grid #159 | Search #1 | API Hit: doctor at (31.500049, 74.497913) - Found: 0 customers
-Grid #159 | Search #2 | API Hit: pharmacy at (31.500049, 74.497913) - Found: 1 customers
-Grid #159 | Search #3 | API Hit: dentist at (31.500049, 74.497913) - Found: 0 customers
+Grid #159 | Search #0 | API Hit: hospital at (31.331689, 74.210149) - Found: 8 customers
+Grid #159 | Search #1 | API Hit: doctor at (31.331689, 74.210149) - Found: 1 customers
+Grid #159 | Search #2 | API Hit: pharmacy at (31.331689, 74.210149) - Found: 2 customers
+Grid #159 | Search #3 | API Hit: dentist at (31.331689, 74.210149) - Found: 1 customers
 
 Grid #159 - Total API Hits: 640
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #160 | Search #0 | API Hit: hospital at (31.512626, 74.497913) - Found: 1 customers
-Grid #160 | Search #1 | API Hit: doctor at (31.512626, 74.497913) - Found: 0 customers
-Grid #160 | Search #2 | API Hit: pharmacy at (31.512626, 74.497913) - Found: 0 customers
-Grid #160 | Search #3 | API Hit: dentist at (31.512626, 74.497913) - Found: 0 customers
+Grid #160 | Search #0 | API Hit: hospital at (31.326258, 74.229997) - Found: 6 customers
+Grid #160 | Search #1 | API Hit: doctor at (31.326258, 74.229997) - Found: 3 customers
+Grid #160 | Search #2 | API Hit: pharmacy at (31.326258, 74.229997) - Found: 10 customers
+Grid #160 | Search #3 | API Hit: dentist at (31.326258, 74.229997) - Found: 1 customers
 
 Grid #160 - Total API Hits: 644
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #161 | Search #0 | API Hit: hospital at (31.525202, 74.497913) - Found: 0 customers
-Grid #161 | Search #1 | API Hit: doctor at (31.525202, 74.497913) - Found: 0 customers
-Grid #161 | Search #2 | API Hit: pharmacy at (31.525202, 74.497913) - Found: 0 customers
-Grid #161 | Search #3 | API Hit: dentist at (31.525202, 74.497913) - Found: 0 customers
+Grid #161 | Search #0 | API Hit: hospital at (31.318641, 74.235588) - Found: 5 customers
+Grid #161 | Search #1 | API Hit: doctor at (31.318641, 74.235588) - Found: 1 customers
+Grid #161 | Search #2 | API Hit: pharmacy at (31.318641, 74.235588) - Found: 4 customers
+Grid #161 | Search #3 | API Hit: dentist at (31.318641, 74.235588) - Found: 0 customers
 
 Grid #161 - Total API Hits: 648
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #162 | Search #0 | API Hit: hospital at (31.537778, 74.497913) - Found: 0 customers
-Grid #162 | Search #1 | API Hit: doctor at (31.537778, 74.497913) - Found: 0 customers
-Grid #162 | Search #2 | API Hit: pharmacy at (31.537778, 74.497913) - Found: 1 customers
-Grid #162 | Search #3 | API Hit: dentist at (31.537778, 74.497913) - Found: 0 customers
+Grid #162 | Search #0 | API Hit: hospital at (31.313984, 74.255874) - Found: 1 customers
+Grid #162 | Search #1 | API Hit: doctor at (31.313984, 74.255874) - Found: 0 customers
+Grid #162 | Search #2 | API Hit: pharmacy at (31.313984, 74.255874) - Found: 0 customers
+Grid #162 | Search #3 | API Hit: dentist at (31.313984, 74.255874) - Found: 0 customers
 
 Grid #162 - Total API Hits: 652
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #163 | Search #0 | API Hit: hospital at (31.550355, 74.497913) - Found: 1 customers
-Grid #163 | Search #1 | API Hit: doctor at (31.550355, 74.497913) - Found: 0 customers
-Grid #163 | Search #2 | API Hit: pharmacy at (31.550355, 74.497913) - Found: 1 customers
-Grid #163 | Search #3 | API Hit: dentist at (31.550355, 74.497913) - Found: 0 customers
+Grid #163 | Search #0 | API Hit: hospital at (31.287228, 74.243348) - Found: 4 customers
+Grid #163 | Search #1 | API Hit: doctor at (31.287228, 74.243348) - Found: 0 customers
+Grid #163 | Search #2 | API Hit: pharmacy at (31.287228, 74.243348) - Found: 0 customers
+Grid #163 | Search #3 | API Hit: dentist at (31.287228, 74.243348) - Found: 0 customers
 
 Grid #163 - Total API Hits: 656
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #164 | Search #0 | API Hit: hospital at (31.562931, 74.497913) - Found: 5 customers
-Grid #164 | Search #1 | API Hit: doctor at (31.562931, 74.497913) - Found: 0 customers
-Grid #164 | Search #2 | API Hit: pharmacy at (31.562931, 74.497913) - Found: 0 customers
-Grid #164 | Search #3 | API Hit: dentist at (31.562931, 74.497913) - Found: 0 customers
+Grid #164 | Search #0 | API Hit: hospital at (31.278605, 74.240755) - Found: 5 customers
+Grid #164 | Search #1 | API Hit: doctor at (31.278605, 74.240755) - Found: 0 customers
+Grid #164 | Search #2 | API Hit: pharmacy at (31.278605, 74.240755) - Found: 3 customers
+Grid #164 | Search #3 | API Hit: dentist at (31.278605, 74.240755) - Found: 0 customers
 
 Grid #164 - Total API Hits: 660
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #165 | Search #0 | API Hit: hospital at (31.575507, 74.497913) - Found: 7 customers
-Grid #165 | Search #1 | API Hit: doctor at (31.575507, 74.497913) - Found: 0 customers
-Grid #165 | Search #2 | API Hit: pharmacy at (31.575507, 74.497913) - Found: 3 customers
-Grid #165 | Search #3 | API Hit: dentist at (31.575507, 74.497913) - Found: 0 customers
+Grid #165 | Search #0 | API Hit: hospital at (31.258488, 74.243094) - Found: 9 customers
+Grid #165 | Search #1 | API Hit: doctor at (31.258488, 74.243094) - Found: 1 customers
+Grid #165 | Search #2 | API Hit: pharmacy at (31.258488, 74.243094) - Found: 2 customers
+Grid #165 | Search #3 | API Hit: dentist at (31.258488, 74.243094) - Found: 0 customers
 
 Grid #165 - Total API Hits: 664
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #166 | Search #0 | API Hit: hospital at (31.588084, 74.497913) - Found: 7 customers
-Grid #166 | Search #1 | API Hit: doctor at (31.588084, 74.497913) - Found: 1 customers
-Grid #166 | Search #2 | API Hit: pharmacy at (31.588084, 74.497913) - Found: 12 customers
-Grid #166 | Search #3 | API Hit: dentist at (31.588084, 74.497913) - Found: 0 customers
+Grid #166 | Search #0 | API Hit: hospital at (31.240267, 74.225803) - Found: 20 customers
+Grid #166 | Search #1 | API Hit: doctor at (31.240267, 74.225803) - Found: 5 customers
+Grid #166 | Search #2 | API Hit: pharmacy at (31.240267, 74.225803) - Found: 16 customers
+Grid #166 | Search #3 | API Hit: dentist at (31.240267, 74.225803) - Found: 1 customers
 
 Grid #166 - Total API Hits: 668
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #167 | Search #0 | API Hit: hospital at (31.487473, 74.510490) - Found: 2 customers
-Grid #167 | Search #1 | API Hit: doctor at (31.487473, 74.510490) - Found: 1 customers
-Grid #167 | Search #2 | API Hit: pharmacy at (31.487473, 74.510490) - Found: 4 customers
-Grid #167 | Search #3 | API Hit: dentist at (31.487473, 74.510490) - Found: 0 customers
+Grid #167 | Search #0 | API Hit: hospital at (31.224997, 74.194187) - Found: 4 customers
+Grid #167 | Search #1 | API Hit: doctor at (31.224997, 74.194187) - Found: 0 customers
+Grid #167 | Search #2 | API Hit: pharmacy at (31.224997, 74.194187) - Found: 2 customers
+Grid #167 | Search #3 | API Hit: dentist at (31.224997, 74.194187) - Found: 0 customers
 
 Grid #167 - Total API Hits: 672
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #168 | Search #0 | API Hit: hospital at (31.500049, 74.510490) - Found: 0 customers
-Grid #168 | Search #1 | API Hit: doctor at (31.500049, 74.510490) - Found: 0 customers
-Grid #168 | Search #2 | API Hit: pharmacy at (31.500049, 74.510490) - Found: 0 customers
-Grid #168 | Search #3 | API Hit: dentist at (31.500049, 74.510490) - Found: 0 customers
+Grid #168 | Search #0 | API Hit: hospital at (31.301727, 74.175563) - Found: 2 customers
+Grid #168 | Search #1 | API Hit: doctor at (31.301727, 74.175563) - Found: 0 customers
+Grid #168 | Search #2 | API Hit: pharmacy at (31.301727, 74.175563) - Found: 3 customers
+Grid #168 | Search #3 | API Hit: dentist at (31.301727, 74.175563) - Found: 0 customers
 
 Grid #168 - Total API Hits: 676
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #169 | Search #0 | API Hit: hospital at (31.512626, 74.510490) - Found: 0 customers
-Grid #169 | Search #1 | API Hit: doctor at (31.512626, 74.510490) - Found: 0 customers
-Grid #169 | Search #2 | API Hit: pharmacy at (31.512626, 74.510490) - Found: 0 customers
-Grid #169 | Search #3 | API Hit: dentist at (31.512626, 74.510490) - Found: 0 customers
+Grid #169 | Search #0 | API Hit: hospital at (31.301592, 74.166792) - Found: 2 customers
+Grid #169 | Search #1 | API Hit: doctor at (31.301592, 74.166792) - Found: 0 customers
+Grid #169 | Search #2 | API Hit: pharmacy at (31.301592, 74.166792) - Found: 3 customers
+Grid #169 | Search #3 | API Hit: dentist at (31.301592, 74.166792) - Found: 0 customers
 
 Grid #169 - Total API Hits: 680
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #170 | Search #0 | API Hit: hospital at (31.525202, 74.510490) - Found: 0 customers
-Grid #170 | Search #1 | API Hit: doctor at (31.525202, 74.510490) - Found: 0 customers
-Grid #170 | Search #2 | API Hit: pharmacy at (31.525202, 74.510490) - Found: 0 customers
-Grid #170 | Search #3 | API Hit: dentist at (31.525202, 74.510490) - Found: 0 customers
+Grid #170 | Search #0 | API Hit: hospital at (31.282027, 74.168377) - Found: 0 customers
+Grid #170 | Search #1 | API Hit: doctor at (31.282027, 74.168377) - Found: 0 customers
+Grid #170 | Search #2 | API Hit: pharmacy at (31.282027, 74.168377) - Found: 2 customers
+Grid #170 | Search #3 | API Hit: dentist at (31.282027, 74.168377) - Found: 0 customers
 
 Grid #170 - Total API Hits: 684
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
   Dentist Search Hits: 1
-Grid #171 | Search #0 | API Hit: hospital at (31.537778, 74.510490) - Found: 0 customers
-Grid #171 | Search #1 | API Hit: doctor at (31.537778, 74.510490) - Found: 0 customers
-Grid #171 | Search #2 | API Hit: pharmacy at (31.537778, 74.510490) - Found: 0 customers
-Grid #171 | Search #3 | API Hit: dentist at (31.537778, 74.510490) - Found: 0 customers
+Grid #171 | Search #0 | API Hit: hospital at (31.269711, 74.187100) - Found: 2 customers
+Grid #171 | Search #1 | API Hit: doctor at (31.269711, 74.187100) - Found: 0 customers
+Grid #171 | Search #2 | API Hit: pharmacy at (31.269711, 74.187100) - Found: 0 customers
+Grid #171 | Search #3 | API Hit: dentist at (31.269711, 74.187100) - Found: 0 customers
 
 Grid #171 - Total API Hits: 688
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #172 | Search #0 | API Hit: hospital at (31.550355, 74.510490) - Found: 1 customers
-Grid #172 | Search #1 | API Hit: doctor at (31.550355, 74.510490) - Found: 0 customers
-Grid #172 | Search #2 | API Hit: pharmacy at (31.550355, 74.510490) - Found: 0 customers
-Grid #172 | Search #3 | API Hit: dentist at (31.550355, 74.510490) - Found: 0 customers
-
-Grid #172 - Total API Hits: 692
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #173 | Search #0 | API Hit: hospital at (31.474897, 74.523066) - Found: 1 customers
-Grid #173 | Search #1 | API Hit: doctor at (31.474897, 74.523066) - Found: 0 customers
-Grid #173 | Search #2 | API Hit: pharmacy at (31.474897, 74.523066) - Found: 4 customers
-Grid #173 | Search #3 | API Hit: dentist at (31.474897, 74.523066) - Found: 0 customers
-
-Grid #173 - Total API Hits: 696
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #174 | Search #0 | API Hit: hospital at (31.487473, 74.523066) - Found: 1 customers
-Grid #174 | Search #1 | API Hit: doctor at (31.487473, 74.523066) - Found: 0 customers
-Grid #174 | Search #2 | API Hit: pharmacy at (31.487473, 74.523066) - Found: 4 customers
-Grid #174 | Search #3 | API Hit: dentist at (31.487473, 74.523066) - Found: 0 customers
-
-Grid #174 - Total API Hits: 700
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #175 | Search #0 | API Hit: hospital at (31.500049, 74.523066) - Found: 0 customers
-Grid #175 | Search #1 | API Hit: doctor at (31.500049, 74.523066) - Found: 0 customers
-Grid #175 | Search #2 | API Hit: pharmacy at (31.500049, 74.523066) - Found: 0 customers
-Grid #175 | Search #3 | API Hit: dentist at (31.500049, 74.523066) - Found: 0 customers
-
-Grid #175 - Total API Hits: 704
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #176 | Search #0 | API Hit: hospital at (31.512626, 74.523066) - Found: 1 customers
-Grid #176 | Search #1 | API Hit: doctor at (31.512626, 74.523066) - Found: 0 customers
-Grid #176 | Search #2 | API Hit: pharmacy at (31.512626, 74.523066) - Found: 0 customers
-Grid #176 | Search #3 | API Hit: dentist at (31.512626, 74.523066) - Found: 0 customers
-
-Grid #176 - Total API Hits: 708
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #177 | Search #0 | API Hit: hospital at (31.525202, 74.523066) - Found: 1 customers
-Grid #177 | Search #1 | API Hit: doctor at (31.525202, 74.523066) - Found: 0 customers
-Grid #177 | Search #2 | API Hit: pharmacy at (31.525202, 74.523066) - Found: 0 customers
-Grid #177 | Search #3 | API Hit: dentist at (31.525202, 74.523066) - Found: 0 customers
-
-Grid #177 - Total API Hits: 712
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #178 | Search #0 | API Hit: hospital at (31.537778, 74.523066) - Found: 1 customers
-Grid #178 | Search #1 | API Hit: doctor at (31.537778, 74.523066) - Found: 0 customers
-Grid #178 | Search #2 | API Hit: pharmacy at (31.537778, 74.523066) - Found: 1 customers
-Grid #178 | Search #3 | API Hit: dentist at (31.537778, 74.523066) - Found: 0 customers
-
-Grid #178 - Total API Hits: 716
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #179 | Search #0 | API Hit: hospital at (31.550355, 74.523066) - Found: 2 customers
-Grid #179 | Search #1 | API Hit: doctor at (31.550355, 74.523066) - Found: 0 customers
-Grid #179 | Search #2 | API Hit: pharmacy at (31.550355, 74.523066) - Found: 1 customers
-Grid #179 | Search #3 | API Hit: dentist at (31.550355, 74.523066) - Found: 0 customers
-
-Grid #179 - Total API Hits: 720
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #180 | Search #0 | API Hit: hospital at (31.462320, 74.535642) - Found: 0 customers
-Grid #180 | Search #1 | API Hit: doctor at (31.462320, 74.535642) - Found: 0 customers
-Grid #180 | Search #2 | API Hit: pharmacy at (31.462320, 74.535642) - Found: 0 customers
-Grid #180 | Search #3 | API Hit: dentist at (31.462320, 74.535642) - Found: 0 customers
-
-Grid #180 - Total API Hits: 724
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #181 | Search #0 | API Hit: hospital at (31.474897, 74.535642) - Found: 0 customers
-Grid #181 | Search #1 | API Hit: doctor at (31.474897, 74.535642) - Found: 0 customers
-Grid #181 | Search #2 | API Hit: pharmacy at (31.474897, 74.535642) - Found: 0 customers
-Grid #181 | Search #3 | API Hit: dentist at (31.474897, 74.535642) - Found: 0 customers
-
-Grid #181 - Total API Hits: 728
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #182 | Search #0 | API Hit: hospital at (31.487473, 74.535642) - Found: 0 customers
-Grid #182 | Search #1 | API Hit: doctor at (31.487473, 74.535642) - Found: 0 customers
-Grid #182 | Search #2 | API Hit: pharmacy at (31.487473, 74.535642) - Found: 0 customers
-Grid #182 | Search #3 | API Hit: dentist at (31.487473, 74.535642) - Found: 0 customers
-
-Grid #182 - Total API Hits: 732
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #183 | Search #0 | API Hit: hospital at (31.500049, 74.535642) - Found: 0 customers
-Grid #183 | Search #1 | API Hit: doctor at (31.500049, 74.535642) - Found: 0 customers
-Grid #183 | Search #2 | API Hit: pharmacy at (31.500049, 74.535642) - Found: 0 customers
-Grid #183 | Search #3 | API Hit: dentist at (31.500049, 74.535642) - Found: 0 customers
-
-Grid #183 - Total API Hits: 736
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #184 | Search #0 | API Hit: hospital at (31.512626, 74.535642) - Found: 1 customers
-Grid #184 | Search #1 | API Hit: doctor at (31.512626, 74.535642) - Found: 0 customers
-Grid #184 | Search #2 | API Hit: pharmacy at (31.512626, 74.535642) - Found: 0 customers
-Grid #184 | Search #3 | API Hit: dentist at (31.512626, 74.535642) - Found: 0 customers
-
-Grid #184 - Total API Hits: 740
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #185 | Search #0 | API Hit: hospital at (31.525202, 74.535642) - Found: 1 customers
-Grid #185 | Search #1 | API Hit: doctor at (31.525202, 74.535642) - Found: 0 customers
-Grid #185 | Search #2 | API Hit: pharmacy at (31.525202, 74.535642) - Found: 1 customers
-Grid #185 | Search #3 | API Hit: dentist at (31.525202, 74.535642) - Found: 0 customers
-
-Grid #185 - Total API Hits: 744
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #186 | Search #0 | API Hit: hospital at (31.537778, 74.535642) - Found: 1 customers
-Grid #186 | Search #1 | API Hit: doctor at (31.537778, 74.535642) - Found: 0 customers
-Grid #186 | Search #2 | API Hit: pharmacy at (31.537778, 74.535642) - Found: 2 customers
-Grid #186 | Search #3 | API Hit: dentist at (31.537778, 74.535642) - Found: 0 customers
-
-Grid #186 - Total API Hits: 748
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #187 | Search #0 | API Hit: hospital at (31.449744, 74.548219) - Found: 0 customers
-Grid #187 | Search #1 | API Hit: doctor at (31.449744, 74.548219) - Found: 0 customers
-Grid #187 | Search #2 | API Hit: pharmacy at (31.449744, 74.548219) - Found: 3 customers
-Grid #187 | Search #3 | API Hit: dentist at (31.449744, 74.548219) - Found: 0 customers
-
-Grid #187 - Total API Hits: 752
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #188 | Search #0 | API Hit: hospital at (31.462320, 74.548219) - Found: 0 customers
-Grid #188 | Search #1 | API Hit: doctor at (31.462320, 74.548219) - Found: 0 customers
-Grid #188 | Search #2 | API Hit: pharmacy at (31.462320, 74.548219) - Found: 0 customers
-Grid #188 | Search #3 | API Hit: dentist at (31.462320, 74.548219) - Found: 0 customers
-
-Grid #188 - Total API Hits: 756
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #189 | Search #0 | API Hit: hospital at (31.474897, 74.548219) - Found: 0 customers
-Grid #189 | Search #1 | API Hit: doctor at (31.474897, 74.548219) - Found: 0 customers
-Grid #189 | Search #2 | API Hit: pharmacy at (31.474897, 74.548219) - Found: 0 customers
-Grid #189 | Search #3 | API Hit: dentist at (31.474897, 74.548219) - Found: 0 customers
-
-Grid #189 - Total API Hits: 760
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #190 | Search #0 | API Hit: hospital at (31.487473, 74.548219) - Found: 0 customers
-Grid #190 | Search #1 | API Hit: doctor at (31.487473, 74.548219) - Found: 0 customers
-Grid #190 | Search #2 | API Hit: pharmacy at (31.487473, 74.548219) - Found: 0 customers
-Grid #190 | Search #3 | API Hit: dentist at (31.487473, 74.548219) - Found: 0 customers
-
-Grid #190 - Total API Hits: 764
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #191 | Search #0 | API Hit: hospital at (31.500049, 74.548219) - Found: 0 customers
-Grid #191 | Search #1 | API Hit: doctor at (31.500049, 74.548219) - Found: 0 customers
-Grid #191 | Search #2 | API Hit: pharmacy at (31.500049, 74.548219) - Found: 0 customers
-Grid #191 | Search #3 | API Hit: dentist at (31.500049, 74.548219) - Found: 0 customers
-
-Grid #191 - Total API Hits: 768
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #192 | Search #0 | API Hit: hospital at (31.512626, 74.548219) - Found: 1 customers
-Grid #192 | Search #1 | API Hit: doctor at (31.512626, 74.548219) - Found: 0 customers
-Grid #192 | Search #2 | API Hit: pharmacy at (31.512626, 74.548219) - Found: 0 customers
-Grid #192 | Search #3 | API Hit: dentist at (31.512626, 74.548219) - Found: 0 customers
-
-Grid #192 - Total API Hits: 772
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #193 | Search #0 | API Hit: hospital at (31.525202, 74.548219) - Found: 1 customers
-Grid #193 | Search #1 | API Hit: doctor at (31.525202, 74.548219) - Found: 0 customers
-Grid #193 | Search #2 | API Hit: pharmacy at (31.525202, 74.548219) - Found: 1 customers
-Grid #193 | Search #3 | API Hit: dentist at (31.525202, 74.548219) - Found: 0 customers
-
-Grid #193 - Total API Hits: 776
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #194 | Search #0 | API Hit: hospital at (31.437168, 74.560795) - Found: 0 customers
-Grid #194 | Search #1 | API Hit: doctor at (31.437168, 74.560795) - Found: 0 customers
-Grid #194 | Search #2 | API Hit: pharmacy at (31.437168, 74.560795) - Found: 5 customers
-Grid #194 | Search #3 | API Hit: dentist at (31.437168, 74.560795) - Found: 0 customers
-
-Grid #194 - Total API Hits: 780
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #195 | Search #0 | API Hit: hospital at (31.449744, 74.560795) - Found: 1 customers
-Grid #195 | Search #1 | API Hit: doctor at (31.449744, 74.560795) - Found: 0 customers
-Grid #195 | Search #2 | API Hit: pharmacy at (31.449744, 74.560795) - Found: 5 customers
-Grid #195 | Search #3 | API Hit: dentist at (31.449744, 74.560795) - Found: 0 customers
-
-Grid #195 - Total API Hits: 784
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #196 | Search #0 | API Hit: hospital at (31.462320, 74.560795) - Found: 0 customers
-Grid #196 | Search #1 | API Hit: doctor at (31.462320, 74.560795) - Found: 0 customers
-Grid #196 | Search #2 | API Hit: pharmacy at (31.462320, 74.560795) - Found: 0 customers
-Grid #196 | Search #3 | API Hit: dentist at (31.462320, 74.560795) - Found: 0 customers
-
-Grid #196 - Total API Hits: 788
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #197 | Search #0 | API Hit: hospital at (31.474897, 74.560795) - Found: 0 customers
-Grid #197 | Search #1 | API Hit: doctor at (31.474897, 74.560795) - Found: 0 customers
-Grid #197 | Search #2 | API Hit: pharmacy at (31.474897, 74.560795) - Found: 0 customers
-Grid #197 | Search #3 | API Hit: dentist at (31.474897, 74.560795) - Found: 0 customers
-
-Grid #197 - Total API Hits: 792
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #198 | Search #0 | API Hit: hospital at (31.487473, 74.560795) - Found: 0 customers
-Grid #198 | Search #1 | API Hit: doctor at (31.487473, 74.560795) - Found: 0 customers
-Grid #198 | Search #2 | API Hit: pharmacy at (31.487473, 74.560795) - Found: 0 customers
-Grid #198 | Search #3 | API Hit: dentist at (31.487473, 74.560795) - Found: 0 customers
-
-Grid #198 - Total API Hits: 796
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #199 | Search #0 | API Hit: hospital at (31.500049, 74.560795) - Found: 0 customers
-Grid #199 | Search #1 | API Hit: doctor at (31.500049, 74.560795) - Found: 0 customers
-Grid #199 | Search #2 | API Hit: pharmacy at (31.500049, 74.560795) - Found: 0 customers
-Grid #199 | Search #3 | API Hit: dentist at (31.500049, 74.560795) - Found: 0 customers
-
-Grid #199 - Total API Hits: 800
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #200 | Search #0 | API Hit: hospital at (31.512626, 74.560795) - Found: 1 customers
-Grid #200 | Search #1 | API Hit: doctor at (31.512626, 74.560795) - Found: 0 customers
-Grid #200 | Search #2 | API Hit: pharmacy at (31.512626, 74.560795) - Found: 0 customers
-Grid #200 | Search #3 | API Hit: dentist at (31.512626, 74.560795) - Found: 0 customers
-
-Grid #200 - Total API Hits: 804
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #201 | Search #0 | API Hit: hospital at (31.437168, 74.573371) - Found: 1 customers
-Grid #201 | Search #1 | API Hit: doctor at (31.437168, 74.573371) - Found: 0 customers
-Grid #201 | Search #2 | API Hit: pharmacy at (31.437168, 74.573371) - Found: 5 customers
-Grid #201 | Search #3 | API Hit: dentist at (31.437168, 74.573371) - Found: 0 customers
-
-Grid #201 - Total API Hits: 808
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #202 | Search #0 | API Hit: hospital at (31.449744, 74.573371) - Found: 1 customers
-Grid #202 | Search #1 | API Hit: doctor at (31.449744, 74.573371) - Found: 0 customers
-Grid #202 | Search #2 | API Hit: pharmacy at (31.449744, 74.573371) - Found: 5 customers
-Grid #202 | Search #3 | API Hit: dentist at (31.449744, 74.573371) - Found: 0 customers
-
-Grid #202 - Total API Hits: 812
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #203 | Search #0 | API Hit: hospital at (31.462320, 74.573371) - Found: 1 customers
-Grid #203 | Search #1 | API Hit: doctor at (31.462320, 74.573371) - Found: 0 customers
-Grid #203 | Search #2 | API Hit: pharmacy at (31.462320, 74.573371) - Found: 0 customers
-Grid #203 | Search #3 | API Hit: dentist at (31.462320, 74.573371) - Found: 0 customers
-
-Grid #203 - Total API Hits: 816
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #204 | Search #0 | API Hit: hospital at (31.474897, 74.573371) - Found: 0 customers
-Grid #204 | Search #1 | API Hit: doctor at (31.474897, 74.573371) - Found: 0 customers
-Grid #204 | Search #2 | API Hit: pharmacy at (31.474897, 74.573371) - Found: 0 customers
-Grid #204 | Search #3 | API Hit: dentist at (31.474897, 74.573371) - Found: 0 customers
-
-Grid #204 - Total API Hits: 820
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #205 | Search #0 | API Hit: hospital at (31.487473, 74.573371) - Found: 0 customers
-Grid #205 | Search #1 | API Hit: doctor at (31.487473, 74.573371) - Found: 0 customers
-Grid #205 | Search #2 | API Hit: pharmacy at (31.487473, 74.573371) - Found: 0 customers
-Grid #205 | Search #3 | API Hit: dentist at (31.487473, 74.573371) - Found: 0 customers
-
-Grid #205 - Total API Hits: 824
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #206 | Search #0 | API Hit: hospital at (31.500049, 74.573371) - Found: 0 customers
-Grid #206 | Search #1 | API Hit: doctor at (31.500049, 74.573371) - Found: 0 customers
-Grid #206 | Search #2 | API Hit: pharmacy at (31.500049, 74.573371) - Found: 0 customers
-Grid #206 | Search #3 | API Hit: dentist at (31.500049, 74.573371) - Found: 0 customers
-
-Grid #206 - Total API Hits: 828
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #207 | Search #0 | API Hit: hospital at (31.424591, 74.585948) - Found: 1 customers
-Grid #207 | Search #1 | API Hit: doctor at (31.424591, 74.585948) - Found: 0 customers
-Grid #207 | Search #2 | API Hit: pharmacy at (31.424591, 74.585948) - Found: 0 customers
-Grid #207 | Search #3 | API Hit: dentist at (31.424591, 74.585948) - Found: 0 customers
-
-Grid #207 - Total API Hits: 832
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #208 | Search #0 | API Hit: hospital at (31.437168, 74.585948) - Found: 1 customers
-Grid #208 | Search #1 | API Hit: doctor at (31.437168, 74.585948) - Found: 0 customers
-Grid #208 | Search #2 | API Hit: pharmacy at (31.437168, 74.585948) - Found: 0 customers
-Grid #208 | Search #3 | API Hit: dentist at (31.437168, 74.585948) - Found: 0 customers
-
-Grid #208 - Total API Hits: 836
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #209 | Search #0 | API Hit: hospital at (31.449744, 74.585948) - Found: 1 customers
-Grid #209 | Search #1 | API Hit: doctor at (31.449744, 74.585948) - Found: 0 customers
-Grid #209 | Search #2 | API Hit: pharmacy at (31.449744, 74.585948) - Found: 0 customers
-Grid #209 | Search #3 | API Hit: dentist at (31.449744, 74.585948) - Found: 0 customers
-
-Grid #209 - Total API Hits: 840
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #210 | Search #0 | API Hit: hospital at (31.462320, 74.585948) - Found: 0 customers
-Grid #210 | Search #1 | API Hit: doctor at (31.462320, 74.585948) - Found: 0 customers
-Grid #210 | Search #2 | API Hit: pharmacy at (31.462320, 74.585948) - Found: 0 customers
-Grid #210 | Search #3 | API Hit: dentist at (31.462320, 74.585948) - Found: 0 customers
-
-Grid #210 - Total API Hits: 844
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #211 | Search #0 | API Hit: hospital at (31.474897, 74.585948) - Found: 0 customers
-Grid #211 | Search #1 | API Hit: doctor at (31.474897, 74.585948) - Found: 0 customers
-Grid #211 | Search #2 | API Hit: pharmacy at (31.474897, 74.585948) - Found: 0 customers
-Grid #211 | Search #3 | API Hit: dentist at (31.474897, 74.585948) - Found: 0 customers
-
-Grid #211 - Total API Hits: 848
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #212 | Search #0 | API Hit: hospital at (31.487473, 74.585948) - Found: 0 customers
-Grid #212 | Search #1 | API Hit: doctor at (31.487473, 74.585948) - Found: 0 customers
-Grid #212 | Search #2 | API Hit: pharmacy at (31.487473, 74.585948) - Found: 0 customers
-Grid #212 | Search #3 | API Hit: dentist at (31.487473, 74.585948) - Found: 0 customers
-
-Grid #212 - Total API Hits: 852
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #213 | Search #0 | API Hit: hospital at (31.424591, 74.598524) - Found: 0 customers
-Grid #213 | Search #1 | API Hit: doctor at (31.424591, 74.598524) - Found: 0 customers
-Grid #213 | Search #2 | API Hit: pharmacy at (31.424591, 74.598524) - Found: 0 customers
-Grid #213 | Search #3 | API Hit: dentist at (31.424591, 74.598524) - Found: 0 customers
-
-Grid #213 - Total API Hits: 856
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #214 | Search #0 | API Hit: hospital at (31.437168, 74.598524) - Found: 0 customers
-Grid #214 | Search #1 | API Hit: doctor at (31.437168, 74.598524) - Found: 0 customers
-Grid #214 | Search #2 | API Hit: pharmacy at (31.437168, 74.598524) - Found: 0 customers
-Grid #214 | Search #3 | API Hit: dentist at (31.437168, 74.598524) - Found: 0 customers
-
-Grid #214 - Total API Hits: 860
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #215 | Search #0 | API Hit: hospital at (31.449744, 74.598524) - Found: 0 customers
-Grid #215 | Search #1 | API Hit: doctor at (31.449744, 74.598524) - Found: 0 customers
-Grid #215 | Search #2 | API Hit: pharmacy at (31.449744, 74.598524) - Found: 0 customers
-Grid #215 | Search #3 | API Hit: dentist at (31.449744, 74.598524) - Found: 0 customers
-
-Grid #215 - Total API Hits: 864
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #216 | Search #0 | API Hit: hospital at (31.462320, 74.598524) - Found: 0 customers
-Grid #216 | Search #1 | API Hit: doctor at (31.462320, 74.598524) - Found: 0 customers
-Grid #216 | Search #2 | API Hit: pharmacy at (31.462320, 74.598524) - Found: 0 customers
-Grid #216 | Search #3 | API Hit: dentist at (31.462320, 74.598524) - Found: 0 customers
-
-Grid #216 - Total API Hits: 868
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #217 | Search #0 | API Hit: hospital at (31.474897, 74.598524) - Found: 0 customers
-Grid #217 | Search #1 | API Hit: doctor at (31.474897, 74.598524) - Found: 0 customers
-Grid #217 | Search #2 | API Hit: pharmacy at (31.474897, 74.598524) - Found: 0 customers
-Grid #217 | Search #3 | API Hit: dentist at (31.474897, 74.598524) - Found: 0 customers
-
-Grid #217 - Total API Hits: 872
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #218 | Search #0 | API Hit: hospital at (31.437168, 74.611100) - Found: 0 customers
-Grid #218 | Search #1 | API Hit: doctor at (31.437168, 74.611100) - Found: 0 customers
-Grid #218 | Search #2 | API Hit: pharmacy at (31.437168, 74.611100) - Found: 0 customers
-Grid #218 | Search #3 | API Hit: dentist at (31.437168, 74.611100) - Found: 0 customers
-
-Grid #218 - Total API Hits: 876
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #219 | Search #0 | API Hit: hospital at (31.449744, 74.611100) - Found: 0 customers
-Grid #219 | Search #1 | API Hit: doctor at (31.449744, 74.611100) - Found: 0 customers
-Grid #219 | Search #2 | API Hit: pharmacy at (31.449744, 74.611100) - Found: 0 customers
-Grid #219 | Search #3 | API Hit: dentist at (31.449744, 74.611100) - Found: 0 customers
-
-Grid #219 - Total API Hits: 880
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #220 | Search #0 | API Hit: hospital at (31.462320, 74.611100) - Found: 0 customers
-Grid #220 | Search #1 | API Hit: doctor at (31.462320, 74.611100) - Found: 0 customers
-Grid #220 | Search #2 | API Hit: pharmacy at (31.462320, 74.611100) - Found: 0 customers
-Grid #220 | Search #3 | API Hit: dentist at (31.462320, 74.611100) - Found: 0 customers
-
-Grid #220 - Total API Hits: 884
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #221 | Search #0 | API Hit: hospital at (31.474897, 74.611100) - Found: 0 customers
-Grid #221 | Search #1 | API Hit: doctor at (31.474897, 74.611100) - Found: 0 customers
-Grid #221 | Search #2 | API Hit: pharmacy at (31.474897, 74.611100) - Found: 0 customers
-Grid #221 | Search #3 | API Hit: dentist at (31.474897, 74.611100) - Found: 0 customers
-
-Grid #221 - Total API Hits: 888
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #222 | Search #0 | API Hit: hospital at (31.449744, 74.623677) - Found: 0 customers
-Grid #222 | Search #1 | API Hit: doctor at (31.449744, 74.623677) - Found: 0 customers
-Grid #222 | Search #2 | API Hit: pharmacy at (31.449744, 74.623677) - Found: 0 customers
-Grid #222 | Search #3 | API Hit: dentist at (31.449744, 74.623677) - Found: 0 customers
-
-Grid #222 - Total API Hits: 892
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #223 | Search #0 | API Hit: hospital at (31.462320, 74.623677) - Found: 0 customers
-Grid #223 | Search #1 | API Hit: doctor at (31.462320, 74.623677) - Found: 0 customers
-Grid #223 | Search #2 | API Hit: pharmacy at (31.462320, 74.623677) - Found: 0 customers
-Grid #223 | Search #3 | API Hit: dentist at (31.462320, 74.623677) - Found: 0 customers
-
-Grid #223 - Total API Hits: 896
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #224 | Search #0 | API Hit: hospital at (31.541955, 74.426502) - Found: 5 customers
-Grid #224 | Search #1 | API Hit: doctor at (31.541955, 74.426502) - Found: 3 customers
-Grid #224 | Search #2 | API Hit: pharmacy at (31.541955, 74.426502) - Found: 15 customers
-Grid #224 | Search #3 | API Hit: dentist at (31.541955, 74.426502) - Found: 0 customers
-
-Grid #224 - Total API Hits: 900
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #225 | Search #0 | API Hit: hospital at (31.560055, 74.424917) - Found: 17 customers
-Grid #225 | Search #1 | API Hit: doctor at (31.560055, 74.424917) - Found: 4 customers
-Grid #225 | Search #2 | API Hit: pharmacy at (31.560055, 74.424917) - Found: 15 customers
-Grid #225 | Search #3 | API Hit: dentist at (31.560055, 74.424917) - Found: 2 customers
-
-Grid #225 - Total API Hits: 904
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #226 | Search #0 | API Hit: hospital at (31.572217, 74.415880) - Found: 19 customers
-Grid #226 | Search #1 | API Hit: doctor at (31.572217, 74.415880) - Found: 7 customers
-Grid #226 | Search #2 | API Hit: pharmacy at (31.572217, 74.415880) - Found: 20 customers
-Grid #226 | Search #3 | API Hit: dentist at (31.572217, 74.415880) - Found: 2 customers
-
-Grid #226 - Total API Hits: 908
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #227 | Search #0 | API Hit: hospital at (31.594669, 74.402759) - Found: 19 customers
-Grid #227 | Search #1 | API Hit: doctor at (31.594669, 74.402759) - Found: 7 customers
-Grid #227 | Search #2 | API Hit: pharmacy at (31.594669, 74.402759) - Found: 20 customers
-Grid #227 | Search #3 | API Hit: dentist at (31.594669, 74.402759) - Found: 0 customers
-
-Grid #227 - Total API Hits: 912
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #228 | Search #0 | API Hit: hospital at (31.609092, 74.405764) - Found: 6 customers
-Grid #228 | Search #1 | API Hit: doctor at (31.609092, 74.405764) - Found: 0 customers
-Grid #228 | Search #2 | API Hit: pharmacy at (31.609092, 74.405764) - Found: 15 customers
-Grid #228 | Search #3 | API Hit: dentist at (31.609092, 74.405764) - Found: 0 customers
-
-Grid #228 - Total API Hits: 916
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #229 | Search #0 | API Hit: hospital at (31.623136, 74.439447) - Found: 0 customers
-Grid #229 | Search #1 | API Hit: doctor at (31.623136, 74.439447) - Found: 0 customers
-Grid #229 | Search #2 | API Hit: pharmacy at (31.623136, 74.439447) - Found: 2 customers
-Grid #229 | Search #3 | API Hit: dentist at (31.623136, 74.439447) - Found: 0 customers
-
-Grid #229 - Total API Hits: 920
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #230 | Search #0 | API Hit: hospital at (31.610066, 74.457111) - Found: 6 customers
-Grid #230 | Search #1 | API Hit: doctor at (31.610066, 74.457111) - Found: 1 customers
-Grid #230 | Search #2 | API Hit: pharmacy at (31.610066, 74.457111) - Found: 1 customers
-Grid #230 | Search #3 | API Hit: dentist at (31.610066, 74.457111) - Found: 0 customers
-
-Grid #230 - Total API Hits: 924
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #231 | Search #0 | API Hit: hospital at (31.607513, 74.466683) - Found: 5 customers
-Grid #231 | Search #1 | API Hit: doctor at (31.607513, 74.466683) - Found: 3 customers
-Grid #231 | Search #2 | API Hit: pharmacy at (31.607513, 74.466683) - Found: 3 customers
-Grid #231 | Search #3 | API Hit: dentist at (31.607513, 74.466683) - Found: 0 customers
-
-Grid #231 - Total API Hits: 928
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #232 | Search #0 | API Hit: hospital at (31.609656, 74.475855) - Found: 5 customers
-Grid #232 | Search #1 | API Hit: doctor at (31.609656, 74.475855) - Found: 1 customers
-Grid #232 | Search #2 | API Hit: pharmacy at (31.609656, 74.475855) - Found: 2 customers
-Grid #232 | Search #3 | API Hit: dentist at (31.609656, 74.475855) - Found: 0 customers
-
-Grid #232 - Total API Hits: 932
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #233 | Search #0 | API Hit: hospital at (31.602210, 74.494377) - Found: 4 customers
-Grid #233 | Search #1 | API Hit: doctor at (31.602210, 74.494377) - Found: 3 customers
-Grid #233 | Search #2 | API Hit: pharmacy at (31.602210, 74.494377) - Found: 9 customers
-Grid #233 | Search #3 | API Hit: dentist at (31.602210, 74.494377) - Found: 0 customers
-
-Grid #233 - Total API Hits: 936
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #234 | Search #0 | API Hit: hospital at (31.593454, 74.508639) - Found: 4 customers
-Grid #234 | Search #1 | API Hit: doctor at (31.593454, 74.508639) - Found: 1 customers
-Grid #234 | Search #2 | API Hit: pharmacy at (31.593454, 74.508639) - Found: 11 customers
-Grid #234 | Search #3 | API Hit: dentist at (31.593454, 74.508639) - Found: 0 customers
-
-Grid #234 - Total API Hits: 940
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #235 | Search #0 | API Hit: hospital at (31.559919, 74.510019) - Found: 3 customers
-Grid #235 | Search #1 | API Hit: doctor at (31.559919, 74.510019) - Found: 0 customers
-Grid #235 | Search #2 | API Hit: pharmacy at (31.559919, 74.510019) - Found: 0 customers
-Grid #235 | Search #3 | API Hit: dentist at (31.559919, 74.510019) - Found: 0 customers
-
-Grid #235 - Total API Hits: 944
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #236 | Search #0 | API Hit: hospital at (31.547140, 74.532370) - Found: 2 customers
-Grid #236 | Search #1 | API Hit: doctor at (31.547140, 74.532370) - Found: 0 customers
-Grid #236 | Search #2 | API Hit: pharmacy at (31.547140, 74.532370) - Found: 1 customers
-Grid #236 | Search #3 | API Hit: dentist at (31.547140, 74.532370) - Found: 0 customers
-
-Grid #236 - Total API Hits: 948
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #237 | Search #0 | API Hit: hospital at (31.533993, 74.544404) - Found: 1 customers
-Grid #237 | Search #1 | API Hit: doctor at (31.533993, 74.544404) - Found: 0 customers
-Grid #237 | Search #2 | API Hit: pharmacy at (31.533993, 74.544404) - Found: 1 customers
-Grid #237 | Search #3 | API Hit: dentist at (31.533993, 74.544404) - Found: 0 customers
-
-Grid #237 - Total API Hits: 952
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #238 | Search #0 | API Hit: hospital at (31.520857, 74.556439) - Found: 1 customers
-Grid #238 | Search #1 | API Hit: doctor at (31.520857, 74.556439) - Found: 0 customers
-Grid #238 | Search #2 | API Hit: pharmacy at (31.520857, 74.556439) - Found: 1 customers
-Grid #238 | Search #3 | API Hit: dentist at (31.520857, 74.556439) - Found: 0 customers
-
-Grid #238 - Total API Hits: 956
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #239 | Search #0 | API Hit: hospital at (31.509033, 74.569848) - Found: 0 customers
-Grid #239 | Search #1 | API Hit: doctor at (31.509033, 74.569848) - Found: 0 customers
-Grid #239 | Search #2 | API Hit: pharmacy at (31.509033, 74.569848) - Found: 0 customers
-Grid #239 | Search #3 | API Hit: dentist at (31.509033, 74.569848) - Found: 0 customers
-
-Grid #239 - Total API Hits: 960
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #240 | Search #0 | API Hit: hospital at (31.497408, 74.583569) - Found: 0 customers
-Grid #240 | Search #1 | API Hit: doctor at (31.497408, 74.583569) - Found: 0 customers
-Grid #240 | Search #2 | API Hit: pharmacy at (31.497408, 74.583569) - Found: 0 customers
-Grid #240 | Search #3 | API Hit: dentist at (31.497408, 74.583569) - Found: 0 customers
-
-Grid #240 - Total API Hits: 964
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #241 | Search #0 | API Hit: hospital at (31.485486, 74.597911) - Found: 0 customers
-Grid #241 | Search #1 | API Hit: doctor at (31.485486, 74.597911) - Found: 0 customers
-Grid #241 | Search #2 | API Hit: pharmacy at (31.485486, 74.597911) - Found: 0 customers
-Grid #241 | Search #3 | API Hit: dentist at (31.485486, 74.597911) - Found: 0 customers
-
-Grid #241 - Total API Hits: 968
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #242 | Search #0 | API Hit: hospital at (31.470224, 74.619012) - Found: 0 customers
-Grid #242 | Search #1 | API Hit: doctor at (31.470224, 74.619012) - Found: 0 customers
-Grid #242 | Search #2 | API Hit: pharmacy at (31.470224, 74.619012) - Found: 0 customers
-Grid #242 | Search #3 | API Hit: dentist at (31.470224, 74.619012) - Found: 0 customers
-
-Grid #242 - Total API Hits: 972
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #243 | Search #0 | API Hit: hospital at (31.455732, 74.633527) - Found: 0 customers
-Grid #243 | Search #1 | API Hit: doctor at (31.455732, 74.633527) - Found: 0 customers
-Grid #243 | Search #2 | API Hit: pharmacy at (31.455732, 74.633527) - Found: 0 customers
-Grid #243 | Search #3 | API Hit: dentist at (31.455732, 74.633527) - Found: 0 customers
-
-Grid #243 - Total API Hits: 976
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #244 | Search #0 | API Hit: hospital at (31.440481, 74.620366) - Found: 0 customers
-Grid #244 | Search #1 | API Hit: doctor at (31.440481, 74.620366) - Found: 0 customers
-Grid #244 | Search #2 | API Hit: pharmacy at (31.440481, 74.620366) - Found: 0 customers
-Grid #244 | Search #3 | API Hit: dentist at (31.440481, 74.620366) - Found: 0 customers
-
-Grid #244 - Total API Hits: 980
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #245 | Search #0 | API Hit: hospital at (31.427627, 74.608018) - Found: 0 customers
-Grid #245 | Search #1 | API Hit: doctor at (31.427627, 74.608018) - Found: 0 customers
-Grid #245 | Search #2 | API Hit: pharmacy at (31.427627, 74.608018) - Found: 0 customers
-Grid #245 | Search #3 | API Hit: dentist at (31.427627, 74.608018) - Found: 0 customers
-
-Grid #245 - Total API Hits: 984
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #246 | Search #0 | API Hit: hospital at (31.415172, 74.593889) - Found: 1 customers
-Grid #246 | Search #1 | API Hit: doctor at (31.415172, 74.593889) - Found: 0 customers
-Grid #246 | Search #2 | API Hit: pharmacy at (31.415172, 74.593889) - Found: 0 customers
-Grid #246 | Search #3 | API Hit: dentist at (31.415172, 74.593889) - Found: 0 customers
-
-Grid #246 - Total API Hits: 988
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #247 | Search #0 | API Hit: hospital at (31.427254, 74.575467) - Found: 1 customers
-Grid #247 | Search #1 | API Hit: doctor at (31.427254, 74.575467) - Found: 1 customers
-Grid #247 | Search #2 | API Hit: pharmacy at (31.427254, 74.575467) - Found: 0 customers
-Grid #247 | Search #3 | API Hit: dentist at (31.427254, 74.575467) - Found: 0 customers
-
-Grid #247 - Total API Hits: 992
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #248 | Search #0 | API Hit: hospital at (31.441604, 74.552618) - Found: 1 customers
-Grid #248 | Search #1 | API Hit: doctor at (31.441604, 74.552618) - Found: 0 customers
-Grid #248 | Search #2 | API Hit: pharmacy at (31.441604, 74.552618) - Found: 4 customers
-Grid #248 | Search #3 | API Hit: dentist at (31.441604, 74.552618) - Found: 0 customers
-
-Grid #248 - Total API Hits: 996
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #249 | Search #0 | API Hit: hospital at (31.452499, 74.537915) - Found: 1 customers
-Grid #249 | Search #1 | API Hit: doctor at (31.452499, 74.537915) - Found: 0 customers
-Grid #249 | Search #2 | API Hit: pharmacy at (31.452499, 74.537915) - Found: 0 customers
-Grid #249 | Search #3 | API Hit: dentist at (31.452499, 74.537915) - Found: 0 customers
-
-Grid #249 - Total API Hits: 1000
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #250 | Search #0 | API Hit: hospital at (31.463968, 74.524656) - Found: 1 customers
-Grid #250 | Search #1 | API Hit: doctor at (31.463968, 74.524656) - Found: 0 customers
-Grid #250 | Search #2 | API Hit: pharmacy at (31.463968, 74.524656) - Found: 0 customers
-Grid #250 | Search #3 | API Hit: dentist at (31.463968, 74.524656) - Found: 0 customers
-
-Grid #250 - Total API Hits: 1004
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #251 | Search #0 | API Hit: hospital at (31.476562, 74.511803) - Found: 1 customers
-Grid #251 | Search #1 | API Hit: doctor at (31.476562, 74.511803) - Found: 1 customers
-Grid #251 | Search #2 | API Hit: pharmacy at (31.476562, 74.511803) - Found: 4 customers
-Grid #251 | Search #3 | API Hit: dentist at (31.476562, 74.511803) - Found: 0 customers
-
-Grid #251 - Total API Hits: 1008
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #252 | Search #0 | API Hit: hospital at (31.492424, 74.490293) - Found: 2 customers
-Grid #252 | Search #1 | API Hit: doctor at (31.492424, 74.490293) - Found: 0 customers
-Grid #252 | Search #2 | API Hit: pharmacy at (31.492424, 74.490293) - Found: 2 customers
-Grid #252 | Search #3 | API Hit: dentist at (31.492424, 74.490293) - Found: 0 customers
-
-Grid #252 - Total API Hits: 1012
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #253 | Search #0 | API Hit: hospital at (31.503976, 74.476641) - Found: 1 customers
-Grid #253 | Search #1 | API Hit: doctor at (31.503976, 74.476641) - Found: 0 customers
-Grid #253 | Search #2 | API Hit: pharmacy at (31.503976, 74.476641) - Found: 1 customers
-Grid #253 | Search #3 | API Hit: dentist at (31.503976, 74.476641) - Found: 0 customers
-
-Grid #253 - Total API Hits: 1016
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #254 | Search #0 | API Hit: hospital at (31.515486, 74.462823) - Found: 8 customers
-Grid #254 | Search #1 | API Hit: doctor at (31.515486, 74.462823) - Found: 1 customers
-Grid #254 | Search #2 | API Hit: pharmacy at (31.515486, 74.462823) - Found: 5 customers
-Grid #254 | Search #3 | API Hit: dentist at (31.515486, 74.462823) - Found: 1 customers
-
-Grid #254 - Total API Hits: 1020
-  Hospital Search Hits: 1
-  Doctor Search Hits: 1
-  Pharmacy Search Hits: 1
-  Dentist Search Hits: 1
-Grid #255 | Search #0 | API Hit: hospital at (31.527305, 74.448290) - Found: 3 customers
-Grid #255 | Search #1 | API Hit: doctor at (31.527305, 74.448290) - Found: 5 customers
-Grid #255 | Search #2 | API Hit: pharmacy at (31.527305, 74.448290) - Found: 11 customers
-Grid #255 | Search #3 | API Hit: dentist at (31.527305, 74.448290) - Found: 2 customers
-
-Grid #255 - Total API Hits: 1024
   Hospital Search Hits: 1
   Doctor Search Hits: 1
   Pharmacy Search Hits: 1
