@@ -28,7 +28,7 @@ def merge_csv_files(input_folder, output_file):
     print(f'Merged CSV saved to {output_file}')
 
 # Example usage
-input_folder = 'Lahore/'  # Replace with your folder path
-output_file = 'Lahore.csv'  # Replace with your desired output file path
+input_folder = 'Karachi/'  # Replace with your folder path
+output_file = 'Karachi.csv'  # Replace with your desired output file path
 
 merge_csv_files(input_folder, output_file)
