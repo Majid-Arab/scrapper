@@ -7,7 +7,6 @@
 "./Madico, Islamabad.csv",
 "./Madicos, Islamabad.csv",
 "./Matab, Islamabad.csv",
-"./Medical Center, Islamabad.csv",
 "./Medical Store, Islamabad.csv",
 "./Medical Supplies Store, Islamabad.csv",
 "./Medical, Islamabad.csv",
