@@ -31,7 +31,6 @@
 "Madico",
 "Madicos",
 "Matab",
-"Medical Center",
 "Medical Store",
 "Medical Supplies Store",
 "Medical",
