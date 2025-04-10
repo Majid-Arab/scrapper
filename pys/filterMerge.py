@@ -45,22 +45,72 @@ def merge_csv_files(input_folder, output_file, file_list=None):
     merged_df.to_csv(output_file, index=False)
     print(f"Merged file saved as: {output_file}")
 
-# Example usage
-merge_csv_files("categorized_csvs", "merged.csv", [
+# Clinic Keyword to merge usage
+# merge_csv_files("Islamabad_categorized_csvs", "merged.csv", [
+#     "./Abortion Clinic, Islamabad.csv",
+#     "./Acupuncture Clinic, Islamabad.csv",
+#     "./Clanic, Islamabad.csv",
+#     "./Clenic, Islamabad.csv",
+#     "./Clinic, Islamabad.csv",
+#     "./Dentist, Islamabad.csv",
+#     "./Doctor, Islamabad.csv",
+#     "./Dr, Islamabad.csv",
+#     "./Dr., Islamabad.csv",
+#     "./Mental Health Clinic, Islamabad.csv",
+# ])
+
+# Hospital Keyword to merge usage
+# merge_csv_files("Islamabad_categorized_csvs", "merged.csv", [
+#     "./Acupuncturist, Islamabad.csv",
+#     "./Addiction Treatment Center, Islamabad.csv",
+#     "./Adult Day Care Center, Islamabad.csv",
+#     "./Blood Bank, Islamabad.csv",
+#     "./Centres, Islamabad.csv",
+#     "./Chiropractor, Islamabad.csv",
+#     "./Dialysis Center, Islamabad.csv",
+#     "./Dispan(sary), Islamabad.csv",
+#     "./Dispen(sary), Islamabad.csv",
+#     "./Emergency Room, Islamabad.csv",
+#     "./Eye Care, Islamabad.csv",
+#     "./FinalHealth, Islamabad.csv",
+#     "./Hakeem, Islamabad.csv",
+#     "./Health, Islamabad.csv",
+#     "./Hospetal, Islamabad.csv",
+#     "./Hospital, Islamabad.csv",
+#     "./Medical Center, Islamabad.csv",
+#     "./Pathologist, Islamabad.csv",
+#     "./Physical Therapist, Islamabad.csv",
+#     "./Psychologist, Islamabad.csv",
+#     "./Rehabilitation Center, Islamabad.csv",
+#     "./Skin Care, Islamabad.csv",
+#     "./Optometrist, Islamabad.csv",
+#     "./Laboratory, Islamabad.csv",
+#     "./Veterinarian, Islamabad.csv",
+# ])
+
+# Medical Store Keyword to merge usage
+merge_csv_files("Islamabad_categorized_csvs", "merged.csv", [
     "./Chemist, Islamabad.csv",
-    "./Dawa Khan, Islamabad.csv",
+    "./Dawa, Islamabad.csv",
     "./Dawakhan, Islamabad.csv",
-    "./Madical Store, Islamabad.csv",
+    "./Dawakhana, Islamabad.csv",
+    "./Homeo, Islamabad.csv",
+    "./Khan, Islamabad.csv",
+    "./Madical, Islamabad.csv",
     "./Madico, Islamabad.csv",
     "./Madicos, Islamabad.csv",
     "./Matab, Islamabad.csv",
     "./Medical Store, Islamabad.csv",
-    "./Medicine Shop, Islamabad.csv",
-    "./Medicine Store, Islamabad.csv",
+    "./Medical Supplies Store, Islamabad.csv",
+    "./Medical, Islamabad.csv",
+    "./Medicine, Islamabad.csv",
     "./Medico, Islamabad.csv",
     "./Medicos, Islamabad.csv",
-    "./Merge Medical Stores 181021, Islamabad.csv",
-    "./Merge Medical Stores, Islamabad.csv",
+    "./Optician, Islamabad.csv",
     "./Pharmacy, Islamabad.csv",
     "./Pharmecy, Islamabad.csv",
+    "./Shop, Islamabad.csv",
+    "./Store, Islamabad.csv",
+    "./Stores, Islamabad.csv",
+    "./StoresPharmacy, Islamabad.csv",
 ])
